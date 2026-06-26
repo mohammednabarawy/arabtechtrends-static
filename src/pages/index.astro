@@ -4,28 +4,39 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 
 const posts = (await getCollection("posts", ({ data }) => !data.draft))
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
-  .slice(0, 6);
+  .slice(0, 9);
+
+const [featured, ...latest] = posts;
 ---
 
-<BaseLayout>
+<BaseLayout title="Arab Tech Trends | أخبار التقنية">
   <section class="hero">
-    <p class="eyebrow">Technology, AI, Software</p>
-    <h1>Arab Tech Trends</h1>
-    <p>Fast static publishing with a free CMS workflow.</p>
+    <div>
+      <p class="eyebrow">تقنية - هواتف - ذكاء اصطناعي</p>
+      <h1>عرب تك تريندز</h1>
+      <p>متابعة سريعة لأهم أخبار التقنية، الهواتف، التطبيقات، والذكاء الاصطناعي للقارئ العربي.</p>
+    </div>
+    {featured && (
+      <a class="lead-card" href={`/posts/${featured.slug}/`}>
+        {featured.data.image ? <img src={featured.data.image} alt="" loading="eager" /> : <span class="media-fallback">ATT</span>}
+        <strong>{featured.data.title}</strong>
+        <small>{featured.data.pubDate.toLocaleDateString("ar-EG")}</small>
+      </a>
+    )}
   </section>
 
   <section class="section-head">
-    <h2>Latest Posts</h2>
-    <a href="/posts/">View all</a>
+    <h2>آخر الأخبار</h2>
+    <a href="/posts/">كل المقالات</a>
   </section>
 
   <div class="post-grid">
-    {posts.map((post) => (
+    {latest.map((post) => (
       <article class="post-card">
-        {post.data.image && <img src={post.data.image} alt="" loading="lazy" />}
+        {post.data.image ? <img src={post.data.image} alt="" loading="lazy" /> : <span class="media-fallback">{post.data.category.slice(0, 2)}</span>}
         <p>{post.data.category}</p>
         <h3><a href={`/posts/${post.slug}/`}>{post.data.title}</a></h3>
-        <span>{post.data.pubDate.toLocaleDateString("en-US")}</span>
+        <span>{post.data.pubDate.toLocaleDateString("ar-EG")}</span>
       </article>
     ))}
   </div>

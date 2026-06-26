@@ -8,7 +8,7 @@ const {
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang="ar" dir="rtl">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -17,17 +17,21 @@ const {
   </head>
   <body>
     <header class="site-header">
-      <a class="brand" href="/">Arab Tech Trends</a>
-      <nav>
-        <a href="/posts/">Posts</a>
-        <a href="/admin/">Admin</a>
+      <a class="brand" href="/" aria-label="Arab Tech Trends">
+        <span>Arab</span>
+        <strong>Tech Trends</strong>
+      </a>
+      <nav aria-label="Primary navigation">
+        <a href="/">الرئيسية</a>
+        <a href="/posts/">الأخبار</a>
+        <a href="/admin/">لوحة النشر</a>
       </nav>
     </header>
     <main>
       <slot />
     </main>
     <footer>
-      <p>Arab Tech Trends</p>
+      <p>Arab Tech Trends - أخبار التقنية بواجهة سريعة ومجانية.</p>
     </footer>
   </body>
 </html>

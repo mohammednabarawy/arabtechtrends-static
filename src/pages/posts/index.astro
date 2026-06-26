@@ -6,14 +6,20 @@ const posts = (await getCollection("posts", ({ data }) => !data.draft))
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 ---
 
-<BaseLayout title="Posts | Arab Tech Trends">
-  <h1>Posts</h1>
+<BaseLayout title="الأخبار | Arab Tech Trends">
+  <section class="page-head">
+    <p class="eyebrow">الأرشيف</p>
+    <h1>كل الأخبار والمقالات</h1>
+  </section>
   <div class="post-list">
     {posts.map((post) => (
       <article>
-        <h2><a href={`/posts/${post.slug}/`}>{post.data.title}</a></h2>
-        <p>{post.data.description}</p>
-        <span>{post.data.pubDate.toLocaleDateString("en-US")}</span>
+        {post.data.image ? <img src={post.data.image} alt="" loading="lazy" /> : <span class="media-fallback">{post.data.category.slice(0, 2)}</span>}
+        <div>
+          <p>{post.data.category}</p>
+          <h2><a href={`/posts/${post.slug}/`}>{post.data.title}</a></h2>
+          <span>{post.data.pubDate.toLocaleDateString("ar-EG")}</span>
+        </div>
       </article>
     ))}
   </div>

@@ -15,7 +15,10 @@ const { Content } = await render(post);
   <article class="article">
     <p class="eyebrow">{post.data.category}</p>
     <h1>{post.data.title}</h1>
-    <time datetime={post.data.pubDate.toISOString()}>{post.data.pubDate.toLocaleDateString("en-US")}</time>
+    <div class="article-meta">
+      <time datetime={post.data.pubDate.toISOString()}>{post.data.pubDate.toLocaleDateString("ar-EG")}</time>
+      <span>{post.data.author}</span>
+    </div>
     {post.data.image && <img class="cover" src={post.data.image} alt="" />}
     <Content />
   </article>
