@@ -1,0 +1,34 @@
+---
+title: "يطلق WhatsApp إخطارات المجموعة لتسهيل إدارة المجموعة"
+description: "أعلنت WhatsApp مؤخرًا عن إطلاق ميزة مهمة وشديدة جديدة في نسختها التجريبية على نظام Android ، تهدف الميزة بشكل أساسي إلى تحسين تجربة المستخدم في محادثات المجموعة ، من خلال القدرة على إخفاء الإخطارات الناتجة عن الرسائل المرسلة إلى جميع أعضاء "
+pubDate: "2025-09-23T12:37:42"
+updatedDate: "2025-09-26T00:31:20"
+author: "Arab Tech Trends"
+category: "دروس تقنية ومقالات"
+tags: []
+image: ""
+draft: false
+sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%aa%d8%b3%d8%a7%d8%a8-whatsapp-%d8%aa%d9%8f%d9%81%d8%a7%d8%ac%d8%a6-%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%ae%d8%af%d9%85%d9%8a%d9%86-%d8%a8%d9%85%d9%8a%d8%b2%d8%a9-%d8%ac%d8%af%d9%8a%d8%af/"
+---
+
+<div id="the-post">
+<div class="featured-area">
+<div class="featured-area-inner">
+<figure class="single-featured-image"></figure>
+</div>
+</div>
+<div class="entry-content entry clearfix">
+<p>أعلنت WhatsApp مؤخرًا عن إطلاق ميزة مهمة وشديدة جديدة في نسختها التجريبية على نظام Android ، تهدف الميزة بشكل أساسي إلى تحسين تجربة المستخدم في محادثات المجموعة ، من خلال القدرة على إخفاء الإخطارات الناتجة عن الرسائل المرسلة إلى جميع أعضاء المجموعة من خلال الأمر &#8220;everyone&#8221;.</p>
+<h3 class="wp-block-heading">تفاصيل</h3>
+<p>تتيح الميزة الجديدة في تطبيق WhatsApp للمستخدمين تجاهل الإخطارات الجماعية حتى لو استخدم مسؤول المجموعة أو أي عضو آخر المسألة &#8220;الجميع&#8221; ، مما يقلل من الفوضى في المحادثات الكبيرة ويحسن التركيز على الرسائل المهمة.</p>
+<p>يمكن للمستخدمين أيضًا اختيار إبقاء المجموعات صامتة تمامًا أو تلقي الإخطارات فقط عند استخدام &#8220;everyone&#8221; ، مما يوفر مرونة كبيرة لتلبية احتياجات مختلف المشاركين.</p>
+<figure class="wp-block-image size-full"><img data-lazyloaded="1" data-recalc-dims="1" decoding="async" width="663" height="533" src="https://www.arabtechtrends.com/wp-content/uploads/2025/09/1758835878_325_whatsapp.jpg" alt="Whatsapp " class="wp-image-224830"  data-/></figure>
+<h3 class="wp-block-heading">كيفية الوصول إلى الميزة في تطبيق WhatsApp؟</h3>
+<p>الميزة متوفرة حاليًا في الإصدار التجريبي من تطبيق WhatsApp ، ويمكن لأي مستخدم Android الانضمام إلى البرنامج التجريبي من خلال متجر Google Play لتجربة الميزة قبل إصداره للجمهور. بمجرد التفعيل ، سيتمكن المستخدم من التحكم في إخطارات المجموعة وفقًا لرغباته ، سواء لأغراض خاصة أو عمل أو دراس.</p>
+<p>يأتي هذا التحديث ضمن إطار جهود WhatsApp لتطوير التطبيق ، بعد توفير ميزات من الهواتف الصوتية والأقمار الصناعية البصرية إلى هواتف Pixel 10 الشهر الماضي ، بالإضافة إلى دمج أدوات الذكاء الاصطناعي لتعزيز تجربة المحادثات والتفاعل داخل التطبيق.</p>
+<p>الميزة الجديدة متوفرة حاليًا فقط للمستخدمين في الإصدار التجريبي ، ومن المتوقع أن تصل قريبًا إلى الإصدار العام ليكون متاحًا لجميع مستخدمي Android و iOS.</p>
+<p>ما رأيك في هذه الميزة؟ ما هي أكثر الميزة التي يفتقر إليها تطبيق WhatsApp؟ شارك رأيك &#8230;</p>
+<p><a href="https://www.tudocelular.com/software/noticias/n240349/whatsapp-testa-recurso-marcacao-todos-grupos-.html" data-type="link" data-id="https://www.tudocelular.com/software/noticias/n240349/whatsapp-testa-recurso-marcacao-todos-grupos-.html">مصدر</a></p>
+</p></div>
+</p></div>
+

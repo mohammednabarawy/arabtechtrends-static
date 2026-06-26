@@ -1,0 +1,41 @@
+---
+title: "Realme تطلق هاتف GT8 Pro بتصميم فريد وكاميرا قابلة للتبديل لأول مرة"
+description: "كشفت شركة Realme عن أحدث هواتفها GT8 Pro، والذي يأتي بفكرة تصميمية مبتكرة وغير مسبوقة، حيث تتيح للمستخدمين استبدال وحدة الكاميرا الخلفية بالكامل لتغيير مظهر الهاتف بسهولة في أي وقت. تستخدم وحدة الكاميرا نظام تثبيت يجمع بين مغناطيس قوي ومسما"
+pubDate: "2025-10-21T22:51:00"
+updatedDate: "2025-10-27T07:38:41"
+author: "Arab Tech Trends"
+category: "أخبار"
+tags: ["هاتف Realme GT8 Pro بتصميم فريد وكاميرا قابلة للتبديل"]
+image: ""
+draft: false
+sourceUrl: "https://www.arabtechtrends.com/%d8%b1%d9%8a%d9%84%d9%85%d9%8a-%d8%aa%d8%b7%d9%84%d9%82-gt8-pro-%d8%a8%d8%aa%d8%b5%d9%85%d9%8a%d9%85-%d9%81%d8%b1%d9%8a%d8%af-%d9%88%d9%83%d8%a7%d9%85%d9%8a%d8%b1%d8%a7-%d9%82%d8%a7%d8%a8%d9%84%d8%a9/"
+---
+
+<div itemprop="articleBody">
+<p>كشفت شركة Realme عن أحدث هواتفها GT8 Pro، والذي يأتي بفكرة تصميمية مبتكرة وغير مسبوقة، حيث تتيح للمستخدمين استبدال وحدة الكاميرا الخلفية بالكامل لتغيير مظهر الهاتف بسهولة في أي وقت.</p>
+<p>تستخدم وحدة الكاميرا نظام تثبيت يجمع بين مغناطيس قوي ومسمار توركس صغيرين، مما يسمح بإزالة القطعة أو تثبيتها في غضون ثوانٍ دون الحاجة إلى أدوات معقدة. وتخطط الشركة لتوفير مجموعة متنوعة من التصميمات الجاهزة &#8211; بما في ذلك المربعة والدائرية والمستوحاة من الروبوت &#8211; عبر متاجرها الرسمية.</p>
+<div>ولتشجيع الإبداع، سمحت Realme للمستخدمين بتنزيل ملف التصميم ثلاثي الأبعاد (3mf) لتصميم جزر الكاميرا الخاصة بهم بأنفسهم وطباعتها عبر الطابعات ثلاثية الأبعاد. كما أعلنت عن مسابقة بالتعاون مع منصة MakerWorld لاختيار أفضل التصاميم المبتكرة.</p>
+<div id="ez-toc-container" class="ez-toc-v2_0_85 ez-toc-wrap-right counter-hierarchy ez-toc-counter-rtl ez-toc-light-blue ez-toc-container-direction">
+<div class="ez-toc-title-container">
+<p class="ez-toc-title" style="cursor:inherit">محتوى المقالة</p>
+<span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" aria-label="Toggle Table of Content"><span class="ez-toc-js-icon-con"><span class=""><span class="eztoc-hide" style="display:none;">Toggle</span><span class="ez-toc-icon-toggle-span"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></span></span></a></span></div>
+<nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-1" href="https://www.arabtechtrends.com/%d8%b1%d9%8a%d9%84%d9%85%d9%8a-%d8%aa%d8%b7%d9%84%d9%82-gt8-pro-%d8%a8%d8%aa%d8%b5%d9%85%d9%8a%d9%85-%d9%81%d8%b1%d9%8a%d8%af-%d9%88%d9%83%d8%a7%d9%85%d9%8a%d8%b1%d8%a7-%d9%82%d8%a7%d8%a8%d9%84%d8%a9/#%D8%AA%D8%B9%D8%A7%D9%88%D9%86_%D8%AC%D8%AF%D9%8A%D8%AF_%D8%A8%D9%8A%D9%86_Realme_%D9%88Ricoh" >تعاون جديد بين Realme وRicoh</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-2" href="https://www.arabtechtrends.com/%d8%b1%d9%8a%d9%84%d9%85%d9%8a-%d8%aa%d8%b7%d9%84%d9%82-gt8-pro-%d8%a8%d8%aa%d8%b5%d9%85%d9%8a%d9%85-%d9%81%d8%b1%d9%8a%d8%af-%d9%88%d9%83%d8%a7%d9%85%d9%8a%d8%b1%d8%a7-%d9%82%d8%a7%d8%a8%d9%84%d8%a9/#%D8%A3%D8%AF%D8%A7%D8%A1_%D9%85%D8%AA%D9%81%D9%88%D9%82_%D8%A8%D9%85%D9%88%D8%A7%D8%B5%D9%81%D8%A7%D8%AA_%D8%B1%D8%A7%D8%A6%D8%AF%D8%A9" >أداء متفوق بمواصفات رائدة</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-3" href="https://www.arabtechtrends.com/%d8%b1%d9%8a%d9%84%d9%85%d9%8a-%d8%aa%d8%b7%d9%84%d9%82-gt8-pro-%d8%a8%d8%aa%d8%b5%d9%85%d9%8a%d9%85-%d9%81%d8%b1%d9%8a%d8%af-%d9%88%d9%83%d8%a7%d9%85%d9%8a%d8%b1%d8%a7-%d9%82%d8%a7%d8%a8%d9%84%d8%a9/#%D8%A8%D8%B7%D8%A7%D8%B1%D9%8A%D8%A9_%D8%B9%D9%85%D9%84%D8%A7%D9%82%D8%A9_%D9%88%D8%B4%D8%AD%D9%86_%D9%81%D8%A7%D8%A6%D9%82" >بطارية عملاقة وشحن فائق</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-4" href="https://www.arabtechtrends.com/%d8%b1%d9%8a%d9%84%d9%85%d9%8a-%d8%aa%d8%b7%d9%84%d9%82-gt8-pro-%d8%a8%d8%aa%d8%b5%d9%85%d9%8a%d9%85-%d9%81%d8%b1%d9%8a%d8%af-%d9%88%d9%83%d8%a7%d9%85%d9%8a%d8%b1%d8%a7-%d9%82%d8%a7%d8%a8%d9%84%d8%a9/#%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%A9_%D8%B9%D8%A7%D9%84%D9%8A%D8%A9_%D9%88%D8%B3%D8%B9%D8%B1_%D8%AA%D9%86%D8%A7%D9%81%D8%B3%D9%8A" >مقاومة عالية وسعر تنافسي</a></li></ul></nav></div>
+<h3><span class="ez-toc-section" id="%D8%AA%D8%B9%D8%A7%D9%88%D9%86_%D8%AC%D8%AF%D9%8A%D8%AF_%D8%A8%D9%8A%D9%86_Realme_%D9%88Ricoh"></span><b>  تعاون جديد بين Realme وRicoh</b><span class="ez-toc-section-end"></span></h3>
+<p>
+</div>
+<p>ولا يلفت الهاتف الانتباه بتصميمه القابل للتخصيص فحسب، بل يأتي أيضًا بكاميرا رئيسية تم تطويرها بالشراكة مع شركة ريكو اليابانية الشهيرة، في أول تعاون رسمي بين الطرفين.</p>
+<p>وتعتمد الكاميرا الأساسية بدقة 50 ميجابكسل على مستشعر كبير مقاس 1/1.56 بوصة وفتحة عدسة f/1.8، وتوفر أوضاع التصوير المستوحاة من سلسلة Ricoh GR الشهيرة، بما في ذلك: إيجابي، سلبي، قياسي، أحادي اللون، وأبيض وأسود عالي التباين. كما أنها تدعم الأطوال البؤرية المكافئة مقاس 28 مم و40 مم مثل كاميرات Ricoh الأصلية.</p>
+<p>أما العدسة الثانية فهي عبارة عن منظار بدقة 200 ميجابكسل مع طول بؤري مكافئ يبلغ 65 ملم، وتوفر تكبيرًا بصريًا يصل إلى 3x وتقريبًا بدون فقدان يصل إلى 12x، مع تثبيت بصري مزدوج.</p>
+<p>ويكتمل النظام بعدسة فائقة الاتساع بدقة 50 ميجابكسل وزاوية رؤية 116 درجة. يدعم الهاتف تسجيل الفيديو بدقة 8K بمعدل 30 إطار في الثانية.</p>
+<h3><span class="ez-toc-section" id="%D8%A3%D8%AF%D8%A7%D8%A1_%D9%85%D8%AA%D9%81%D9%88%D9%82_%D8%A8%D9%85%D9%88%D8%A7%D8%B5%D9%81%D8%A7%D8%AA_%D8%B1%D8%A7%D8%A6%D8%AF%D8%A9"></span><b>أداء متفوق بمواصفات رائدة</b><span class="ez-toc-section-end"></span></h3>
+<p>يتم تشغيل GT8 Pro بواسطة معالج Snapdragon Elite Gen 5 Extreme Edition الأقوى من Qualcomm، مع خيارات تصل إلى 16 جيجابايت من ذاكرة LPDDR5X وما يصل إلى 1 تيرابايت من التخزين (UFS 4.1). أضاف Realme أيضًا شريحة معالجة رسومات R1 مستقلة لتحسين أداء الألعاب والصور.</p>
+<p>يأتي الهاتف بشاشة QHD+ AMOLED (3,136×1,440 بكسل) بتردد 144 هرتز وسطوع يصل إلى 4000 شمعة في الذروة. ويحتوي على كاميرا أمامية بدقة 32 ميجابكسل ومستشعر بصمة بالموجات فوق الصوتية مدمج أسفل الشاشة.</p>
+<h3><span class="ez-toc-section" id="%D8%A8%D8%B7%D8%A7%D8%B1%D9%8A%D8%A9_%D8%B9%D9%85%D9%84%D8%A7%D9%82%D8%A9_%D9%88%D8%B4%D8%AD%D9%86_%D9%81%D8%A7%D8%A6%D9%82"></span><b>بطارية عملاقة وشحن فائق</b><span class="ez-toc-section-end"></span></h3>
+<p>يتم تشغيل الجهاز بواسطة بطارية ثنائية الخلية من السيليكون والكربون (Si/C) بسعة 7000 مللي أمبير في الساعة، والتي تدعم الشحن السلكي فائق السرعة بقدرة 120 واط والشحن اللاسلكي السريع بقدرة 50 واط.</p>
+<p>وعلى الرغم من سعة البطارية الكبيرة إلا أن سماكة الهاتف لا تتجاوز 8.2 ملم مما يجعله أنحف من الإصدار السابق GT7 Pro.</p>
+<h3><span class="ez-toc-section" id="%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%A9_%D8%B9%D8%A7%D9%84%D9%8A%D8%A9_%D9%88%D8%B3%D8%B9%D8%B1_%D8%AA%D9%86%D8%A7%D9%81%D8%B3%D9%8A"></span><b>مقاومة عالية وسعر تنافسي</b><span class="ez-toc-section-end"></span></h3>
+<p>ويتمتع هاتف GT8 Pro بتصنيف حماية IP66 وIP68 وIP69 لمقاومة الماء والغبار، ويعمل بنظام Android 16 مع واجهة Realme UI 7 الجديدة.</p>
+<p>يتوفر الهاتف بثلاثة ألوان: الأبيض، والأخضر، والأزرق، ويبدأ سعره في الصين من 3999 يوان (حوالي 562 دولارًا) للنسخة 12 جيجابايت + 256 جيجابايت، بينما يصل سعر النسخة الأعلى 16 جيجابايت + 1 تيرابايت إلى 5199 يوان (حوالي 730 دولارًا).</p>
+<p>وقد بدأت الطلبات المسبقة بالفعل في الأسواق الصينية.</p>
+</div>
+

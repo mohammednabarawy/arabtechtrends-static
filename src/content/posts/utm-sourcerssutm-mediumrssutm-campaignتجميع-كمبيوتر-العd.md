@@ -1,0 +1,1445 @@
+---
+title: "تجميع كمبيوتر ألعاب في 2025: دليلك النهائي من الصفر إلى الاحتراف"
+description: "هل تطمح إلى تجربة ألعاب فائقة الجودة مع رسومات مذهلة وأداء سلس؟ هل سئمت من الأجهزة الجاهزة باهظة الثمن التي لا تلبي طموحاتك؟ لا داعي للقلق! بناء جهاز ألعاب (PC Gaming) بنفسك ليس بالأمر المعقد كما قد يبدو، بل هو تجربة ممتعة ومجزية تمنحك التح"
+pubDate: "2025-07-05T18:02:32"
+updatedDate: "2025-07-07T12:33:28"
+author: "Arab Tech Trends"
+category: "دروس تقنية ومقالات"
+tags: []
+image: ""
+draft: false
+sourceUrl: "https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%d8%aa%d8%ac%d9%85%d9%8a%d8%b9-%d9%83%d9%85%d8%a8%d9%8a%d9%88%d8%aa%d8%b1-%d8%a7%d9%84%d8%b9d/"
+---
+
+
+<p class="wp-block-paragraph">هل تطمح إلى تجربة ألعاب فائقة الجودة مع رسومات مذهلة وأداء سلس؟ هل سئمت من الأجهزة الجاهزة باهظة الثمن التي لا تلبي طموحاتك؟ لا داعي للقلق! بناء جهاز ألعاب (PC Gaming) بنفسك ليس بالأمر المعقد كما قد يبدو، بل هو تجربة ممتعة ومجزية تمنحك التحكم الكامل في تصميم جهاز يناسب احتياجاتك بدقة.</p>
+
+
+
+<p class="wp-block-paragraph">في هذا الدليل الشامل من “عرب تك” لعام 2025، سنرشدك خطوة بخطوة في رحلة بناء جهاز ألعاب احترافي، بدءًا من اختيار المكونات المناسبة وصولاً إلى تجميعها وتهيئتها للعمل بأعلى كفاءة. استعد لتحويل حلمك إلى حقيقة وإطلاق العنان لتجربة ألعاب لا تُضاهى!</p>
+
+
+
+<div id="ez-toc-container" class="ez-toc-v2_0_85 ez-toc-wrap-right counter-hierarchy ez-toc-counter-rtl ez-toc-light-blue ez-toc-container-direction">
+<div class="ez-toc-title-container">
+<p class="ez-toc-title" style="cursor:inherit">محتوى المقالة</p>
+<span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" aria-label="Toggle Table of Content"><span class="ez-toc-js-icon-con"><span class=""><span class="eztoc-hide" style="display:none;">Toggle</span><span class="ez-toc-icon-toggle-span"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></span></span></a></span></div>
+<nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-1" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%d8%aa%d8%ac%d9%85%d9%8a%d8%b9-%d9%83%d9%85%d8%a8%d9%8a%d9%88%d8%aa%d8%b1-%d8%a7%d9%84%d8%b9d/#%D9%84%D9%85%D8%A7%D8%B0%D8%A7_%D8%AA%D8%A8%D9%86%D9%8A_%D8%AC%D9%87%D8%A7%D8%B2_%D8%A3%D9%84%D8%B9%D8%A7%D8%A8_%D8%A8%D9%86%D9%81%D8%B3%D9%83%D8%9F" >لماذا تبني جهاز ألعاب بنفسك؟</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-2" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%d8%aa%d8%ac%d9%85%d9%8a%d8%b9-%d9%83%d9%85%d8%a8%d9%8a%d9%88%d8%aa%d8%b1-%d8%a7%d9%84%d8%b9d/#%D8%A7%D9%84%D8%AE%D8%B7%D9%88%D8%A9_%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89_%D8%AA%D8%AD%D8%AF%D9%8A%D8%AF_%D8%A7%D9%84%D9%85%D9%8A%D8%B2%D8%A7%D9%86%D9%8A%D8%A9_%D9%88%D8%A7%D9%84%D9%87%D8%AF%D9%81" >الخطوة الأولى: تحديد الميزانية والهدف</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-3" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%d8%aa%d8%ac%d9%85%d9%8a%d8%b9-%d9%83%d9%85%d8%a8%d9%8a%d9%88%d8%aa%d8%b1-%d8%a7%d9%84%d8%b9d/#%D8%AA%D9%83%D9%84%D9%81%D8%A9_%D8%AA%D8%AC%D9%85%D9%8A%D8%B9_%D8%AC%D9%87%D8%A7%D8%B2_%D8%A3%D9%84%D8%B9%D8%A7%D8%A8_%D9%81%D9%8A_2025" >تكلفة تجميع جهاز ألعاب في 2025</a></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-4" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%d8%aa%d8%ac%d9%85%d9%8a%d8%b9-%d9%83%d9%85%d8%a8%d9%8a%d9%88%d8%aa%d8%b1-%d8%a7%d9%84%d8%b9d/#%D9%81%D9%87%D9%85_%D9%85%D9%83%D9%88%D9%86%D8%A7%D8%AA_%D8%AC%D9%87%D8%A7%D8%B2_%D8%A7%D9%84%D8%A3%D9%84%D8%B9%D8%A7%D8%A8" >فهم مكونات جهاز الألعاب</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-5" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%d8%aa%d8%ac%d9%85%d9%8a%d8%b9-%d9%83%d9%85%d8%a8%d9%8a%d9%88%d8%aa%d8%b1-%d8%a7%d9%84%d8%b9d/#1_%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D9%84%D8%AC_CPU_%D9%82%D9%84%D8%A8_%D9%88%D8%B9%D9%82%D9%84_%D8%A7%D9%84%D8%AA%D8%AC%D9%85%D9%8A%D8%B9%D8%A9" >1. المعالج (CPU): قلب وعقل التجميعة</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-6" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%d8%aa%d8%ac%d9%85%d9%8a%d8%b9-%d9%83%d9%85%d8%a8%d9%8a%d9%88%d8%aa%d8%b1-%d8%a7%d9%84%d8%b9d/#2%D8%A8%D8%B7%D8%A7%D9%82%D8%A9_%D8%A7%D9%84%D8%B1%D8%B3%D9%88%D9%85%D9%8A%D8%A7%D8%AA_GPU_%D9%82%D9%84%D8%A8_%D8%A7%D9%84%D8%A3%D9%84%D8%B9%D8%A7%D8%A8_%D9%88%D9%82%D9%88%D8%AA%D9%87%D8%A7_%D8%A7%D9%84%D8%A3%D8%B3%D8%A7%D8%B3%D9%8A%D8%A9" >2.بطاقة الرسوميات (GPU): قلب الألعاب وقوتها الأساسية</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-7" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%d8%aa%d8%ac%d9%85%d9%8a%d8%b9-%d9%83%d9%85%d8%a8%d9%8a%d9%88%d8%aa%d8%b1-%d8%a7%d9%84%d8%b9d/#3_%D8%A7%D9%84%D9%84%D9%88%D8%AD%D8%A9_%D8%A7%D9%84%D8%A3%D9%85_Motherboard_%D9%87%D9%8A_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%A3%D8%B3%D8%A7%D8%B3%D9%8A_%D8%A7%D9%84%D8%B0%D9%8A_%D9%8A%D8%B1%D8%A8%D8%B7_%D8%AC%D9%85%D9%8A%D8%B9_%D9%85%D9%83%D9%88%D9%86%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D9%85%D8%A8%D9%8A%D9%88%D8%AA%D8%B1_%D9%85%D8%B9%D9%8B%D8%A7" >3. اللوحة الأم (Motherboard): هي الجزء الأساسي الذي يربط جميع مكونات الكمبيوتر معًا.</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-8" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%d8%aa%d8%ac%d9%85%d9%8a%d8%b9-%d9%83%d9%85%d8%a8%d9%8a%d9%88%d8%aa%d8%b1-%d8%a7%d9%84%d8%b9d/#4_%D8%A7%D9%84%D8%B0%D8%A7%D9%83%D8%B1%D8%A9_%D8%A7%D9%84%D8%B9%D8%B4%D9%88%D8%A7%D8%A6%D9%8A%D8%A9_RAM_%D8%A7%D9%84%D8%B3%D8%B1%D8%B9%D8%A9_%D9%88%D8%A7%D9%84%D9%83%D9%81%D8%A7%D8%A1%D8%A9_%D9%81%D9%8A_%D8%A7%D9%84%D8%A3%D8%AF%D8%A7%D8%A1" >4. الذاكرة العشوائية (RAM): السرعة والكفاءة في الأداء</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-9" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%d8%aa%d8%ac%d9%85%d9%8a%d8%b9-%d9%83%d9%85%d8%a8%d9%8a%d9%88%d8%aa%d8%b1-%d8%a7%d9%84%d8%b9d/#5_%D9%88%D8%AD%D8%AF%D8%A7%D8%AA_%D8%A7%D9%84%D8%AA%D8%AE%D8%B2%D9%8A%D9%86_Storage_%D8%B9%D8%B5%D8%B1_%D8%A7%D9%84%D8%B3%D8%B1%D8%B9%D8%A9_%D9%85%D8%B9_NVMe_SSDs" >5. وحدات التخزين (Storage): عصر السرعة مع NVMe SSDs</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-10" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%d8%aa%d8%ac%d9%85%d9%8a%d8%b9-%d9%83%d9%85%d8%a8%d9%8a%d9%88%d8%aa%d8%b1-%d8%a7%d9%84%d8%b9d/#6_%D9%85%D8%B2%D9%88%D8%AF_%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9_PSU_%D8%B4%D8%B1%D9%8A%D8%A7%D9%86_%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%A9_%D8%A7%D9%84%D8%B0%D9%8A_%D9%8A%D8%BA%D8%B0%D9%8A_%D8%AA%D8%AC%D9%85%D9%8A%D8%B9%D8%AA%D9%83" >6. مزود الطاقة (PSU): شريان الحياة الذي يغذي تجميعتك</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-11" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%d8%aa%d8%ac%d9%85%d9%8a%d8%b9-%d9%83%d9%85%d8%a8%d9%8a%d9%88%d8%aa%d8%b1-%d8%a7%d9%84%d8%b9d/#7_%D8%B5%D9%86%D8%AF%D9%88%D9%82_%D8%A7%D9%84%D9%83%D9%85%D8%A8%D9%8A%D9%88%D8%AA%D8%B1_Case_%D8%A7%D9%84%D9%85%D8%A3%D9%88%D9%89_%D8%A7%D9%84%D8%A3%D9%86%D9%8A%D9%82_%D9%88%D8%A7%D9%84%D9%81%D8%B9%D8%A7%D9%84" >7. صندوق الكمبيوتر (Case): المأوى الأنيق والفعال</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-12" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%d8%aa%d8%ac%d9%85%d9%8a%d8%b9-%d9%83%d9%85%d8%a8%d9%8a%d9%88%d8%aa%d8%b1-%d8%a7%d9%84%d8%b9d/#8_%D9%86%D8%B8%D8%A7%D9%85_%D8%A7%D9%84%D8%AA%D8%A8%D8%B1%D9%8A%D8%AF_Cooling_%D9%84%D9%84%D8%AD%D9%81%D8%A7%D8%B8_%D8%B9%D9%84%D9%89_%D8%A8%D8%B1%D9%88%D8%AF%D8%A9_%D8%A7%D9%84%D8%A3%D8%B9%D8%B5%D8%A7%D8%A8_%D9%88%D8%A7%D9%84%D8%A3%D8%AF%D8%A7%D8%A1" >8. نظام التبريد (Cooling): للحفاظ على برودة الأعصاب والأداء</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-13" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%d8%aa%d8%ac%d9%85%d9%8a%d8%b9-%d9%83%d9%85%d8%a8%d9%8a%d9%88%d8%aa%d8%b1-%d8%a7%d9%84%d8%b9d/#9_%D8%B3%D8%A7%D8%AD%D8%A9_%D8%A7%D9%84%D9%84%D8%B9%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D8%A7%D9%84%D8%B4%D8%A7%D8%B4%D8%A9_%D9%88%D8%A7%D9%84%D9%85%D9%84%D8%AD%D9%82%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B3%D8%A8%D8%A9" >9. ساحة اللعب: اختيار الشاشة والملحقات المناسبة</a></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-14" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%d8%aa%d8%ac%d9%85%d9%8a%d8%b9-%d9%83%d9%85%d8%a8%d9%8a%d9%88%d8%aa%d8%b1-%d8%a7%d9%84%d8%b9d/#%D8%AA%D8%AC%D9%85%D9%8A%D8%B9%D8%A7%D8%AA_%D9%83%D9%85%D8%A8%D9%8A%D9%88%D8%AA%D8%B1_%D8%A3%D9%84%D8%B9%D8%A7%D8%A8_%D9%85%D9%82%D8%AA%D8%B1%D8%AD%D8%A9_%D8%AD%D8%B3%D8%A8_%D8%A7%D9%84%D9%85%D9%8A%D8%B2%D8%A7%D9%86%D9%8A%D8%A9" >تجميعات كمبيوتر ألعاب مقترحة حسب الميزانية</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-15" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%d8%aa%d8%ac%d9%85%d9%8a%d8%b9-%d9%83%d9%85%d8%a8%d9%8a%d9%88%d8%aa%d8%b1-%d8%a7%d9%84%d8%b9d/#1_%D8%AA%D8%AC%D9%85%D9%8A%D8%B9%D8%A9_%D8%A7%D9%84%D9%81%D8%A6%D8%A9_%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A%D8%A9_%D9%84%D8%A3%D9%84%D8%B9%D8%A7%D8%A8_1080p_%D9%88%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85_%D8%A7%D9%84%D9%8A%D9%88%D9%85%D9%8A" >1. تجميعة الفئة الاقتصادية (لألعاب 1080p والاستخدام اليومي)</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-16" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%d8%aa%d8%ac%d9%85%d9%8a%d8%b9-%d9%83%d9%85%d8%a8%d9%8a%d9%88%d8%aa%d8%b1-%d8%a7%d9%84%d8%b9d/#2_%D8%AA%D8%AC%D9%85%D9%8A%D8%B9%D8%A9_%D8%A7%D9%84%D9%81%D8%A6%D8%A9_%D8%A7%D9%84%D9%85%D8%AA%D9%88%D8%B3%D8%B7%D8%A9_%D8%A7%D9%84%D9%86%D9%82%D8%B7%D8%A9_%D8%A7%D9%84%D8%B0%D9%87%D8%A8%D9%8A%D8%A9_%D9%84%D8%A3%D9%84%D8%B9%D8%A7%D8%A8_1440p" >2. تجميعة الفئة المتوسطة (النقطة الذهبية لألعاب 1440p)</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-17" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%d8%aa%d8%ac%d9%85%d9%8a%d8%b9-%d9%83%d9%85%d8%a8%d9%8a%d9%88%d8%aa%d8%b1-%d8%a7%d9%84%d8%b9d/#3_%D8%AA%D8%AC%D9%85%D9%8A%D8%B9%D8%A9_%D9%83%D9%85%D8%A8%D9%8A%D9%88%D8%AA%D8%B1_%D8%A3%D9%84%D8%B9%D8%A7%D8%A8_%D8%A7%D9%84%D9%81%D8%A6%D8%A9_%D8%A7%D9%84%D8%B9%D9%84%D9%8A%D8%A7_%D9%84%D9%88%D8%AD%D9%88%D8%B4_%D8%AF%D9%82%D8%A9_4K_%D9%88%D8%A7%D9%84%D8%A3%D8%AF%D8%A7%D8%A1_%D8%A7%D9%84%D9%81%D8%A7%D8%A6%D9%82" >3. تجميعة كمبيوتر ألعاب الفئة العليا (لوحوش دقة 4K والأداء الفائق)</a></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-18" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%d8%aa%d8%ac%d9%85%d9%8a%d8%b9-%d9%83%d9%85%d8%a8%d9%8a%d9%88%d8%aa%d8%b1-%d8%a7%d9%84%d8%b9d/#%D8%AF%D9%84%D9%8A%D9%84_%D8%AA%D8%AC%D9%85%D9%8A%D8%B9_%D9%82%D8%B7%D8%B9_%D8%A7%D9%84%D9%83%D9%85%D8%A8%D9%8A%D9%88%D8%AA%D8%B1_%D8%AE%D8%B7%D9%88%D8%A9_%D8%A8%D8%AE%D8%B7%D9%88%D8%A9_%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1" >دليل تجميع قطع الكمبيوتر خطوة بخطوة بالصور</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-19" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%d8%aa%d8%ac%d9%85%d9%8a%d8%b9-%d9%83%d9%85%d8%a8%d9%8a%d9%88%d8%aa%d8%b1-%d8%a7%d9%84%d8%b9d/#%D8%A7%D9%84%D8%A3%D8%AF%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D8%AA%D9%8A_%D8%B3%D8%AA%D8%AD%D8%AA%D8%A7%D8%AC%D9%87%D8%A7_%D9%84%D8%AA%D8%AC%D9%85%D9%8A%D8%B9_%D8%AC%D9%87%D8%A7%D8%B2_%D8%A7%D9%84%D9%83%D9%85%D8%A8%D9%8A%D9%88%D8%AA%D8%B1" >الأدوات التي ستحتاجها لتجميع جهاز الكمبيوتر</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-20" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%d8%aa%d8%ac%d9%85%d9%8a%d8%b9-%d9%83%d9%85%d8%a8%d9%8a%d9%88%d8%aa%d8%b1-%d8%a7%d9%84%d8%b9d/#1_%D8%AA%D8%AB%D8%A8%D9%8A%D8%AA_%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D9%84%D8%AC_%D8%B9%D9%84%D9%89_%D8%A7%D9%84%D9%84%D9%88%D8%AD%D8%A9_%D8%A7%D9%84%D8%A3%D9%85" >1. تثبيت المعالج على اللوحة الأم</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-21" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%d8%aa%d8%ac%d9%85%d9%8a%d8%b9-%d9%83%d9%85%d8%a8%d9%8a%d9%88%d8%aa%d8%b1-%d8%a7%d9%84%d8%b9d/#2_%D8%AA%D8%B1%D9%83%D9%8A%D8%A8_%D9%86%D8%B8%D8%A7%D9%85_%D8%A7%D9%84%D8%AA%D8%A8%D8%B1%D9%8A%D8%AF" >2. تركيب نظام التبريد</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-22" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%d8%aa%d8%ac%d9%85%d9%8a%d8%b9-%d9%83%d9%85%d8%a8%d9%8a%d9%88%d8%aa%d8%b1-%d8%a7%d9%84%d8%b9d/#3_%D8%AA%D8%B1%D9%83%D9%8A%D8%A8_%D8%A7%D9%84%D8%B0%D8%A7%D9%83%D8%B1%D8%A9_%D8%A7%D9%84%D8%B9%D8%B4%D9%88%D8%A7%D8%A6%D9%8A%D8%A9_RAM" >3. تركيب الذاكرة العشوائية (RAM)</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-23" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%d8%aa%d8%ac%d9%85%d9%8a%d8%b9-%d9%83%d9%85%d8%a8%d9%8a%d9%88%d8%aa%d8%b1-%d8%a7%d9%84%d8%b9d/#4_%D8%AA%D8%AC%D9%87%D9%8A%D8%B2_%D8%B5%D9%86%D8%AF%D9%88%D9%82_%D8%A7%D9%84%D9%83%D9%85%D8%A8%D9%8A%D9%88%D8%AA%D8%B1" >4. تجهيز صندوق الكمبيوتر</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-24" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%d8%aa%d8%ac%d9%85%d9%8a%d8%b9-%d9%83%d9%85%d8%a8%d9%8a%d9%88%d8%aa%d8%b1-%d8%a7%d9%84%d8%b9d/#5_%D8%AA%D8%B1%D9%83%D9%8A%D8%A8_%D8%A7%D9%84%D9%84%D9%88%D8%AD%D8%A9_%D8%A7%D9%84%D8%A3%D9%85_%D9%81%D9%8A_%D8%A7%D9%84%D8%B5%D9%86%D8%AF%D9%88%D9%82" >5. تركيب اللوحة الأم في الصندوق</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-25" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%d8%aa%d8%ac%d9%85%d9%8a%d8%b9-%d9%83%d9%85%d8%a8%d9%8a%d9%88%d8%aa%d8%b1-%d8%a7%d9%84%d8%b9d/#6_%D8%AA%D8%B1%D9%83%D9%8A%D8%A8_%D8%A8%D8%B7%D8%A7%D9%82%D8%A9_%D8%A7%D9%84%D8%B1%D8%B3%D9%88%D9%85%D9%8A%D8%A7%D8%AA_GPU" >6. تركيب بطاقة الرسوميات (GPU)</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-26" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%d8%aa%d8%ac%d9%85%d9%8a%d8%b9-%d9%83%d9%85%d8%a8%d9%8a%d9%88%d8%aa%d8%b1-%d8%a7%d9%84%d8%b9d/#7_%D8%AA%D8%B1%D9%83%D9%8A%D8%A8_%D9%88%D8%AD%D8%AF%D8%A7%D8%AA_%D8%A7%D9%84%D8%AA%D8%AE%D8%B2%D9%8A%D9%86_SSDHDDNVMe" >7. تركيب وحدات التخزين (SSD/HDD/NVMe)</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-27" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%d8%aa%d8%ac%d9%85%d9%8a%d8%b9-%d9%83%d9%85%d8%a8%d9%8a%d9%88%d8%aa%d8%b1-%d8%a7%d9%84%d8%b9d/#8_%D8%AA%D8%B1%D9%83%D9%8A%D8%A8_%D9%85%D8%B2%D9%88%D8%AF_%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9_%D9%88%D8%AA%D9%88%D8%B5%D9%8A%D9%84_%D8%A7%D9%84%D9%83%D8%A7%D8%A8%D9%84%D8%A7%D8%AA" >8. تركيب مزود الطاقة وتوصيل الكابلات</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-28" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%d8%aa%d8%ac%d9%85%d9%8a%d8%b9-%d9%83%d9%85%d8%a8%d9%8a%d9%88%d8%aa%d8%b1-%d8%a7%d9%84%d8%b9d/#9_%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9_%D8%A7%D9%84%D9%83%D8%A7%D8%A8%D9%84%D8%A7%D8%AA_Cable_Management" >9. إدارة الكابلات (Cable Management)</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-29" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%d8%aa%d8%ac%d9%85%d9%8a%d8%b9-%d9%83%d9%85%d8%a8%d9%8a%d9%88%d8%aa%d8%b1-%d8%a7%d9%84%d8%b9d/#10_%D8%A7%D9%84%D9%81%D8%AD%D8%B5_%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%8A_%D9%88%D8%A7%D9%84%D8%AA%D8%A3%D9%83%D8%AF_%D9%85%D9%86_%D8%A7%D9%84%D8%AA%D9%88%D8%B5%D9%8A%D9%84%D8%A7%D8%AA" >10. الفحص الأولي والتأكد من التوصيلات</a></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-30" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%d8%aa%d8%ac%d9%85%d9%8a%d8%b9-%d9%83%d9%85%d8%a8%d9%8a%d9%88%d8%aa%d8%b1-%d8%a7%d9%84%d8%b9d/#%D9%85%D8%A7%D8%B0%D8%A7_%D8%AA%D9%81%D8%B9%D9%84_%D8%A8%D8%B9%D8%AF_%D8%AA%D8%AC%D9%85%D9%8A%D8%B9_%D8%A7%D9%84%D9%83%D9%85%D8%A8%D9%8A%D9%88%D8%AA%D8%B1%D8%9F_%D8%AF%D9%84%D9%8A%D9%84_%D8%AE%D8%B7%D9%88%D8%A7%D8%AA_%D9%85%D8%A7_%D8%A8%D8%B9%D8%AF_%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A8" >ماذا تفعل بعد تجميع الكمبيوتر؟ (دليل خطوات ما بعد التركيب)</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-31" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%d8%aa%d8%ac%d9%85%d9%8a%d8%b9-%d9%83%d9%85%d8%a8%d9%8a%d9%88%d8%aa%d8%b1-%d8%a7%d9%84%d8%b9d/#1_%D8%A7%D9%84%D8%A5%D9%82%D9%84%D8%A7%D8%B9_%D8%A7%D9%84%D8%A3%D9%88%D9%84_%D9%88%D8%A7%D9%84%D8%AA%D8%AD%D9%82%D9%82_%D9%85%D9%86_%D8%A7%D9%84%D9%80_BIOSUEFI_%D9%84%D8%AD%D8%B8%D8%A9_%D8%A7%D9%84%D8%AD%D9%82%D9%8A%D9%82%D8%A9" >1. الإقلاع الأول والتحقق من الـ BIOS/UEFI (لحظة الحقيقة!)</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-32" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%d8%aa%d8%ac%d9%85%d9%8a%d8%b9-%d9%83%d9%85%d8%a8%d9%8a%d9%88%d8%aa%d8%b1-%d8%a7%d9%84%d8%b9d/#2_%D8%AA%D9%81%D8%B9%D9%8A%D9%84_%D9%85%D9%84%D9%81%D8%A7%D8%AA_%D8%AA%D8%B9%D8%B1%D9%8A%D9%81_%D8%A7%D9%84%D8%B1%D8%A7%D9%85_XMPEXPO_%E2%80%93_%D8%AE%D8%B7%D9%88%D8%A9_%D9%84%D8%A7_%D9%8A%D9%85%D9%83%D9%86_%D8%AA%D9%81%D9%88%D9%8A%D8%AA%D9%87%D8%A7" >2. تفعيل ملفات تعريف الرام (XMP/EXPO) – خطوة لا يمكن تفويتها!</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-33" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%d8%aa%d8%ac%d9%85%d9%8a%d8%b9-%d9%83%d9%85%d8%a8%d9%8a%d9%88%d8%aa%d8%b1-%d8%a7%d9%84%d8%b9d/#3_%D8%AA%D8%AB%D8%A8%D9%8A%D8%AA_%D9%86%D8%B8%D8%A7%D9%85_%D8%A7%D9%84%D8%AA%D8%B4%D8%BA%D9%8A%D9%84_Windows_11" >3. تثبيت نظام التشغيل (Windows 11)</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-34" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%d8%aa%d8%ac%d9%85%d9%8a%d8%b9-%d9%83%d9%85%d8%a8%d9%8a%d9%88%d8%aa%d8%b1-%d8%a7%d9%84%d8%b9d/#4_%D8%AA%D8%AB%D8%A8%D9%8A%D8%AA_%D9%88%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB_%D8%A7%D9%84%D8%AA%D8%B9%D8%B1%D9%8A%D9%81%D8%A7%D8%AA_Drivers_%E2%80%93_%D9%88%D9%82%D9%88%D8%AF_%D8%A7%D9%84%D8%AA%D8%B4%D8%BA%D9%8A%D9%84" >4. تثبيت وتحديث التعريفات (Drivers) – وقود التشغيل</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-35" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%d8%aa%d8%ac%d9%85%d9%8a%d8%b9-%d9%83%d9%85%d8%a8%d9%8a%d9%88%d8%aa%d8%b1-%d8%a7%d9%84%d8%b9d/#5_%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1_%D8%A7%D9%84%D8%A3%D8%AF%D8%A7%D8%A1_%D9%88%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D8%B1_Stress_Testing_Benchmarking" >5. اختبار الأداء والاستقرار (Stress Testing &amp; Benchmarking)</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-36" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%d8%aa%d8%ac%d9%85%d9%8a%d8%b9-%d9%83%d9%85%d8%a8%d9%8a%d9%88%d8%aa%d8%b1-%d8%a7%d9%84%d8%b9d/#6_%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB_%D8%A7%D9%84%D8%A8%D9%8A%D9%88%D8%B3_BIOSUEFI_%E2%80%93_%D8%AE%D8%B7%D9%88%D8%A9_%D9%85%D8%AA%D9%82%D8%AF%D9%85%D8%A9_%D9%88%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1%D9%8A%D8%A9" >6. تحديث البيوس (BIOS/UEFI) – (خطوة متقدمة واختيارية)</a></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-37" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%d8%aa%d8%ac%d9%85%d9%8a%d8%b9-%d9%83%d9%85%d8%a8%d9%8a%d9%88%d8%aa%d8%b1-%d8%a7%d9%84%d8%b9d/#%D8%AD%D9%84_%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D9%83%D9%84_%D8%A7%D9%84%D8%B4%D8%A7%D8%A6%D8%B9%D8%A9_%D8%A3%D8%AB%D9%86%D8%A7%D8%A1_%D9%88%D8%A8%D8%B9%D8%AF_%D8%A7%D9%84%D8%AA%D8%AC%D9%85%D9%8A%D8%B9_%D8%AF%D9%84%D9%8A%D9%84_%D8%A7%D9%84%D8%B7%D9%88%D8%A7%D8%B1%D8%A6_%D9%84%D9%84%D9%85%D9%8F%D8%AC%D9%85%D9%91%D8%B9_%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF" >حل المشاكل الشائعة أثناء وبعد التجميع (دليل الطوارئ للمُجمّع الجديد)</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-38" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%d8%aa%d8%ac%d9%85%d9%8a%d8%b9-%d9%83%d9%85%d8%a8%d9%8a%d9%88%d8%aa%d8%b1-%d8%a7%d9%84%d8%b9d/#%D8%A7%D9%84%D9%85%D8%B4%D9%83%D9%84%D8%A9_%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89_%D8%A7%D9%84%D8%AC%D9%87%D8%A7%D8%B2_%D9%84%D8%A7_%D9%8A%D8%B3%D8%AA%D8%AC%D9%8A%D8%A8_%D8%A5%D8%B7%D9%84%D8%A7%D9%82%D8%A7%D9%8B_%D8%B9%D9%86%D8%AF_%D8%A7%D9%84%D8%B6%D8%BA%D8%B7_%D8%B9%D9%84%D9%89_%D8%B2%D8%B1_%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9_%D9%84%D8%A7_%D9%85%D8%B1%D8%A7%D9%88%D8%AD%D8%8C_%D9%84%D8%A7_%D8%A3%D8%B6%D9%88%D8%A7%D8%A1%D8%8C_%D8%B5%D9%85%D8%AA_%D8%AA%D8%A7%D9%85" >المشكلة الأولى: الجهاز لا يستجيب إطلاقاً عند الضغط على زر الطاقة (لا مراوح، لا أضواء، صمت تام)</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-39" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%d8%aa%d8%ac%d9%85%d9%8a%d8%b9-%d9%83%d9%85%d8%a8%d9%8a%d9%88%d8%aa%d8%b1-%d8%a7%d9%84%d8%b9d/#%D8%A7%D9%84%D9%85%D8%B4%D9%83%D9%84%D8%A9_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9_%D8%A7%D9%84%D8%AC%D9%87%D8%A7%D8%B2_%D9%8A%D8%B9%D9%85%D9%84_%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D9%88%D8%AD_%D8%AA%D8%AF%D9%88%D8%B1_%D9%88%D8%A7%D9%84%D8%A3%D8%B6%D9%88%D8%A7%D8%A1_%D8%AA%D8%B9%D9%85%D9%84_%D9%84%D9%83%D9%86_%D9%84%D8%A7_%D8%AA%D9%88%D8%AC%D8%AF_%D8%A3%D9%8A_%D8%B5%D9%88%D8%B1%D8%A9_%D8%B9%D9%84%D9%89_%D8%A7%D9%84%D8%B4%D8%A7%D8%B4%D8%A9" >المشكلة الثانية: الجهاز يعمل (المراوح تدور والأضواء تعمل) لكن لا توجد أي صورة على الشاشة</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-40" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%d8%aa%d8%ac%d9%85%d9%8a%d8%b9-%d9%83%d9%85%d8%a8%d9%8a%d9%88%d8%aa%d8%b1-%d8%a7%d9%84%d8%b9d/#%D8%A7%D9%84%D9%85%D8%B4%D9%83%D9%84%D8%A9_%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%D8%A9_%D8%A7%D9%84%D8%AC%D9%87%D8%A7%D8%B2_%D9%8A%D8%B9%D9%85%D9%84_%D9%84%D9%83%D9%86_%D8%AF%D8%B1%D8%AC%D8%A9_%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9_%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D9%84%D8%AC_%D9%85%D8%B1%D8%AA%D9%81%D8%B9%D8%A9_%D8%AC%D8%AF%D8%A7%D9%8B" >المشكلة الثالثة: الجهاز يعمل لكن درجة حرارة المعالج مرتفعة جداً</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-41" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%d8%aa%d8%ac%d9%85%d9%8a%d8%b9-%d9%83%d9%85%d8%a8%d9%8a%d9%88%d8%aa%d8%b1-%d8%a7%d9%84%d8%b9d/#%D8%A7%D9%84%D9%85%D8%B4%D9%83%D9%84%D8%A9_%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9%D8%A9_%D9%85%D8%B4%D8%A7%D9%83%D9%84_%D9%81%D9%8A_%D8%AA%D8%AB%D8%A8%D9%8A%D8%AA_%D8%A3%D9%88_%D8%A5%D9%82%D9%84%D8%A7%D8%B9_%D9%86%D8%B8%D8%A7%D9%85_%D8%A7%D9%84%D8%AA%D8%B4%D8%BA%D9%8A%D9%84" >المشكلة الرابعة: مشاكل في تثبيت أو إقلاع نظام التشغيل</a></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-42" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%d8%aa%d8%ac%d9%85%d9%8a%d8%b9-%d9%83%d9%85%d8%a8%d9%8a%d9%88%d8%aa%d8%b1-%d8%a7%d9%84%d8%b9d/#%D8%A7%D9%84%D8%AE%D8%A7%D8%AA%D9%85%D8%A9_%D9%86%D8%B5%D8%A7%D8%A6%D8%AD_%D8%B0%D9%87%D8%A8%D9%8A%D8%A9_%D8%A3%D8%AE%D9%8A%D8%B1%D8%A9_%D9%84%D8%B1%D8%AD%D9%84%D8%A9_%D8%AA%D8%AC%D9%85%D9%8A%D8%B9_%D9%86%D8%A7%D8%AC%D8%AD%D8%A9" >الخاتمة: نصائح ذهبية أخيرة لرحلة تجميع ناجحة</a></li></ul></li></ul></nav></div>
+<h2 class="wp-block-heading"><span class="ez-toc-section" id="%D9%84%D9%85%D8%A7%D8%B0%D8%A7_%D8%AA%D8%A8%D9%86%D9%8A_%D8%AC%D9%87%D8%A7%D8%B2_%D8%A3%D9%84%D8%B9%D8%A7%D8%A8_%D8%A8%D9%86%D9%81%D8%B3%D9%83%D8%9F"></span><strong>لماذا تبني جهاز ألعاب بنفسك؟</strong><span class="ez-toc-section-end"></span></h2>
+
+
+
+<p class="wp-block-paragraph">قد تتساءل: لماذا أتحمل عناء التجميع بينما يمكنني شراء جهاز جاهز؟ الإجابة تكمن في المزايا التالية التي تجعل التجميع الذاتي الخيار الأمثل:</p>
+
+
+
+<ol class="wp-block-list">
+<li><strong>توفير التكاليف</strong>: الأجهزة الجاهزة غالبًا ما تأتي بتكلفة إضافية لهامش الربح. عند التجميع بنفسك، تدفع فقط ثمن المكونات، مما يتيح لك الحصول على أداء أفضل بنفس الميزانية.</li>
+
+
+
+<li><strong>التخصيص الكامل</strong>: أنت تتحكم في كل مكون، مما يضمن اختيار القطع التي تلبي احتياجاتك بدقة، سواء للألعاب التنافسية أو الألعاب ثلاثية الأبعاد (AAA) أو حتى المهام الإبداعية.</li>
+
+
+
+<li><strong>سهولة الترقية</strong>: معرفتك بمكونات جهازك تجعل ترقيته مستقبلاً أمرًا بسيطًا، سواء بإضافة ذاكرة أو استبدال كرت الشاشة دون الحاجة لشراء جهاز جديد.</li>
+
+
+
+<li><strong>تجربة تعليمية ممتعة</strong>: التجميع يمنحك فهمًا عميقًا لعمل جهازك، بالإضافة إلى شعور بالإنجاز عند تشغيله لأول مرة.</li>
+</ol>
+
+
+
+<p class="wp-block-paragraph"><strong><strong>هل تجميع جهاز الكمبيوتر صعب؟</strong></strong></p>
+
+
+
+<p class="wp-block-paragraph">الإجابة: لا، ليس صعبًا كما يُشاع! التجميع يتطلب فقط الصبر والدقة واتباع الإرشادات. مع توفر أدلة شاملة مثل هذا المقال وفيديوهات تعليمية على الإنترنت، يمكن لأي شخص، حتى المبتدئين، تجميع جهاز بنجاح. تخلص من المخاوف وثق بقدرتك على التعلم والتطبيق.</p>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="%D8%A7%D9%84%D8%AE%D8%B7%D9%88%D8%A9_%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89_%D8%AA%D8%AD%D8%AF%D9%8A%D8%AF_%D8%A7%D9%84%D9%85%D9%8A%D8%B2%D8%A7%D9%86%D9%8A%D8%A9_%D9%88%D8%A7%D9%84%D9%87%D8%AF%D9%81"></span><strong><strong>الخطوة الأولى: تحديد الميزانية والهدف</strong></strong><span class="ez-toc-section-end"></span></h3>
+
+
+
+<p class="wp-block-paragraph">قبل البدء، حدد بوضوح:</p>
+
+
+
+<ol class="wp-block-list">
+<li><strong>هدفك من الجهاز</strong>: هل هو للألعاب الخفيفة، ألعاب بدقة 1440p، ألعاب 4K، البث المباشر، أو المهام الإنتاجية مثل المونتاج؟</li>
+
+
+
+<li><strong>الميزانية الإجمالية</strong>: حدد مبلغًا واضحًا لتجنب الإنفاق الزائد أو اختيار مكونات غير متوازنة.</li>
+</ol>
+
+
+
+<p class="wp-block-paragraph"><strong>نصيحة ذهبية</strong>: في تجميعات الألعاب، خصص الحصة الأكبر من الميزانية لكرت الشاشة (GPU) بعد اختيار معالج مناسب، فهو المحرك الرئيسي لجودة الرسومات ومعدل الإطارات.ضحة.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="%D8%AA%D9%83%D9%84%D9%81%D8%A9_%D8%AA%D8%AC%D9%85%D9%8A%D8%B9_%D8%AC%D9%87%D8%A7%D8%B2_%D8%A3%D9%84%D8%B9%D8%A7%D8%A8_%D9%81%D9%8A_2025"></span><strong><strong>تكلفة تجميع جهاز ألعاب في 2025</strong></strong><span class="ez-toc-section-end"></span></h3>
+
+
+
+<p class="wp-block-paragraph">إليك تقديرات التكلفة حسب الفئات (الأسعار تقديرية وقد تختلف حسب المنطقة وسعر الصرف):</p>
+
+
+
+<ol class="wp-block-list">
+<li><strong>الفئة الاقتصادية (1080p)</strong>:
+<ul class="wp-block-list">
+<li><strong>الهدف</strong>: ألعاب تنافسية بمعدل إطارات مرتفع وألعاب AAA على إعدادات متوسطة إلى عالية.</li>
+
+
+
+<li><strong>التكلفة العالمية</strong>: 600-850 دولارًا.</li>
+
+
+
+<li><strong>التكلفة في مصر</strong>: 30,000-45,000 جنيه مصري.</li>
+</ul>
+</li>
+
+
+
+<li><strong>الفئة المتوسطة (1440p)</strong>:
+<ul class="wp-block-list">
+<li><strong>الهدف</strong>: ألعاب حديثة بدقة 1440p بإعدادات عالية مع دعم تتبع الأشعة.</li>
+
+
+
+<li><strong>التكلفة العالمية</strong>: 1200-1600 دولار.</li>
+
+
+
+<li><strong>التكلفة في مصر</strong>: 60,000-85,000 جنيه مصري.</li>
+</ul>
+</li>
+
+
+
+<li><strong>الفئة العليا (4K)</strong>:
+<ul class="wp-block-list">
+<li><strong>الهدف</strong>: ألعاب 4K بأعلى إعدادات، مثالية للبث وصناعة المحتوى.</li>
+
+
+
+<li><strong>التكلفة العالمية</strong>: 2000-3000 دولار.</li>
+
+
+
+<li><strong>التكلفة في مصر</strong>: 100,000-150,000 جنيه مصري.</li>
+</ul>
+</li>
+
+
+
+<li><strong>الفئة الفاخرة (بلا حدود)</strong>:
+<ul class="wp-block-list">
+<li><strong>الهدف</strong>: أداء احترافي للألعاب والمهام الإنتاجية الثقيلة.</li>
+
+
+
+<li><strong>التكلفة العالمية</strong>: 3500 دولار فأكثر.</li>
+
+
+
+<li><strong>التكلفة في مصر</strong>: 180,000 جنيه فأكثر.</li>
+</ul>
+</li>
+</ol>
+
+
+
+<h2 class="wp-block-heading"><span class="ez-toc-section" id="%D9%81%D9%87%D9%85_%D9%85%D9%83%D9%88%D9%86%D8%A7%D8%AA_%D8%AC%D9%87%D8%A7%D8%B2_%D8%A7%D9%84%D8%A3%D9%84%D8%B9%D8%A7%D8%A8"></span><strong><strong>فهم مكونات جهاز الألعاب</strong></strong><span class="ez-toc-section-end"></span></h2>
+
+
+
+<p class="wp-block-paragraph">قبل إضافة المكونات إلى سلة التسوق، من المهم فهم وظيفة كل قطعة وتأثيرها على أداء الألعاب وتوافقها معًا. بناء جهاز كمبيوتر يشبه تكوين فريق رياضي؛ فالنجاح يعتمد على انسجام المكونات. اختيار المكونات الصحيحة والمتوافقة هو المفتاح لتجميع كمبيوتر ألعاب احترافي ومستقر.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="1_%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D9%84%D8%AC_CPU_%D9%82%D9%84%D8%A8_%D9%88%D8%B9%D9%82%D9%84_%D8%A7%D9%84%D8%AA%D8%AC%D9%85%D9%8A%D8%B9%D8%A9"></span><strong>1. المعالج (CPU): قلب وعقل التجميعة</strong><span class="ez-toc-section-end"></span></h3>
+
+
+
+<p class="wp-block-paragraph">المعالج يعتبر &#8220;العقل&#8221; المركزي للكمبيوتر، حيث يتولى مسؤولية تنفيذ التعليمات وإدارة العمليات المتنوعة. في مجال الألعاب، يقوم المعالج بإدارة فيزياء اللعبة، والذكاء الاصطناعي للأعداء، بالإضافة إلى تجهيز الإطارات اللازمة لكرت الشاشة.</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://www.arabtechtrends.com/wp-content/uploads/2025/07/1751727737_579_تجميع-كمبيوتر-ألعاب-في-2025-دليلك-النهائي-من-الصفر-إلى.jpg" alt="صورة معالجات intel core i5-14600k vs amd ryzen 5 7600x" class="wp-image-94467"/></figure>
+
+
+
+<p class="wp-block-paragraph">الاختيار بين الشركات الرائدة (Intel مقابل AMD) في عام 2025 يعكس تنافساً قوياً. بشكل عام، تتميز معالجات Intel Core (مثل i5 و i7) بتردداتها المرتفعة، مما يوفر أداءً استثنائياً في الألعاب والمهام المتعددة. من جهة أخرى، تقدم AMD معالجات Ryzen التي تُعد ثورية في مجال الألعاب، بفضل تقنية 3D V-Cache (في موديلات X3D) التي تعزز بشكل كبير من معدل الإطارات.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>ماذا تختار؟</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li>لتحقيق أعلى معدل إطارات في الألعاب، تعتبر معالجات AMD Ryzen 7 X3D خياراً رائعاً.</li>
+
+
+
+<li>لأداء ممتاز في الألعاب والمهام الأخرى: تعتبر معالجات Intel من فئة Core i5 أو Core i7، خاصة من الأجيال 13 و14، خياراً رائعاً.</li>
+
+
+
+<li>عدد الأنوية والخيوط: في عام 2025، يعتبر معالج يحتوي على 6 أنوية و12 خيطًا خيارًا جيدًا لمعظم اللاعبين، مثل Ryzen 5 أو Core i5.</li>
+
+
+
+<li>الأهم من كل شيء هو التوافق: يجب عليك التأكد من أن مقبس المعالج متوافق تماماً مع مقبس اللوحة الأم.
+<ul class="wp-block-list">
+<li><strong>معالجات Intel الحديثة (الجيل 12, 13, 14)</strong> تستخدم مقبس <strong>LGA 1700</strong>.</li>
+
+
+
+<li><strong>معالجات AMD Ryzen الحديثة (سلسلة 7000 و 8000)</strong> تستخدم مقبس <strong>AM5</strong>.</li>
+</ul>
+</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="2%D8%A8%D8%B7%D8%A7%D9%82%D8%A9_%D8%A7%D9%84%D8%B1%D8%B3%D9%88%D9%85%D9%8A%D8%A7%D8%AA_GPU_%D9%82%D9%84%D8%A8_%D8%A7%D9%84%D8%A3%D9%84%D8%B9%D8%A7%D8%A8_%D9%88%D9%82%D9%88%D8%AA%D9%87%D8%A7_%D8%A7%D9%84%D8%A3%D8%B3%D8%A7%D8%B3%D9%8A%D8%A9"></span>2.بطاقة الرسوميات (GPU): قلب الألعاب وقوتها الأساسية<span class="ez-toc-section-end"></span></h3>
+
+
+
+<p class="wp-block-paragraph">هذه هي القطعة الأساسية في جهاز الألعاب، وهي المسؤولة عن معالجة وعرض الصور الجميلة على شاشتك. قوة كرت الشاشة تحدد ما إذا كنت ستلعب بإعدادات منخفضة أو عالية، وأيضًا الدقة التي ستظهر بها الألعاب.</p>
+
+
+
+<figure class="wp-block-image" id="attachment_94468"><img decoding="async" src="https://www.arabtechtrends.com/wp-content/uploads/2025/07/1751727738_235_تجميع-كمبيوتر-ألعاب-في-2025-دليلك-النهائي-من-الصفر-إلى.jpg" alt="صورة كرت الشاشة MSI GeForce RTX™ 5080 16G GAMING TRIO OC" class="wp-image-94468"/><figcaption class="wp-element-caption">MSI GeForce RTX™ 5080 16G GAMING TRIO OC</figcaption></figure>
+
+
+
+<p class="wp-block-paragraph"><strong>الاختيار بين العمالقة (Nvidia vs. AMD vs. Intel):</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Nvidia (GeForce RTX):</strong> تتربع على عرش أداء <strong>تتبع الأشعة (Ray Tracing)</strong> وتملك التقنية الأقوى في رفع الدقة بالذكاء الاصطناعي <strong>(DLSS)</strong>، مما يجعلها الخيار المفضل لمن يريد أفضل جودة بصرية وميزات.</li>
+
+
+
+<li><strong>AMD (Radeon RX):</strong> تقدم منافسة شرسة جداً في <strong>الأداء الخام (Rasterization)</strong> مقابل السعر، وغالباً ما توفر حجم ذاكرة <strong>VRAM أكبر</strong> في الفئات المتوسطة، وهو أمر مهم للمستقبل.</li>
+
+
+
+<li><strong>Intel (Arc):</strong> لاعب جديد وقوي في الفئة الاقتصادية، يقدم قيمة ممتازة وميزات فريدة مثل دعم ترميز الفيديو AV1 على مستوى العتاد.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph"><strong>كيف تختار؟</strong> اختر البطاقة التي تناسب <strong>دقة شاشتك</strong> وميزانيتك.</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>لدقة 1080p:</strong> بطاقات مثل <code>RTX 4060</code> أو <code>RX 7600</code> أو <code>Arc A770</code> هي خيارات ممتازة.</li>
+
+
+
+<li><strong>لدقة 1440p (النقطة الذهبية):</strong> انظر لبطاقات مثل <code>RTX 5070</code>، <code>RX 9070 XT</code>، أو <code>RTX 4070 Super</code>.</li>
+
+
+
+<li><strong>لدقة 4K:</strong> أنت تنظر هنا إلى الوحوش مثل <code>RTX 5080</code> أو <code>RTX 5090</code>.</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="3_%D8%A7%D9%84%D9%84%D9%88%D8%AD%D8%A9_%D8%A7%D9%84%D8%A3%D9%85_Motherboard_%D9%87%D9%8A_%D8%A7%D9%84%D8%AC%D8%B2%D8%A1_%D8%A7%D9%84%D8%A3%D8%B3%D8%A7%D8%B3%D9%8A_%D8%A7%D9%84%D8%B0%D9%8A_%D9%8A%D8%B1%D8%A8%D8%B7_%D8%AC%D9%85%D9%8A%D8%B9_%D9%85%D9%83%D9%88%D9%86%D8%A7%D8%AA_%D8%A7%D9%84%D9%83%D9%85%D8%A8%D9%8A%D9%88%D8%AA%D8%B1_%D9%85%D8%B9%D9%8B%D8%A7"></span><strong>3. </strong>اللوحة الأم (Motherboard): هي الجزء الأساسي الذي يربط جميع مكونات الكمبيوتر معًا.<span class="ez-toc-section-end"></span></h3>
+
+
+
+<p class="wp-block-paragraph">إذا كان المعالج هو العقل وكرت الشاشة هو الروح، فإن اللوحة الأم هي العمود الفقري لجهاز الكمبيوتر. إنها القطعة التي تربط جميع المكونات معًا وتسمح لها بالتواصل. اختيار لوحة أم غير مناسبة قد يمنعك من الاستفادة الكاملة من قوة قطعك، أو قد يعيق قدرتك على الترقية لاحقًا.</p>
+
+
+
+<figure class="wp-block-image" id="attachment_94469"><img decoding="async" src="https://www.arabtechtrends.com/wp-content/uploads/2025/07/1751727738_977_تجميع-كمبيوتر-ألعاب-في-2025-دليلك-النهائي-من-الصفر-إلى.jpg" alt="صورة لوحة أم ASRock X870E Taichi" class="wp-image-94469"/><figcaption class="wp-element-caption">ASRock X870E Taichi</figcaption></figure>
+
+
+
+<p class="wp-block-paragraph">لا تقلق، اختيارها ليس معقداً كما يبدو. لنقسم القرار إلى خطوات بسيطة ومنطقية:</p>
+
+
+
+<p class="wp-block-paragraph"><strong>أ. الخطوة الأولى (الإجبارية): تحديد مقبس المعالج (Socket)</strong></p>
+
+
+
+<p class="wp-block-paragraph">هذا هو القرار الأول الذي لا تملك فيه خياراً، بل هو قرار يفرضه عليك اختيارك للمعالج.</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>إذا اخترت معالج AMD Ryzen حديث (سلسلة 7000 أو 9000):</strong> فأنت <strong>ملزم</strong> باختيار لوحة أم بمقبس <strong>AM5</strong>.</li>
+
+
+
+<li><strong>إذا اخترت معالج Intel حديث (الجيل 12، 13، أو 14):</strong> فأنت <strong>ملزم</strong> باختيار لوحة أم بمقبس <strong>LGA 1700</strong>.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph"><strong>ب. الخطوة الثانية: اختيار الشريحة (Chipset) المناسبة لاحتياجك</strong></p>
+
+
+
+<p class="wp-block-paragraph">الشريحة هي “العقل” الخاص باللوحة الأم، وهي التي تحدد الميزات التي ستحصل عليها (مثل دعم كسر السرعة، عدد منافذ USB وسرعتها، دعم PCIe 5.0، إلخ). لكل منصة، هناك فئات من الشرائح:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>لمنصة AMD (AM5):</strong>
+<ul class="wp-block-list">
+<li><strong>X670 / X670E:/X870E</strong> هذه هي الفئة العليا، موجهة للمحترفين وعشاق كسر السرعة. تقدم أقصى عدد من المنافذ، أفضل دعم لـ PCIe 5.0، وأقوى دوائر طاقة (VRMs). اخترها فقط إذا كنت تحتاج لهذه الميزات المتقدمة.</li>
+
+
+
+<li><strong>B650 / B650E:</strong> <strong>هذه هي الفئة الذهبية لمعظم الناس.</strong> تقدم كل ما يحتاجه اللاعب والمستخدم العادي، بما في ذلك دعم PCIe 5.0 (خاصة في نسخة E)، ولكن بسعر معقول جداً. هي الخيار الأذكى لمعظم تجميعات Ryzen 5 و Ryzen 7.</li>
+</ul>
+</li>
+
+
+
+<li><strong>لمنصة Intel (LGA 1700):</strong>
+<ul class="wp-block-list">
+<li><strong>Z790 / Z690:</strong> <strong>اخترها فقط إذا كان معالجك ينتهي بحرف K أو KF وتريد كسر سرعته (Overclocking)</strong>. هذه هي الشريحة الوحيدة التي تتيح لك هذه الميزة.</li>
+
+
+
+<li><strong>B760 / B660:</strong> الخيار الأذكى والأكثر اقتصادية لمعظم التجميعات. هي مثالية لكل المعالجات التي لا تنتهي بحرف K (مثل Core i5-14400F)، وتقدم كل الميزات الأساسية التي تحتاجها بأسعار ممتازة.</li>
+</ul>
+</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph"><strong>ج. الخطوة الثالثة: تحديد الحجم المناسب (Form Factor)</strong></p>
+
+
+
+<p class="wp-block-paragraph">حجم اللوحة الأم يحدد حجم صندوق الكمبيوتر (Case) الذي ستستخدمه وعدد المكونات التي يمكنك تركيبها.</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>ATX:</strong> هو الحجم القياسي والأكثر شيوعاً. يوفر أكبر عدد من فتحات التوسعة (PCIe slots) والمنافذ، وهو الأسهل في عملية تجميع وتركيب القطع. مثالي لمعظم التجميعات في صناديق Mid-Tower أو Full-Tower.</li>
+
+
+
+<li><strong>Micro-ATX (mATX):</strong> حجم أصغر وأكثر إحكاماً. هو خيار وسط ممتاز، يوفر مساحة جيدة وعدد مناسب من المنافذ، ويتناسب مع صناديق كمبيوتر أصغر حجماً. رائع للتجميعات الاقتصادية أو المدمجة.</li>
+
+
+
+<li><strong>Mini-ITX:</strong> أصغر حجم قياسي. مصمم للتجميعات الصغيرة جداً (Small Form Factor – SFF) التي يمكن وضعها على المكتب بسهولة. <strong>لكن انتبه:</strong> هي رائعة للحجم الصغير، لكنها غالباً ما تكون أغلى ثمناً، وأصعب في تجميع القطع بداخلها بسبب المساحة الضيقة، وتحتوي على أقل عدد من المنافذ والفتحات.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph"><strong>د. الخطوة الرابعة: قائمة التحقق النهائية</strong></p>
+
+
+
+<p class="wp-block-paragraph">بعد تحديد المقبس والشريحة والحجم، ألق نظرة سريعة على هذه الميزات الإضافية للتأكد من أنها تلبي احتياجاتك:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>فتحات الرام (RAM Slots):</strong> تأكد من وجود 4 فتحات على الأقل في لوحات ATX و mATX، فهذا يتيح لك الترقية مستقبلاً بسهولة. الأهم، تأكد أنها تدعم النوع الصحيح من الذاكرة (<strong>DDR4</strong> أو <strong>DDR5</strong>) المتوافق مع منصتك ومعالجك.</li>
+
+
+
+<li><strong>منافذ التخزين (M.2 Slots):</strong> كم منفذ M.2 NVMe SSD تحتاج؟ معظم اللوحات الحديثة تأتي بمنفذين على الأقل. تأكد من سرعاتها (هل تدعم PCIe 4.0 أو 5.0؟).</li>
+
+
+
+<li><strong>منافذ المراوح و RGB:</strong> هل تحتوي على عدد كافٍ من موصلات (Headers) المراوح ونظام إضاءة RGB الذي تخطط لتركيبه؟</li>
+
+
+
+<li><strong>الاتصال بالشبكة (Connectivity):</strong> هل تحتاج لـ Wi-Fi مدمج؟ ابحث عن لوحة تحتوي على Wi-Fi 6E أو 7. هل سرعة منفذ Ethernet السلكي كافية (يفضل 2.5GbE)؟</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">باختصار، اختيار اللوحة الأم هو فن الموازنة بين الميزات التي تحتاجها اليوم، إمكانيات الترقية التي تريدها للمستقبل، والميزانية المتاحة لديك.</p>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="4_%D8%A7%D9%84%D8%B0%D8%A7%D9%83%D8%B1%D8%A9_%D8%A7%D9%84%D8%B9%D8%B4%D9%88%D8%A7%D8%A6%D9%8A%D8%A9_RAM_%D8%A7%D9%84%D8%B3%D8%B1%D8%B9%D8%A9_%D9%88%D8%A7%D9%84%D9%83%D9%81%D8%A7%D8%A1%D8%A9_%D9%81%D9%8A_%D8%A7%D9%84%D8%A3%D8%AF%D8%A7%D8%A1"></span><strong>4. الذاكرة العشوائية (RAM): السرعة والكفاءة في الأداء</strong><span class="ez-toc-section-end"></span></h3>
+
+
+
+<figure class="wp-block-image" id="attachment_94470"><img decoding="async" src="https://www.arabtechtrends.com/wp-content/uploads/2025/07/1751727740_975_تجميع-كمبيوتر-ألعاب-في-2025-دليلك-النهائي-من-الصفر-إلى.jpg" alt="صورة ذاكرة عشوائية G.Skill Trident Z5 Neo RGB DDR5-6000 (2 x 16GB)" class="wp-image-94470"/><figcaption class="wp-element-caption">G.Skill Trident Z5 Neo RGB DDR5-6000 (2 x 16GB)</figcaption></figure>
+
+
+
+<p class="wp-block-paragraph">الرام هي “طاولة العمل” المؤقتة للمعالج، وكلما كانت أكبر وأسرع، زادت سلاسة النظام والألعاب. إليك ما تحتاج لمعرفته لاختيارها:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>السعة (كم جيجابايت؟):</strong>
+<ul class="wp-block-list">
+<li><strong>16GB (2x8GB):</strong> هو <strong>الحد الأدنى المقبول</strong> لتجميعة ألعاب جديدة.</li>
+
+
+
+<li><strong>32GB (2x16GB):</strong> <strong>هو الخيار الذهبي والموصى به بشدة لمعظم اللاعبين</strong>، فهو يمنحك راحة بال تامة في الألعاب والمهام المتعددة.</li>
+</ul>
+</li>
+
+
+
+<li><strong>النوع والسرعة (DDR5 أم DDR4؟):</strong>
+<ul class="wp-block-list">
+<li>اختيارك يحدده المعالج واللوحة الأم.</li>
+
+
+
+<li><strong>إذا كانت منصتك تدعم DDR5 (مثل AM5 أو Intel الحديثة):</strong> ابحث عن طقم رامات بتردد <strong>6000MHz</strong> وتواقيت <strong>CL30</strong>. هذا هو “المزيج المثالي” للأداء والقيمة.</li>
+
+
+
+<li><strong>إذا كانت منصتك تدعم DDR4 (مثل AM4 أو Intel الاقتصادية):</strong> ابحث عن طقم بتردد <strong>3200MHz</strong> وتواقيت <strong>CL16</strong>، فهو يقدم أفضل أداء مقابل السعر.</li>
+</ul>
+</li>
+
+
+
+<li><strong>⚠️ نصيحة ذهبية:</strong> اشترِ الرامات دائماً كـ <strong>“طقم” مكون من قطعتين</strong> (مثلاً <code>2x16GB</code>) للاستفادة من وضع <strong>القناة المزدوجة (Dual Channel)</strong> الذي يعطي دفعة أداء كبيرة ومجانية.</li>
+</ul>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="5_%D9%88%D8%AD%D8%AF%D8%A7%D8%AA_%D8%A7%D9%84%D8%AA%D8%AE%D8%B2%D9%8A%D9%86_Storage_%D8%B9%D8%B5%D8%B1_%D8%A7%D9%84%D8%B3%D8%B1%D8%B9%D8%A9_%D9%85%D8%B9_NVMe_SSDs"></span><strong>5. وحدات التخزين (Storage): عصر السرعة مع NVMe SSDs</strong><span class="ez-toc-section-end"></span></h3>
+
+
+
+<figure class="wp-block-image" id="attachment_94471"><img decoding="async" src="https://www.arabtechtrends.com/wp-content/uploads/2025/07/1751727740_195_تجميع-كمبيوتر-ألعاب-في-2025-دليلك-النهائي-من-الصفر-إلى.jpg" alt="وحدة تخزين WD Black SN7100 4tb" class="wp-image-94471"/><figcaption class="wp-element-caption">وحدة تخزين NVMe M.2 SSD من نوع&nbsp; WD Black SN7100 4tb</figcaption></figure>
+
+
+
+<p class="wp-block-paragraph">في عام 2025، لم تعد الأقراص الميكانيكية (HDD) خياراً لتثبيت الألعاب أو نظام التشغيل. السرعة هي كل شيء، وهنا يأتي دور الـ SSD.</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>الخيار الأساسي (الذي لا غنى عنه): NVMe M.2 SSD</strong>
+<ul class="wp-block-list">
+<li>هذا هو المعيار الجديد والضروري لأي تجميعة ألعاب. سرعته الفائقة تضمن تحميل ويندوز والألعاب في ثوانٍ.</li>
+
+
+
+<li><strong>أي جيل تختار؟</strong> <strong>PCIe Gen4</strong> هو “النقطة الذهبية” التي تقدم سرعات هائلة بسعر معقول لمعظم المستخدمين. لا داعي لدفع المزيد مقابل Gen5 للألعاب فقط.</li>
+</ul>
+</li>
+
+
+
+<li><strong>السعة الموصى بها:</strong>
+<ul class="wp-block-list">
+<li><strong>1TB:</strong> هو <strong>الحد الأدنى المقبول</strong> لبدء تجميعتك (يكفي للنظام وعدد قليل من الألعاب).</li>
+
+
+
+<li><strong>2TB:</strong> هو <strong>الحجم الذهبي والموصى به بشدة</strong> لمعظم اللاعبين، فهو يوفر مساحة واسعة لمكتبة ألعاب كبيرة.</li>
+</ul>
+</li>
+
+
+
+<li><strong>وماذا عن الأنواع الأخرى؟</strong>
+<ul class="wp-block-list">
+<li><strong>SATA SSD:</strong> لا يزال خياراً ممتازاً <strong>كمساحة تخزين ثانوية لمكتبة ألعابك الإضافية</strong> بتكلفة أقل.</li>
+
+
+
+<li><strong>HDD:</strong> أصبح دوره يقتصر فقط على كونه <strong>“أرشيفاً” للملفات الكبيرة</strong> مثل الأفلام أو النسخ الاحتياطية التي لا تحتاج لسرعة وصول.</li>
+</ul>
+</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph"><strong><em>للحصول على شرح أعمق، راجع دليلنا عن</em></strong></p>
+
+
+
+<ul class="wp-block-list">
+<li>[7 أشياء لابد من معرفتها عند شراء هارد ديسك جديد أو SSD]</li>
+
+
+
+<li>[افضل SSD: دليل شامل لأقراص SATA و NVMe]</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="6_%D9%85%D8%B2%D9%88%D8%AF_%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9_PSU_%D8%B4%D8%B1%D9%8A%D8%A7%D9%86_%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%A9_%D8%A7%D9%84%D8%B0%D9%8A_%D9%8A%D8%BA%D8%B0%D9%8A_%D8%AA%D8%AC%D9%85%D9%8A%D8%B9%D8%AA%D9%83"></span><strong>6. مزود الطاقة (PSU): شريان الحياة الذي يغذي تجميعتك</strong><span class="ez-toc-section-end"></span></h3>
+
+
+
+<figure class="wp-block-image" id="attachment_94472"><img decoding="async" src="https://www.arabtechtrends.com/wp-content/uploads/2025/07/1751727741_26_تجميع-كمبيوتر-ألعاب-في-2025-دليلك-النهائي-من-الصفر-إلى.jpg" alt="مزود الطاقة Corsair RM850x Shift" class="wp-image-94472"/><figcaption class="wp-element-caption">Corsair RM850x Shift</figcaption></figure>
+
+
+
+<p class="wp-block-paragraph">إذا كان المعالج هو العقل وكرت الشاشة هو القلب، فمزود الطاقة (PSU) هو <strong>الجهاز الدوري والدم الذي يغذي كل شيء</strong>. اختيار مزود طاقة رديء أو غير كافٍ هو أسرع طريق لعدم استقرار النظام، تعطل المكونات، أو حتى تدمير أغلى القطع في تجميعتك! <strong>لا تبخل أبداً على هذه القطعة.</strong></p>
+
+
+
+<p class="wp-block-paragraph">عند الاختيار، ركز على ثلاثة أمور:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>أ. القوة الكهربائية (Wattage) – كم واط تحتاج فعلاً؟</strong> لا تبالغ في شراء مزود طاقة بقوة 1200 واط لتجميعة متوسطة، وفي نفس الوقت لا تختر مزوداً بالكاد يكفي. إليك قاعدة عامة لتجميعات 2025:
+<ul class="wp-block-list">
+<li><strong>للتجميعات المتوسطة (مثل Core i5 + RTX 5070/4060):</strong> مزود طاقة بقدرة <strong>650W إلى 750W</strong> يعتبر نقطة بداية ممتازة وآمنة، ويمنحك مساحة للترقية.</li>
+
+
+
+<li><strong>للتجميعات العليا (مثل Core i7/i9 + RTX 5080/4070 Ti):</strong> أنت تنظر هنا إلى قدرة تتراوح بين <strong>850W إلى 1000W</strong> لضمان استقرار التشغيل تحت أقصى ضغط.</li>
+
+
+
+<li><strong>لوحوش الأداء (RTX 5090):</strong> لا تفكر في أقل من <strong>1000W</strong>، ويفضل <strong>1200W</strong> لراحة البال التامة. <em>(يمكنك استخدام حاسبات الواط أونلاين مثل “PSU Calculator” من موقع Cooler Master أو be quiet! للحصول على تقدير دقيق).</em></li>
+</ul>
+</li>
+
+
+
+<li><strong>ب. شهادة الكفاءة (80 Plus Rating) – ليست مجرد رفاهية!</strong> هذه الشهادة (Bronze, Silver, Gold, Platinum, Titanium) هي مقياس لمدى كفاءة المزود في تحويل الكهرباء من الحائط إلى جهازك. كفاءة أعلى تعني هدر طاقة أقل على شكل حرارة، مما يؤدي لفاتورة كهرباء أقل وحرارة داخل الكيس أقل.
+<ul class="wp-block-list">
+<li><strong>نصيحة “عرب تك”:</strong> لمعظم المستخدمين، شهادة <strong>80 Plus Gold</strong> تمثل أفضل توازن مثالي بين السعر الممتاز والكفاءة العالية جداً.</li>
+</ul>
+</li>
+
+
+
+<li><strong>ج. التصميم (Modularity) – لأسلاك أكثر ترتيباً:</strong> إذا كانت ميزانيتك تسمح، اختر مزود طاقة <strong>“كامل التركيب” (Fully-Modular)</strong>. هذا يسمح لك بتركيب الكابلات التي تحتاجها فقط وإزالة الباقي، مما يسهل عملية تنظيم الأسلاك (Cable Management) بشكل هائل ويحسن من تدفق الهواء داخل الكيس.</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="7_%D8%B5%D9%86%D8%AF%D9%88%D9%82_%D8%A7%D9%84%D9%83%D9%85%D8%A8%D9%8A%D9%88%D8%AA%D8%B1_Case_%D8%A7%D9%84%D9%85%D8%A3%D9%88%D9%89_%D8%A7%D9%84%D8%A3%D9%86%D9%8A%D9%82_%D9%88%D8%A7%D9%84%D9%81%D8%B9%D8%A7%D9%84"></span><strong>7. صندوق الكمبيوتر (Case): المأوى الأنيق والفعال</strong><span class="ez-toc-section-end"></span></h3>
+
+
+
+<figure class="wp-block-image" id="attachment_94473"><img decoding="async" src="https://www.arabtechtrends.com/wp-content/uploads/2025/07/1751727742_694_تجميع-كمبيوتر-ألعاب-في-2025-دليلك-النهائي-من-الصفر-إلى.jpg" alt="كيس كمبيوتر للالعاب Phanteks G400A" class="wp-image-94473"/><figcaption class="wp-element-caption">كيس كمبيوتر Phanteks G400A</figcaption></figure>
+
+
+
+<p class="wp-block-paragraph">الكيس ليس مجرد صندوق معدني جميل، بل هو “منزل” و “جهاز تنفسي” لكل قطعك الثمينة. اختياره يؤثر بشكل مباشر على درجات الحرارة، مستوى الضوضاء، وسهولة التجميع.</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>تدفق الهواء (Airflow) هو الملك:</strong> هذه هي أهم نصيحة: ابحث دائماً عن كيس بواجهة أمامية <strong>شبكية (Mesh Front Panel)</strong> بدلاً من الزجاج أو البلاستيك المصمت. الواجهة الشبكية تسمح للمراوح الأمامية بسحب كمية هائلة من الهواء البارد بسهولة، مما يخفض درجات حرارة المعالج وكرت الشاشة بشكل ملحوظ ويقلل من سرعة دوران المراوح (وبالتالي الضوضاء).</li>
+
+
+
+<li><strong>الحجم والتوافق:</strong>
+<ul class="wp-block-list">
+<li>يجب أن يتوافق حجم الكيس مع حجم اللوحة الأم التي اخترتها (ATX, Micro-ATX, Mini-ITX). كيس <strong>Mid-Tower</strong> هو الخيار الأكثر شيوعاً ويتوافق مع معظم اللوحات.</li>
+
+
+
+<li><strong>⚠️ نصيحة حاسمة:</strong> <strong>تأكد من طول كرت الشاشة!</strong> كروت الشاشة الحديثة (خاصة العليا) طويلة جداً. تحقق من أبعاد الكرت الذي اخترته (بالمليمتر)، وقارنها بالحد الأقصى لطول الكرت الذي يدعمه الكيس (تجد هذه المعلومة في صفحة مواصفات الكيس على موقع الشركة المصنعة). تأكد أيضاً من وجود مساحة كافية لارتفاع مبرد المعالج الهوائي.</li>
+</ul>
+</li>
+
+
+
+<li><strong>سهولة التجميع والميزات الإضافية:</strong> ابحث عن ميزات تسهل حياتك، مثل وجود مساحة كافية خلف اللوحة الأم لتنظيم الأسلاك، فلاتر غبار قابلة للإزالة والتنظيف، ومنافذ USB أمامية حديثة (مثل USB-C).</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="8_%D9%86%D8%B8%D8%A7%D9%85_%D8%A7%D9%84%D8%AA%D8%A8%D8%B1%D9%8A%D8%AF_Cooling_%D9%84%D9%84%D8%AD%D9%81%D8%A7%D8%B8_%D8%B9%D9%84%D9%89_%D8%A8%D8%B1%D9%88%D8%AF%D8%A9_%D8%A7%D9%84%D8%A3%D8%B9%D8%B5%D8%A7%D8%A8_%D9%88%D8%A7%D9%84%D8%A3%D8%AF%D8%A7%D8%A1"></span><strong>8. نظام التبريد (Cooling): للحفاظ على برودة الأعصاب والأداء</strong><span class="ez-toc-section-end"></span></h3>
+
+
+
+<figure class="wp-block-image" id="attachment_94474"><img decoding="async" src="https://www.arabtechtrends.com/wp-content/uploads/2025/07/1751727743_369_تجميع-كمبيوتر-ألعاب-في-2025-دليلك-النهائي-من-الصفر-إلى.jpg" alt="وحدة تبريد المعالج Corsair iCUE H170i Elite LCD XT" class="wp-image-94474"/><figcaption class="wp-element-caption">وحدة تبريد المعالج Corsair iCUE H170i Elite LCD XT</figcaption></figure>
+
+
+
+<p class="wp-block-paragraph">الحرارة هي العدو الأول للأداء. نظام التبريد الجيد لا يمنع التلف فقط، بل يضمن أن معالجك وكرت الشاشة يعملان بأقصى تردد ممكن (Boost Clock) بشكل مستقر دون “اختناق حراري”.</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>مبرد المعالج (CPU Cooler) – هوائي أم مائي؟</strong>
+<ul class="wp-block-list">
+<li><strong>مبردات الهواء (Air Coolers):</strong> هي الخيار <strong>الأبسط، الأكثر موثوقية، والأفضل قيمة لمعظم الناس</strong>. مبرد هوائي جيد من فئة “Tower Cooler” (من شركات مثل Noctua, DeepCool, Thermalright) قادر على تبريد حتى معالجات Core i7 و Ryzen 7 بكفاءة تامة.</li>
+
+
+
+<li><strong>مبردات الماء (Liquid Coolers – AIO):</strong> توفر <strong>شكلاً جمالياً أفضل</strong> و<strong>أداء تبريد أعلى</strong> في الفئة العليا، وهي <strong>موصى بها بشدة لمعالجات Core i9 و Ryzen 9</strong>، أو عند القيام بكسر سرعة متطرف. لكنها أغلى ثمناً، وتركيبها أعقد قليلاً، وتحتوي على نقاط فشل محتملة أكثر (المضخة، احتمالية التسريب).</li>
+
+
+
+<li><strong>التوصية:</strong> لتجميعة ألعاب متوسطة إلى عالية، مبرد هوائي احترافي هو كل ما تحتاجه. فكر في المبرد المائي إذا كنت تستهدف معالجات القمة أو تهتم كثيراً بالشكل الجمالي لتجميعتك.</li>
+</ul>
+</li>
+
+
+
+<li><strong>مراوح الصندوق (Case Fans) – منظومة تدفق الهواء:</strong> تبريد المعالج لا فائدة منه إذا كان الهواء داخل الكيس ساخناً ومحبوساً. القاعدة بسيطة: تحتاج لمراوح في <strong>الأمام و/أو الأسفل لسحب الهواء البارد للداخل (Intake)</strong>، ومراوح في <strong>الخلف والأعلى لدفع الهواء الساخن للخارج (Exhaust)</strong>. هذا يخلق مسار هواء (Airflow) مستمراً يحافظ على برودة كل المكونات الداخلية.</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="9_%D8%B3%D8%A7%D8%AD%D8%A9_%D8%A7%D9%84%D9%84%D8%B9%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D8%A7%D9%84%D8%B4%D8%A7%D8%B4%D8%A9_%D9%88%D8%A7%D9%84%D9%85%D9%84%D8%AD%D9%82%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B3%D8%A8%D8%A9"></span>9. <strong>ساحة اللعب: اختيار الشاشة والملحقات المناسبة</strong><span class="ez-toc-section-end"></span></h3>
+
+
+
+<figure class="wp-block-image" id="attachment_94475"><img decoding="async" src="https://www.arabtechtrends.com/wp-content/uploads/2025/07/1751727743_127_تجميع-كمبيوتر-ألعاب-في-2025-دليلك-النهائي-من-الصفر-إلى.jpg" alt="صورة محطة ألعاب كاملة .شاشة ألعاب كبيرة وكيبورد وماوس" class="wp-image-94475"/><figcaption class="wp-element-caption">محطة ألعاب كاملة .شاشة ألعاب كبيرة وكيبورد وماوس</figcaption></figure>
+
+
+
+<p class="wp-block-paragraph">لقد اخترت كل القطع الداخلية القوية لتجميعتك، وأنت على وشك بناء وحش حقيقي. لكن تذكر، كل هذه القوة لا قيمة لها إذا لم تكن لديك الأدوات الصحيحة لعرضها والتفاعل معها. الشاشة والملحقات ليست كماليات، بل هي جزء لا يتجزأ من تجربة الألعاب الكاملة والمتكاملة التي تستحقها.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>أ. شاشة الكمبيوتر: نافذتك إلى عالم الألعاب</strong></p>
+
+
+
+<p class="wp-block-paragraph">هذه هي أهم نقطة بعد اختيارك للمعالج وكرت الشاشة. القاعدة الذهبية في تجميع أجهزة الألعاب هي: <strong>يجب أن تتوافق قوة كرت الشاشة مع قدرات شاشتك.</strong></p>
+
+
+
+<p class="wp-block-paragraph">لا فائدة على الإطلاق من شراء كرت شاشة وحش مثل <code>RTX 5090</code> بمبلغ باهظ، ثم تقوم بتوصيله بشاشة قديمة بدقة 1080p ومعدل تحديث 60Hz. ستكون قد أهدرت 90% من قوة الكرت ولن تشعر بأي فارق. والعكس صحيح، لا تشتري شاشة 4K باهظة الثمن إذا كان كرت الشاشة الذي اخترته من الفئة الاقتصادية، فالأداء سيكون محبطاً جداً.</p>
+
+
+
+<p class="wp-block-paragraph">يجب أن يكون هناك تناغم بين قوة الكرت و<strong>دقة الشاشة (Resolution)</strong>، <strong>معدل تحديثها (Refresh Rate)</strong>، و<strong>زمن استجابتها (Response Time)</strong>.</p>
+
+
+
+<p class="wp-block-paragraph">لأن هذا الموضوع بحر واسع بحد ذاته، وقد خصصنا له دليلاً كاملاً يأخذ بيدك لاختيار الشاشة المثالية لتجميعتك. <strong>لا تشتري أي شاشة قبل قراءته!</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>للمزيد، راجع دليلنا الشامل عن: [</strong>أفضل شاشات الكمبيوتر لعام 2025: لكل الاستخدامات<strong>]</strong></li>
+</ul>
+
+
+
+<p class="wp-block-paragraph"><strong>ب. ملحقات الألعاب (Peripherals): أدواتك للسيطرة والاندماج</strong></p>
+
+
+
+<p class="wp-block-paragraph">تجربة الألعاب الاحترافية لا تكتمل بدون الأدوات الصحيحة التي بين يديك. الماوس الدقيق، لوحة المفاتيح ذات الاستجابة السريعة، والسماعة التي تكشف لك خطوات أعدائك، كلها عناصر تصنع الفارق بين الفوز والخسارة، وبين مجرد اللعب والاندماج الكامل في عالم اللعبة.</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>الماوس (Gaming Mouse):</strong> ابحث عن ماوس بمستشعر دقيق، وزن خفيف يناسب أسلوب لعبك، وأزرار قابلة للتخصيص.</li>
+
+
+
+<li><strong>لوحة المفاتيح (Gaming Keyboard):</strong> سواء كانت ميكانيكية أو ضوئية، ابحث عن لوحة مفاتيح ذات استجابة سريعة وميزات إضافية مثل Anti-Ghosting.</li>
+
+
+
+<li><strong>السماعات (Gaming Headset):</strong> سماعة رأس بصوت محيطي جيد (Surround Sound) ستمنحك أفضلية تنافسية كبيرة في الألعاب وتجربة غامرة لا مثيل لها في الألعاب الفردية. للمزيد, إطلع على: <strong>[</strong>دليل أفضل سماعات للألعاب<strong>]</strong></li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">الآن بعد أن اكتملت الصورة، حان الوقت لنرى كيف نجمع كل هذه القطع في تجميعات متكاملة لكل ميزانية.</p>
+
+
+
+<h2 class="wp-block-heading"><span class="ez-toc-section" id="%D8%AA%D8%AC%D9%85%D9%8A%D8%B9%D8%A7%D8%AA_%D9%83%D9%85%D8%A8%D9%8A%D9%88%D8%AA%D8%B1_%D8%A3%D9%84%D8%B9%D8%A7%D8%A8_%D9%85%D9%82%D8%AA%D8%B1%D8%AD%D8%A9_%D8%AD%D8%B3%D8%A8_%D8%A7%D9%84%D9%85%D9%8A%D8%B2%D8%A7%D9%86%D9%8A%D8%A9"></span><strong>تجميعات كمبيوتر ألعاب مقترحة حسب الميزانية</strong><span class="ez-toc-section-end"></span></h2>
+
+
+
+<p class="wp-block-paragraph">لإعطائك فكرة عملية، إليك أمثلة لـ “تجميعات كمبيوتر ألعاب” مقترحة لعام 2025. لقد صممنا كل تجميعة لتكون متوازنة وتقدم أفضل أداء ممكن ضمن فئتها السعرية.</p>
+
+
+
+<p class="wp-block-paragraph"><em>(ملاحظة: الأسعار المذكورة للقطع هي تقديرية وبدون شاشة وقد تتغير بشكل كبير حسب المنطقة والمتجر والعروض المتاحة).</em></p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="1_%D8%AA%D8%AC%D9%85%D9%8A%D8%B9%D8%A9_%D8%A7%D9%84%D9%81%D8%A6%D8%A9_%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A%D8%A9_%D9%84%D8%A3%D9%84%D8%B9%D8%A7%D8%A8_1080p_%D9%88%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85_%D8%A7%D9%84%D9%8A%D9%88%D9%85%D9%8A"></span><strong>1. تجميعة الفئة الاقتصادية (لألعاب 1080p والاستخدام اليومي)</strong><span class="ez-toc-section-end"></span></h3>
+
+
+
+<ul class="wp-block-list">
+<li><strong>الهدف من التجميعة:</strong> بناء جهاز كمبيوتر قوي واقتصادي، قادر على تشغيل جميع الألعاب التنافسية (e-sports) بمعدل إطارات مرتفع جداً، وتجربة أحدث الألعاب الفردية (AAA games) على دقة 1080p بإعدادات رسومية جيدة إلى عالية بمعدل 60 إطاراً في الثانية أو أكثر.</li>
+
+
+
+<li><strong>التكلفة التقديرية:</strong> 650 – 850 دولار أمريكي.</li>
+</ul>
+
+
+
+<figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><td>المكون (Component)</td><td>الاختيار المقترح (Suggested Choice)</td></tr></thead><tbody><tr><td><strong>المعالج (CPU)</strong></td><td>Intel Core i5-12400F</td></tr><tr><td><strong>كرت الشاشة (GPU)</strong></td><td>Nvidia GeForce RTX 4060 8GB</td></tr><tr><td><strong>اللوحة الأم (Motherboard)</strong></td><td>شريحة B760 مع دعم ذاكرة DDR4</td></tr><tr><td><strong>الذاكرة العشوائية (RAM)</strong></td><td>16GB (2x8GB) DDR4 3200MHz CL16</td></tr><tr><td><strong>وحدة التخزين (Storage)</strong></td><td>1TB NVMe M.2 PCIe Gen3/Gen4 SSD</td></tr><tr><td><strong>مزود الطاقة (PSU)</strong></td><td>650W 80+ Bronze من ماركة موثوقة</td></tr><tr><td><strong>صندوق الكمبيوتر (Case)</strong></td><td>أي كيس Mid-Tower بواجهة أمامية شبكية (Mesh)</td></tr></tbody></table></figure>
+
+
+
+<p class="wp-block-paragraph">تجميعة كمبيوتر العاب إقتصادي بقيمة 650-850 دولار أمريكي</p>
+
+
+
+<p class="wp-block-paragraph"><strong>لماذا هذه التجميعة؟</strong> هذه هي التجميعة “الذكية” للميزانية المحدودة. لقد اخترنا معالج <strong>i5-12400F</strong> لأنه يقدم 6 أنوية أداء قوية بسعر اقتصادي جداً. وعند إقرانه مع كرت <strong>RTX 4060</strong>، يمكنك الاستفادة من تقنية <strong>DLSS 3 Frame Generation</strong> للحصول على معدل إطارات ممتاز حتى في الألعاب الثقيلة. الاعتماد على ذاكرة <strong>DDR4</strong> ولوحة أم بشريحة B760 يقلل من التكلفة الإجمالية بشكل كبير دون التضحية بالكثير من الأداء الفعلي في الألعاب.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="2_%D8%AA%D8%AC%D9%85%D9%8A%D8%B9%D8%A9_%D8%A7%D9%84%D9%81%D8%A6%D8%A9_%D8%A7%D9%84%D9%85%D8%AA%D9%88%D8%B3%D8%B7%D8%A9_%D8%A7%D9%84%D9%86%D9%82%D8%B7%D8%A9_%D8%A7%D9%84%D8%B0%D9%87%D8%A8%D9%8A%D8%A9_%D9%84%D8%A3%D9%84%D8%B9%D8%A7%D8%A8_1440p"></span><strong>2. تجميعة الفئة المتوسطة (النقطة الذهبية لألعاب 1440p)</strong><span class="ez-toc-section-end"></span></h3>
+
+
+
+<ul class="wp-block-list">
+<li><strong>الهدف من التجميعة:</strong> هذه هي التجميعة المثالية لمعظم اللاعبين الجادين. هي مصممة لتقديم تجربة لعب فائقة السلاسة على دقة 1440p (QHD) بإعدادات رسومية عالية، مع القدرة على الاستمتاع بتقنيات تتبع الأشعة.</li>
+
+
+
+<li><strong>التكلفة التقديرية:</strong> 1200 – 1600 دولار أمريكي.</li>
+</ul>
+
+
+
+<figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><td>المكون (Component)</td><td>الاختيار المقترح (Suggested Choice)</td></tr></thead><tbody><tr><td><strong>المعالج (CPU)</strong></td><td>Intel Core i5-14600KF</td></tr><tr><td><strong>مبرد المعالج</strong></td><td>مبرد هوائي احترافي متوسط (Mid-range Tower Air Cooler)</td></tr><tr><td><strong>كرت الشاشة (GPU)</strong></td><td>Nvidia GeForce RTX 4070 Super 12GB</td></tr><tr><td><strong>اللوحة الأم (Motherboard)</strong></td><td>شريحة Z790 مع دعم ذاكرة DDR5</td></tr><tr><td><strong>الذاكرة العشوائية (RAM)</strong></td><td>32GB (2x16GB) DDR5 6000MHz CL30</td></tr><tr><td><strong>وحدة التخزين (Storage)</strong></td><td>2TB NVMe M.2 PCIe Gen4 SSD</td></tr><tr><td><strong>مزود الطاقة (PSU)</strong></td><td>750W 80+ Gold كامل التركيب (Fully Modular)</td></tr><tr><td><strong>صندوق الكمبيوتر (Case)</strong></td><td>كيس Mid-Tower ذو تدفق هواء عالٍ (High Airflow)</td></tr></tbody></table></figure>
+
+
+
+<p class="wp-block-paragraph"><strong>لماذا هذه التجميعة؟</strong> إنها “النقطة الذهبية” بكل معنى الكلمة. معالج <strong>i5-14600KF</strong> يقدم أداء ألعاب من الطراز الرفيع بفضل تردداته العالية، بالإضافة إلى 14 نواة للمهام المتعددة. كرت <strong>RTX 4070 Super</strong> هو وحش حقيقي على دقة 1440p، ويمنحك قوة كافية لتشغيل كل شيء بأعلى الإعدادات كما يمكنك النظر إلى أو <strong>AMD Radeon RX 7800 XT </strong>بسعر أقل وأداء أقل نسبياً أو&nbsp; متساو في بعض المهام. مع <strong>32GB من ذاكرة DDR5</strong> السريعة و<strong>2TB من تخزين NVMe</strong>، هذه التجميعة ليست فقط للألعاب، بل هي جاهزة لأي مهمة إنتاجية أو إبداعية تلقيها عليها.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="3_%D8%AA%D8%AC%D9%85%D9%8A%D8%B9%D8%A9_%D9%83%D9%85%D8%A8%D9%8A%D9%88%D8%AA%D8%B1_%D8%A3%D9%84%D8%B9%D8%A7%D8%A8_%D8%A7%D9%84%D9%81%D8%A6%D8%A9_%D8%A7%D9%84%D8%B9%D9%84%D9%8A%D8%A7_%D9%84%D9%88%D8%AD%D9%88%D8%B4_%D8%AF%D9%82%D8%A9_4K_%D9%88%D8%A7%D9%84%D8%A3%D8%AF%D8%A7%D8%A1_%D8%A7%D9%84%D9%81%D8%A7%D8%A6%D9%82"></span><strong>3. تجميعة كمبيوتر ألعاب الفئة العليا (لوحوش دقة 4K والأداء الفائق)</strong><span class="ez-toc-section-end"></span></h3>
+
+
+
+<ul class="wp-block-list">
+<li><strong>الهدف من التجميعة:</strong> لمن لا يقبل بالتنازلات. هذه التجميعة مصممة لتقديم تجربة لعب سينمائية على دقة 4K، أو معدلات إطارات تنافسية جداً على دقة 1440p، وهي أيضاً محطة عمل قوية جداً.</li>
+
+
+
+<li><strong>التكلفة التقديرية:</strong> 2000 – 2800 دولار أمريكي.</li>
+</ul>
+
+
+
+<figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><td>المكون (Component)</td><td>الاختيار المقترح (Suggested Choice)</td></tr></thead><tbody><tr><td><strong>المعالج (CPU)</strong></td><td>AMD Ryzen 7 7800X3D</td></tr><tr><td><strong>مبرد المعالج</strong></td><td>مبرد مائي مغلق 280mm/360mm AIO أو مبرد هوائي ضخم</td></tr><tr><td><strong>كرت الشاشة (GPU)</strong></td><td>Nvidia GeForce RTX 5080 20GB</td></tr><tr><td><strong>اللوحة الأم (Motherboard)</strong></td><td>شريحة B650E أو X670</td></tr><tr><td><strong>الذاكرة العشوائية (RAM)</strong></td><td>32GB (2x16GB) DDR5 6000MHz CL30 (أو أسرع)</td></tr><tr><td><strong>وحدة التخزين (Storage)</strong></td><td>2TB NVMe M.2 PCIe Gen4/Gen5 SSD فائق السرعة</td></tr><tr><td><strong>مزود الطاقة (PSU)</strong></td><td>850W – 1000W 80+ Gold كامل التركيب (Fully Modular)</td></tr><tr><td><strong>صندوق الكمبيوتر (Case)</strong></td><td>كيس Mid-Tower أو Full-Tower فاخر بتدفق هواء ممتاز</td></tr></tbody></table></figure>
+
+
+
+<p class="wp-block-paragraph">تجميعة كمبيوتر ألعاب فئة عالية لدقة 4K</p>
+
+
+
+<p class="wp-block-paragraph"><strong>لماذا هذه التجميعة؟</strong> هنا نركز على أفضل أداء ممكن للألعاب. معالج <strong>Ryzen 7 7800X3D</strong> هو ملك الألعاب بلا منازع بفضل تقنية 3D V-Cache. وعند إقرانه مع وحش الجيل الجديد <strong>RTX 5080</strong>، فإن هذه التجميعة قادرة على تقديم تجربة 4K مذهلة بإعدادات عالية مع تتبع الأشعة. كل المكونات الأخرى (الرام السريعة، الـ NVMe فائق السرعة، ومزود الطاقة القوي) تم اختيارها لتضمن عدم وجود أي عنق زجاجة، ولتقدم أداءً مستقراً وفائقاً في كل الظروف.</p>
+
+
+
+<h2 class="wp-block-heading"><span class="ez-toc-section" id="%D8%AF%D9%84%D9%8A%D9%84_%D8%AA%D8%AC%D9%85%D9%8A%D8%B9_%D9%82%D8%B7%D8%B9_%D8%A7%D9%84%D9%83%D9%85%D8%A8%D9%8A%D9%88%D8%AA%D8%B1_%D8%AE%D8%B7%D9%88%D8%A9_%D8%A8%D8%AE%D8%B7%D9%88%D8%A9_%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1"></span>دليل تجميع قطع الكمبيوتر خطوة بخطوة بالصور<span class="ez-toc-section-end"></span></h2>
+
+
+
+<p class="wp-block-paragraph">الآن نصل إلى الجزء الأكثر إثارة! هذه هي <strong>خطوات تجميع البي سي بالصور</strong> التي ستوجهك خلال العملية. تذكر، خذ وقتك في كل خطوة وكن حذرًا.</p>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="%D8%A7%D9%84%D8%A3%D8%AF%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D8%AA%D9%8A_%D8%B3%D8%AA%D8%AD%D8%AA%D8%A7%D8%AC%D9%87%D8%A7_%D9%84%D8%AA%D8%AC%D9%85%D9%8A%D8%B9_%D8%AC%D9%87%D8%A7%D8%B2_%D8%A7%D9%84%D9%83%D9%85%D8%A8%D9%8A%D9%88%D8%AA%D8%B1"></span>الأدوات التي ستحتاجها لتجميع جهاز الكمبيوتر<span class="ez-toc-section-end"></span></h3>
+
+
+
+<p class="wp-block-paragraph">لحسن الحظ، لا تحتاج إلى مجموعة كبيرة من أدوات تجميع الكمبيوتر. معظم ما ستحتاجه متوفر بسهولة، وبعضه قد يكون لديك بالفعل:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>مفك براغي (Philips head):</strong> هذا هو الأداة الأكثر أهمية. تأكد من أن لديك مفكًا واحدًا على الأقل بحجم مناسب (عادةً PH2).</li>
+
+
+
+<li><strong>أربطة كيبلات (Zip Ties أو Velcro Straps):</strong> ضرورية لإدارة الكابلات لجعل التجميعة تبدو نظيفة وتحسين تدفق الهواء.</li>
+
+
+
+<li><strong>قفازات مضادة للكهرباء الساكنة (ESD Strap) أو معصم مضاد للكهرباء الساكنة (ESD Wrist Strap):</strong> هذه الأداة اختيارية لكنها موصى بها بشدة لحماية المكونات الحساسة من التفريغ الكهربائي الساكن. إذا لم يكن لديك، يمكنك لمس سطح معدني غير مطلي (مثل هيكل الصندوق) بشكل دوري لتفريغ الشحنات من جسمك.</li>
+
+
+
+<li><strong>مصباح يدوي صغير:</strong> مفيد لإضاءة المناطق الضيقة داخل الصندوق.</li>
+
+
+
+<li><strong>قطعة قماش ناعمة أو مناديل ورقية:</strong> لتنظيف أي بصمات أو بقع على المكونات، خاصة المعالج أو اللوحة الأم.</li>
+
+
+
+<li><strong>مقص صغير:</strong> لقطع أربطة الكابلات.</li>
+</ul>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://www.arabtechtrends.com/wp-content/uploads/2025/07/تجميع-كمبيوتر-ألعاب-في-2025-دليلك-النهائي-من-الصفر-إلى.png" alt="الاستعداد قبل البدء في تجميع الكمبيوتر " class="wp-image-94387"/></figure>
+
+
+
+<p class="wp-block-paragraph"><strong>الاستعداد قبل البدء</strong></p>
+
+
+
+<ol class="wp-block-list">
+<li><strong>اختر منطقة عمل نظيفة ومضاءة جيدًا:</strong> يفضل أن تكون على طاولة كبيرة لسهولة الوصول إلى جميع المكونات.</li>
+
+
+
+<li><strong>تفريغ الشحنات الساكنة:</strong> ارتدِ سوار ESD إذا كان لديك، أو لمس هيكل الصندوق المعدني غير المطلي بشكل متكرر لتفريغ أي شحنات قد تضر المكونات الحساسة.</li>
+
+
+
+<li><strong>افتح جميع الصناديق:</strong> أخرج المكونات بحذر وضعها بطريقة منظمة على الطاولة.</li>
+</ol>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="1_%D8%AA%D8%AB%D8%A8%D9%8A%D8%AA_%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D9%84%D8%AC_%D8%B9%D9%84%D9%89_%D8%A7%D9%84%D9%84%D9%88%D8%AD%D8%A9_%D8%A7%D9%84%D8%A3%D9%85"></span>1. تثبيت المعالج على اللوحة الأم<span class="ez-toc-section-end"></span></h3>
+
+
+
+<p class="wp-block-paragraph"><strong>المعالج هو أول ما يتم تركيبه على اللوحة الأم، وقم بذلك قبل وضع اللوحة الأم داخل الصندوق.</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>افتح ذراع قفل مقبس المعالج:</strong> يوجد ذراع صغير بجانب المقبس، ادفعه لأسفل ثم حركه جانبيًا.</li>
+
+
+
+<li><strong>أزل الغطاء البلاستيكي للمقبس:</strong> حافظ عليه تحسبًا للحاجة إليه مستقبلاً.</li>
+
+
+
+<li><strong>أمسك المعالج من الجوانب:</strong> لا تلمس الأطراف الذهبية أو دبابيس المعالج (إذا كانت موجودة).</li>
+
+
+
+<li><strong>طابق المثلث الصغير أو الشقوق:</strong> يوجد مثلث ذهبي صغير على زاوية المعالج ومثلث مطابق على المقبس في اللوحة الأم. قم بمحاذاتهما بعناية.</li>
+
+
+
+<li><strong>ضع المعالج برفق:</strong> دعه يسقط في مكانه بوزنه الخاص. لا تضغط عليه أبدًا.</li>
+
+
+
+<li><strong>أغلق ذراع القفل:</strong> أعد الذراع إلى مكانه الأصلي لتأمين المعالج.</li>
+</ul>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://www.arabtechtrends.com/wp-content/uploads/2025/07/1751727745_144_تجميع-كمبيوتر-ألعاب-في-2025-دليلك-النهائي-من-الصفر-إلى.png" alt="تثبيت المعالج على اللوحة الأم" class="wp-image-94388"/></figure>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="2_%D8%AA%D8%B1%D9%83%D9%8A%D8%A8_%D9%86%D8%B8%D8%A7%D9%85_%D8%A7%D9%84%D8%AA%D8%A8%D8%B1%D9%8A%D8%AF"></span>2. تركيب نظام التبريد<span class="ez-toc-section-end"></span></h3>
+
+
+
+<p class="wp-block-paragraph">سواء كان مبرد هواء أو مبرد مائي، يجب تركيبه بعد المعالج.</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>تطبيق المعجون الحراري (Thermal Paste):</strong> إذا لم يكن المبرد يأتي بمعجون حراري مُطبق مسبقًا، ضع قطرة صغيرة بحجم حبة الأرز في منتصف المعالج.</li>
+
+
+
+<li><strong>ثبت المبرد على المعالج:</strong> اتبع تعليمات المبرد الخاص بك. بعضها يتطلب براغي، والبعض الآخر مشابك. تأكد من إحكام التثبيت لضمان أفضل تلامس.</li>
+
+
+
+<li><strong>وصل كابل مروحة المبرد:</strong> ابحث عن منفذ “CPU_FAN” على اللوحة الأم ووصل كابل مروحة المبرد به.</li>
+</ul>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://www.arabtechtrends.com/wp-content/uploads/2025/07/1751727747_637_تجميع-كمبيوتر-ألعاب-في-2025-دليلك-النهائي-من-الصفر-إلى.png" alt="تركيب نظام التبريد" class="wp-image-94389"/></figure>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="3_%D8%AA%D8%B1%D9%83%D9%8A%D8%A8_%D8%A7%D9%84%D8%B0%D8%A7%D9%83%D8%B1%D8%A9_%D8%A7%D9%84%D8%B9%D8%B4%D9%88%D8%A7%D8%A6%D9%8A%D8%A9_RAM"></span>3. تركيب الذاكرة العشوائية (RAM)<span class="ez-toc-section-end"></span></h3>
+
+
+
+<ul class="wp-block-list">
+<li><strong>افتح مشابك الفتحات:</strong> على جانبي فتحات الـRAM، يوجد مشبكان صغيران (قد يكون أحدهما فقط متحركًا في بعض اللوحات). ادفعهما للخارج.</li>
+
+
+
+<li><strong>طابق الشق:</strong> يوجد شق صغير في أسفل كل وحدة RAM. طابقه مع الشق الموجود في فتحة الـRAM على اللوحة الأم.</li>
+
+
+
+<li><strong>اضغط بقوة متساوية على الطرفين:</strong> ضع وحدة RAM في الفتحة واضغط بقوة متساوية على كلا الطرفين حتى تسمع “طقطقة” وتغلق المشابك تلقائيًا.</li>
+
+
+
+<li><strong>استخدم الفتحات الصحيحة:</strong> إذا كنت تستخدم وحدتي RAM، تأكد من تركيبهما في الفتحات الموصى بها في دليل اللوحة الأم لتحقيق أفضل أداء (عادةً ما تكون الفتحات 2 و 4).</li>
+</ul>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://www.arabtechtrends.com/wp-content/uploads/2025/07/1751727748_165_تجميع-كمبيوتر-ألعاب-في-2025-دليلك-النهائي-من-الصفر-إلى.png" alt="صورة لتركيب الذاكرة العشوائية (RAM)" class="wp-image-94390"/></figure>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="4_%D8%AA%D8%AC%D9%87%D9%8A%D8%B2_%D8%B5%D9%86%D8%AF%D9%88%D9%82_%D8%A7%D9%84%D9%83%D9%85%D8%A8%D9%8A%D9%88%D8%AA%D8%B1"></span>4. تجهيز صندوق الكمبيوتر<span class="ez-toc-section-end"></span></h3>
+
+
+
+<ul class="wp-block-list">
+<li><strong>تركيب مسامير التثبيت (Standoffs):</strong> تأكد من أن مسامير التثبيت الخاصة باللوحة الأم مثبتة في الصندوق في الأماكن الصحيحة التي تتوافق مع حجم لوحتك الأم (ATX, Micro-ATX, Mini-ITX).</li>
+
+
+
+<li><strong>تثبيت الدرع الخلفي (I/O Shield):</strong> إذا كان غير مدمج باللوحة الأم، قم بتثبيته في الفتحة المخصصة له في الجزء الخلفي من الصندوق. تأكد من أن الجزء المطبوع عليه الجهة الصحيحة.</li>
+</ul>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://www.arabtechtrends.com/wp-content/uploads/2025/07/1751727748_309_تجميع-كمبيوتر-ألعاب-في-2025-دليلك-النهائي-من-الصفر-إلى.png" alt="تجهيز صندوق الكمبيوتر" class="wp-image-94391"/></figure>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="5_%D8%AA%D8%B1%D9%83%D9%8A%D8%A8_%D8%A7%D9%84%D9%84%D9%88%D8%AD%D8%A9_%D8%A7%D9%84%D8%A3%D9%85_%D9%81%D9%8A_%D8%A7%D9%84%D8%B5%D9%86%D8%AF%D9%88%D9%82"></span>5. تركيب اللوحة الأم في الصندوق<span class="ez-toc-section-end"></span></h3>
+
+
+
+<ul class="wp-block-list">
+<li><strong>ضع اللوحة الأم بحذر:</strong> قم بمحاذاة اللوحة الأم مع مسامير التثبيت وثقوب الدرع الخلفي في الصندوق.</li>
+
+
+
+<li><strong>ثبت اللوحة الأم بالبراغي:</strong> استخدم البراغي المناسبة التي تأتي مع الصندوق لتثبيت اللوحة الأم على مسامير التثبيت. لا تفرط في الشد.</li>
+</ul>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://www.arabtechtrends.com/wp-content/uploads/2025/07/1751727749_91_تجميع-كمبيوتر-ألعاب-في-2025-دليلك-النهائي-من-الصفر-إلى.png" alt="تركيب اللوحة الأم في الصندوق" class="wp-image-94392"/></figure>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="6_%D8%AA%D8%B1%D9%83%D9%8A%D8%A8_%D8%A8%D8%B7%D8%A7%D9%82%D8%A9_%D8%A7%D9%84%D8%B1%D8%B3%D9%88%D9%85%D9%8A%D8%A7%D8%AA_GPU"></span>6. تركيب بطاقة الرسوميات (GPU)<span class="ez-toc-section-end"></span></h3>
+
+
+
+<ul class="wp-block-list">
+<li><strong>حدد فتحة PCIe الرئيسية:</strong> عادة ما تكون فتحة PCIe x16 العلوية (الأقرب للمعالج) هي الأفضل لبطاقة الرسوميات.</li>
+
+
+
+<li><strong>أزل أغطية الفتحات الخلفية:</strong> أزل الأغطية المعدنية المقابلة للفتحة التي ستستخدمها في الجزء الخلفي من الصندوق.</li>
+
+
+
+<li><strong>افتح المشبك:</strong> اضغط على المشبك البلاستيكي الصغير الموجود في نهاية فتحة PCIe لفتحه.</li>
+
+
+
+<li><strong>ضع بطاقة الرسوميات برفق:</strong> قم بمحاذاة البطاقة مع الفتحة واضغط عليها برفق وبقوة متساوية حتى تستقر في مكانها وتسمع صوت “طقطقة” من المشبك.</li>
+
+
+
+<li><strong>ثبت البطاقة بالبراغي:</strong> استخدم البراغي لتثبيت بطاقة الرسوميات في الجزء الخلفي من الصندوق.</li>
+
+
+
+<li><strong>وصل كابلات الطاقة:</strong> وصل كابلات الطاقة المخصصة لبطاقة الرسوميات من مزود الطاقة. تأكد من توصيل جميع المنافذ المطلوبة على البطاقة.</li>
+</ul>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://www.arabtechtrends.com/wp-content/uploads/2025/07/1751727750_106_تجميع-كمبيوتر-ألعاب-في-2025-دليلك-النهائي-من-الصفر-إلى.png" alt="تركيب بطاقة الرسوميات (GPU)" class="wp-image-94384"/></figure>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="7_%D8%AA%D8%B1%D9%83%D9%8A%D8%A8_%D9%88%D8%AD%D8%AF%D8%A7%D8%AA_%D8%A7%D9%84%D8%AA%D8%AE%D8%B2%D9%8A%D9%86_SSDHDDNVMe"></span>7. تركيب وحدات التخزين (SSD/HDD/NVMe)<span class="ez-toc-section-end"></span></h3>
+
+
+
+<p class="wp-block-paragraph">تختلف طريقة التركيب حسب نوع وحدة التخزين ومكانها في الصندوق:</p>
+
+
+
+<p class="wp-block-paragraph"><strong>NVMe SSD:</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li>حدد منفذ M.2 على اللوحة الأم (قد يكون أسفل غطاء حراري صغير).</li>
+
+
+
+<li>أدخل الـNVMe SSD بزاوية في الفتحة.</li>
+
+
+
+<li>ادفعه لأسفل وثبته بالمسمار الصغير المخصص (غالبًا ما يكون المسمار وقطعة التثبيت موجودة مع اللوحة الأم).&nbsp;</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph"><strong>SSD 2.5 بوصة / HDD 3.5 بوصة:</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li>ابحث عن أماكن تثبيت الأقراص في الصندوق (غالبًا تكون أقفاص أو فتحات مخصصة).</li>
+
+
+
+<li>أدخل القرص وثبته بالبراغي أو المشابك المخصصة.</li>
+
+
+
+<li>وصل كابل البيانات (SATA) من القرص إلى اللوحة الأم.</li>
+
+
+
+<li>وصل كابل الطاقة (SATA Power) من مزود الطاقة إلى القرص.</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="8_%D8%AA%D8%B1%D9%83%D9%8A%D8%A8_%D9%85%D8%B2%D9%88%D8%AF_%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9_%D9%88%D8%AA%D9%88%D8%B5%D9%8A%D9%84_%D8%A7%D9%84%D9%83%D8%A7%D8%A8%D9%84%D8%A7%D8%AA"></span>8. تركيب مزود الطاقة وتوصيل الكابلات<span class="ez-toc-section-end"></span></h3>
+
+
+
+<p class="wp-block-paragraph"><strong>ضع مزود الطاقة في مكانه:</strong> يقع مزود الطاقة عادةً في الجزء السفلي أو العلوي الخلفي من الصندوق.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>ثبته بالبراغي:</strong> استخدم البراغي الأربعة المرفقة مع مزود الطاقة لتثبيته في مكانه.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>وصل الكابلات الرئيسية:</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>كابل الطاقة الرئيسي للوحة الأم (20+4 Pin ATX):</strong> هو أكبر كابل، وصله بالمنفذ الكبير على اللوحة الأم.</li>
+
+
+
+<li><strong>كابل طاقة المعالج (4+4 Pin EPS):</strong> وصله بالمنفذ المخصص للمعالج (عادةً في الجزء العلوي الأيسر من اللوحة الأم).</li>
+
+
+
+<li><strong>كابلات طاقة بطاقة الرسوميات (PCIe Power):</strong> وصلها ببطاقة الرسوميات (كما ذكرنا سابقًا).</li>
+
+
+
+<li><strong>كابلات طاقة وحدات التخزين (SATA Power):</strong> وصلها بوحدات التخزين.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph"><strong>وصل كابلات اللوحة الأم الأمامية (Front Panel Connectors):</strong> هذه الكابلات الصغيرة تأتي من الجزء الأمامي للصندوق (أزرار التشغيل، إعادة التشغيل، منافذ USB الأمامية، الصوت). هذه الخطوة تتطلب بعض الدقة. استشر دليل اللوحة الأم الخاص بك بعناية لتحديد أماكن التوصيل الصحيحة لكل كابل.</p>
+
+
+
+<figure class="wp-block-image"><img decoding="async" src="https://www.arabtechtrends.com/wp-content/uploads/2025/07/1751727751_721_تجميع-كمبيوتر-ألعاب-في-2025-دليلك-النهائي-من-الصفر-إلى.png" alt="تركيب مزود الطاقة وتوصيل الكابلات" class="wp-image-94385"/></figure>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="9_%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9_%D8%A7%D9%84%D9%83%D8%A7%D8%A8%D9%84%D8%A7%D8%AA_Cable_Management"></span>9. إدارة الكابلات (Cable Management)<span class="ez-toc-section-end"></span></h3>
+
+
+
+<p class="wp-block-paragraph">هذه الخطوة ليست إلزامية لتشغيل الجهاز، لكنها مهمة جدًا لتحسين تدفق الهواء داخل الصندوق وجعل مظهر التجميعة أنظف وأكثر احترافية.</p>
+
+
+
+<ul class="wp-block-list">
+<li>استخدم الفتحات الخلفية والمخصصة في الصندوق لتمرير الكابلات من خلف اللوحة الأم.</li>
+
+
+
+<li>استخدم أربطة الكابلات (Zip Ties أو Velcro Straps) لتجميع الكابلات معًا وترتيبها.</li>
+
+
+
+<li>اهدف إلى تقليل عدد الكابلات المكشوفة قدر الإمكان.</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="10_%D8%A7%D9%84%D9%81%D8%AD%D8%B5_%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%8A_%D9%88%D8%A7%D9%84%D8%AA%D8%A3%D9%83%D8%AF_%D9%85%D9%86_%D8%A7%D9%84%D8%AA%D9%88%D8%B5%D9%8A%D9%84%D8%A7%D8%AA"></span>10. الفحص الأولي والتأكد من التوصيلات<span class="ez-toc-section-end"></span></h3>
+
+
+
+<p class="wp-block-paragraph">قبل إغلاق الصندوق وتشغيل الجهاز، قم بفحص سريع لضمان أن كل شيء في مكانه الصحيح:</p>
+
+
+
+<ul class="wp-block-list">
+<li>تأكد من إحكام جميع الكابلات: خاصة كابلات الطاقة للمعالج واللوحة الأم وبطاقة الرسوميات.</li>
+
+
+
+<li>تأكد من تثبيت جميع المكونات: المعالج، الذاكرة، بطاقة الرسوميات، وحدات التخزين.</li>
+
+
+
+<li>تأكد من توصيل جميع مراوح الصندوق: بمنفذ “FAN” على اللوحة الأم.</li>
+
+
+
+<li>راجع كابلات اللوحة الأم الأمامية: تأكد من أنها موصلة بشكل صحيح.</li>
+</ul>
+
+
+
+<h2 class="wp-block-heading"><span class="ez-toc-section" id="%D9%85%D8%A7%D8%B0%D8%A7_%D8%AA%D9%81%D8%B9%D9%84_%D8%A8%D8%B9%D8%AF_%D8%AA%D8%AC%D9%85%D9%8A%D8%B9_%D8%A7%D9%84%D9%83%D9%85%D8%A8%D9%8A%D9%88%D8%AA%D8%B1%D8%9F_%D8%AF%D9%84%D9%8A%D9%84_%D8%AE%D8%B7%D9%88%D8%A7%D8%AA_%D9%85%D8%A7_%D8%A8%D8%B9%D8%AF_%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A8"></span><strong>ماذا تفعل بعد تجميع الكمبيوتر؟ (دليل خطوات ما بعد التركيب)</strong><span class="ez-toc-section-end"></span></h2>
+
+
+
+<p class="wp-block-paragraph">تهانينا! لقد قمت بتركيب كل القطع في مكانها الصحيح، وأغلقت الكيس، والآن أنت تنظر إلى تجميعة أحلامك. لكن العمل لم ينته بعد! هذه المرحلة هي مرحلة “بث الروح” في العتاد، وهي لا تقل أهمية عن مرحلة التركيب.</p>
+
+
+
+<p class="wp-block-paragraph">اتبع هذه الخطوات بالترتيب لضمان أن جهازك جاهز للانطلاق بأفضل أداء ممكن.</p>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="1_%D8%A7%D9%84%D8%A5%D9%82%D9%84%D8%A7%D8%B9_%D8%A7%D9%84%D8%A3%D9%88%D9%84_%D9%88%D8%A7%D9%84%D8%AA%D8%AD%D9%82%D9%82_%D9%85%D9%86_%D8%A7%D9%84%D9%80_BIOSUEFI_%D9%84%D8%AD%D8%B8%D8%A9_%D8%A7%D9%84%D8%AD%D9%82%D9%8A%D9%82%D8%A9"></span><strong>1. الإقلاع الأول والتحقق من الـ BIOS/UEFI (لحظة الحقيقة!)</strong><span class="ez-toc-section-end"></span></h3>
+
+
+
+<p class="wp-block-paragraph">قبل تثبيت ويندوز، الخطوة الأولى دائماً هي التأكد من أن كل شيء على ما يرام على مستوى العتاد.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>الإجراء:</strong> قم بتوصيل كابل الطاقة وشاشة العرض ولوحة المفاتيح فقط. شغل الكمبيوتر، وفوراً ابدأ بالضغط بشكل متكرر على المفتاح المخصص للدخول إلى إعدادات الـ BIOS/UEFI (عادةً ما يكون مفتاح <strong><code>Delete</code></strong> أو <strong><code>F2</code></strong>، وسيظهر على الشاشة عند بدء التشغيل).</p>
+
+
+
+<p class="wp-block-paragraph"><strong>قائمة التحقق:</strong> داخل واجهة الـ BIOS/UEFI، أنت لا تحتاج لتغيير أي شيء الآن، فقط تحقق من أن اللوحة الأم قد تعرفت على مكوناتك الأساسية:</p>
+
+
+
+<ul class="wp-block-list">
+<li>هل يظهر <strong>اسم المعالج (CPU)</strong> بشكل صحيح؟</li>
+
+
+
+<li>هل تظهر <strong>كمية الذاكرة العشوائية (RAM)</strong> التي قمت بتركيبها بالكامل (مثلاً 16GB أو 32GB)؟</li>
+
+
+
+<li>هل تظهر <strong>وحدات التخزين (Storage)</strong> التي قمت بتركيبها (NVMe SSD أو SATA SSD)؟</li>
+
+
+
+<li>إذا كانت كل هذه القطع ظاهرة، فهذه علامة ممتازة جداً وتدل على أن تركيبك المبدئي ناجح!</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="2_%D8%AA%D9%81%D8%B9%D9%8A%D9%84_%D9%85%D9%84%D9%81%D8%A7%D8%AA_%D8%AA%D8%B9%D8%B1%D9%8A%D9%81_%D8%A7%D9%84%D8%B1%D8%A7%D9%85_XMPEXPO_%E2%80%93_%D8%AE%D8%B7%D9%88%D8%A9_%D9%84%D8%A7_%D9%8A%D9%85%D9%83%D9%86_%D8%AA%D9%81%D9%88%D9%8A%D8%AA%D9%87%D8%A7"></span><strong>2. تفعيل ملفات تعريف الرام (XMP/EXPO) – خطوة لا يمكن تفويتها!</strong><span class="ez-toc-section-end"></span></h3>
+
+
+
+<figure class="wp-block-image" id="attachment_94458"><img decoding="async" src="https://www.arabtechtrends.com/wp-content/uploads/2025/07/1751727752_390_تجميع-كمبيوتر-ألعاب-في-2025-دليلك-النهائي-من-الصفر-إلى.jpg" alt="تفعيل ملفات تعريف الرام XMP" class="wp-image-94458"/><figcaption class="wp-element-caption">تفعيل ملفات تعريف الرام XMP في لوحة إنتل. مصدر الصورة: <a href="https://www.corsair.com/us/en/explorer/diy-builder/memory/how-to-enable-xmpexpo-in-bios/" target="_blank" rel="noreferrer noopener">corsair</a></figcaption></figure>
+
+
+
+<p class="wp-block-paragraph">هذه هي أهم خطوة يغفل عنها الكثير من المبتدئين! ذاكرة الرام (خاصة DDR4 و DDR5) لا تعمل بترددها الكامل المعلن عنه بشكل افتراضي، بل تعمل على سرعة قياسية أبطأ.</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>الإجراء:</strong> وأنت لا تزال داخل الـ BIOS/UEFI، ابحث عن خيار يسمى <strong>XMP</strong> (Extreme Memory Profile) للوحات إنتل، أو <strong>EXPO</strong> (Extended Profiles for Overclocking) للوحات AMD. قم بتفعيله (Enable).</li>
+
+
+
+<li><strong>لماذا؟</strong> هذه الخطوة البسيطة ترفع ترددات الرام بأمان إلى سرعتها الكاملة التي دفعت ثمنها (مثلاً من 4800MHz إلى 6000MHz)، وتعطي <strong>دفعة أداء مجانية وكبيرة جداً</strong> في الألعاب والبرامج.</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="3_%D8%AA%D8%AB%D8%A8%D9%8A%D8%AA_%D9%86%D8%B8%D8%A7%D9%85_%D8%A7%D9%84%D8%AA%D8%B4%D8%BA%D9%8A%D9%84_Windows_11"></span><strong>3. تثبيت نظام التشغيل (Windows 11)</strong><span class="ez-toc-section-end"></span></h3>
+
+
+
+<p class="wp-block-paragraph">الآن حان وقت تثبيت ويندوز. ستحتاج إلى فلاشة USB قمت بتحضيرها مسبقاً كأداة تثبيت.</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>الإجراء:</strong>
+<ol start="1" class="wp-block-list">
+<li>أدخل فلاشة تثبيت ويندوز في منفذ USB.</li>
+
+
+
+<li>أعد تشغيل الجهاز، وادخل إلى قائمة الإقلاع (Boot Menu) (عادةً بالضغط على <strong><code>F12</code></strong> أو <strong><code>F10</code></strong> أو <strong><code>F8</code></strong>) واختر الإقلاع من الفلاشة.</li>
+
+
+
+<li>اتبع التعليمات التي تظهر على الشاشة لتثبيت ويندوز على قرص التخزين الرئيسي (NVMe SSD).</li>
+</ol>
+</li>
+
+
+
+<li><strong>للحصول على شرح تفصيلي لهذه العملية،</strong> يمكنك مراجعة دليلنا الكامل:
+<ul class="wp-block-list">
+<li><strong>[</strong>شرح خطوات تثبيت ويندوز 10 / 11 على قرص صلب جديد HDD أو SSD<strong>]</strong></li>
+</ul>
+</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="4_%D8%AA%D8%AB%D8%A8%D9%8A%D8%AA_%D9%88%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB_%D8%A7%D9%84%D8%AA%D8%B9%D8%B1%D9%8A%D9%81%D8%A7%D8%AA_Drivers_%E2%80%93_%D9%88%D9%82%D9%88%D8%AF_%D8%A7%D9%84%D8%AA%D8%B4%D8%BA%D9%8A%D9%84"></span><strong>4. تثبيت وتحديث التعريفات (Drivers) – وقود التشغيل</strong><span class="ez-toc-section-end"></span></h3>
+
+
+
+<p class="wp-block-paragraph">التعريفات هي اللغة التي تتحدث بها قطع الهاردوير مع نظام التشغيل. بدونها، جهازك سيعمل بأداء ضعيف أو قد لا تعمل بعض القطع على الإطلاق.</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>الترتيب الصحيح:</strong>
+<ol start="1" class="wp-block-list">
+<li><strong>أولاً – تعريف الشريحة (Chipset Driver):</strong> هذا هو الأهم. اذهب إلى موقع الشركة المصنعة للوحتك الأم (ASUS, Gigabyte, MSI…)، ادخل إلى صفحة الدعم الخاصة بموديل لوحتك، وحمل أحدث تعريف للشريحة وقم بتثبيته.</li>
+
+
+
+<li><strong>ثانياً – تعريف كرت الشاشة (GPU Driver):</strong> <strong>هذا هو التعريف الحاسم لأداء الألعاب.</strong> اذهب إلى موقع Nvidia أو AMD الرسمي وحمل أحدث تعريف لكرت الشاشة الخاص بك.</li>
+
+
+
+<li><strong>باقي التعريفات:</strong> عادةً ما يقوم Windows Update بالتعرف على باقي القطع (صوت، شبكة…) وتثبيت تعريفاتها، ولكن من الجيد دائماً مراجعة صفحة دعم اللوحة الأم.</li>
+</ol>
+</li>
+
+
+
+<li>لمزيد من التفاصيل، يمكنك مراجعة دليلنا عن:
+<ul class="wp-block-list">
+<li><strong>[</strong>طريقة تحديث كرت الشاشة Nvidia او AMD على نظام ويندوز<strong>]</strong></li>
+</ul>
+</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="5_%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1_%D8%A7%D9%84%D8%A3%D8%AF%D8%A7%D8%A1_%D9%88%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D8%B1_Stress_Testing_Benchmarking"></span><strong>5. اختبار الأداء والاستقرار (Stress Testing &amp; Benchmarking)</strong><span class="ez-toc-section-end"></span></h3>
+
+
+
+<p class="wp-block-paragraph">الآن بعد أن أصبح كل شيء جاهزاً، حان الوقت لـ “تعذيب” جهازك قليلاً للتأكد من أنه مستقر تماماً تحت الضغط.</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>اختبار الأداء (Benchmarking):</strong> لمعرفة مدى قوة جهازك ومقارنته بالآخرين، استخدم برامج مثل <strong>Cinebench</strong> لاختبار المعالج، و <strong>3DMark</strong> لاختبار أداء الألعاب.
+<ul class="wp-block-list">
+<li>وفي مقال سابق عبر موقع عرب تك تحدثنا عن هذه التطبيقات والأدوات (أفضل برامج بنش مارك).</li>
+</ul>
+</li>
+
+
+
+<li><strong>مراقبة درجات الحرارة:</strong> أثناء هذه الاختبارات، <strong>راقب درجات الحرارة</strong> باستخدام برامج مثل <strong>HWMonitor</strong> أو <strong>MSI Afterburner</strong>. يجب أن تظل حرارة المعالج وكرت الشاشة ضمن الحدود الآمنة (عادةً تحت 85-90 درجة مئوية تحت أقصى ضغط).</li>
+
+
+
+<li>للحصول على قائمة كاملة بأفضل الأدوات، راجع مقالنا:
+<ul class="wp-block-list">
+<li><strong>[</strong>أفضل برامج مراقبة أداء الكمبيوتر والألعاب واختبارها<strong>]</strong></li>
+</ul>
+</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="6_%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB_%D8%A7%D9%84%D8%A8%D9%8A%D9%88%D8%B3_BIOSUEFI_%E2%80%93_%D8%AE%D8%B7%D9%88%D8%A9_%D9%85%D8%AA%D9%82%D8%AF%D9%85%D8%A9_%D9%88%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1%D9%8A%D8%A9"></span><strong>6. تحديث البيوس (BIOS/UEFI) – (خطوة متقدمة واختيارية)</strong><span class="ez-toc-section-end"></span></h3>
+
+
+
+<p class="wp-block-paragraph">هل يجب أن أحدث البايوس؟ <strong>القاعدة هي: إذا كان كل شيء يعمل بشكل جيد ومستقر، فلا داعي للمخاطرة.</strong></p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>متى يجب عليك التحديث؟</strong> فقط إذا كنت تواجه مشاكل استقرار معينة، أو إذا كان التحديث الجديد يقدم دعماً لمعالج تنوي الترقية إليه مستقبلاً، أو يضيف ميزة أمان هامة.</li>
+
+
+
+<li><strong>تحذير:</strong> اتبع إرشادات الشركة المصنعة للوحتك الأم بدقة شديدة عند تحديث البايوس، حيث أن أي خطأ في هذه العملية (مثل انقطاع الكهرباء) قد يتسبب في تلف اللوحة الأم.</li>
+
+
+
+<li>لمزيد من التفاصيل، يمكنك مراجعة دليلنا الكامل:
+<ul class="wp-block-list">
+<li><strong>[تحديث BIOS: دليل شامل خطوة بخطوة للكمبيوتر/اللابتوب]</strong></li>
+</ul>
+</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">بهذه الخطوات، تكون قد ضمنت أن تجميعتك الجديدة ليست فقط مركبة بشكل صحيح، بل مهيأة لتقدم لك أفضل أداء ممكن. مبروك!</p>
+
+
+
+<h2 class="wp-block-heading"><span class="ez-toc-section" id="%D8%AD%D9%84_%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D9%83%D9%84_%D8%A7%D9%84%D8%B4%D8%A7%D8%A6%D8%B9%D8%A9_%D8%A3%D8%AB%D9%86%D8%A7%D8%A1_%D9%88%D8%A8%D8%B9%D8%AF_%D8%A7%D9%84%D8%AA%D8%AC%D9%85%D9%8A%D8%B9_%D8%AF%D9%84%D9%8A%D9%84_%D8%A7%D9%84%D8%B7%D9%88%D8%A7%D8%B1%D8%A6_%D9%84%D9%84%D9%85%D9%8F%D8%AC%D9%85%D9%91%D8%B9_%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF"></span><strong>حل المشاكل الشائعة أثناء وبعد التجميع (دليل الطوارئ للمُجمّع الجديد)</strong><span class="ez-toc-section-end"></span></h2>
+
+
+
+<p class="wp-block-paragraph">تهانينا على وصولك لهذه المرحلة! من الطبيعي جداً، بل من المتوقع، ألا يعمل كل شيء بشكل مثالي من المحاولة الأولى. لا داعي للذعر أو القلق. خذ نفساً عميقاً، ودعنا نمر على أشهر المشاكل الشائعة وحلولها بهدوء ومنهجية.</p>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="%D8%A7%D9%84%D9%85%D8%B4%D9%83%D9%84%D8%A9_%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89_%D8%A7%D9%84%D8%AC%D9%87%D8%A7%D8%B2_%D9%84%D8%A7_%D9%8A%D8%B3%D8%AA%D8%AC%D9%8A%D8%A8_%D8%A5%D8%B7%D9%84%D8%A7%D9%82%D8%A7%D9%8B_%D8%B9%D9%86%D8%AF_%D8%A7%D9%84%D8%B6%D8%BA%D8%B7_%D8%B9%D9%84%D9%89_%D8%B2%D8%B1_%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D8%A9_%D9%84%D8%A7_%D9%85%D8%B1%D8%A7%D9%88%D8%AD%D8%8C_%D9%84%D8%A7_%D8%A3%D8%B6%D9%88%D8%A7%D8%A1%D8%8C_%D8%B5%D9%85%D8%AA_%D8%AA%D8%A7%D9%85"></span><strong>المشكلة الأولى: الجهاز لا يستجيب إطلاقاً عند الضغط على زر الطاقة (لا مراوح، لا أضواء، صمت تام)</strong><span class="ez-toc-section-end"></span></h3>
+
+
+
+<p class="wp-block-paragraph">هذه المشكلة غالباً ما تكون بسبب خطأ بسيط في توصيل الطاقة. تفقد بالترتيب:</p>
+
+
+
+<ol start="1" class="wp-block-list">
+<li><strong>مفتاح مزود الطاقة (PSU):</strong> تأكد من أن المفتاح الموجود في الجزء الخلفي من مزود الطاقة مضبوط على وضعية التشغيل “I” وليس “O”. (نعم، إنه خطأ شائع جداً!).</li>
+
+
+
+<li><strong>كابل الطاقة الرئيسي:</strong> تأكد من أن كابل الطاقة الخارجي موصل بإحكام في مقبس الحائط وفي مزود الطاقة نفسه.</li>
+
+
+
+<li><strong>كابلات اللوحة الأم:</strong> تأكد من أن كابل الطاقة الرئيسي للوحة الأم (الكابل الكبير ذو الـ 24-pin) وكابل طاقة المعالج (الكابل ذو الـ 4-pin أو 8-pin، يكون عادةً في الجزء العلوي الأيسر من اللوحة الأم) موصلان بإحكام في مكانهما الصحيح.</li>
+
+
+
+<li><strong>أسلاك الكيس الأمامية (Front Panel Connectors):</strong> هذا هو الخطأ الأكثر شيوعاً بين المبتدئين. تأكد من أنك قمت بتوصيل الأسلاك الصغيرة القادمة من كيس الكمبيوتر (خاصة سلك زر الطاقة <code>Power SW</code>) بالـ “Pins” الصحيحة على اللوحة الأم. راجع دليل المستخدم الخاص بلوحتك الأم بعناية لمعرفة مكانها الدقيق.</li>
+</ol>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%D8%A7%D9%84%D9%85%D8%B4%D9%83%D9%84%D8%A9_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9_%D8%A7%D9%84%D8%AC%D9%87%D8%A7%D8%B2_%D9%8A%D8%B9%D9%85%D9%84_%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D9%88%D8%AD_%D8%AA%D8%AF%D9%88%D8%B1_%D9%88%D8%A7%D9%84%D8%A3%D8%B6%D9%88%D8%A7%D8%A1_%D8%AA%D8%B9%D9%85%D9%84_%D9%84%D9%83%D9%86_%D9%84%D8%A7_%D8%AA%D9%88%D8%AC%D8%AF_%D8%A3%D9%8A_%D8%B5%D9%88%D8%B1%D8%A9_%D8%B9%D9%84%D9%89_%D8%A7%D9%84%D8%B4%D8%A7%D8%B4%D8%A9"></span><strong>المشكلة الثانية: الجهاز يعمل (المراوح تدور والأضواء تعمل) لكن لا توجد أي صورة على الشاشة</strong><span class="ez-toc-section-end"></span></h4>
+
+
+
+<p class="wp-block-paragraph">هذه هي المشكلة الأشهر على الإطلاق، وحلها غالباً ما يكون بسيطاً:</p>
+
+
+
+<ol start="1" class="wp-block-list">
+<li><strong>توصيل الشاشة:</strong> <strong>تأكد 100% أنك قمت بتوصيل كابل الشاشة (HDMI أو DisplayPort) في مخرج كرت الشاشة المنفصل (GPU)</strong>، وليس في مخرج الفيديو الخاص باللوحة الأم (إلا إذا كنت تستخدم معالجاً برسوميات مدمجة فقط).</li>
+
+
+
+<li><strong>إعادة تركيب الرامات (RAM):</strong> هذا هو السبب الثاني الأكثر شيوعاً. أطفئ الجهاز تماماً، أزل شرائح الرام، ثم أعد تركيبها مرة أخرى بقوة وتأكد من أن المشابك على الطرفين قد أغلقت بالكامل وأصدرت صوت “طقطقة” خفيفة. جرب الإقلاع بقطعة رام واحدة فقط في الفتحة الموصى بها في دليل اللوحة الأم.</li>
+
+
+
+<li><strong>إعادة تركيب كرت الشاشة (GPU):</strong> أطفئ الجهاز، وقم بإعادة تركيب كرت الشاشة في فتحة PCIe العلوية وتأكد من أنه مثبت بإحكام. لا تنسَ إعادة توصيل كابلات الطاقة الإضافية الخاصة به إن وجدت.</li>
+
+
+
+<li><strong>أصوات الصفير أو لمبات التشخيص (Beep Codes/Debug LEDs):</strong> انتبه جيداً عند بدء التشغيل. هل تصدر اللوحة الأم أي سلسلة من أصوات الصفير؟ أو هل تضيء أي من الاضواء الحمراء على اللوحة الام وهي لمبات التشخيص الصغيرة (CPU, DRAM, VGA, BOOT) الموجودة عليها وتبقى مضاءة؟ هذه الإشارات هي رسائل مباشرة من اللوحة الأم تخبرك بمكان المشكلة (غالباً ما تكون مشكلة في الرام أو كرت الشاشة). راجع دليل اللوحة الأم لمعرفة معنى هذه الإشارات.</li>
+</ol>
+
+
+
+<p class="wp-block-paragraph"><em>للمزيد من التفاصيل العميقة حول هذه المشكلة، راجع دليلنا الكامل عن <strong>[</strong>حل مشكلة الشاشة السوداء في ويندوز<strong>]</strong></em></p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%D8%A7%D9%84%D9%85%D8%B4%D9%83%D9%84%D8%A9_%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%D8%A9_%D8%A7%D9%84%D8%AC%D9%87%D8%A7%D8%B2_%D9%8A%D8%B9%D9%85%D9%84_%D9%84%D9%83%D9%86_%D8%AF%D8%B1%D8%AC%D8%A9_%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9_%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D9%84%D8%AC_%D9%85%D8%B1%D8%AA%D9%81%D8%B9%D8%A9_%D8%AC%D8%AF%D8%A7%D9%8B"></span><strong>المشكلة الثالثة: الجهاز يعمل لكن درجة حرارة المعالج مرتفعة جداً</strong><span class="ez-toc-section-end"></span></h4>
+
+
+
+<ol start="1" class="wp-block-list">
+<li><strong>لاصق الحماية:</strong> هل أنت متأكد من أنك قمت بإزالة اللاصق البلاستيكي الواقي من على قاعدة المبرد قبل تركيبه؟ (نعم، لقد فعلها الكثيرون قبلك!).</li>
+
+
+
+<li><strong>المعجون الحراري:</strong> هل وضعت كمية كافية من المعجون الحراري (بحجم حبة البازلاء في المنتصف)؟</li>
+
+
+
+<li><strong>تركيب المبرد:</strong> هل تم شد براغي المبرد بشكل متساوٍ ومحكم على المعالج؟</li>
+
+
+
+<li><strong>مروحة المبرد:</strong> هل قمت بتوصيل كابل مروحة المعالج بمنفذ <code>CPU_FAN</code> الصحيح على اللوحة الأم؟</li>
+</ol>
+
+
+
+<p class="wp-block-paragraph">راقب درجة حرارة المعالج الطبيعية عبر البيوس أو داخل الويندوز من خلال أحد برامج المراقبة مثل HWMonitor.</p>
+
+
+
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%D8%A7%D9%84%D9%85%D8%B4%D9%83%D9%84%D8%A9_%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9%D8%A9_%D9%85%D8%B4%D8%A7%D9%83%D9%84_%D9%81%D9%8A_%D8%AA%D8%AB%D8%A8%D9%8A%D8%AA_%D8%A3%D9%88_%D8%A5%D9%82%D9%84%D8%A7%D8%B9_%D9%86%D8%B8%D8%A7%D9%85_%D8%A7%D9%84%D8%AA%D8%B4%D8%BA%D9%8A%D9%84"></span><strong>المشكلة الرابعة: مشاكل في تثبيت أو إقلاع نظام التشغيل</strong><span class="ez-toc-section-end"></span></h4>
+
+
+
+<ul class="wp-block-list">
+<li><strong>ترتيب الإقلاع:</strong> تأكد من أنك قمت بضبط ترتيب الإقلاع (Boot Order) في إعدادات الـ BIOS/UEFI لجعل فلاشة USB التي عليها ويندوز هي الخيار الأول.</li>
+
+
+
+<li><strong>سلامة وحدة التخزين:</strong> تأكد من أن قرص التخزين (SSD/HDD) الذي تثبت عليه النظام يظهر بشكل صحيح في قائمة أجهزة الـ BIOS/UEFI.</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="%D8%A7%D9%84%D8%AE%D8%A7%D8%AA%D9%85%D8%A9_%D9%86%D8%B5%D8%A7%D8%A6%D8%AD_%D8%B0%D9%87%D8%A8%D9%8A%D8%A9_%D8%A3%D8%AE%D9%8A%D8%B1%D8%A9_%D9%84%D8%B1%D8%AD%D9%84%D8%A9_%D8%AA%D8%AC%D9%85%D9%8A%D8%B9_%D9%86%D8%A7%D8%AC%D8%AD%D8%A9"></span><strong>الخاتمة: نصائح ذهبية أخيرة لرحلة تجميع ناجحة</strong><span class="ez-toc-section-end"></span></h3>
+
+
+
+<p class="wp-block-paragraph">وهكذا نصل إلى نهاية دليلنا الشامل لـ “تجميع كمبيوتر ألعاب” في عام 2025! نأمل أن يكون هذا المقال قد أزال الغموض وزودك بالمعرفة والثقة اللازمة للشروع في مشروعك الخاص. بناء جهاز الكمبيوتر بنفسك ليس مجرد توفير للمال، بل هو مغامرة ممتعة وتجربة تعليمية ومجزية للغاية، تمنحك في النهاية جهازاً مصمماً خصيصاً لك، وبأداء يتناسب تماماً مع طموحاتك.</p>
+

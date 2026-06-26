@@ -1,0 +1,32 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../layouts/BaseLayout.astro";
+
+const posts = (await getCollection("posts", ({ data }) => !data.draft))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+  .slice(0, 6);
+---
+
+<BaseLayout>
+  <section class="hero">
+    <p class="eyebrow">Technology, AI, Software</p>
+    <h1>Arab Tech Trends</h1>
+    <p>Fast static publishing with a free CMS workflow.</p>
+  </section>
+
+  <section class="section-head">
+    <h2>Latest Posts</h2>
+    <a href="/posts/">View all</a>
+  </section>
+
+  <div class="post-grid">
+    {posts.map((post) => (
+      <article class="post-card">
+        {post.data.image && <img src={post.data.image} alt="" loading="lazy" />}
+        <p>{post.data.category}</p>
+        <h3><a href={`/posts/${post.slug}/`}>{post.data.title}</a></h3>
+        <span>{post.data.pubDate.toLocaleDateString("en-US")}</span>
+      </article>
+    ))}
+  </div>
+</BaseLayout>

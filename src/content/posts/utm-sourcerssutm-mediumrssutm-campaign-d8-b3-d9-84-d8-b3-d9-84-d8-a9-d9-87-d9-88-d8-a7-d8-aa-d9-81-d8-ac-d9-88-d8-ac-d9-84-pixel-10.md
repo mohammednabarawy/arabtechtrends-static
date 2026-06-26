@@ -1,0 +1,158 @@
+---
+title: "سلسلة الهواتف من Google 10: مراجعة شاملة للمواصفات والأسعار والميزات"
+description: "هاتف بكسل 10 وأخيرا ، تحمل معه لا تتوقع مفاجآت. بعد سنوات من جوجل قامت برفع هواتف البكسل الأساسية ، كان من الرائع رؤية الشركة تحتفظ بنفس السعر الأولي للإصدار السابق Pixel 9 ، ليأتي بسعر 799 دولار أمريكي. لكن السعر ليس هو الشيء الوحيد المميز"
+pubDate: "2025-08-22T20:09:42"
+updatedDate: "2025-08-22T20:09:44"
+author: "Arab Tech Trends"
+category: "دروس تقنية ومقالات"
+tags: []
+image: ""
+draft: false
+sourceUrl: "https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%25d8%25b3%25d9%2584%25d8%25b3%25d9%2584%25d8%25a9-%25d9%2587%25d9%2588%25d8%25a7%25d8%25aa%25d9%2581-%25d8%25ac%25d9%2588%25d8%25ac%25d9%2584-pixel-10/"
+---
+
+<div class="entry-content clearfix single-post-content">
+<p>هاتف <b>بكسل 10</b> وأخيرا ، تحمل معه لا تتوقع مفاجآت. بعد سنوات من جوجل قامت برفع هواتف البكسل الأساسية ، كان من الرائع رؤية الشركة تحتفظ بنفس السعر الأولي للإصدار السابق Pixel 9 ، ليأتي بسعر <b>799 دولار أمريكي</b>. لكن السعر ليس هو الشيء الوحيد المميز ، حيث يأتي الجهاز مع بطارية أكبر ، ودعم الشحن السريع ، بالإضافة إلى مجموعة جديدة من أدوات الذكاء الاصطناعي والكاميرات ، وأبرزها عدسة Telvoto المرئي إلى ما يقرب من <b>5x</b> لأول مرة في هاتف بكسل غير محترف.</p>
+<div class="duzxlygivn duzxlygivn-post-inline duzxlygivn-float-center duzxlygivn-align-center duzxlygivn-column-1 duzxlygivn-clearfix no-bg-box-model">
+<div id="duzxlygivn-74478-1099132203" class="duzxlygivn-container duzxlygivn-type-code " itemscope="" itemtype="https://schema.org/WPAdBlock" data-adid="74478" data-type="code">
+<div id="duzxlygivn-74478-1099132203-place"></div>
+</div>
+</div>
+<p>ما يميز الهاتف <b>بكسل 10</b> إنها ليست مجرد نسخة مصغرة من النموذج <b>Pixel 10 Pro</b> كما كان الحال في الماضي ، فهو مختلط ذكي يجمع بين الفئات المهنية والاقتصادية. له تصميم وبنية مشابهة <b>Pixel 10 Pro</b>لكنها استعارت الكاميرات الرئيسية والعريضة لهاتف Pixel 9A. تضع هذه الاستراتيجية الجديدة من Google Pixel 10 على موقع فريد يجعلها خيارًا جذابًا يوازن بين السعر والميزات.</p>
+<p>في هذه المقالة ، سوف نحقق تفاصيل هذه السلسلة الجديدة ، من الهاتف <b>بكسل 10</b> إلى النماذج <b>المحترف</b> و <b>Pro XL</b>مع مراجعة شاملة للميزات الشائعة التي تعتمد على الذكاء الاصطناعي والأسعار <a href="https://blog.google/products/pixel/google-pixel-10-pro-xl" target="_blank" rel="noopener">أعلن من جوجل</a>.</p>
+<div class="lwptoc lwptoc-autoWidth lwptoc-baseItems lwptoc-inherit" data-smooth-scroll="1" data-smooth-scroll-offset="24"></div>
+<div id="ez-toc-container" class="ez-toc-v2_0_85 ez-toc-wrap-right counter-hierarchy ez-toc-counter-rtl ez-toc-light-blue ez-toc-container-direction">
+<div class="ez-toc-title-container">
+<p class="ez-toc-title" style="cursor:inherit">محتوى المقالة</p>
+<span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" aria-label="Toggle Table of Content"><span class="ez-toc-js-icon-con"><span class=""><span class="eztoc-hide" style="display:none;">Toggle</span><span class="ez-toc-icon-toggle-span"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></span></span></a></span></div>
+<nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-1" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%25d8%25b3%25d9%2584%25d8%25b3%25d9%2584%25d8%25a9-%25d9%2587%25d9%2588%25d8%25a7%25d8%25aa%25d9%2581-%25d8%25ac%25d9%2588%25d8%25ac%25d9%2584-pixel-10/#Pixel_10_%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B5%D9%81%D8%A7%D8%AA_%D8%A7%D9%84%D8%A3%D8%B3%D8%A7%D8%B3%D9%8A%D8%A9_%D9%88%D8%A7%D9%84%D9%82%D9%8A%D9%85%D8%A9_%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%86%D8%A7%D8%A6%D9%8A%D8%A9" >Pixel 10: المواصفات الأساسية والقيمة الاستثنائية</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-2" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%25d8%25b3%25d9%2584%25d8%25b3%25d9%2584%25d8%25a9-%25d9%2587%25d9%2588%25d8%25a7%25d8%25aa%25d9%2581-%25d8%25ac%25d9%2588%25d8%25ac%25d9%2584-pixel-10/#Pixel_10_Pro_%D9%88_Pro_XL_%D9%82%D9%88%D8%A9_%D8%A7%D9%84%D8%A3%D8%AF%D8%A7%D8%A1_%D9%88%D8%A7%D9%84%D8%AA%D8%B5%D9%85%D9%8A%D9%85_%D8%A7%D9%84%D9%85%D9%87%D9%86%D9%8A" >Pixel 10 Pro و Pro XL: قوة الأداء والتصميم المهني</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-3" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%25d8%25b3%25d9%2584%25d8%25b3%25d9%2584%25d8%25a9-%25d9%2587%25d9%2588%25d8%25a7%25d8%25aa%25d9%2581-%25d8%25ac%25d9%2588%25d8%25ac%25d9%2584-pixel-10/#%D9%85%D9%8A%D8%B2%D8%A7%D8%AA_AI_%D8%A7%D9%84%D9%85%D8%B4%D8%AA%D8%B1%D9%83%D8%A9_%D9%85%D8%A7_%D9%8A%D9%85%D9%8A%D8%B2_%D8%B3%D9%84%D8%B3%D9%84%D8%A9_Pixel_10" >ميزات AI المشتركة: ما يميز سلسلة Pixel 10</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-4" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%25d8%25b3%25d9%2584%25d8%25b3%25d9%2584%25d8%25a9-%25d9%2587%25d9%2588%25d8%25a7%25d8%25aa%25d9%2581-%25d8%25ac%25d9%2588%25d8%25ac%25d9%2584-pixel-10/#%D9%85%D9%88%D8%A7%D8%B5%D9%81%D8%A7%D8%AA_%D8%B3%D9%84%D8%B3%D9%84%D8%A9_Pixel_10_%D9%85%D9%82%D8%A7%D8%B1%D9%86%D8%A9_%D8%B4%D8%A7%D9%85%D9%84%D8%A9" >مواصفات سلسلة Pixel 10: مقارنة شاملة</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-5" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%25d8%25b3%25d9%2584%25d8%25b3%25d9%2584%25d8%25a9-%25d9%2587%25d9%2588%25d8%25a7%25d8%25aa%25d9%2581-%25d8%25ac%25d9%2588%25d8%25ac%25d9%2584-pixel-10/#%D8%A7%D9%84%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1_%D9%88%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D9%81%D8%B1" >الأسعار والتوافر</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-6" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%25d8%25b3%25d9%2584%25d8%25b3%25d9%2584%25d8%25a9-%25d9%2587%25d9%2588%25d8%25a7%25d8%25aa%25d9%2581-%25d8%25ac%25d9%2588%25d8%25ac%25d9%2584-pixel-10/#%D9%85%D9%84%D8%AE%D8%B5" >ملخص</a></li></ul></nav></div>
+<h3><span class="ez-toc-section" id="Pixel_10_%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B5%D9%81%D8%A7%D8%AA_%D8%A7%D9%84%D8%A3%D8%B3%D8%A7%D8%B3%D9%8A%D8%A9_%D9%88%D8%A7%D9%84%D9%82%D9%8A%D9%85%D8%A9_%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AB%D9%86%D8%A7%D8%A6%D9%8A%D8%A9"></span><span id="Pixel_10_almwasfat_alasasyt_wqymt_astthnayyt"><b>Pixel 10: المواصفات الأساسية والقيمة الاستثنائية</b></span><span class="ez-toc-section-end"></span></h3>
+</p>
+<p>يأتي الهاتف <b>بكسل 10</b> الرئيسي لإثبات أن الأداء القوي لا يقتصر على أغلى الهواتف. يعمل الهاتف مع أقوى معالجات Google على الإطلاق <b>Tensor G5</b>. هذا المعالج هو أكبر ترقية إلى Google SIM منذ إطلاقه لأول مرة ، ويوفر أداءً عالي السرعة ، ويوفر أيضًا تجارب مصطنعة عميقة ومفيدة لمستخدمي هاتف Pixel أولاً. بفضل التعاون بين Google و Google DeepMind ، أحدث طراز من <b>الجوزاء نانو</b> على معالج <b>Tensor G5</b> أولاً ، لإطلاق العنان للعديد من ميزات الذكاء الاصطناعي التوليدي الذي يجعل الحياة اليومية أسهل. أما بالنسبة لشاشته ، فهي من نوع ما <b>أكتو</b> القياس <b>6.3 بوصة</b>يتميز بمعدل تحديث يصل إلى <b>120 هرتز</b>والحماية من الزجاج <b>Gorilla Glass Victus 2</b>مع مستوى السطوع الفائق يضمن رؤية واضحة في أي ظروف إضاءة.</p>
+<p><span style="font-weight: 400;">في خطوة جريئة من Google ، يأتي هاتف Pixel الأساسي لأول مرة مع نظام كاميرا ثلاثي الوقت ، يتكون من كاميرا رئيسية بدقة </span><b>48 ميجابكسل</b><span style="font-weight: 400;">و LE واسعة النطاق ، بدقة </span><b>13 ميجابكسل</b><span style="font-weight: 400;">بالإضافة إلى عدسة Televoto بدقة </span><b>10.8 ميغابكسل</b><span style="font-weight: 400;">    مع تقريب 5x. تم تحسين البطارية أيضًا لتأتي بسعة </span><b>4970 مللي أمبير</b><span style="font-weight: 400;">وهو يدعم شحن الأسلاك السريعة بقوة </span><b>30 واط</b><span style="font-weight: 400;">والشحن اللاسلكي بقوة </span><b>15 واط</b><span style="font-weight: 400;">    من خلال التكنولوجيا </span><b>بكسل المفاجئة</b><span style="font-weight: 400;">    المغناطيسية. بسعرها البالغ </span><b>799 دولار أمريكي</b><span style="font-weight: 400;">يعرض </span><b>بكسل 10</b><span style="font-weight: 400;">    مجموعة متكاملة من الميزات التي تجعلها خيارًا ممتازًا للغاية في فئة الهواتف العليا.</span></p>
+<h3><span class="ez-toc-section" id="Pixel_10_Pro_%D9%88_Pro_XL_%D9%82%D9%88%D8%A9_%D8%A7%D9%84%D8%A3%D8%AF%D8%A7%D8%A1_%D9%88%D8%A7%D9%84%D8%AA%D8%B5%D9%85%D9%8A%D9%85_%D8%A7%D9%84%D9%85%D9%87%D9%86%D9%8A"></span><span id="Pixel_10_Pro_w_Pro_XL_qwt_alada_waltsmym_alahtrafy"><b>Pixel 10 Pro و Pro XL: قوة الأداء والتصميم المهني</b></span><span class="ez-toc-section-end"></span></h3>
+<figure id="attachment_95419" aria-describedby="caption-attachment-95419" style="width: 1604px" class="wp-caption alignnone"><img decoding="async" class="size-full wp-image-95419" src="https://www.arabtechtrends.com/wp-content/uploads/2025/08/1755882581_987_سلسلة-الهواتف-من-Google-10-مراجعة-شاملة-للمواصفات-والأسعار-والميزات.jpg" alt="Pixel 10 Pro و Pro XL" width="1604" height="1280"  ><figcaption id="caption-attachment-95419" class="wp-caption-text">IMG بواسطة: Google</figcaption></figure>
+<p><span style="font-weight: 400;">تواصل Google توفير الخيارات المهنية مع هاتفي </span><b>Pixel 10 Pro</b><span style="font-weight: 400;">    و </span><b>Pixel 10 Pro XL</b><span style="font-weight: 400;">وأولئك الذين يمثلون ارتفاع الأداء في السلسلة. يعمل كلا الهاتفين مع نفس شريحة المعالجة </span><b>Tensor G5</b><span style="font-weight: 400;">    قوية ، وتأتي مع ذاكرة وصول عشوائية ضخمة </span><b>16 غيغابايت</b><span style="font-weight: 400;">مما يضمن نعومة غير مسبوقة في التعامل مع التطبيقات الثقيلة ومهام الذكاء الاصطناعي.</span></p>
+<p><span style="font-weight: 400;">تم تألق الشاشات </span><b>سوبر أكتو</b><span style="font-weight: 400;">حيث يأتي النموذج </span><b>المحترف</b><span style="font-weight: 400;">    مع شاشة 6.3 بوصة ، بينما يأتي النموذج </span><b>Pro XL</b><span style="font-weight: 400;">    شاشة أكبر تبلغ 6.8 بوصة. كلاهما يقدم مستوى استثنائي من السطوع للوصول إليهما </span><b>3300 شموع</b><span style="font-weight: 400;">مما يضمن واضحة للغاية ، حتى في معظم الظروف الإضاءة.</span></p>
+<p><span style="font-weight: 400;">نظام الكاميرا في كلا الهاتفين متطابق ومحسّن إلى حد كبير ، ويتألف من:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">الكاميرا الرئيسية بدقة </span><b>50 ميكرون</b><span style="font-weight: 400;">.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">كاميرا فائقة التوسيع بدقة </span><b>48 ميجابكسل</b><span style="font-weight: 400;">.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">كاميرا Televoto بدقة </span><b>48 ميجابكسل</b><span style="font-weight: 400;">    يسمح رقميا تقريبا حتى </span><b>100x</b><span style="font-weight: 400;">    بفضل التقنية </span><b>Pro Res Zoom</b><span style="font-weight: 400;">.</span></li>
+</ul>
+<p><span style="font-weight: 400;">تكمن الاختلافات الرئيسية بين الهاتفين في حجم الشاشة وسعة البطارية وسرعة الشحن. يأتي </span><b>Pixel 10 Pro</b><span style="font-weight: 400;">    بطارية 4870 مللي أمبير مع 30 واط لاسلكي ، بينما تحصل </span><b>Pixel 10 Pro XL</b><span style="font-weight: 400;">    على بطارية أكبر بسعة 5200 مللي أمبير في الساعة وشحن سلك 45 وات. تبدأ أسعار الهاتفين من </span><b>999 دولار أمريكي</b><span style="font-weight: 400;">    للنسخة المحترفة و </span><b>1199 دولار أمريكي</b><span style="font-weight: 400;">    لإصدار Pro XL.</span></p>
+<h3><span class="ez-toc-section" id="%D9%85%D9%8A%D8%B2%D8%A7%D8%AA_AI_%D8%A7%D9%84%D9%85%D8%B4%D8%AA%D8%B1%D9%83%D8%A9_%D9%85%D8%A7_%D9%8A%D9%85%D9%8A%D8%B2_%D8%B3%D9%84%D8%B3%D9%84%D8%A9_Pixel_10"></span><span id="myzat_aldhka_alastnay_almshtrkt_ma_ymyz_slslt_Pixel_10"><b>ميزات AI المشتركة: ما يميز سلسلة Pixel 10</b></span><span class="ez-toc-section-end"></span></h3>
+<p>الجيل الخامس من شريحة Google ، <b>Tensor G5</b>قلب النبض من السلسلة <b>بكسل 10</b>. هذه الشريحة ليست مجرد معالج عادي ، ولكنها مصممة خصيصًا للتعامل مع مهام الذكاء الاصطناعي على نفس الجهاز مع كفاءة وسرعة غير مسبوقة. هذا المزيج من المعدات والبرامج هو ما سمح لـ Google بتوفير ميزات ذكية متقدمة لا يمكن تحقيقها بسهولة في الهواتف الأخرى.</p>
+<p>بفضل هذه القوة ، أصبحت تجربة الهاتف أكثر تفاعلية وذكية ، لأنها تعمل <b>تَوأَم</b> على مدار الساعة لتسهيل المهام اليومية. من بين أبرز هذه الميزات:</p>
+<ul>
+<li><b>مدرب الكاميرا:</b> هذا المدرب الذكي يجعلك خطوة بخطوة لالتقاط صور أفضل. يقدم نصيحة مثل الاقتراب من الهدف أو تغيير زاوية التصوير للحصول على أفضل لقطة. يمكنه أيضًا تقديم اقتراحات إبداعية لم تحدث لك.<br />
+<img loading="lazy" decoding="async" class="alignnone size-full wp-image-95422" src="https://www.arabtechtrends.com/wp-content/uploads/2025/08/1755882581_711_سلسلة-الهواتف-من-Google-10-مراجعة-شاملة-للمواصفات-والأسعار-والميزات.jpg" alt="مدرب الكاميرا في Google Pixel 10" width="856" height="743"  ></li>
+<li><b>اسأل الصور:</b> هذه الميزة تغير الطريقة التي تبحث بها عن الصور تمامًا. الآن ، يمكنك استخدام لغة طبيعية لطرح أسئلة معقدة ، مثل: &#8220;أرني كل صور قطتي أثناء نومها في الحديقة الأسبوع الماضي.&#8221; سوف يفهم الهاتف طلبك ويقدم النتائج بدقة.</li>
+<li><b>العظة السحرية:</b> هذه الميزة الذكية تتوقع احتياجاتك. إذا كنت تتحدث إلى صديق على الهاتف حول موعد أو مكان ، فيمكنك أن تقترح عليك تلقائيًا إرسال عنوان منزلك أو معلوماتك من التقويم الخاص بك دون الحاجة إلى البحث عنه يدويًا.</li>
+<li><b>ترجمة حية:</b> تم تحسين ميزة التفسير بشكل كبير ، لتصبح أكثر دقة وسلاسة ، وهي تعمل حتى أثناء مكالمات الفيديو ، مما يسهل التواصل مع المتحدثين بلغات أخرى.</li>
+<li><b>شاشة الاتصال ومسح الاتصال:</b> تعمل هذه الميزات على تحسين جودة المكالمات تلقائيًا. ميزة <b>شاشة الاتصال</b> يسمح لك بالتحقق من المكالمات المستلمة من أرقام غير معروفة باستخدام الذكاء الاصطناعي لتصفية المكالمات المزعجة ، بينما هي <b>دعوة واضحة</b> عن طريق تقليل ضوضاء الخلفية في الوقت الفعلي لتحسين صوتك.</li>
+<li><b>الجوزاء لايف:</b> تطورت هذه الميزة بشكل كبير منذ إطلاقها مع <b>بكسل 9</b>. يصبح <b>الجوزاء يعيش</b> يمكنك رؤية ما تراه على كاميرا هاتفك أو على شاشتك. يمكنه الآن تقديم إرشادات مرئية مباشرة من خلال تسليط الضوء على الحل مباشرة على شاشتك.</li>
+</ul>
+<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-95423" src="https://www.arabtechtrends.com/wp-content/uploads/2025/08/1755882581_903_سلسلة-الهواتف-من-Google-10-مراجعة-شاملة-للمواصفات-والأسعار-والميزات.jpg" alt="الجوزاء يعيش" width="900" height="503"  ></p>
+<p>بالإضافة إلى ذلك ، ستتمكن المشاركة في خدمة Google AI Pro من الوصول إلى ميزات ذكاء اصطناعي إضافي ، مثل <b>إنشاء فيديو</b> مباشرة داخل التطبيق <b>تَوأَم</b>.</p>
+<p>قدمت Google أيضًا تقنية <b>بكسل المفاجئة</b>إنه نظام شحن لاسلكي مغناطيسي يوفر طريقة جديدة لتوصيل الملحقات بالهاتف. الجانب الأبرز في هذه التقنية هو أنها لا تقتصر على إكسسوارات Google فقط ، ولكنها تعتمد على معيار <b>qi2</b> مفتوح ، مما يجعلها متوافقة مع معظم الملحقات <b>Magsafe</b> في السوق.</p>
+<figure id="attachment_95420" aria-describedby="caption-attachment-95420" style="width: 818px" class="wp-caption alignnone"><img loading="lazy" decoding="async" class="size-full wp-image-95420" src="https://www.arabtechtrends.com/wp-content/uploads/2025/08/1755882582_932_سلسلة-الهواتف-من-Google-10-مراجعة-شاملة-للمواصفات-والأسعار-والميزات.jpg" alt="Google Pixelsnap qi2 Wireless" width="818" height="653"  ><figcaption id="caption-attachment-95420" class="wp-caption-text">Google Pixelsnap qi2 Wireless</figcaption></figure>
+<h3><span class="ez-toc-section" id="%D9%85%D9%88%D8%A7%D8%B5%D9%81%D8%A7%D8%AA_%D8%B3%D9%84%D8%B3%D9%84%D8%A9_Pixel_10_%D9%85%D9%82%D8%A7%D8%B1%D9%86%D8%A9_%D8%B4%D8%A7%D9%85%D9%84%D8%A9"></span><span id="mwasfat_slslt_hwatf_Pixel_10_mqarnt_shamlt"><b>مواصفات سلسلة Pixel 10: مقارنة شاملة</b></span><span class="ez-toc-section-end"></span></h3>
+<table>
+<tbody>
+<tr>
+<td><span style="font-weight: 400;">تحديد</span></td>
+<td><b>بكسل 10</b></td>
+<td><b>Pixel 10 Pro</b></td>
+<td><b>Pixel 10 Pro XL</b></td>
+</tr>
+<tr>
+<td><b>المعالج</b></td>
+<td><span style="font-weight: 400;">Tensor G5</span></td>
+<td><span style="font-weight: 400;">Tensor G5</span></td>
+<td><span style="font-weight: 400;">Tensor G5</span></td>
+</tr>
+<tr>
+<td><b>رام (رام)</b></td>
+<td><span style="font-weight: 400;">12 غيغابايت</span></td>
+<td><span style="font-weight: 400;">16 غيغابايت</span></td>
+<td><span style="font-weight: 400;">16 غيغابايت</span></td>
+</tr>
+<tr>
+<td><b>حجم الشاشة</b></td>
+<td><span style="font-weight: 400;">6.3 بوصة أكتو</span></td>
+<td><span style="font-weight: 400;">6.3 بوصة Super Actua</span></td>
+<td><span style="font-weight: 400;">6.8 بوصة سوبر أكتو</span></td>
+</tr>
+<tr>
+<td><b>سطوع الشاشة</b></td>
+<td><span style="font-weight: 400;">يصل إلى 3000 شمعة</span></td>
+<td><span style="font-weight: 400;">يصل إلى 3300 شمعة</span></td>
+<td><span style="font-weight: 400;">يصل إلى 3300 شمعة</span></td>
+</tr>
+<tr>
+<td><b>الكاميرا الرئيسية</b></td>
+<td><span style="font-weight: 400;">48MP</span></td>
+<td><span style="font-weight: 400;">50 ميجابكسل</span></td>
+<td><span style="font-weight: 400;">50 ميجابكسل</span></td>
+</tr>
+<tr>
+<td><b>كاميرا واسعة</b></td>
+<td><span style="font-weight: 400;">13 ميجابكسل</span></td>
+<td><span style="font-weight: 400;">48MP</span></td>
+<td><span style="font-weight: 400;">48MP</span></td>
+</tr>
+<tr>
+<td><b>كاميرا Televoto</b></td>
+<td><span style="font-weight: 400;">10.8mp (5x basri)</span></td>
+<td><span style="font-weight: 400;">48mp (100x Pro Res Zoom)</span></td>
+<td><span style="font-weight: 400;">48mp (100x Pro Res Zoom)</span></td>
+</tr>
+<tr>
+<td><b>سعة البطارية</b></td>
+<td><span style="font-weight: 400;">4970 مللي أمبير</span></td>
+<td><span style="font-weight: 400;">4870 مللي أمبير</span></td>
+<td><span style="font-weight: 400;">5200 مللي أمبير</span></td>
+</tr>
+<tr>
+<td><b>شحن الأسلاك</b></td>
+<td><span style="font-weight: 400;">30W</span></td>
+<td><span style="font-weight: 400;">30W</span></td>
+<td><span style="font-weight: 400;">45W</span></td>
+</tr>
+<tr>
+<td><b>الشحن اللاسلكي</b></td>
+<td><span style="font-weight: 400;">15W (pixelsnap)</span></td>
+<td><span style="font-weight: 400;">15W (pixelsnap)</span></td>
+<td><span style="font-weight: 400;">25W (PixelsNap)</span></td>
+</tr>
+<tr>
+<td><b>السعر الأولي</b></td>
+<td><span style="font-weight: 400;">799 دولار</span></td>
+<td><span style="font-weight: 400;">999 دولار</span></td>
+<td><span style="font-weight: 400;">1،199 دولار</span></td>
+</tr>
+</tbody>
+</table>
+<p><span style="font-weight: 400;">جدول مواصفات Series Bixel 10</span></p>
+<p><b>ملخص سريع للاختلافات</b></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><b>بكسل 10:</b><span style="font-weight: 400;">    أفضل خيار لأولئك الذين يبحثون عن قيمة ممتازة. يوفر مواصفات قوية مع نظام الكاميرا الثلاثي لأول مرة في الفئة الأساسية ، بسعر معقول.</span></li>
+<li style="font-weight: 400;" aria-level="1"><b>Pixel 10 Pro:</b><span style="font-weight: 400;">    التوازن المثالي. يمنحك أداءً احترافيًا مع شريحة G5 Tensor ، وذاكرة عشوائية أكبر ، وكاميرات متقدمة ، ولكن في حزمة مدمجة.</span></li>
+<li style="font-weight: 400;" aria-level="1"><b>Pixel 10 Pro XL:</b><span style="font-weight: 400;">    القوة المطلقة. هذا هو الخيار لأولئك الذين يريدون الأفضل بدون حدود ، مع شاشة أكبر وكاميرا قوية وبطارية ضخمة وشحن عالي السرعة.</span></li>
+</ul>
+<h3><span class="ez-toc-section" id="%D8%A7%D9%84%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1_%D9%88%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D9%81%D8%B1"></span><span id="alasar_waltwafr"><b>الأسعار والتوافر</b></span><span class="ez-toc-section-end"></span></h3>
+<p>سلسلة من الهواتف متوفرة <b>بكسل 10</b> الجديد للترتيب المسبق ، للوصول إلى السوق بدءًا من <b>28 أغسطس 2025</b>. تبدأ الأسعار المعلنة الرسمية من Google على النحو التالي:</p>
+<ul>
+<li><b>بكسل 10:</b> بدءا من <b>799 دولار أمريكي</b>.</li>
+<li><b>Pixel 10 Pro:</b> بدءا من <b>999 دولار أمريكي</b>.</li>
+<li><b>Pixel 10 Pro XL:</b> بدءا من <b>1،199 دولار</b>.</li>
+</ul>
+<p>لم تكن جوجل راضية عن الإعلان عن سلسلة <b>بكسل 10</b> الرائدة ، ولكن كشفت أيضا هاتف <b>Pixel 10 Pro Fold</b>. يمثل هذا الهاتف قفزة نوعية في عالم الهواتف القابلة للطي ، لأنه أول هاتف من نوعه يأتي بمقاومة كاملة للماء والغبار مع معيار <b>IP68</b>. يعمل الجهاز مع معالج <b>Tensor G5</b> إنه يحتوي على مفصل جديد لإعادة التثبيت لزيادة متانته ، مع نظام كاميرا متقدم يدعمه الذكاء الاصطناعي.</p>
+<p>تتوفر هواتف جديدة عبر المتجر الرسمي (<a href="https://store.google.com/" target="_blank" rel="noopener">متجر جوجل</a>).</p>
+<h3><span class="ez-toc-section" id="%D9%85%D9%84%D8%AE%D8%B5"></span><span id="alkhlast"><b>ملخص</b></span><span class="ez-toc-section-end"></span></h3>
+<p>مع الكشف عن السلسلة <b>بكسل 10</b>يصبح من الواضح أن Google لم تكن تسعى إلى تقديم تحديثات منتظمة فقط لأجهزتها ، بل كانت تهدف إلى إظهار رؤيتها لمستقبل يعتمد تمامًا على دمج الذكاء الاصطناعي مع المعدات. من خلال شريحة <b>Tensor G5</b> ميزات الذكاء الاصطناعي الجديدة والمبتكرة ، أثبتت Google أن لديها أوراق مربحة في سباق الهاتف الذكي.</p>
+<p>تعكس هذه السلسلة الجديدة اتجاه هواتف Google نحو توفير أجهزة أداء قوية مع الذكاء الاصطناعي المتقدم. سواء كانت مرتبطة بالعروض الترويجية الشاملة في الكاميرات أو تحسينات كبيرة في أداء الشاشة والبطارية ، قدمت Google مجموعة متكاملة من الهواتف التي تلبي احتياجات المستخدمين المختلفين. في النهاية ، يبدو أن Google لا تريد فقط أن تكون منافسًا في سوق الأجهزة ، بل تكون رائدة في مجال الذكاء الاصطناعي المدمج.</p>
+<p>السؤال الآن هو: <b>أي هاتف من سلسلة Pixel 10 قد تسبب في اهتمامك أكثر؟</b> شارك رأيك في التعليقات.</p>
+</div>
+

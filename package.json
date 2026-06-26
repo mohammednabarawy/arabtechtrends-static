@@ -1,0 +1,17 @@
+{
+  "name": "arabtechtrends-static",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro check && astro build",
+    "import:wp": "node tools/import-wordpress.mjs",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.9.4",
+    "astro": "^5.13.8",
+    "typescript": "^5.9.2"
+  },
+  "devDependencies": {}
+}

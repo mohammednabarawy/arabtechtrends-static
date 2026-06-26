@@ -1,0 +1,79 @@
+---
+title: "تحديث Android 16 QPR2 1: جوجل تفاجئ المستخدمين بترقية ضخمة وتحسينات طال انتظارها!"
+description: "أطلقت شركة جوجل تحديث Android 16 QPR2، والذي يقدم مجموعة واسعة من التحسينات التي تشمل تجربة المستخدم وأدوات المطورين والوسائط والاتصال والخصوصية والأمان. يعد هذا التحديث أول إصدار جديد لـ SDK فرعي يسمح بتسليم واجهات البرمجة بشكل أسرع دون ال"
+pubDate: "2025-12-03T13:49:09"
+updatedDate: "2025-12-04T22:50:37"
+author: "Arab Tech Trends"
+category: "دروس تقنية ومقالات"
+tags: []
+image: ""
+draft: false
+sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-android-16-qpr2-1-%d8%ac%d9%88%d8%ac%d9%84-%d8%aa%d9%8f%d9%81%d8%a7%d8%ac%d8%a6-%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%ae%d8%af%d9%85%d9%8a%d9%86-%d8%a8%d8%aa%d8%b1%d9%82/"
+---
+
+<div>
+<p>أطلقت شركة جوجل تحديث Android 16 QPR2، والذي يقدم مجموعة واسعة من التحسينات التي تشمل تجربة المستخدم وأدوات المطورين والوسائط والاتصال والخصوصية والأمان. </p>
+<p>يعد هذا التحديث أول إصدار جديد لـ SDK فرعي يسمح بتسليم واجهات البرمجة بشكل أسرع دون التأثير على توافق التطبيقات الموجودة، حيث يعتمد على تحسينات إضافية بدلاً من التغييرات الجذرية في السلوك.</p>
+<div id="ez-toc-container" class="ez-toc-v2_0_85 ez-toc-wrap-right counter-hierarchy ez-toc-counter-rtl ez-toc-light-blue ez-toc-container-direction">
+<div class="ez-toc-title-container">
+<p class="ez-toc-title" style="cursor:inherit">محتوى المقالة</p>
+<span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" aria-label="Toggle Table of Content"><span class="ez-toc-js-icon-con"><span class=""><span class="eztoc-hide" style="display:none;">Toggle</span><span class="ez-toc-icon-toggle-span"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></span></span></a></span></div>
+<nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-1" href="https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-android-16-qpr2-1-%d8%ac%d9%88%d8%ac%d9%84-%d8%aa%d9%8f%d9%81%d8%a7%d8%ac%d8%a6-%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%ae%d8%af%d9%85%d9%8a%d9%86-%d8%a8%d8%aa%d8%b1%d9%82/#%D8%A3%D9%87%D9%85_%D9%85%D9%85%D9%8A%D8%B2%D8%A7%D8%AA_%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB_Android_16_QPR2" >أهم مميزات تحديث Android 16 QPR2</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-2" href="https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-android-16-qpr2-1-%d8%ac%d9%88%d8%ac%d9%84-%d8%aa%d9%8f%d9%81%d8%a7%d8%ac%d8%a6-%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%ae%d8%af%d9%85%d9%8a%d9%86-%d8%a8%d8%aa%d8%b1%d9%82/#%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB%D8%A7%D8%AA_%D8%A5%D8%B6%D8%A7%D9%81%D9%8A%D8%A9_%D8%AF%D9%88%D9%86_%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%B3_%D8%A8%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D9%81%D9%82" >تحديثات إضافية دون المساس بالتوافق</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-3" href="https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-android-16-qpr2-1-%d8%ac%d9%88%d8%ac%d9%84-%d8%aa%d9%8f%d9%81%d8%a7%d8%ac%d8%a6-%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%ae%d8%af%d9%85%d9%8a%d9%86-%d8%a8%d8%aa%d8%b1%d9%82/#%D8%A7%D9%84%D8%AA%D8%AD%D8%B3%D9%8A%D9%86%D8%A7%D8%AA_%D8%A7%D9%84%D8%B3%D9%84%D9%88%D9%83%D9%8A%D8%A9_%D9%84%D9%84%D8%AE%D8%B5%D9%88%D8%B5%D9%8A%D8%A9_%D9%88%D8%A5%D9%85%D9%83%D8%A7%D9%86%D9%8A%D8%A9_%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84" >التحسينات السلوكية للخصوصية وإمكانية الوصول</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-4" href="https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-android-16-qpr2-1-%d8%ac%d9%88%d8%ac%d9%84-%d8%aa%d9%8f%d9%81%d8%a7%d8%ac%d8%a6-%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%ae%d8%af%d9%85%d9%8a%d9%86-%d8%a8%d8%aa%d8%b1%d9%82/#%D8%AD%D9%82%D9%88%D9%84_%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9_%D9%81%D9%8A_%D9%81%D8%A6%D8%A9_%D8%A7%D9%84%D8%A8%D9%86%D8%A7%D8%A1" >حقول جديدة في فئة البناء</a></li></ul></li></ul></nav></div>
+<h2 class="wp-block-heading"><span class="ez-toc-section" id="%D8%A3%D9%87%D9%85_%D9%85%D9%85%D9%8A%D8%B2%D8%A7%D8%AA_%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB_Android_16_QPR2"></span><strong>أهم مميزات تحديث Android 16 QPR2 </strong><span class="ez-toc-section-end"></span></h2>
+<p><strong>تطور النظام الأساسي: إصدار Minor SDK</strong></p>
+<p>يهدف تحديث Android 16 QPR2 إلى تسريع وصول الميزات الجديدة خارج دورة الإصدار السنوية الرئيسية. ومن أبرز مميزاته ما يلي:</p>
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB%D8%A7%D8%AA_%D8%A5%D8%B6%D8%A7%D9%81%D9%8A%D8%A9_%D8%AF%D9%88%D9%86_%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%B3_%D8%A8%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D9%81%D9%82"></span><strong>تحديثات إضافية دون المساس بالتوافق</strong><span class="ez-toc-section-end"></span></h3>
+<p>ويركز التحديث على التحسينات الصغيرة التي تتم إضافتها إلى النظام دون تغيير طريقة عمل التطبيقات الموجودة، مما يقلل الحاجة إلى اختبارات مكثفة.</p>
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="%D8%A7%D9%84%D8%AA%D8%AD%D8%B3%D9%8A%D9%86%D8%A7%D8%AA_%D8%A7%D9%84%D8%B3%D9%84%D9%88%D9%83%D9%8A%D8%A9_%D9%84%D9%84%D8%AE%D8%B5%D9%88%D8%B5%D9%8A%D8%A9_%D9%88%D8%A5%D9%85%D9%83%D8%A7%D9%86%D9%8A%D8%A9_%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84"></span><strong>التحسينات السلوكية للخصوصية وإمكانية الوصول</strong><span class="ez-toc-section-end"></span></h3>
+<p>يتضمن التحديث حماية جديدة لرموز التحقق من الرسائل القصيرة (OTP) وتوسيع الوضع المظلم ليشمل المزيد من التطبيقات.</p>
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="%D8%AD%D9%82%D9%88%D9%84_%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9_%D9%81%D9%8A_%D9%81%D8%A6%D8%A9_%D8%A7%D9%84%D8%A8%D9%86%D8%A7%D8%A1"></span><strong>حقول جديدة في فئة البناء</strong><span class="ez-toc-section-end"></span></h3>
+<p>تضيف Google حقلي SDK_INT_FULL وVERSION_CODES_FULL لمساعدة المطورين على اكتشاف واجهات برمجة التطبيقات المحدثة بسهولة.</p>
+<p>ويعزز هذا النهج الجديد قدرة المطورين على دمج الميزات الحديثة بسرعة وفعالية.</p>
+<p><strong>تحسين تجربة المستخدم والتخصيص</strong></p>
+<p><strong>الوضع المظلم الموسع</strong></p>
+<p>يوفر التحديث وضعًا مظلمًا أكثر اتساقًا لمساعدة الأشخاص الذين يعانون من حساسية الضوء أو مشاكل في الرؤية.<br />يتم تبديل تطبيقات DayNight تلقائيًا، بينما يلزم إعداد التطبيقات المخصصة <strong>isLightTheme = &#8220;خطأ&#8221;</strong>.</p>
+<p><strong>أشكال الأيقونات المخصصة وإنشاء الأيقونات تلقائيًا</strong></p>
+<p>ويمكن للمستخدمين الآن اختيار شكل موحد لأيقونات التطبيقات على مستوى النظام، ويمكن للنظام أيضًا إنشاء أيقونات ذات طبيعة موحدة للتطبيقات التي لا توفر واحدة.</p>
+<p><strong>جلسات مشاركة تفاعلية</strong></p>
+<p>أصبحت ورقة المشاركة الآن ديناميكية، وتستمر في تحديث المحتوى أثناء فتح واجهة المشاركة دون الحاجة إلى إغلاقها وإعادة فتحها.</p>
+<p><strong>إنتاجية المطور وتحسين الأداء</strong></p>
+<p><strong>بيئة تطوير Linux مع دعم تطبيق واجهة المستخدم الرسومية</strong></p>
+<p>يمكن للمطورين الآن تشغيل تطبيقات واجهة المستخدم الرسومية (GUI) داخل بيئة Linux المضمنة عبر الجهاز.</p>
+<p><strong>جامع النفايات الجديد (CMC)</strong></p>
+<p>يعتمد على تجميع الجيل الجديد، مما يقلل من استخدام المعالج ويحسن استهلاك البطارية من خلال التركيز على الكائنات الجديدة.</p>
+<p><strong>مقاييس تفاعل القطعة</strong></p>
+<p>فهو يسمح بتتبع النقرات والتمرير ومرات الظهور لتحليل تفاعل المستخدمين مع الأداة.</p>
+<p><strong>حجم الصفحة الجاهزة 16 كيلو بايت</strong></p>
+<p>يعرض النظام تحذيرات مبكرة للتطبيقات غير المتوافقة مع حجم الصفحة الجديد المطلوب للأجهزة المستقبلية.</p>
+<p><strong>الإعلام والاتصال والصحة</strong></p>
+<p><strong>الوظيفة الإضافية IAMF للصوت المكاني</strong></p>
+<p>يدعم النظام الآن فك التشفير <strong>نموذج وتنسيقات صوتية غامرة</strong> لتجربة صوت محيطي محسنة.</p>
+<p><strong>مشاركة الصوت الشخصية عبر تقنية Bluetooth LE Audio</strong></p>
+<p>ميزة جديدة مدمجة في الواجهة <strong>محول الإخراج</strong> لدعم مشاركة الصوت الشخصية.</p>
+<p><strong>اتصال الصحة</strong></p>
+<ul class="wp-block-list">
+<li>تتبع الخطوات تلقائيًا عبر مستشعرات الجهاز</li>
+<li>تتبع الوزن، وتعيين المؤشر، ومعدل الجهد المتصور <strong>RPE</strong> أثناء التمارين</li>
+<li>جعل البيانات متاحة للتطبيقات عن طريق الإذن <strong>اقرأ_الخطوات</strong></li>
+</ul>
+<p><strong>ترحيل البيانات بين Android وiOS</strong></p>
+<p>تتيح واجهة برمجة التطبيقات الجديدة عمليات نقل موثوقة للبيانات بين النظامين عبر تطبيقات الطرف الثالث.</p>
+<p><strong>تعزيز الخصوصية والأمان</strong></p>
+<p><strong>التحقق من المطور</strong></p>
+<p>توفر Google واجهات برمجة التطبيقات (APIs) وأوامر ADB التي تسمح بالتحقق من التطبيقات، مع إمكانية تجاوزها أثناء مرحلة الاختبار.</p>
+<p><strong>حماية رسائل OTP عبر الرسائل القصيرة</strong></p>
+<p>يتم تأخير الرسائل التي تحتوي على معرفات الاسترداد لمدة 3 ساعات، ويتم منع إرسال بث RECEIVE_SMS حتى ينتهي التأخير، لحماية المستخدمين من هجمات التصيد الاحتيالي.</p>
+<p><strong>ميزة قفل الجهاز الآمن</strong></p>
+<p>يسمح لك بقفل الجهاز عن بعد عبر الخدمة <strong>ابحث عن جهازي</strong> استخدام رمز القفل الأساسي (PIN/النمط/كلمة المرور) مع:</p>
+<ul class="wp-block-list">
+<li>إخفاء الإخطارات</li>
+<li>تقييد الإجراءات السريعة</li>
+<li>قم بتعطيل ميزة فتح القفل ببصمة الإصبع مؤقتًا</li>
+</ul>
+<p><strong>التوفر</strong></p>
+<p>سيصل Android 16 QPR2 قريبًا كتحديث عبر الهواء لأجهزة Pixel.<br />أما بالنسبة لبقية الأجهزة فيمكن لمستخدمي أندرويد الآخرين الحصول على نسخة النظام 64 بت عبر <strong>محاكي أندرويد</strong> في أندرويد ستوديو.<br />يمكن لمستخدمي الإصدار التجريبي أيضًا إلغاء الاشتراك في الإصدار الرسمي عبر الهواء.</p>
+<p>توصي Google باستخدام أحدث إصدار <strong>كناري</strong> من Android Studio Otter للحصول على أفضل دعم للتطوير.</p>
+<p>ما هي الميزة التي أعجبتك أكثر؟</p>
+<p><a href="https://www.fonearena.com/blog/470250/android-16-qpr2-update-features.html" data-type="link" data-id="https://www.fonearena.com/blog/470250/android-16-qpr2-update-features.html">مصدر</a></p>
+</div>
+

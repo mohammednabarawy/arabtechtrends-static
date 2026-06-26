@@ -1,0 +1,33 @@
+---
+import "../styles/global.css";
+
+const {
+  title = "Arab Tech Trends",
+  description = "Technology news, guides, and trends for Arabic readers."
+} = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <title>{title}</title>
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="/">Arab Tech Trends</a>
+      <nav>
+        <a href="/posts/">Posts</a>
+        <a href="/admin/">Admin</a>
+      </nav>
+    </header>
+    <main>
+      <slot />
+    </main>
+    <footer>
+      <p>Arab Tech Trends</p>
+    </footer>
+  </body>
+</html>

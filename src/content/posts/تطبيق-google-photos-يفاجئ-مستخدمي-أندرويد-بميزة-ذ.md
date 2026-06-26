@@ -1,0 +1,33 @@
+---
+title: "يفاجئ تطبيق Google Photos مستخدمي Android بميزة ذكية لإنشاء مقاطع فيديو احترافية تلقائيًا"
+description: "تعمل شركة جوجل حاليًا على تطوير تجربة جديدة ضمن تطبيق Google Photos تهدف إلى تسهيل عملية إنشاء مقاطع الفيديو التذكارية وتحويلها إلى تجربة احترافية وسريعة. تفاصيل ميزة إنشاء الفيديو التذكاري في تطبيق صور جوجل بحسب تقرير نشره موقع Android Aut"
+pubDate: "2025-10-19T20:46:01"
+updatedDate: "2025-10-20T14:47:58"
+author: "Arab Tech Trends"
+category: "دروس تقنية ومقالات"
+tags: []
+image: ""
+draft: false
+sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-google-photos-%d9%8a%d9%81%d8%a7%d8%ac%d8%a6-%d9%85%d8%b3%d8%aa%d8%ae%d8%af%d9%85%d9%8a-%d8%a3%d9%86%d8%af%d8%b1%d9%88%d9%8a%d8%af-%d8%a8%d9%85%d9%8a%d8%b2%d8%a9-%d8%b0/"
+---
+
+<div id="the-post">
+<div class="featured-area">
+<div class="featured-area-inner">
+<figure class="single-featured-image"></figure>
+</div>
+</div>
+<div class="entry-content entry clearfix">
+<p>تعمل شركة جوجل حاليًا على تطوير تجربة جديدة ضمن تطبيق Google Photos تهدف إلى تسهيل عملية إنشاء مقاطع الفيديو التذكارية وتحويلها إلى تجربة احترافية وسريعة.</p>
+<h2 class="wp-block-heading">تفاصيل ميزة إنشاء الفيديو التذكاري في تطبيق صور جوجل</h2>
+<p>بحسب تقرير نشره موقع Android Authority، كشف التحديث التجريبي للإصدار 7.50 من تطبيق Google Photos على نظام أندرويد عن أداة جديدة تتيح إنشاء مقاطع فيديو مميزة من خلال قوالب جاهزة تتضمن موسيقى محددة مسبقًا ونصوص تلقائية قابلة للتعديل.</p>
+<p>حتى الآن، سمحت خدمة Google Photos للمستخدمين بإنشاء مقاطع فيديو تسلط الضوء على أشخاص أو أحداث معينة عن طريق تحديد الصور والمقاطع يدويًا. ومع التحديث الجديد، سيبدأ المستخدم باختيار قالب مخصص يحدد تلقائيًا شكل الفيديو والموسيقى المصاحبة له.</p>
+<figure class="wp-block-image size-full"><img data-lazyloaded="1" data-recalc-dims="1" decoding="async" width="708" height="497" src="https://www.arabtechtrends.com/wp-content/uploads/2025/10/1760960877_330_google-photos---android.jpg" alt="" class="wp-image-225500"  data-/></figure>
+<p>تحتوي القوالب الجديدة على مجموعة متنوعة من الأسماء، مثل &#8220;Fall Vibes&#8221; و&#8221;Trip Recap&#8221; و&#8221;Hobbies&#8221;، وستتغير وفقًا للموسم أو نوع الصور داخل مكتبة المستخدم. المثير للاهتمام هو أن الموسيقى المستخدمة لا تقتصر على المقاطع المجانية، بل تشمل أيضًا الأغاني الشعبية مثل &#8220;Hip Hop Hooray&#8221; و&#8221;Breathe&#8221;، مما يجعل مقاطع الفيديو أكثر حيوية وجاذبية.</p>
+<p>وتتيح الميزة الجديدة أيضًا إمكانية إضافة نصوص مخصصة داخل الفيديو، بالإضافة إلى نصوص تلقائية مصممة لتناسب النشر على وسائل التواصل الاجتماعي، مثل “Core Memory unlocked” و”When the festivitiesضاءة”.</p>
+<p>ورغم أن الميزة لم يتم إطلاقها رسميًا بعد، إلا أن اكتشافها في الإصدار الأخير من تطبيق صور جوجل يشير إلى أنه سيتم إطلاقها قريبًا على نطاق واسع خلال الفترة المقبلة.</p>
+<p>وتسعى جوجل من خلال هذا التحديث إلى جعل تطبيق Google Photos أكثر من مجرد منصة لحفظ الصور، ليصبح أداة متكاملة لإنشاء محتوى مرئي احترافي ينافس تطبيقات المونتاج المخصصة.</p>
+<p>ما رأيك في هذه الميزة؟ شاركنا رأيك ..</p>
+<p><a href="https://www.androidauthority.com/google-photos-new-highlight-video-templates-3607805/" data-type="link" data-id="https://www.androidauthority.com/google-photos-new-highlight-video-templates-3607805/">مصدر</a></p>
+</div></div>
+

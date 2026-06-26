@@ -1,0 +1,81 @@
+---
+title: "تستعد Samsung لإطلاق هذه الهواتف!"
+description: "تستعد الشركة الكورية Samsung لإطلاق تحديث One UI 8.5 الذي سيأتي مسبقًا على هواتف Galaxy S26 التي سيتم إطلاقها في فبراير 2026 ، بينما ينتظر مستخدمو الأجهزة الحالية وصولها على التوالي خلال العام المقبل. أهم ميزات تحديث واجهة المستخدم 8.5 تكشف"
+pubDate: "2025-10-03T13:14:52"
+updatedDate: "2025-10-05T02:37:28"
+author: "Arab Tech Trends"
+category: "دروس تقنية ومقالات"
+tags: []
+image: ""
+draft: false
+sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui-8-5-%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-%d8%aa%d8%b3%d8%aa%d8%b9%d8%af-%d9%84%d8%a5%d8%b7%d9%84%d8%a7%d9%82%d9%87-%d9%84%d9%87%d8%b0%d9%87-%d8%a7%d9%84/"
+---
+
+<div id="the-post">
+<div class="featured-area">
+<div class="featured-area-inner">
+<figure class="single-featured-image"></figure>
+</div>
+</div>
+<div class="entry-content entry clearfix">
+<p>تستعد الشركة الكورية Samsung لإطلاق تحديث One UI 8.5 الذي سيأتي مسبقًا على هواتف Galaxy S26 التي سيتم إطلاقها في فبراير 2026 ، بينما ينتظر مستخدمو الأجهزة الحالية وصولها على التوالي خلال العام المقبل.</p>
+<div id="ez-toc-container" class="ez-toc-v2_0_85 ez-toc-wrap-right counter-hierarchy ez-toc-counter-rtl ez-toc-light-blue ez-toc-container-direction">
+<div class="ez-toc-title-container">
+<p class="ez-toc-title" style="cursor:inherit">محتوى المقالة</p>
+<span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" aria-label="Toggle Table of Content"><span class="ez-toc-js-icon-con"><span class=""><span class="eztoc-hide" style="display:none;">Toggle</span><span class="ez-toc-icon-toggle-span"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></span></span></a></span></div>
+<nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-1" href="https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui-8-5-%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-%d8%aa%d8%b3%d8%aa%d8%b9%d8%af-%d9%84%d8%a5%d8%b7%d9%84%d8%a7%d9%82%d9%87-%d9%84%d9%87%d8%b0%d9%87-%d8%a7%d9%84/#%D8%A3%D9%87%D9%85_%D9%85%D9%8A%D8%B2%D8%A7%D8%AA_%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB_%D9%88%D8%A7%D8%AC%D9%87%D8%A9_%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85_85" >أهم ميزات تحديث واجهة المستخدم 8.5</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-2" href="https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui-8-5-%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-%d8%aa%d8%b3%d8%aa%d8%b9%d8%af-%d9%84%d8%a5%d8%b7%d9%84%d8%a7%d9%82%d9%87-%d9%84%d9%87%d8%b0%d9%87-%d8%a7%d9%84/#%D8%B3%D8%AA%D8%AD%D8%B5%D9%84_%D8%A7%D9%84%D9%87%D9%88%D8%A7%D8%AA%D9%81_%D8%B9%D9%84%D9%89_%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB_%D9%88%D8%A7%D8%AC%D9%87%D8%A9_%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85_%D9%88%D8%A7%D8%AD%D8%AF%D8%A9_85" >ستحصل الهواتف على تحديث واجهة مستخدم واحدة 8.5</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-3" href="https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui-8-5-%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-%d8%aa%d8%b3%d8%aa%d8%b9%d8%af-%d9%84%d8%a5%d8%b7%d9%84%d8%a7%d9%82%d9%87-%d9%84%d9%87%d8%b0%d9%87-%d8%a7%d9%84/#%D8%B3%D9%84%D8%B3%D9%84%D8%A9_Galaxy_S" >سلسلة Galaxy S.</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-4" href="https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui-8-5-%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-%d8%aa%d8%b3%d8%aa%d8%b9%d8%af-%d9%84%d8%a5%d8%b7%d9%84%d8%a7%d9%82%d9%87-%d9%84%d9%87%d8%b0%d9%87-%d8%a7%d9%84/#%D8%A7%D9%84%D9%87%D9%88%D8%A7%D8%AA%D9%81_%D8%A7%D9%84%D9%82%D8%A7%D8%A8%D9%84%D8%A9_%D9%84%D9%84%D8%B7%D9%8A" >الهواتف القابلة للطي</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-5" href="https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui-8-5-%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-%d8%aa%d8%b3%d8%aa%d8%b9%d8%af-%d9%84%d8%a5%d8%b7%d9%84%d8%a7%d9%82%d9%87-%d9%84%d9%87%d8%b0%d9%87-%d8%a7%d9%84/#Galaxy_%D8%B3%D9%84%D8%B3%D9%84%D8%A9" >Galaxy سلسلة</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-6" href="https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui-8-5-%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-%d8%aa%d8%b3%d8%aa%d8%b9%d8%af-%d9%84%d8%a5%d8%b7%d9%84%d8%a7%d9%82%d9%87-%d9%84%d9%87%d8%b0%d9%87-%d8%a7%d9%84/#%D8%B9%D9%84%D8%A7%D9%85%D8%A9_%D8%A7%D9%84%D8%AA%D8%A8%D9%88%D9%8A%D8%A8_Galaxy" >علامة التبويب Galaxy</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-7" href="https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui-8-5-%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-%d8%aa%d8%b3%d8%aa%d8%b9%d8%af-%d9%84%d8%a5%d8%b7%d9%84%d8%a7%d9%82%d9%87-%d9%84%d9%87%d8%b0%d9%87-%d8%a7%d9%84/#%D8%B3%D9%84%D8%B3%D9%84%D8%A9_Galaxy_M_%D9%88_F" >سلسلة Galaxy M و F</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-8" href="https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui-8-5-%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-%d8%aa%d8%b3%d8%aa%d8%b9%d8%af-%d9%84%d8%a5%d8%b7%d9%84%d8%a7%d9%82%d9%87-%d9%84%d9%87%d8%b0%d9%87-%d8%a7%d9%84/#%D8%A7%D9%84%D9%87%D9%88%D8%A7%D8%AA%D9%81_%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%A9" >الهواتف المقاومة</a></li></ul></li></ul></li></ul></nav></div>
+<h2 class="wp-block-heading"><span class="ez-toc-section" id="%D8%A3%D9%87%D9%85_%D9%85%D9%8A%D8%B2%D8%A7%D8%AA_%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB_%D9%88%D8%A7%D8%AC%D9%87%D8%A9_%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85_85"></span>أهم ميزات تحديث واجهة المستخدم 8.5<span class="ez-toc-section-end"></span></h2>
+<p>تكشف تسريبات الإصدار التجريبي أن التحديث سيحضر:</p>
+<ul class="wp-block-list">
+<li>أيقونات جديدة ذات تأثير ثلاثة أبعاد.</li>
+<li>الواجهة أقرب إلى تصميم الزجاج الداكن.</li>
+<li>تحسينات على اللوحة السريعة.</li>
+<li>تعديلات شاملة على مستوى النظام لواجهة أكثر سلاسة ومخصصة.</li>
+</ul>
+<h3 class="wp-block-heading"><span class="ez-toc-section" id="%D8%B3%D8%AA%D8%AD%D8%B5%D9%84_%D8%A7%D9%84%D9%87%D9%88%D8%A7%D8%AA%D9%81_%D8%B9%D9%84%D9%89_%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB_%D9%88%D8%A7%D8%AC%D9%87%D8%A9_%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85_%D9%88%D8%A7%D8%AD%D8%AF%D8%A9_85"></span>ستحصل الهواتف على تحديث واجهة مستخدم واحدة 8.5<span class="ez-toc-section-end"></span></h3>
+<p>وفقًا لسياسة تحديث Samsung ، ستكون الأجهزة المؤهلة لنظام التشغيل Android 17 مؤهلاً أيضًا للحصول على واجهة مستخدم واحدة 8.5. تتضمن القائمة:</p>
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%D8%B3%D9%84%D8%B3%D9%84%D8%A9_Galaxy_S"></span>سلسلة Galaxy S.<span class="ez-toc-section-end"></span></h4>
+<ul class="wp-block-list">
+<li>Galaxy S25 و S25+و S25 Edge و S25 Ultra و S25 Fe</li>
+<li>Galaxy S24 و S24+و S24 Ultra و S24 Fe</li>
+<li>Galaxy S23 و S23+و S23 Ultra و S23 Fe</li>
+<li>من المحتمل أن التحديث الأخير لسلسلة S22 و Galaxy S21 Fe</li>
+</ul>
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%D8%A7%D9%84%D9%87%D9%88%D8%A7%D8%AA%D9%81_%D8%A7%D9%84%D9%82%D8%A7%D8%A8%D9%84%D8%A9_%D9%84%D9%84%D8%B7%D9%8A"></span>الهواتف القابلة للطي<span class="ez-toc-section-end"></span></h4>
+<ul class="wp-block-list">
+<li>Galaxy Z Fold 7 و Flip 7 و Flip 7 Fe</li>
+<li>Galaxy Z Fold 6 (بما في ذلك الإصدار الخاص) و Flip 6</li>
+<li>Galaxy Z Fold 5 و Flip 5</li>
+<li>في حين أن وصوله إلى Galaxy Z Fold 4 و Flip 4 يظل غير مؤكد</li>
+</ul>
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="Galaxy_%D8%B3%D9%84%D8%B3%D9%84%D8%A9"></span>Galaxy سلسلة<span class="ez-toc-section-end"></span></h4>
+<ul class="wp-block-list">
+<li>Galaxy A17 ، A56 ، A36 ، A26 ، A16 ، A06</li>
+<li>Galaxy A55 ، A35 ، A25 ، A15</li>
+<li>Galaxy A54 ، A34 ، A24</li>
+<li>Galaxy A73 ، A53 ، A33</li>
+</ul>
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%D8%B9%D9%84%D8%A7%D9%85%D8%A9_%D8%A7%D9%84%D8%AA%D8%A8%D9%88%D9%8A%D8%A8_Galaxy"></span>علامة التبويب Galaxy<span class="ez-toc-section-end"></span></h4>
+<ul class="wp-block-list">
+<li>Tab S11 / S11 Ultra</li>
+<li>Tab S10+ / S10 Ultra</li>
+<li>Tab S9 / S9+ / S9 Ultra</li>
+<li>Tab S8 / S8+ / S8 Ultra</li>
+<li>Tab S10 Fe / Fe+، Tab S9 Fe / Fe+</li>
+<li>علامة التبويب A11 ، علامة التبويب A9 / A9+</li>
+<li>Tab S6 Lite (2024) ، علامة تبويب نشطة 5/5 Pro</li>
+</ul>
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%D8%B3%D9%84%D8%B3%D9%84%D8%A9_Galaxy_M_%D9%88_F"></span>سلسلة Galaxy M و F<span class="ez-toc-section-end"></span></h4>
+<ul class="wp-block-list">
+<li>Galaxy M56/F56 ، M36/F36 ، M55/M55S ، M54/F54</li>
+<li>Galaxy M34/F33 ، M33 ، M16/F16 ، M15/F15 ، M06/F06</li>
+</ul>
+<h4 class="wp-block-heading"><span class="ez-toc-section" id="%D8%A7%D9%84%D9%87%D9%88%D8%A7%D8%AA%D9%81_%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%A9"></span>الهواتف المقاومة<span class="ez-toc-section-end"></span></h4>
+<ul class="wp-block-list">
+<li>Galaxy Xcooor 7 ، Xcoover 7 Pro ، Xcover 6 Pro</li>
+</ul>
+<p>تعتمد هذه القائمة على سياسة التحديث السابقة لشركة Samsung ولم يتم تأكيدها رسميًا بعد. ولكن من الواضح أن الشركة تسعى إلى توسيع دائرة الدعم لتشمل فئات واسعة من الأجهزة ، سواء كانت رائدة أو متوسطة أو حتى أقراص.</p>
+<p>هل هاتفك بين الهواتف المذكورة أعلاه سيحصل على تحديث واجهة المستخدم One 8.5؟ شارك رأيك &#8230;</p>
+<p><a href="https://www.sammyfans.com/2025/10/02/samsung-one-ui-8-5-update-devices/" data-type="link" data-id="https://www.sammyfans.com/2025/10/02/samsung-one-ui-8-5-update-devices/">مصدر</a></p>
+</div></div>
+

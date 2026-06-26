@@ -1,0 +1,33 @@
+---
+title: "يحصل الجوزاء على ميزة مذهلة تحول أفكارك إلى قصص في الصورة!"
+description: "أعلنت Google اليوم عن إطلاق ميزة جديدة من الاسم قصص داخل الجوزاء ، في جميع البلدان العربية. تهدف هذه الميزة إلى تحويل الأفكار والمفاهيم المجتمعية أو التعليمية المعقدة إلى قصص مصورة من عشر صفحات ، بدعم من الرسومات الغنية والنص والنص التفاعلي"
+pubDate: "2025-08-05T14:14:29"
+updatedDate: "2025-08-09T13:19:09"
+author: "Arab Tech Trends"
+category: "دروس تقنية ومقالات"
+tags: []
+image: ""
+draft: false
+sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d9%8a%d9%85%d9%8a%d9%86%d8%a7%d9%8a-gemini-%d9%8a%d8%ad%d8%b5%d9%84-%d8%b9%d9%84%d9%89-%d9%85%d9%8a%d8%b2%d8%a9-%d9%85%d8%b0%d9%87%d9%84%d8%a9-%d8%aa%d8%ad%d9%88%d9%91%d9%84-%d8%a3%d9%81%d9%83/"
+---
+
+<div id="the-post">
+<div class="featured-area">
+<div class="featured-area-inner">
+<figure class="single-featured-image"></figure>
+</div>
+</div>
+<div class="entry-content entry clearfix">
+<p>أعلنت Google اليوم عن إطلاق ميزة جديدة من الاسم <strong>قصص</strong> داخل الجوزاء ، في جميع البلدان العربية. تهدف هذه الميزة إلى تحويل الأفكار والمفاهيم المجتمعية أو التعليمية المعقدة إلى قصص مصورة من عشر صفحات ، بدعم من الرسومات الغنية والنص والنص التفاعلي.</p>
+<p>تتيح هذه الميزة للمستخدمين إنشاء قصص في عدد من اللغات ، بما في ذلك اللغة العربية ، مع القدرة على تخصيص الشخصيات والمشاهد ، وتنزيل القصة بتنسيق PDF للمشاركة أو الطباعة. يمكن أيضًا اختيار نمط رسومي مميز مثل البكسل أو القصص المصورة أو مناسب لذوق المستخدم أو الفئة العمرية المستهدفة.</p>
+<p>لإنشاء قصة ، يمكن للمستخدم الانتقال إلى قائمة <strong>الأحجار الكريمة</strong> داخل أداة Gemini ، ثم اختر ميزة Storybook ، واكتب عبارة مثل &#8220;إنشاء قصة حول &#8230;&#8221; في مربع الطلب.</p>
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img data-lazyloaded="1" data-recalc-dims="1" decoding="async" width="708" height="310" src="https://www.arabtechtrends.com/wp-content/uploads/2025/08/1754734746_553_يحصل-الجوزاء-على-ميزة-مذهلة-تحول-أفكارك-إلى-قصص-في.jpg" alt="تَوأَم " class="wp-image-223640"  data-/></figure>
+</div>
+<p>يتم دعم هذه الميزة من خلال تقنيات ذكاء الجوزاء I ، حيث إنها تحول النص المكتوب إلى قصة كاملة تجمع بين النصوص والصور ، وتوفر خيارًا لرواية الصوت باللغة المختارة. وبالمثل ، يمكن تقديم أسماء أو صور حقيقية لتخصيص شخصيات فريدة ، بما في ذلك صور الأطفال أو الرسومات.</p>
+<p>تم تصميم هذه الأداة لتكون طريقة تعليمية مثيرة ومفيدة ، سواء للآباء أو المعلمين ، حيث يمكن استخدامها لتعليم الأطفال السلوكيات والمبادئ العائلية والمبادئ بطريقة بسيطة وجذابة. كما يسمح بإمكانية شرح المفاهيم العلمية المعقدة بلغة سهلة وصور مناسبة.</p>
+<p>ميزة القصص القصيرة متوفرة من اليوم عبر الموقع <a class="" href="https://gemini.google.com/">gemini.google.com</a> من المقرر أن يتم إطلاقه قريبًا في تطبيق Gemini على الهواتف الذكية.</p>
+<p><a href="https://blog.google/intl/ar-mena/products/explore-get-answers/google-launches-storybook-feature-on-gemini-arabic/" data-type="link" data-id="https://blog.google/intl/ar-mena/products/explore-get-answers/google-launches-storybook-feature-on-gemini-arabic/">مصدر</a></p>
+</p></div>
+</p></div>
+

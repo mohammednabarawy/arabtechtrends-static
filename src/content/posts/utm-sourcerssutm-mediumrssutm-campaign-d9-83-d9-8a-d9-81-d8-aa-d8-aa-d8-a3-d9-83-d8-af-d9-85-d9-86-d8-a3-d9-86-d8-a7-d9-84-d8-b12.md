@@ -1,0 +1,130 @@
+---
+title: "كيف تتأكد من أن الرابط آمن قبل النقر عليه؟ دليلك الشامل لفحص الروابط والأدوات المجانية"
+description: "هل تلقيت رسالة أو بريد إلكتروني مع رابط غريب يثير فضولك أو يقلقك؟ في عصرنا الرقمي ، أصبحت العلاقات الضارة أول سلاح للمتسللين. الخطر الحقيقي هو أن هذه الروابط قد تقودك إلى هجمات التصيد ، أو تركيب البرامج الضارة ، أو حتى سرقة معلوماتك الشخصية"
+pubDate: "2025-08-17T00:40:42"
+updatedDate: "2025-08-17T00:40:44"
+author: "Arab Tech Trends"
+category: "دروس تقنية ومقالات"
+tags: []
+image: ""
+draft: false
+sourceUrl: "https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%25d9%2583%25d9%258a%25d9%2581-%25d8%25aa%25d8%25aa%25d8%25a3%25d9%2583%25d8%25af-%25d9%2585%25d9%2586-%25d8%25a3%25d9%2586-%25d8%25a7%25d9%2584%25d8%25b12/"
+---
+
+<div class="entry-content clearfix single-post-content">
+<p><span style="font-weight: 400;">هل تلقيت رسالة أو بريد إلكتروني مع رابط غريب يثير فضولك أو يقلقك؟ في عصرنا الرقمي ، أصبحت العلاقات الضارة أول سلاح للمتسللين. الخطر الحقيقي هو أن هذه الروابط قد تقودك إلى هجمات التصيد ، أو تركيب البرامج الضارة ، أو حتى سرقة معلوماتك الشخصية ، والتي تعرضك للعديد من التهديدات الأمنية.</span></p>
+<div class="duzxlygivn duzxlygivn-post-inline duzxlygivn-float-center duzxlygivn-align-center duzxlygivn-column-1 duzxlygivn-clearfix no-bg-box-model">
+<div id="duzxlygivn-74478-1829088828" class="duzxlygivn-container duzxlygivn-type-code " itemscope="" itemtype="https://schema.org/WPAdBlock" data-adid="74478" data-type="code">
+<div id="duzxlygivn-74478-1829088828-place"></div>
+</div>
+</div>
+<p><span style="font-weight: 400;">لكنك لا تقلق! في هذا الدليل الشامل من &#8220;Crazy Computer&#8221; ، سوف نوضح لك كيف يمكنك معرفة ما إذا كان الرابط آمنًا أم لا ، وسنوفر لك أفضل الأدوات والمواقع المجانية التي تساعدك </span><b>تحقق من الروابط قبل فتحها</b><span style="font-weight: 400;">. استعد لتصبح خبيرًا في التمييز بين روابط آمنة من الخبيثة.</span></p>
+<div class="lwptoc lwptoc-autoWidth lwptoc-baseItems lwptoc-inherit" data-smooth-scroll="1" data-smooth-scroll-offset="24"></div>
+<div id="ez-toc-container" class="ez-toc-v2_0_85 ez-toc-wrap-right counter-hierarchy ez-toc-counter-rtl ez-toc-light-blue ez-toc-container-direction">
+<div class="ez-toc-title-container">
+<p class="ez-toc-title" style="cursor:inherit">محتوى المقالة</p>
+<span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" aria-label="Toggle Table of Content"><span class="ez-toc-js-icon-con"><span class=""><span class="eztoc-hide" style="display:none;">Toggle</span><span class="ez-toc-icon-toggle-span"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></span></span></a></span></div>
+<nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-1" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%25d9%2583%25d9%258a%25d9%2581-%25d8%25aa%25d8%25aa%25d8%25a3%25d9%2583%25d8%25af-%25d9%2585%25d9%2586-%25d8%25a3%25d9%2586-%25d8%25a7%25d9%2584%25d8%25b12/#%D9%84%D9%85%D8%A7%D8%B0%D8%A7_%D9%84%D8%A7_%D8%AA%D9%86%D9%82%D8%B1_%D8%B9%D9%84%D9%89_%D8%A3%D9%8A_%D8%B1%D8%A7%D8%A8%D8%B7_%D9%82%D8%A8%D9%84_%D9%81%D8%AD%D8%B5%D9%87%D8%9F_%D9%81%D9%87%D9%85_%D8%A7%D9%84%D8%AA%D9%87%D8%AF%D9%8A%D8%AF" >لماذا لا تنقر على أي رابط قبل فحصه؟ (فهم التهديد)</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-2" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%25d9%2583%25d9%258a%25d9%2581-%25d8%25aa%25d8%25aa%25d8%25a3%25d9%2583%25d8%25af-%25d9%2585%25d9%2586-%25d8%25a3%25d9%2586-%25d8%25a7%25d9%2584%25d8%25b12/#%D8%A7%D9%84%D8%AE%D8%B7%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%8A%D8%AF%D9%88%D9%8A%D8%A9_%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9%D8%A9_%D9%84%D9%81%D8%AD%D8%B5_%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D8%A8%D8%B7_%D9%86%D8%B5%D8%A7%D8%A6%D8%AD_%D8%A8%D8%AF%D9%88%D9%86_%D8%A3%D8%AF%D9%88%D8%A7%D8%AA" >الخطوات اليدوية السريعة لفحص الروابط (نصائح بدون أدوات)</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-3" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%25d9%2583%25d9%258a%25d9%2581-%25d8%25aa%25d8%25aa%25d8%25a3%25d9%2583%25d8%25af-%25d9%2585%25d9%2586-%25d8%25a3%25d9%2586-%25d8%25a7%25d9%2584%25d8%25b12/#%D8%A3%D9%81%D8%B6%D9%84_%D8%A7%D9%84%D8%A3%D8%AF%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D9%86%D9%8A%D8%A9_%D9%84%D9%81%D8%AD%D8%B5_%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D8%A8%D8%B7_%D9%88%D8%AA%D8%AC%D9%86%D8%A8_%D8%A7%D9%84%D9%85%D8%AE%D8%A7%D8%B7%D8%B1" >أفضل الأدوات المجانية لفحص الروابط وتجنب المخاطر</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-4" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%25d9%2583%25d9%258a%25d9%2581-%25d8%25aa%25d8%25aa%25d8%25a3%25d9%2583%25d8%25af-%25d9%2585%25d9%2586-%25d8%25a3%25d9%2586-%25d8%25a7%25d9%2584%25d8%25b12/#%D9%83%D9%8A%D9%81%D9%8A%D8%A9_%D8%A7%D9%84%D8%AA%D8%AD%D9%82%D9%82_%D9%85%D9%86_%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D8%A8%D8%B7_%D8%B9%D9%84%D9%89_%D8%A7%D9%84%D9%87%D9%88%D8%A7%D8%AA%D9%81_%D8%A7%D9%84%D8%B0%D9%83%D9%8A%D8%A9_Android_%D9%88_iPhone" >كيفية التحقق من الروابط على الهواتف الذكية (Android و iPhone)</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-5" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%25d9%2583%25d9%258a%25d9%2581-%25d8%25aa%25d8%25aa%25d8%25a3%25d9%2583%25d8%25af-%25d9%2585%25d9%2586-%25d8%25a3%25d9%2586-%25d8%25a7%25d9%2584%25d8%25b12/#%D9%86%D8%B5%D8%A7%D8%A6%D8%AD_%D8%A5%D8%B6%D8%A7%D9%81%D9%8A%D8%A9_%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9_%D9%86%D9%81%D8%B3%D9%83_%D9%85%D9%86_%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D8%A8%D8%B7_%D8%A7%D9%84%D8%AE%D8%A8%D9%8A%D8%AB%D8%A9_%D8%A7%D9%84%D8%AF%D8%B1%D9%88%D8%B3_%D9%81%D9%8A_%D8%A7%D9%84%D9%8A%D9%82%D8%B8%D8%A9_%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9" >نصائح إضافية لحماية نفسك من الروابط الخبيثة (الدروس في اليقظة الرقمية):</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-6" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%25d9%2583%25d9%258a%25d9%2581-%25d8%25aa%25d8%25aa%25d8%25a3%25d9%2583%25d8%25af-%25d9%2585%25d9%2586-%25d8%25a3%25d9%2586-%25d8%25a7%25d9%2584%25d8%25b12/#%D8%A7%D8%B3%D8%AA%D9%86%D8%AA%D8%A7%D8%AC_%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%84%D8%A9" >استنتاج المقالة</a></li></ul></nav></div>
+<h3><span class="ez-toc-section" id="%D9%84%D9%85%D8%A7%D8%B0%D8%A7_%D9%84%D8%A7_%D8%AA%D9%86%D9%82%D8%B1_%D8%B9%D9%84%D9%89_%D8%A3%D9%8A_%D8%B1%D8%A7%D8%A8%D8%B7_%D9%82%D8%A8%D9%84_%D9%81%D8%AD%D8%B5%D9%87%D8%9F_%D9%81%D9%87%D9%85_%D8%A7%D9%84%D8%AA%D9%87%D8%AF%D9%8A%D8%AF"></span><span id="lmadha_la_yjb_lyk_aldght_ly_ay_rabt_qbl_fhsh_fhm_althdyd"><b>لماذا لا تنقر على أي رابط قبل فحصه؟ (فهم التهديد)</b></span><span class="ez-toc-section-end"></span></h3>
+<p><span style="font-weight: 400;">قبل أن نتعمق في الأدوات </span><b>روابط تحقق</b><span style="font-weight: 400;">من الضروري أن نفهم لماذا النقر على رابط غير معروف يمثل خطرًا كبيرًا. في العصر الرقمي ، تعتبر العلاقات الضارة أول سلاح لاختراق ، وهي مصممة لخداع وإيقاع في فخ التهديدات الأمنية الخطيرة.</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><b>e -hunting:</b><span style="font-weight: 400;">    قد تقودك الروابط الضارة إلى مواقع مزيفة تمامًا مثل المواقع الأصلية (للبنوك والشبكات الاجتماعية وما إلى ذلك) بهدف سرقة بيانات تسجيل الدخول الخاصة بك. تعتمد هذه الهجمات على انتحال شخصية موثوقة لخداع الضحايا.</span></li>
+<li style="font-weight: 400;" aria-level="1"><b>البرامج الضارة: البرامج الضارة:</b><span style="font-weight: 400;">    انقر على رابط واحد قد يكون كافيًا لتثبيت البرامج الضارة على جهازك دون علمك. يمكن أن تشمل هذه البرامج فيروسات أو برامج تجسس أو فدية تؤثر على أجهزتك.</span></li>
+<li style="font-weight: 400;" aria-level="1"><b>الاحتيال المالي وسرقة الهوية:</b><span style="font-weight: 400;">    يمكن استخدام الروابط لسرقة معلومات بطاقة الائتمان أو البيانات الشخصية. هذا يعرضك على الاحتيال المالي وسرقة الهوية ، وهو أحد أخطر التهديدات التي يواجهها مستخدمو الإنترنت. تم نشره مؤخرًا كما ظهر في هجمات على حسابات عميل Amazon Prime في منتصف عام 2025. </span></li>
+</ul>
+<h3><span class="ez-toc-section" id="%D8%A7%D9%84%D8%AE%D8%B7%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%8A%D8%AF%D9%88%D9%8A%D8%A9_%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9%D8%A9_%D9%84%D9%81%D8%AD%D8%B5_%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D8%A8%D8%B7_%D9%86%D8%B5%D8%A7%D8%A6%D8%AD_%D8%A8%D8%AF%D9%88%D9%86_%D8%A3%D8%AF%D9%88%D8%A7%D8%AA"></span><span id="khtwat_ydwyt_sryt_l_fhs_alrwabt_nsayh_bdwn_adwat"><b>الخطوات اليدوية السريعة لفحص الروابط (نصائح بدون أدوات)</b></span><span class="ez-toc-section-end"></span></h3>
+<p><span style="font-weight: 400;">قبل اللجوء إلى أي أدوات خارجية ، يمكنك القيام ببعض الحرف اليدوية السريعة التي تكشف عن طبيعة الرابط. تستغرق هذه الخطوات بضع ثوانٍ فقط ، لكنها قد توفر لك الكثير من المتاعب.</span></p>
+</p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><b>أ. تحقق من الرابط في شريط التحويم:</b>
+<ul>
+<li style="font-weight: 400;" aria-level="2"><b>كيف؟</b><span style="font-weight: 400;">    قبل النقر على أي رابط ، ضع التحويم عليه دون النقر. سيظهر الرابط الفعلي الكامل في شريط الحالة (شريط الحالة) أسفل المتصفح.</span></li>
+<li style="font-weight: 400;" aria-level="2"><b>ماذا تبحث؟</b><span style="font-weight: 400;">    تحقق مما إذا كان الرابط الموضح في شريط الحالة يطابق الوصف المكتوب في النص. احذر من الروابط التي تستخدم أخطاء إملائية بسيطة (مثل</span><span style="font-weight: 400;"><br />
+</span> <span style="font-weight: 400;">google.com</span><span style="font-weight: 400;">    بدلاً من </span><span style="font-weight: 400;">google.com</span><span style="font-weight: 400;">) أو التي تحتوي على رسائل غريبة. هذه الأخطاء هي علامات شائعة على أن الرابط قد يكون خبيثًا.</span></li>
+</ul>
+</li>
+<li style="font-weight: 400;" aria-level="1"><b>ل. تحقق من الحصول على شهادة السلامة (HTTPS):</b>
+<ul>
+<li style="font-weight: 400;" aria-level="2"><b>كيف؟</b><span style="font-weight: 400;">    انظر إلى بداية الرابط. هل تبدأ؟</span><span style="font-weight: 400;"><br />
+</span> <span style="font-weight: 400;">https: //</span><span style="font-weight: 400;">    أو </span><span style="font-weight: 400;">http: //</span><span style="font-weight: 400;">؟</span></li>
+<li style="font-weight: 400;" aria-level="2"><b>لماذا؟</b> <span style="font-weight: 400;">https</span><span style="font-weight: 400;">    إنها النسخة الأكثر أمانًا من </span><span style="font-weight: 400;">http</span><span style="font-weight: 400;">ويشير إلى أن الاتصال بين متصفحك والموقع مشفر. بينما لا يضمن</span><span style="font-weight: 400;"><br />
+</span> <span style="font-weight: 400;">https</span><span style="font-weight: 400;">    الموقع آمن تمامًا من الاحتيال ، لأن المواقع التي لا تستخدمها يجب التعامل معها بحذر كبير ، خاصةً إذا طلبوا منك إدخال البيانات الشخصية أو المالية.</span></li>
+</ul>
+</li>
+<li style="font-weight: 400;" aria-level="1"><b>مختصرات URL:</b>
+<ul>
+<li style="font-weight: 400;" aria-level="2"><b>تهديد:</b><span style="font-weight: 400;">    روابط قصيرة (مثل </span><span style="font-weight: 400;">bit.ly/xxxx</span><span style="font-weight: 400;">    أو </span><span style="font-weight: 400;">tinyurl.com/xxxx</span><span style="font-weight: 400;">يخفي الوجهة النهائية للرابط ، مما يجعله أداة شائعة للمتسللين لإخفاء المواقع الضارة.</span></li>
+<li style="font-weight: 400;" aria-level="2"><b>الحل:</b><span style="font-weight: 400;">    استخدم الروابط إلى روابط الروابط (مثل مدقق الرابط الصغير) لاكتشاف الرابط الأصلي. بعد اكتشاف الرابط الأصلي ، يمكنك فحصه مع أحد الروابط الأخرى للأداة التي سنذكرها لاحقًا.</span></li>
+</ul>
+</li>
+</ul>
+<h3><span class="ez-toc-section" id="%D8%A3%D9%81%D8%B6%D9%84_%D8%A7%D9%84%D8%A3%D8%AF%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D9%86%D9%8A%D8%A9_%D9%84%D9%81%D8%AD%D8%B5_%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D8%A8%D8%B7_%D9%88%D8%AA%D8%AC%D9%86%D8%A8_%D8%A7%D9%84%D9%85%D8%AE%D8%A7%D8%B7%D8%B1"></span><span id="afdl_aladwat_almjanyt_l_fhs_alrwabt_wtjnb_almkhatr"><b>أفضل الأدوات المجانية لفحص الروابط وتجنب المخاطر</b></span><span class="ez-toc-section-end"></span></h3>
+<p><span style="font-weight: 400;">الآن ، بعد أن تعرفت على الاختبارات اليدوية ، دعنا نتعرف على رفاقك الفنيين الذين يساعدونك </span><b>روابط تحقق</b><span style="font-weight: 400;">    آلي وعميق. هذه الأدوات هي جيش من الحراس الرقميين الذين يحللون الروابط قبل المخاطرة بالضغط عليها.</span></p>
+<p><img decoding="async" class="alignnone size-full wp-image-95369" src="https://www.arabtechtrends.com/wp-content/uploads/2025/08/1755380442_835_كيف-تتأكد-من-أن-الرابط-آمن-قبل-النقر-عليه؟-دليلك.jpg" alt="مدقق ارتباط Virustotal" width="1688" height="760"  ></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><a href="https://www.virustotal.com/gui/home/url" target="_blank" rel="noopener">مدقق ارتباط Virustotal</a>:
+<ul>
+<li style="font-weight: 400;" aria-level="2"><b>لماذا هو الأفضل؟</b><span style="font-weight: 400;">    يُعرف Virustotal باسم &#8220;السكين السويسري&#8221; لفحص الروابط ، حيث يحلل الروابط والملفات والملفات.</span></li>
+<li style="font-weight: 400;" aria-level="2"><b>ماذا تم فحصها؟</b><span style="font-weight: 400;">    يمنحك تقريرًا شاملاً عن سلامة الرابط ، ويوفر نتائج من عشرات شركات الأمن المختلفة. يمنحك هذا التقرير درجة سلامة شاملة بناءً على تحليل العديد من الموردين.</span></li>
+</ul>
+</li>
+<li style="font-weight: 400;" aria-level="1"><a href="https://transparencyreport.google.com/" target="_blank" rel="noopener">تقرير الشفافية جوجل</a>:
+<ul>
+<li style="font-weight: 400;" aria-level="2"><b>لماذا هو موثوق؟</b><span style="font-weight: 400;">    إنها أداة مجانية ومباشرة من Google للتحقق من المواقع.</span></li>
+<li style="font-weight: 400;" aria-level="2"><b>ماذا تم فحصها؟</b><span style="font-weight: 400;">    يتيح لك فحص أي موقع ويب أو رابط للتأكد من أنه لا يحتوي على برامج ضارة ، أو لا يتم استخدامه في هجمات الصيد الإلكترونية ، أو أي محتوى خطير.</span></li>
+</ul>
+</li>
+<li style="font-weight: 400;" aria-level="1"><a href="https://safeweb.norton.com/" target="_blank" rel="noopener">نورتون Safeweb</a>:
+<ul>
+<li style="font-weight: 400;" aria-level="2"><b>لماذا هو موثوق؟</b><span style="font-weight: 400;">    إنها أداة مجانية من شركة الأمن Norton.</span></li>
+<li style="font-weight: 400;" aria-level="2"><b>ماذا تم فحصها؟</b><span style="font-weight: 400;">    يفحص الروابط باستخدام التعلم الآلي وقاعدة بيانات محدثة للتهديدات المعروفة. إنه يمنحك تقريرًا عن سمعة الموقع وسلامته ، ويحذرك من أي تهديدات محتملة مثل البرامج الضارة والهجمات الاحتيالية والمواقع الاحتيالية.</span></li>
+</ul>
+</li>
+<li style="font-weight: 400;" aria-level="1"><a href="https://www.ipvanish.com/link-checker/" target="_blank" rel="noopener">Ipvanish Link Checker</a>:
+<ul>
+<li style="font-weight: 400;" aria-level="2"><b>لماذا هو شامل؟</b><span style="font-weight: 400;">    متوفر كتطبيق مستقل على أجهزة iOS و Android و Mac و Windows ، بالإضافة إلى إمكانية استخدامه مباشرة عبر المتصفح.</span></li>
+<li style="font-weight: 400;" aria-level="2"><b>ماذا تم فحصها؟</b><span style="font-weight: 400;">    تُستخدم تقنيات التعلم الآلي لفحص الروابط وحمايتك من تهديدات جديدة.</span></li>
+</ul>
+</li>
+<li style="font-weight: 400;" aria-level="1"><a href="https://www.bitdefender.com/en-us/consumer/link-checker" target="_blank" rel="noopener">Bitdefnder Link Checker</a>:
+<ul>
+<li style="font-weight: 400;" aria-level="2"><b>لماذا هو قوي؟</b><span style="font-weight: 400;">    تستخدم أداة قوية من Bitdefender تقنيات التعلم الآلي وقاعدة بيانات محدثة باستمرار للتهديدات المعروفة.</span></li>
+<li style="font-weight: 400;" aria-level="2"><b>ماذا تم فحصها؟</b><span style="font-weight: 400;">    إنه يحميك من البرامج الضارة والهجمات الإلكترونية والمواقع الاحتيالية.</span></li>
+</ul>
+</li>
+<li style="font-weight: 400;" aria-level="1"><b>مدقق ارتباط Nordvn:</b>
+<ul>
+<li style="font-weight: 400;" aria-level="2"><b>لماذا هو شامل؟</b><span style="font-weight: 400;">    أداة NordVPN قوية تستخدم التعلم الآلي للتحقق من قاعدة بيانات واسعة من التهديدات المعروفة مثل المواقع المزيفة والبرامج الضارة وشبكات الروبوتات.</span></li>
+<li style="font-weight: 400;" aria-level="2"><b>ماذا تم فحصها؟</b><span style="font-weight: 400;">    بالإضافة إلى الروابط ، يمكنه فحص المستندات والصور والملفات الصوتية والفيديو.</span></li>
+</ul>
+</li>
+<li style="font-weight: 400;" aria-level="1"><b>F-Secure Link Checker:</b>
+<ul>
+<li style="font-weight: 400;" aria-level="2"><b>لماذا هو موثوق؟</b><span style="font-weight: 400;">    أداة مجانية وموثوقة تستخدم خوارزميات الذكاء الاصطناعي المتقدمة لفحص الروابط.</span></li>
+<li style="font-weight: 400;" aria-level="2"><b>ماذا تم فحصها؟</b><span style="font-weight: 400;">    يمكنه فحص الروابط في الرسائل النصية والدردشات ورسائل البريد الإلكتروني بحثًا عن التهديدات المعروفة ، وخاصة أولئك الذين يستهدفون خدمات الخدمات المصرفية وتجارة التجزئة عبر الإنترنت.</span></li>
+</ul>
+</li>
+</ul>
+<h3><span class="ez-toc-section" id="%D9%83%D9%8A%D9%81%D9%8A%D8%A9_%D8%A7%D9%84%D8%AA%D8%AD%D9%82%D9%82_%D9%85%D9%86_%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D8%A8%D8%B7_%D8%B9%D9%84%D9%89_%D8%A7%D9%84%D9%87%D9%88%D8%A7%D8%AA%D9%81_%D8%A7%D9%84%D8%B0%D9%83%D9%8A%D8%A9_Android_%D9%88_iPhone"></span><span id="kyfyt_fhs_alrwabt_ly_alhwatf_aldhkyt_andrwyd_wayfwn"><b>كيفية التحقق من الروابط على الهواتف الذكية (Android و iPhone)</b></span><span class="ez-toc-section-end"></span></h3>
+<p>يختلف فحص الروابط على الهواتف الذكية قليلاً عن الكمبيوتر ، ولكنه ليس من السهل. هناك عدة طرق للقيام بذلك:</p>
+<ol start="1">
+<li><b>ضغط طويل ونسخ:</b> هذه هي الطريقة الأكثر شيوعًا وفعالية على جميع الأنظمة والتطبيقات. بدلاً من النقر العادي ، اضغط على الضغط الطويل على الرابط. سترى قائمة بالخيارات ، تختار منها &#8220;عنوان الرابط&#8221;. الآن ، يمكنك لصق الرابط في أحد الروابط المجانية للأداة التي ذكرناها في هذه المقالة.</li>
+<li><b>استخدم ميزة &#8220;معاينة الارتباط&#8221;:</b> توفر بعض المتصفحات والتطبيقات (مثل متصفح Chrome على Android) ميزة &#8220;الساعة&#8221; عند فترات طويلة. توضح لك هذه الميزة معاينة مصغرة للموقع دون الحاجة إلى فتحه. يمكنك الاعتماد عليها للتحقق من هوية الموقع قبل الانتقال إليه.</li>
+<li><b>توصيل روابط الفحص:</b> بعض التطبيقات ، مثل متصفح Chrome ، قد أنشأت أدوات. عند انقر فوق رابط طويل ، يمكنك رؤية خيار &#8220;فحص&#8221; أو &#8220;التحقق من الرابط&#8221; الذي يفتح صفحة صغيرة تعرض لك بيانات على الموقع.</li>
+</ol>
+<p><img loading="lazy" decoding="async" class="alignnone size-full wp-image-95370" src="https://www.arabtechtrends.com/wp-content/uploads/2025/08/1755380442_454_كيف-تتأكد-من-أن-الرابط-آمن-قبل-النقر-عليه؟-دليلك.jpg" alt="تحقق من الروابط عبر Android دون فتحها" width="444" height="224"  ></p>
+<p>باستخدام أي من هذه الطرق ، يمكنك التأكد من سلامة الرابط قبل النقر عليه ، مما يتيح لك طبقة أمان إضافية في عالم الأجهزة المحمولة.</p>
+<h3><span class="ez-toc-section" id="%D9%86%D8%B5%D8%A7%D8%A6%D8%AD_%D8%A5%D8%B6%D8%A7%D9%81%D9%8A%D8%A9_%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9_%D9%86%D9%81%D8%B3%D9%83_%D9%85%D9%86_%D8%A7%D9%84%D8%B1%D9%88%D8%A7%D8%A8%D8%B7_%D8%A7%D9%84%D8%AE%D8%A8%D9%8A%D8%AB%D8%A9_%D8%A7%D9%84%D8%AF%D8%B1%D9%88%D8%B3_%D9%81%D9%8A_%D8%A7%D9%84%D9%8A%D9%82%D8%B8%D8%A9_%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9"></span><span id="nsayh_adafyt_lhmayt_nfsk_mn_alrwabt_alkhbytht_drws_fy_alyqzt_alrqmyt"><b>نصائح إضافية لحماية نفسك من الروابط الخبيثة (الدروس في اليقظة الرقمية):</b></span><span class="ez-toc-section-end"></span></h3>
+<p><span style="font-weight: 400;">بالإضافة إلى الأدوات المجانية للتحقق من الروابط ، هناك مجموعة من النصائح الإضافية التي يجب عليك الالتزام بها لتعزيز حمايتك وتقليل فرصك في ضحية الروابط الخبيثة:</span></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><b>لا تستخدم حسابات البريد الإلكتروني غير معروفة:</b><span style="font-weight: 400;">    ابحث عن معلومات اتصال موثوقة على الموقع ، مثل عنوان البريد الإلكتروني أو رقم الهاتف أو العنوان الفعلي. غالبًا ما تفتقر مواقع الاحتيال إلى هذه التفاصيل.</span></li>
+<li style="font-weight: 400;" aria-level="1"><b>تحقق من مراجعات الموقع:</b><span style="font-weight: 400;">    ابحث عن مراجعات وتوصيات حول الموقع على Google أو منصات أخرى ، ولكن كن حذرًا من المراجعات المزيفة التي قد تكون مصطنعة.</span></li>
+<li style="font-weight: 400;" aria-level="1"><b>استخدم أدوات تحليل الروابط الخلفية:</b><span style="font-weight: 400;">    توضح لك هذه الأدوات ما إذا كان الموقع يحصل على روابط من مواقع موثوقة أخرى ، والتي يمكن أن تعزز مصداقيتها.</span></li>
+<li style="font-weight: 400;" aria-level="1"><b>باستخدام VPN:</b><span style="font-weight: 400;">    أضف طبقة حماية VPN إضافية يمكنها استنكار اتصالك بالشبكة وحماية بياناتك على شبكات Wi-Fi العامة.</span></li>
+<li style="font-weight: 400;" aria-level="1"><b>تفعيل الفحص النشط في برامج الحماية:</b><span style="font-weight: 400;">    تأكد من تنشيط خيارات الفحص النشطة في برنامج حماية الفيروس الخاص بك لتعزيز الحماية الخاصة بك أثناء التصفح.</span></li>
+</ul>
+<h3><span class="ez-toc-section" id="%D8%A7%D8%B3%D8%AA%D9%86%D8%AA%D8%A7%D8%AC_%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%84%D8%A9"></span><span id="khatmt_almqal"><b>استنتاج المقالة</b></span><span class="ez-toc-section-end"></span></h3>
+<p><span style="font-weight: 400;">يصبح </span><b>تأكد من أن الرابط آمن</b><span style="font-weight: 400;">    خطوة لا غنى عنها في روتيننا اليومي على الإنترنت. في ضوء التهديدات المتزايدة ، لم تعد الروابط لا يمكن أن تتعامل مع اللامبالاة.</span></p>
+<p><span style="font-weight: 400;">توصيتنا النهائية هي الجمع بين الحرف اليدوية السريعة التي تعلمتها واستخدام أدوات مجانية موثوقة ل </span><b>روابط تحقق</b><span style="font-weight: 400;">الذي يمنحك طبقة مزدوجة من الحماية. كن مستيقظًا ، وقم بتطبيق هذه الخطوات ، واستمتع بتصفح آمن وحاني.</span></p>
+</div>
+
