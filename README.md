@@ -2,10 +2,10 @@
 
 Free stack:
 
-- Astro for the static site
-- Decap CMS at `/admin`
-- Netlify hosting, Identity, and Git Gateway
-- Markdown files for posts
+- Astro builds the static site.
+- GitHub Pages hosts it.
+- GitHub Actions publishes every push to `main`.
+- Posts are Markdown files in `src/content/posts`.
 
 ## Local
 
@@ -14,13 +14,18 @@ npm install
 npm run dev
 ```
 
-## Netlify Setup
+## Add a Post
 
-1. Push this folder to GitHub.
-2. Create a Netlify site from the repo.
-3. Enable Netlify Identity.
-4. Enable Git Gateway.
-5. Invite your editor user.
-6. Open `/admin` to add posts.
+```bash
+npm run post:new -- "عنوان المقال"
+```
 
-Skipped paid hosted CMS; add one only if Git-based editing feels too technical.
+Edit the new file in `src/content/posts`, then publish:
+
+```bash
+git add src/content/posts
+git commit -m "Add new post"
+git push origin main
+```
+
+GitHub Actions will build and deploy automatically.

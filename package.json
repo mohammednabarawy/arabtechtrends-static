@@ -6,6 +6,7 @@
     "dev": "astro dev",
     "build": "astro check && astro build",
     "import:wp": "node tools/import-wordpress.mjs",
+    "post:new": "node tools/new-post.mjs",
     "preview": "astro preview"
   },
   "dependencies": {

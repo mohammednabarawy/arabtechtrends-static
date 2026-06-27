@@ -1,16 +1,20 @@
 ---
+import BaseLayout from "../layouts/BaseLayout.astro";
 ---
 
-<!doctype html>
-<html lang="ar" dir="rtl">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta http-equiv="refresh" content="0; url=https://app.pagescms.org/" />
-    <title>Arab Tech Trends CMS</title>
-  </head>
-  <body style="font-family: Arial, sans-serif; padding: 24px">
-    <p>سيتم فتح لوحة Pages CMS الآن.</p>
-    <p><a href="https://app.pagescms.org/">فتح Pages CMS</a></p>
-  </body>
-</html>
+<BaseLayout title="إدارة المحتوى | Arab Tech Trends">
+  <section class="page-head">
+    <p class="eyebrow">نشر محلي مجاني</p>
+    <h1>إدارة المقالات من جهازك</h1>
+  </section>
+
+  <section class="guide-panel">
+    <h2>إنشاء مقال جديد</h2>
+    <pre><code>npm run post:new -- "عنوان المقال"</code></pre>
+    <p>سيتم إنشاء ملف Markdown داخل <code>src/content/posts</code>. افتحه واكتب المحتوى، ثم انشره:</p>
+    <pre><code>git add src/content/posts
+git commit -m "Add new post"
+git push origin main</code></pre>
+    <p>بعد الدفع إلى GitHub، يقوم GitHub Actions ببناء الموقع ونشره تلقائيًا على GitHub Pages.</p>
+  </section>
+</BaseLayout>
