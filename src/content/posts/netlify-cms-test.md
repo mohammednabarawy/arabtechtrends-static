@@ -7,7 +7,7 @@ author: "Arab Tech Trends"
 category: "تحديثات الموقع"
 tags: ["Netlify", "CMS"]
 image: ""
-draft: false
+draft: true
 ---
 
 هذا منشور اختبار قصير للتأكد من أن مسار النشر الجديد يعمل بنجاح.

@@ -1,5 +1,6 @@
 ---
 import "../styles/global.css";
+import { footerAbout, siteSections, socialLinks } from "../site";
 
 const {
   title = "Arab Tech Trends",
@@ -34,17 +35,33 @@ const today = new Intl.DateTimeFormat("ar-EG", { dateStyle: "full" }).format(new
       </a>
       <nav aria-label="Primary navigation">
         <a href={withBase("/")}>الرئيسية</a>
-        <a href={withBase("/posts/")}>الأخبار</a>
-        <a href={withBase("/posts/")}>هواتف</a>
-        <a href={withBase("/posts/")}>تطبيقات</a>
+        {siteSections.map((section) => <a href={withBase("/posts/")}>{section}</a>)}
         <a href={withBase("/admin/")}>إدارة المحتوى</a>
       </nav>
     </header>
     <main>
       <slot />
     </main>
-    <footer>
-      <p>Arab Tech Trends - أخبار التقنية بواجهة سريعة ومجانية.</p>
+    <footer class="site-footer">
+      <div class="footer-grid">
+        <section class="footer-about" aria-labelledby="footer-about-title">
+          <h2 id="footer-about-title">معلومات عن الموقع</h2>
+          <p>{footerAbout}</p>
+        </section>
+        <section class="footer-sections" aria-labelledby="footer-sections-title">
+          <h2 id="footer-sections-title">الأقسام</h2>
+          <div>
+            {siteSections.map((section) => <a href={withBase("/posts/")}>{section}</a>)}
+          </div>
+        </section>
+        <section class="footer-social" aria-labelledby="footer-social-title">
+          <h2 id="footer-social-title">تابعنا</h2>
+          <div>
+            {socialLinks.map((link) => <a href={withBase(link.href)}>{link.label}</a>)}
+          </div>
+        </section>
+      </div>
+      <p class="copyright">© حقوق النشر 2026، جميع الحقوق محفوظة عرب تك</p>
     </footer>
   </body>
 </html>
