@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: mohammednabarawy/arabtechtrends-static
   branch: main
 
 media_folder: public/uploads
