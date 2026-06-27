@@ -5,6 +5,8 @@ const {
   title = "Arab Tech Trends",
   description = "Technology news, guides, and trends for Arabic readers."
 } = Astro.props;
+
+const withBase = (path: string) => /^(https?:)?\/\//.test(path) ? path : `${import.meta.env.BASE_URL}${path.replace(/^\/+/, "")}`;
 ---
 
 <!doctype html>
@@ -17,14 +19,14 @@ const {
   </head>
   <body>
     <header class="site-header">
-      <a class="brand" href="/" aria-label="Arab Tech Trends">
+      <a class="brand" href={withBase("/")} aria-label="Arab Tech Trends">
         <span>Arab</span>
         <strong>Tech Trends</strong>
       </a>
       <nav aria-label="Primary navigation">
-        <a href="/">الرئيسية</a>
-        <a href="/posts/">الأخبار</a>
-        <a href="/admin/">لوحة النشر</a>
+        <a href={withBase("/")}>الرئيسية</a>
+        <a href={withBase("/posts/")}>الأخبار</a>
+        <a href={withBase("/admin/")}>لوحة النشر</a>
       </nav>
     </header>
     <main>

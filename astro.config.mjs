@@ -1,5 +1,6 @@
 import { defineConfig } from "astro/config";
 
 export default defineConfig({
-  site: "https://arabtechtrends.com"
+  site: process.env.SITE_URL ?? "https://arabtechtrends.com",
+  base: process.env.BASE_PATH ?? "/"
 });

@@ -7,6 +7,7 @@ const posts = (await getCollection("posts", ({ data }) => !data.draft))
   .slice(0, 9);
 
 const [featured, ...latest] = posts;
+const withBase = (path: string) => /^(https?:)?\/\//.test(path) ? path : `${import.meta.env.BASE_URL}${path.replace(/^\/+/, "")}`;
 ---
 
 <BaseLayout title="Arab Tech Trends | أخبار التقنية">
@@ -17,8 +18,8 @@ const [featured, ...latest] = posts;
       <p>متابعة سريعة لأهم أخبار التقنية، الهواتف، التطبيقات، والذكاء الاصطناعي للقارئ العربي.</p>
     </div>
     {featured && (
-      <a class="lead-card" href={`/posts/${featured.slug}/`}>
-        {featured.data.image ? <img src={featured.data.image} alt="" loading="eager" /> : <span class="media-fallback">ATT</span>}
+      <a class="lead-card" href={withBase(`/posts/${featured.slug}/`)}>
+        {featured.data.image ? <img src={withBase(featured.data.image)} alt="" loading="eager" /> : <span class="media-fallback">ATT</span>}
         <strong>{featured.data.title}</strong>
         <small>{featured.data.pubDate.toLocaleDateString("ar-EG")}</small>
       </a>
@@ -27,15 +28,15 @@ const [featured, ...latest] = posts;
 
   <section class="section-head">
     <h2>آخر الأخبار</h2>
-    <a href="/posts/">كل المقالات</a>
+    <a href={withBase("/posts/")}>كل المقالات</a>
   </section>
 
   <div class="post-grid">
     {latest.map((post) => (
       <article class="post-card">
-        {post.data.image ? <img src={post.data.image} alt="" loading="lazy" /> : <span class="media-fallback">{post.data.category.slice(0, 2)}</span>}
+        {post.data.image ? <img src={withBase(post.data.image)} alt="" loading="lazy" /> : <span class="media-fallback">{post.data.category.slice(0, 2)}</span>}
         <p>{post.data.category}</p>
-        <h3><a href={`/posts/${post.slug}/`}>{post.data.title}</a></h3>
+        <h3><a href={withBase(`/posts/${post.slug}/`)}>{post.data.title}</a></h3>
         <span>{post.data.pubDate.toLocaleDateString("ar-EG")}</span>
       </article>
     ))}
