@@ -5,7 +5,7 @@ import { siteSections } from "../site";
 
 const posts = (await getCollection("posts", ({ data }) => !data.draft))
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
-  .slice(0, 25);
+  .slice(0, 120);
 
 const [featured, ...rest] = posts;
 const sidePosts = rest.slice(0, 4);
