@@ -25,4 +25,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d9%86-%d8%a8%d9%84%d8%b3-%d8%a
 <p><a href="https://www.gizmochina.com/2025/11/29/oneplus-ace-6ts-165fps-gameplay-brand-confirms-supported-games/" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
 </div>
-

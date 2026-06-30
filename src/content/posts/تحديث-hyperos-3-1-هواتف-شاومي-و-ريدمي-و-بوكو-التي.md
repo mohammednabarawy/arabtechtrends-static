@@ -20,7 +20,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-hypero
 <div class="entry-content entry clearfix">
 <p>بدأت شركة Xiaomi في طرح تحديث واجهة HyperOS 3.0 عالميًا لعدد من أجهزتها، وفي الوقت نفسه كشفت تقارير جديدة أن بعض الهواتف لن تتلقى الإصدار الرئيسي التالي HyperOS 3.1.</p>
 <p>وفقًا لمصدر موقع XiaomiTime، سيعتمد HyperOS 3.1 على نظام Android 16، وسيصل فقط إلى الأجهزة التي ستتلقى هذا الإصدار من Android. أما بالنسبة للهواتف التي ستتلقى فقط HyperOS 3.0 المبني على Android 15، فلن تكون مؤهلة للترقية إلى الإصدار الأحدث.</p>
-<h2 class="wp-block-heading">الهواتف التي لن تحصل على تحديث HyperOS 3.0</h2>
+<h2>الهواتف التي لن تحصل على تحديث HyperOS 3.0</h2>
 <p>الأجهزة المذكورة في التقرير على أنها غير مؤهلة للحصول على تحديث HyperOS 3.1 من شركة Xiaomi، وفقًا للمصادر، تشمل ما يلي:</p>
 <ul class="wp-block-list">
 <li>بوكو اف5</li>
@@ -47,9 +47,8 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-hypero
 <li>شاومى باد 6 ماكس 14</li>
 </ul>
 <p>ومع ذلك، سيستمر مستخدمو هذه الأجهزة في تلقي التحديثات والتحسينات الأمنية المنتظمة، بالإضافة إلى جميع مزايا HyperOS 3.0.</p>
-<h2 class="wp-block-heading">مميزات تحديث HyperOS 3.1</h2>
+<h2>مميزات تحديث HyperOS 3.1</h2>
 <p>وسيجلب تحديث HyperOS 3.1 المتوقع معه تغييرات مستوحاة من نظام iOS، بما في ذلك تصميم جديد لقائمة التطبيقات الحديثة، وتحسينات على واجهة النظام، مع خيارات تخصيص أوسع للبلاطات في الإعدادات السريعة، وتكامل أفضل في نظام HyperConnect.</p>
-<p>هل هاتفك من بين هذه الهواتف؟ شاركنا رأيك&#8230;</p>
+<p>هل هاتفك من بين هذه الهواتف؟ شاركنا رأيك…</p>
 <p><a href="https://www.huaweicentral.com/these-xiaomi-devices-unlikely-to-get-hyperos-3-1-features/" data-type="link" data-id="https://www.huaweicentral.com/these-xiaomi-devices-unlikely-to-get-hyperos-3-1-features/">مصدر</a></p>
 </div></div>
-

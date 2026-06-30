@@ -1,45 +1,69 @@
 ---
 import "../styles/global.css";
-import { footerAbout, siteSections, socialLinks } from "../site";
+import CategoryBar from "../components/CategoryBar.astro";
+import SeoHead from "../components/SeoHead.astro";
+import { categories, footerAbout, siteName, siteTagline, siteUrl, socialLinks } from "../site";
+import { withBase } from "../utils/posts";
 
 const {
   title = "Arab Tech Trends",
-  description = "Technology news, guides, and trends for Arabic readers."
+  description,
+  image,
+  canonicalPath,
+  type = "website",
+  publishedTime,
+  modifiedTime,
+  jsonLd,
+  showCategoryBar = true
 } = Astro.props;
 
 const base = import.meta.env.BASE_URL.endsWith("/") ? import.meta.env.BASE_URL : `${import.meta.env.BASE_URL}/`;
-const withBase = (path: string) => /^(https?:)?\/\//.test(path) ? path : `${base}${path.replace(/^\/+/, "")}`;
 const today = new Intl.DateTimeFormat("ar-EG", { dateStyle: "full" }).format(new Date());
 ---
 
 <!doctype html>
 <html lang="ar" dir="rtl">
   <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="description" content={description} />
-    <title>{title}</title>
+    <SeoHead
+      title={title}
+      description={description}
+      image={image}
+      canonicalPath={canonicalPath}
+      type={type}
+      publishedTime={publishedTime}
+      modifiedTime={modifiedTime}
+      jsonLd={jsonLd}
+    />
   </head>
   <body>
     <div class="top-strip">
       <span>{today}</span>
-      <span>التقنية بين يديك</span>
+      <span>{siteTagline}</span>
     </div>
     <header class="site-header">
-      <a class="brand" href={withBase("/")} aria-label="عرب تك">
-        <img src={withBase("/uploads/arabtech-logo.png")} alt="" />
+      <a class="brand" href={withBase("/", base)} aria-label={siteName}>
+        <img src={withBase("/uploads/arabtech-logo.png", base)} alt={siteName} width="58" height="58" />
         <span>
-          <strong>عرب تك</strong>
+          <strong>{siteName}</strong>
           <small>Arab Tech Trends</small>
         </span>
       </a>
-      <nav aria-label="Primary navigation">
-        <a href={withBase("/")}>الرئيسية</a>
-        {siteSections.map((section) => <a href={withBase("/posts/")}>{section}</a>)}
-        <a href={withBase("/admin/")}>إدارة المحتوى</a>
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav" aria-label="فتح القائمة">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+      <nav id="site-nav" class="site-nav" aria-label="التنقل الرئيسي">
+        <a href={withBase("/", base)}>الرئيسية</a>
+        {categories.map((category) => (
+          <a href={withBase(`/category/${category.slug}/`, base)}>{category.label}</a>
+        ))}
+        <a href={withBase("/posts/", base)}>الأرشيف</a>
+        <a href={withBase("/search/", base)}>بحث</a>
       </nav>
     </header>
     <main>
+      {showCategoryBar && <CategoryBar />}
       <slot />
     </main>
     <footer class="site-footer">
@@ -47,21 +71,36 @@ const today = new Intl.DateTimeFormat("ar-EG", { dateStyle: "full" }).format(new
         <section class="footer-about" aria-labelledby="footer-about-title">
           <h2 id="footer-about-title">معلومات عن الموقع</h2>
           <p>{footerAbout}</p>
+          <p class="footer-since">منذ 2012 — {siteTagline}</p>
         </section>
         <section class="footer-sections" aria-labelledby="footer-sections-title">
           <h2 id="footer-sections-title">الأقسام</h2>
           <div>
-            {siteSections.map((section) => <a href={withBase("/posts/")}>{section}</a>)}
+            {categories.map((category) => (
+              <a href={withBase(`/category/${category.slug}/`, base)}>{category.label}</a>
+            ))}
           </div>
         </section>
         <section class="footer-social" aria-labelledby="footer-social-title">
           <h2 id="footer-social-title">تابعنا</h2>
           <div>
-            {socialLinks.map((link) => <a href={withBase(link.href)}>{link.label}</a>)}
+            {socialLinks.map((link) => (
+              <a href={link.href.startsWith("http") ? link.href : withBase(link.href, base)} rel={link.href.startsWith("http") ? "noopener noreferrer" : undefined}>
+                {link.label}
+              </a>
+            ))}
           </div>
         </section>
       </div>
-      <p class="copyright">© حقوق النشر 2026، جميع الحقوق محفوظة عرب تك</p>
+      <p class="copyright">© {new Date().getFullYear()} {siteName} — جميع الحقوق محفوظة</p>
     </footer>
+    <script is:inline>
+      const toggle = document.querySelector(".nav-toggle");
+      const nav = document.querySelector("#site-nav");
+      toggle?.addEventListener("click", () => {
+        const open = nav?.classList.toggle("is-open");
+        toggle.setAttribute("aria-expanded", String(Boolean(open)));
+      });
+    </script>
   </body>
 </html>

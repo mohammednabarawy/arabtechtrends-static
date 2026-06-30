@@ -6,7 +6,7 @@ updatedDate: "2025-12-12T03:52:01"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["تستعد شركة Xiaomi لإطلاق هاتف Xiaomi 17 Ultra بحجز مبكر مع قرب موعد الإطلاق"]
-image: ""
+image: "https://www.arabtechtrends.com/wp-content/uploads/2025/12/1765504319_546_xiaomi-----xiaomi-17-ultra.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%aa%d9%85%d9%87%d8%af-%d9%84%d8%a5%d8%b7%d9%84%d8%a7%d9%82-xiaomi-17-ultra/"
 ---
@@ -18,10 +18,10 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%aa
 <div style="text-align:center;">
 </div>
 </div>
-<p>أما على مستوى الأجهزة الداخلية، فمن المتوقع أن يأتي الهاتف بمعالج كوالكوم الرائد الجديد بالإضافة إلى نظام HyperOS 3.0، فيما ستحظى النسخة العالمية بدعم الاتصال عبر الأقمار الصناعية، مما سيزيد من جاذبيته لمحبي السفر والمناطق البعيدة عن الشبكات التقليدية.<br />&#13;
+<p>أما على مستوى الأجهزة الداخلية، فمن المتوقع أن يأتي الهاتف بمعالج كوالكوم الرائد الجديد بالإضافة إلى نظام HyperOS 3.0، فيما ستحظى النسخة العالمية بدعم الاتصال عبر الأقمار الصناعية، مما سيزيد من جاذبيته لمحبي السفر والمناطق البعيدة عن الشبكات التقليدية.<br />
 </p>
 <div>ويتوافق توقيت هذه الأحداث مع تصريح سابق للمسرب @SmartPikachu، الذي توقع ظهور هاتف رائد للتصوير من إحدى الشركات في الفترة ما بين 15 و25 ديسمبر، أي قبل رأس السنة الجديدة. يتوافق هذا الإطار الزمني بشكل ملحوظ مع الفتح الأعمى للحجوزات في متاجر Xiaomi.</p>
-<div style="text-align:center;"><img decoding="async" src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1765504319_546_xiaomi-----xiaomi-17-ultra.webp.webp" width="1996" height="822" title="بوست اعلاني لشركة Xiaomi" class="img-responsive lazy" alt="بوست اعلاني لشركة Xiaomi" border="0"/>
+<div style="text-align:center;"><img src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1765504319_546_xiaomi-----xiaomi-17-ultra.webp.webp" width="1996" height="822" title="بوست اعلاني لشركة Xiaomi" class="img-responsive lazy" alt="بوست اعلاني لشركة Xiaomi"/>
 </div>
 </div>
 <p>التركيز المكثف على التصوير الفوتوغرافي في هذا الإصدار واضح، خاصة مع تقديم ملحق التصوير الاحترافي لأول مرة. وبما أن سلسلة Ultra تمثل عادةً أقوى هواتف Xiaomi في مجال الكاميرات، فإن وجود أدوات مخصصة يشير إلى أن الشركة تنوي رفع مستوى التجربة هذه المرة.</p>
@@ -29,4 +29,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%aa
 <p><a href="https://www.gizmochina.com/2025/12/11/xiaomi-17-ultra-sparks-excitement-as-blind-pre-orders-begin/" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
 </div>
-

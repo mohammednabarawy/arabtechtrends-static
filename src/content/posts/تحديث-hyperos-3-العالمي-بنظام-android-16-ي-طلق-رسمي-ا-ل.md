@@ -20,7 +20,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-hypero
 <div class="entry-content entry clearfix">
 <p>أطلقت شركة Xiaomi أخيرًا التحديث العالمي المستقر لواجهة HyperOS 3 لهاتفي REDMI 15 وPOCO M7، المبني على نظام Android 16، والذي يقدم مجموعة واسعة من الميزات الجديدة وتحسينات الأداء والاستقرار التي كان المستخدمون ينتظرونها.</p>
 <p>يمثل هذا التحديث أول ترقية رئيسية لهذين الجهازين منذ الإصدار السابق HyperOS 2.2 المبني على Android 15، ويأتي أيضًا مع التصحيح الأمني ​​لشهر نوفمبر 2025.</p>
-<h3 class="wp-block-heading">أبرز مميزات تحديث HyperOS 3 لهاتفي REDMI 15 وPOCO M7</h3>
+<h3>أبرز مميزات تحديث HyperOS 3 لهاتفي REDMI 15 وPOCO M7</h3>
 <p><strong>تحسين تجربة المستخدم الأساسية</strong><br />وقد تم إعادة تصميم النظام ليكون أكثر سلاسة واستقراراً، مما يوفر تجربة مستخدم يومية أكثر متعة وخالية من التباطؤ.</p>
 <p><strong>تحسين الأداء واستهلاك الطاقة</strong></p>
 <ul class="wp-block-list">
@@ -73,4 +73,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-hypero
 <p>هل تلقيت التحديث؟</p>
 <p><a href="https://hyperosinsider.com/redmi-15-and-poco-m7-receives-hyperos-3-global-update-android-16-officially-released/" data-type="link" data-id="https://hyperosinsider.com/redmi-15-and-poco-m7-receives-hyperos-3-global-update-android-16-officially-released/">مصدر</a></p>
 </div></div>
-

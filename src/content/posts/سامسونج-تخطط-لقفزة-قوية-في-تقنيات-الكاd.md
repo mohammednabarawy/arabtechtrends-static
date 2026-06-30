@@ -21,8 +21,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%
 </div>
 <p>ويظهر التسريب أن مستشعر سامسونج الجديد سيأتي بدقة 12 ميجابكسل مع بكسلات بحجم 1.5 ميكرومتر، مرتبة بتقنية 2×2، ومن المرجح أن يتم استخدامه في العدسة المقربة أو العدسة فائقة الاتساع بدلاً من الكاميرا الرئيسية. وسيحتوي المستشعر أيضًا على محول تناظري إلى رقمي مدمج (ADC) داخل وحدات البكسل نفسها، مما يسمح بسرعات قراءة أعلى وتحسين الأداء أثناء التصوير.</p>
 <div>يُشار إلى أن سامسونج ليست وحدها في هذا السباق، حيث تشير التقارير إلى أن شركة آبل تعمل أيضًا على إدخال تقنية الغالق في هواتفها القادمة، مما يمهد الطريق لمنافسة قوية في مجال تكنولوجيا الكاميرا خلال السنوات القليلة المقبلة.</p>
-<p><a href="https://www.gsmarena.com/samsung_is_working_on_a_major_camera_upgrade_for_its_nextgen_flagships-news-70691.php" target="_blank" rel="nofollow">مصدر</a><br />&#13;
+<p><a href="https://www.gsmarena.com/samsung_is_working_on_a_major_camera_upgrade_for_its_nextgen_flagships-news-70691.php" target="_blank" rel="nofollow">مصدر</a><br />
 </p>
 </div>
 </div>
-

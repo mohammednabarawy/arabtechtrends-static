@@ -24,8 +24,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b8%d9%87%d9%88%d8%b1-%d9%84%d8%a7
 <p>وتؤكد نتائج الاختبارات الأولية هذا التشابه، حيث من المتوقع أن يقدم المعالج الجديد أداء قريب جدًا من Ryzen AI 9 365. والفرق الرئيسي بينهما هو أن Ryzen AI 9 465 يعتمد على شريحة ذكاء اصطناعي أحدث من نوع XDNA 2، والتي من المتوقع أن ترفع قدرات المعالجة العصبية إلى حوالي 55 TOPS، أي بزيادة قدرها 10% تقريبًا مقارنة بالجيل السابق.</p>
 <p>وتكشف بيانات الاختبار أيضًا أن الجهاز سيأتي مع 32 جيجابايت من ذاكرة الوصول العشوائي، وهي سعة عالية نسبيًا في هذه الفئة، وتعكس نية Asus في تقديم أداء قوي يدعم تطبيقات الذكاء الاصطناعي والمهام الثقيلة في المستقبل.</p>
 <div>وبينما تركز شركة Asus وسائل الإعلام على أجهزة Zenbook Duo القادمة، بالإضافة إلى استعدادها لتحديث سلسلة ROG Zephyrus المخصصة للألعاب، يبدو أن Vivobook S15 سيكون جزءًا من تشكيلة أوسع من أجهزة Vivobook الجديدة، وهي خطوة منطقية نظرًا لتاريخ الشركة في تحديث هذه السلسلة سنويًا بعدة نماذج مختلفة.</p>
-<p><a href="https://www.notebookcheck.net/New-Asus-Vivobook-S15-laptop-reveals-itself-with-AMD-Ryzen-AI-9-465-and-32-GB-RAM.1187803.0.html" target="_blank" rel="nofollow">مصدر</a><br />&#13;
+<p><a href="https://www.notebookcheck.net/New-Asus-Vivobook-S15-laptop-reveals-itself-with-AMD-Ryzen-AI-9-465-and-32-GB-RAM.1187803.0.html" target="_blank" rel="nofollow">مصدر</a><br />
 </p>
 </div>
 </div>
-

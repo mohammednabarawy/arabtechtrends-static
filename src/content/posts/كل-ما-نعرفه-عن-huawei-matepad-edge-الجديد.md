@@ -6,7 +6,7 @@ updatedDate: "2025-11-16T19:24:19"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["جهاز MatePad Edge الجديد من هواوي","قبل إطلاقه"]
-image: ""
+image: "https://www.arabtechtrends.com/wp-content/uploads/2025/11/1763313856_666_huawei-matepad.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%83%d9%84-%d9%85%d8%a7-%d9%86%d8%b9%d8%b1%d9%81%d9%87-%d8%b9%d9%86-huawei-matepad-edge-%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af/"
 ---
@@ -22,7 +22,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%83%d9%84-%d9%85%d8%a7-%d9%86%d8%b
 <p>وأكد UncleShan، أحد المسربين الموثوقين، أن جهاز MatePad Edge 14.2 هو نسخة مطورة من جهاز MateBook E الأصلي، ولكنه يأتي بشكل جديد تمامًا ليجمع بين بيئة الجهاز اللوحي وبيئة الكمبيوتر.</p>
 <p>وأشار أيضًا إلى أن الجهاز سيأتي بنظام تبريد مزدوج المروحة، وهي إضافة غير عادية في الأجهزة اللوحية التقليدية، مما يعني أن هواوي تستهدف الأداء العالي مع الحفاظ على استقرار درجة الحرارة، خاصة مع معالج Kirin القوي وشاشة كبيرة ذات دقة عالية.</p>
 <div></p>
-<div style="text-align:center;"><img decoding="async" src="https://www.arabtechtrends.com/wp-content/uploads/2025/11/1763313856_666_huawei-matepad.jpg" class="img-responsive lazy" alt="" border="0"/>
+<div style="text-align:center;"><img src="https://www.arabtechtrends.com/wp-content/uploads/2025/11/1763313856_666_huawei-matepad.jpg" class="img-responsive lazy" alt=""/>
 </div>
 <p>
 </div>
@@ -30,17 +30,16 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%83%d9%84-%d9%85%d8%a7-%d9%86%d8%b
 <div>
 <ul>
 <li>ذاكرة وصول عشوائي 16 جيجابايت + مساحة تخزين داخلية 512 جيجابايت</li>
-<p>&#13;</p>
+<p></p>
 <li>ذاكرة وصول عشوائي (RAM) سعة 24 جيجابايت + مساحة تخزين داخلية سعة 1 تيرابايت</li>
-<p>&#13;
+<p>
 </ul>
 </div>
 <p>وتظهر هذه المواصفات بوضوح أن هواوي لا تضعه ضمن فئة الأجهزة العادية، بل تستهدف المستخدم المحترف، سواء في التصميم أو الإنتاج أو حتى الاستخدام المكتبي. ويقال أيضًا أن الجهاز سيأتي مع خيار شاشة Matte، وهي ميزة يبحث عنها العديد من المصممين والكتاب لأنها تقلل الانعكاسات وتوفر تجربة مشاهدة أكثر راحة.</p>
 <p><b>تعود السلسلة E ولكن بهوية جديدة</b></p>
 <p>ويشير الاسم الجديد MatePad Edge إلى خطوة لإحياء سلسلة MateBook E التي أطلقتها هواوي في عام 2021 وتبعتها بإصدار E Go في عام 2022، وكلاهما يعمل بنظام Windows.</p>
-<div>ولكن هذه المرة، قررت الشركة نقل السلسلة بأكملها إلى منصة HarmonyOS وتغيير اتجاهها نحو الجمع بين الراحة وسهولة الاستخدام بالقرب من أجهزة الكمبيوتر المحمولة &#8211; ولكن ضمن عامل شكل الكمبيوتر اللوحي الخفيف القابل للفصل.</p>
-<p><a href="https://www.gizmochina.com/2025/11/16/huawei-matebook-e-key-details-leaked/" target="_blank" rel="nofollow">مصدر</a><br />&#13;
+<div>ولكن هذه المرة، قررت الشركة نقل السلسلة بأكملها إلى منصة HarmonyOS وتغيير اتجاهها نحو الجمع بين الراحة وسهولة الاستخدام بالقرب من أجهزة الكمبيوتر المحمولة – ولكن ضمن عامل شكل الكمبيوتر اللوحي الخفيف القابل للفصل.</p>
+<p><a href="https://www.gizmochina.com/2025/11/16/huawei-matebook-e-key-details-leaked/" target="_blank" rel="nofollow">مصدر</a><br />
 </p>
 </div>
 </div>
-

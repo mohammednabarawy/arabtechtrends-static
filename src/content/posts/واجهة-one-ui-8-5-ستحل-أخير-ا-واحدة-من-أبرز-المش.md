@@ -24,4 +24,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-one-ui
 <p>برأيك ما هي أهم المشاكل التي يجب أن تعالجها هذه النسخة من واجهة سامسونج؟</p>
 <p><a href="https://www.phonearena.com/news/samsung-fix-dark-modes_id176139" data-type="link" data-id="https://www.phonearena.com/news/samsung-fix-dark-modes_id176139">مصدر</a></p>
 </div>
-

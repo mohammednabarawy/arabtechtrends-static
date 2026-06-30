@@ -24,4 +24,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%86%d8%aa%d8%a7%d8%a6%d8%ac-%d9%85
 <p><a href="https://www.notebookcheck.net/Core-Ultra-7-365-performance-leaks-Intel-Panther-Lake-CPU-is-reportedly-10-slower-vs-Core-Ultra-7-258V.1187138.0.html" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
 </div>
-

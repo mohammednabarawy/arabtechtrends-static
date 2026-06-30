@@ -25,4 +25,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%b1%d9%83%d8%a9-gamesir-%d8%
 <p><a href="https://www.notebookcheck.net/GameSir-s-new-MFi-certified-controller-will-launch-on-Dec-21.1187964.0.html" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
 </div>
-

@@ -20,7 +20,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d9%8a%d8%a8%d8%b1-%d8%a7
 <div class="entry-content entry clearfix">
 <p>تستعد الشركة الصينية Xiaomi لإطلاق تحديث Hyperos 3 خلال الربع الأخير من هذا العام ، حيث ستحمل تحسينات كبيرة في مستوى الأداء وتجربة الاستخدام ، إلى جانب واجهة متجددة مع أيقونات جديدة ، وآثار شفافة مع تقنية الزجاج السائل ، والرسوم المتحركة الأكثر سلاسة ، بالإضافة إلى التكامل الأوسع مع تقنيات الذكاء الفاتح الجديد مماثلة لتوليد جزيرة ديناميكية على iPhone.</p>
 <p>على الرغم من كل هذه الإضافات ، كشفت أحدث التسريبات أن 18 هاتفًا من Xiaomi و Redmi و Boko لن يحصلوا على الترقية إلى Hyperos 3 ، حيث ستتوقف تحديثاتهم عند إصدار Hyperos 2 الحالي ، بناءً على سياسات تحديث الشركة.</p>
-<h2 class="wp-block-heading">Xiaomi Redmi و Boko Unchasator هواتف للحصول على تحديث Hyperos 3</h2>
+<h2>Xiaomi Redmi و Boko Unchasator هواتف للحصول على تحديث Hyperos 3</h2>
 <p><strong>سلسلة Xiaomi MI 11</strong></p>
 <ul class="wp-block-list">
 <li>Xiaomi MI 11</li>
@@ -51,12 +51,10 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d9%8a%d8%a8%d8%b1-%d8%a7
 <li>POCO X5 5G</li>
 <li>Poco X5 Pro 5g</li>
 </ul>
-<p>على الرغم من أن هذه الأجهزة ستبقى على Hyperos 2 حيث تستمر في العمل بشكل طبيعي ، فإن حرمانها من المزايا الجديدة التي ستجلبها HyperOS 3 &#8211; مثل تحسين الأداء والتكامل الأوسع مع الذكاء الاصطناعي &#8211; قد يدفع المستخدمين إلى التفكير في الترقية إلى نموذج أحدث للاستفادة من التجربة الكاملة.</p>
+<p>على الرغم من أن هذه الأجهزة ستبقى على Hyperos 2 حيث تستمر في العمل بشكل طبيعي ، فإن حرمانها من المزايا الجديدة التي ستجلبها HyperOS 3 – مثل تحسين الأداء والتكامل الأوسع مع الذكاء الاصطناعي – قد يدفع المستخدمين إلى التفكير في الترقية إلى نموذج أحدث للاستفادة من التجربة الكاملة.</p>
 <blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
 <p>تجدر الإشارة إلى أن Xiaomi ستطلق تحديث HyperOS 2.3 استنادًا إلى Android 16 قبل وصول Hyperos 3 ، مما يعني أن بعض الميزات الجديدة ستصل فعليًا إلى الأجهزة المؤهلة قبل نهاية العام.</p>
 </blockquote>
-<p>والسؤال الآن هو ، هل هاتفك بين هذه الهواتف غير المؤهلة للحصول على تحديث Hyper OS3؟ شارك رأيك في التعليقات &#8230;</p>
-<p><a href="https://www.xiaomiadictos.com/si-tienes-uno-de-estos-xiaomi-vete-olvidandote-de-hyperos-3/" data-type="link" data-id="https://www.xiaomiadictos.com/si-tienes-uno-de-estos-xiaomi-vete-olvidandote-de-hyperos-3/">مصدر</a></p>
+<p>والسؤال الآن هو ، هل هاتفك بين هذه الهواتف غير المؤهلة للحصول على تحديث Hyper OS3؟ شارك رأيك في التعليقات …</p>
+<p><a href="https://www.xiaomiadictos.com/si-tienes-uno-de-estos-xiaomi-vete-olvidandote-de-hyperos-3/" data-type="link" data-id="https://www.xiaomiadictos.com/si-tienes-uno-de-estos-xiaomi-vete-olvidandote-de-hyperos-3/">مصدر</a></p></div>
 </p></div>
-</p></div>
-

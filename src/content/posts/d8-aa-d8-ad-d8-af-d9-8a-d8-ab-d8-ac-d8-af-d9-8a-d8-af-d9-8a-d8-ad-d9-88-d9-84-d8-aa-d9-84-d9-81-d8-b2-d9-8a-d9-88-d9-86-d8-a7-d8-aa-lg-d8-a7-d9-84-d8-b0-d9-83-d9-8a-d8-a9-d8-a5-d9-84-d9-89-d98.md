@@ -14,19 +14,11 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d8%ac
 
 <p class="wp-block-paragraph">أعلنت شركة إل جي عن تحديث موسع لبوابة الألعاب الخاصة بتلفزيوناتها الذكية LG Gaming Portal، بهدف تحويل الشاشة الكبيرة إلى منصة ألعاب قائمة بذاتها دون الحاجة إلى أجهزة تحكم أو ملحقات إضافية، في خطوة تعكس توجهها المتزايد نحو توسيع مفهوم الترفيه المنزلي.</p>
 
-
-
 <p class="wp-block-paragraph">ويركز التحديث الجديد بشكل أساسي على توسيع نطاق الألعاب السحابية والألعاب الخفيفة، حيث أوضحت الشركة أن المنصة تضم الآن أكثر من 4000 لعبة سحابية، بالإضافة إلى أكثر من 600 لعبة عرضية. يتضمن التحديث أيضًا شراكات جديدة مع الاستوديوهات الكبرى ودعم أنماط التحكم المبتكرة، بالإضافة إلى إدراج عناوين مستقلة ظهرت سابقًا ضمن فعاليات webOS Hackathon.</p>
-
-
 
 <p class="wp-block-paragraph"><strong>الشراكات الإستراتيجية والمحتوى المخصص للتلفزيون</strong></p>
 
-
-
 <p class="wp-block-paragraph">وفي إطار هذا التوسع، أضافت LG مجموعة من الألعاب المصممة خصيصًا للاستفادة من إمكانيات شاشات التلفزيون وأجهزة التحكم الخاصة بها. وأبرز هذه الإضافات هي:</p>
-
-
 
 <ul class="wp-block-list">
 <li>
@@ -36,8 +28,6 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d8%ac
 </li>
 </ul>
 
-
-
 <ul class="wp-block-list">
 <li>
 <ul class="wp-block-list">
@@ -45,8 +35,6 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d8%ac
 </ul>
 </li>
 </ul>
-
-
 
 <ul class="wp-block-list">
 <li>
@@ -56,23 +44,12 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d8%ac
 </li>
 </ul>
 
-
-
 <p class="wp-block-paragraph"><strong>خيارات التحكم الموسعة: الصوت والهاتف الذكي</strong></p>
-
-
 
 <p class="wp-block-paragraph">لم تقم LG بتوسيع مكتبة ألعابها فحسب، بل عملت أيضًا على تطوير طرق للتفاعل مع المحتوى. وتعاونت الشركة مع منصة Volley المتخصصة في ألعاب الذكاء الاصطناعي الصوتية، مما سمح بإضافة عناوين تعمل بالأوامر الصوتية في السوق الأمريكية، ومن بينها برنامج المنافسة الشهير Jeopardy! ولعبة مسابقة الأغنية.</p>
 
-
-
 <p class="wp-block-paragraph">بالإضافة إلى ذلك، أطلقت LG تطبيق LG Mobile Gamepad Wi-Fi لأجهزة Android <a href="https://play.google.com/store/apps/details?id=com.lge.mobilegamepadwifi" target="_blank" rel="noreferrer noopener">أندرويد</a> و <a href="https://apps.apple.com/us/app/lg-mobile-gamepad-wi-fi/id6743106593" target="_blank" rel="noreferrer noopener">دائرة الرقابة الداخلية</a> مما يسمح للمستخدمين بتحويل هواتفهم الذكية إلى وحدات تحكم لاسلكية، مما يوفر تجربة لعب أكثر مرونة وسلاسة في الألعاب المدعومة.</p>
-
-
 
 <p class="wp-block-paragraph"><strong>التلفزيون كمنصة ألعاب مستقبلية</strong><br>ومن خلال هذا التحديث، تؤكد إل جي سعيها لإعادة تعريف دور التلفزيون الذكي، ليصبح مركزًا تفاعليًا يجمع بين المشاهدة والألعاب السحابية وتجارب الترفيه المتقدمة. ويعكس هذا الاتجاه رهان الشركة على مستقبل يعتمد بشكل متزايد على البث السحابي ووسائل التحكم المتعددة، بما يلبي احتياجات المستخدمين دون تعقيد أو تكلفة إضافية.</p>
 
-
-
 <p class="wp-block-paragraph"><a href="https://www.fonearena.com/blog/472097/lg-smart-tv-gaming-portal-new-titles-mobile-controller.html" target="_blank" rel="noreferrer noopener">مصدر</a></p>
-

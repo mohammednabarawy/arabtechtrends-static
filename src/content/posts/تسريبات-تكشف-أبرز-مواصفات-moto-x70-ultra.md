@@ -24,4 +24,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8%d8%a7%
 <p><a href="https://www.gizmochina.com/2025/12/11/moto-x70-ultra-specifications-display-camera-leak/" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
 </div>
-

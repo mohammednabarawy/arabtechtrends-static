@@ -18,7 +18,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-one-ui
 </div>
 </div>
 <div class="entry-content entry clearfix">
-<p>بدأت شركة Samsung رسميًا الاختبارات الداخلية لواجهة UI 8 التي تم بناؤها على Android 16 لـ Galaxy A73 ، وفقًا لـ &#8220;Akhilesh Kumar&#8221; ، التي كشفت عن المعلومات عبر منصة X في 7 أغسطس.</p>
+<p>بدأت شركة Samsung رسميًا الاختبارات الداخلية لواجهة UI 8 التي تم بناؤها على Android 16 لـ Galaxy A73 ، وفقًا لـ "Akhilesh Kumar" ، التي كشفت عن المعلومات عبر منصة X في 7 أغسطس.</p>
 <p>حاليًا ، يعمل Galaxy A73 على واجهة One UI 7 مع Android 15 ، ولكن تمت مراقبة إصدار جديد من النظام على خوادم Samsung الداخلية مع إصدار A736BXXUAGYH3 للسوق الآسيوية.</p>
 <p>جاءت الواجهة الجديدة لأول مرة مع أحدث هواتف Samsung القابلة للطي ، في حين أنها متوفرة حاليًا بسلسلة من السلسلة <strong>Galaxy S25</strong>يتم إصدار النسخة المستقرة في سبتمبر قبل أن تصل إلى بقية الهواتف.</p>
 <p>على الرغم من أن Galaxy A73 هو أحد الهواتف المتوسطة التي تتأخر عادة في الحصول على تحديثات رئيسية ، إلا أن بداية الاختبارات المبكرة تشير إلى أنه سيتم تقديمها في قائمة الأجهزة المؤهلة للتحديث. تختبر Samsung أيضًا الواجهة على أجهزة أخرى مثل Galaxy S21 Fe و Galaxy A53 و Galaxy A55 و Galaxy S24.</p>
@@ -31,11 +31,9 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-one-ui
 <li>32 ميغابكسل كاميرا أمامية</li>
 <li>بطارية 5000 مللي أمبير في الساعة ، 25 واط شحن</li>
 <li>مقاومة للماء والغبار مع دعم شبكات 5G القياسي IP67 ، وهي شاشة مدمجة في الشاشة</li>
-<li>الأبعاد: 163.7 × 76.1 × 7.6 مم &#8211; الوزن: 181 جرام</li>
+<li>الأبعاد: 163.7 × 76.1 × 7.6 مم – الوزن: 181 جرام</li>
 </ul>
 <p>مع هذا التطوير ، يقترب مستخدمو Galaxy A73 من تجربة ميزة One UI 8 قريبًا ، بمجرد اكتمال الاختبارات ويتم إصدار التحديث رسميًا.</p>
 <p>هل لديك هواتف مجرة من الفئة أ؟</p>
-<p><a href="https://www.tudocelular.com/samsung/noticias/n238526/one-ui-8-samsung-inicia-testes-internos-galaxy-a73.html" data-type="link" data-id="https://www.tudocelular.com/samsung/noticias/n238526/one-ui-8-samsung-inicia-testes-internos-galaxy-a73.html">مصدر</a></p>
+<p><a href="https://www.tudocelular.com/samsung/noticias/n238526/one-ui-8-samsung-inicia-testes-internos-galaxy-a73.html" data-type="link" data-id="https://www.tudocelular.com/samsung/noticias/n238526/one-ui-8-samsung-inicia-testes-internos-galaxy-a73.html">مصدر</a></p></div>
 </p></div>
-</p></div>
-

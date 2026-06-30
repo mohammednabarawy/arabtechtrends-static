@@ -24,4 +24,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%aa
 <p>ومع استمرار ظهور هذه المؤشرات، فمن المتوقع أن يتم الكشف عن مزيد من التفاصيل حول سلسلة REDMI Turbo 5 خلال الأسابيع المقبلة، تمهيداً للإعلان عنها رسمياً مع بداية العام الجديد 2026، قبل احتفالات العام الصيني الجديد.</p>
 <p><a href="https://www.gizmochina.com/2025/12/14/redmi-turbo-5-series-edges-closer-as-new-xiaomi-model-clears-certification/" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
-

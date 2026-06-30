@@ -19,9 +19,9 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-hypero
 </div>
 <div class="entry-content entry clearfix">
 <p>بدأت الشركة الصينية Xiaomi أخيرًا في توسيع نطاق اختبارات تحديث واجهة Hyperos 3 بناءً على نظام تشغيل Android 15 ، حيث أكدت الشركة التحديث لمجموعة أكبر من هواتفها داخل برنامج الاختبارات الداخلية.</p>
-<h2 class="wp-block-heading">تفاصيل اختبار Hyperos 3 استنادًا إلى Android 15</h2>
+<h2>تفاصيل اختبار Hyperos 3 استنادًا إلى Android 15</h2>
 <p>يحمل الإصدار ، الذي بدأ يظهر على بعض الأجهزة ، رقم البناء OS3.0.250923 في 23 سبتمبر 2025. يأتي هذا ضمن استراتيجية Xiaomi لتمهيد الطريق نحو إطلاق النسخة التجريبية العامة في الأسابيع المقبلة ، تليها النسخة المستقرة قبل نهاية العام.</p>
-<h3 class="wp-block-heading">الأجهزة التي تغطيها الاختبارات الداخلية</h3>
+<h3>الأجهزة التي تغطيها الاختبارات الداخلية</h3>
 <p>تتضمن قائمة الأجهزة التي تعمل حاليًا في الإصدار التجريبي من واجهة Hyperos 3 ما يلي:</p>
 <ul class="wp-block-list">
 <li>Xiaomi 12</li>
@@ -38,10 +38,8 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-hypero
 <li>Xiaomi Civi 3</li>
 <li>Redmi Note 12T Pro</li>
 </ul>
-<h3 class="wp-block-heading">أهمية الخطوة</h3>
+<h3>أهمية الخطوة</h3>
 <p>من خلال هذا التوسع ، تؤكد Xiaomi التزامها بزيادة عمر أجهزتها ودعمها بأحدث ميزات Android 15 ، والتي تمنح مستخدمي هواتفها ، حتى من الأجيال السابقة مثل سلسلة Xiaomi 13 ، وهي فرصة للاستفادة من تجربة أكثر سلاسة وتحديثات تتماشى مع أحدث الاتجاهات الفنية.</p>
-<p>هل هاتفك بين الهواتف أعلاه؟ شارك رأيك &#8230;</p>
-<p><a href="https://www.tudocelular.com/software/noticias/n240506/xiaomi-testes-internos-do-hyperos-3-com-android-15.html" data-type="link" data-id="https://www.tudocelular.com/software/noticias/n240506/xiaomi-testes-internos-do-hyperos-3-com-android-15.html">مصدر</a></p>
+<p>هل هاتفك بين الهواتف أعلاه؟ شارك رأيك …</p>
+<p><a href="https://www.tudocelular.com/software/noticias/n240506/xiaomi-testes-internos-do-hyperos-3-com-android-15.html" data-type="link" data-id="https://www.tudocelular.com/software/noticias/n240506/xiaomi-testes-internos-do-hyperos-3-com-android-15.html">مصدر</a></p></div>
 </p></div>
-</p></div>
-

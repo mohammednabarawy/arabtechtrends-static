@@ -6,7 +6,7 @@ updatedDate: "2025-12-09T06:09:36"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["Realme سلسلة Realme Narzo 90 مواصفات قوية فئة فوق المتوسطة"]
-image: ""
+image: "https://www.arabtechtrends.com/wp-content/uploads/2025/12/1765253375_24_realme-----realme-narzo-90.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b1%d9%8a%d9%84%d9%85%d9%8a-%d8%aa%d8%b3%d8%aa%d8%b9%d8%af-%d9%84%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d8%b3%d9%84%d8%b3%d9%84%d8%a9-realme-narzo-90/"
 ---
@@ -23,11 +23,10 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b1%d9%8a%d9%84%d9%85%d9%8a-%d8%aa
 <b>خيارات تخزين وذاكرة مختلفة</b></p>
 <p>كما تخطط Realme لإتاحة الهاتف بعدة خيارات لذاكرة الوصول العشوائي بسعات 6/8/12 جيجابايت، مع خيارات تخزين داخلية تبدأ من 128 جيجابايت في الإصدار الأساسي، على أن يصل الحد الأقصى إلى 256 جيجابايت لتوفير مرونة مناسبة لمختلف المستخدمين.</p>
 <p><b>كاميرا رئيسية بدقة 50 ميجابكسل</b><br />وعلى صعيد الكاميرا وأجهزة التصوير، تشير المعلومات إلى أن هاتف Realme Narzo 90 سيأتي مع كاميرا رئيسية بدقة 50 ميجابكسل، مما يعطي الانطباع بأن الهاتف سيركز على تقديم جودة صورة مقبولة مع تحسينات تعتمد على الذكاء الاصطناعي ومعالجة Realme المعتادة، ولا توجد تفاصيل أخرى حول الكاميرات.</p>
-<div align="center"><img decoding="async" src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1765253375_24_realme-----realme-narzo-90.webp.webp" class="img-responsive lazy" alt="" border="0"/></div>
+<div align="center"><img src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1765253375_24_realme-----realme-narzo-90.webp.webp" class="img-responsive lazy" alt=""/></div>
 <p>
 <b>بطارية قوية مع شحن سريع</b></p>
 <p>ومن أبرز نقاط قوة الهاتف ستكون بطاريته الضخمة بسعة 6500 مللي أمبير، والتي من المتوقع أن توفر عمر تشغيلي طويل جدًا. كما سيدعم الهاتف الشحن السلكي السريع بقدرة 80 واطًا، وهو معدل شحن ممتاز في هذه الفئة السعرية.</p>
 <p>ورغم أن Realme لم تكشف رسميًا عن موعد الإطلاق بعد، إلا أن مصادر التسريب تؤكد أن الهاتف قادم قريبًا جدًا وربما يتم الإعلان عنه قبل أن تصل سلسلة Narzo 80 إلى عامها الأول في أبريل، مما يعني أن Realme تستعد بالفعل لجيل جديد مبكرًا، على أن يتم إطلاقه بدءًا من الأسواق الهندية ثم خلال أسابيع سيصل إلى العديد من الأسواق العالمية.</p>
 <p><a href="https://www.gsmarena.com/realme_narzo_90_image_leaks_along_with_specs-news-70607.php" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
-

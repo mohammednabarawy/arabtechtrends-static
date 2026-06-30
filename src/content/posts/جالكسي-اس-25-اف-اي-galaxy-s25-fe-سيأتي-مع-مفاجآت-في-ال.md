@@ -12,8 +12,8 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-
 ---
 
 <div>
-<p>تشير أحدث التسريبات إلى أن Samsung ستقوم بترقية الشاشة والبطارية والشاحن السريع في هاتفها القادم ، Samsung Galaxy S25 Fe &#8220;.</p>
-<h2 class="wp-block-heading">ميزات ومواصفات Galaxy S25 Fe وفقًا للشائعات</h2>
+<p>تشير أحدث التسريبات إلى أن Samsung ستقوم بترقية الشاشة والبطارية والشاحن السريع في هاتفها القادم ، Samsung Galaxy S25 Fe ".</p>
+<h2>ميزات ومواصفات Galaxy S25 Fe وفقًا للشائعات</h2>
 <p><strong>شاشة OLED مرنة مع تقنية LTPO</strong></p>
 <p>يتحدث تقرير جديد عن مواصفات شاشة Galaxy S25 Fe. سيحتفظ الجهاز بشاشة 6.7 بوصة ، ولكنه سيدعم تقنية LTPO ، مما يسمح بمعدل تحديث يتراوح من 1 هرتز إلى 120 هرتز. ستكون دقة شاشة FHD+ مع تقنية AMOLED الديناميكية.</p>
 <p>تشير التقارير إلى أن شاشة Samsung تستعد لبدء الإنتاج الضخم لشاشات OLED المرنة لـ Galaxy S25 Fe. هذا تحديث ملحوظ في مكونات الجهاز ، حيث تم تجهيز هواتف الإصدار السابق من المعجبين بشاشة OLED القديمة.</p>
@@ -26,6 +26,4 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-
 <p>بالإضافة إلى ذلك ، ستستخدم Galaxy S25 Fe أجهزة استشعار الصور من هاتف S24 Fe ، بما في ذلك كاميرا رئيسية مكونة من 50 ميغابكسل ، وكاميرا 12 -megapixel ، وكاميرا 8 -megapixel ، وكاميرا 8 -megapixel ؛ ومع ذلك ، فإن كاميرا Selfie سيكون لها مستشعر جديد 12 -mapixel.</p>
 <p>ستطلق Samsung Galaxy S25 Fe في وقت لاحق من هذا العام. سيأتي مع واجهة One8 8 المجهزة مسبقًا على أساس Android 16. مع سبع سنوات من دعم البرامج ، ستكون سلسلة Galaxy S25 خارج تحديث إضافي لنظام التشغيل.</p>
 <p>الآن ، ما هي أهم الميزة التي يجب أن تأتي S25 Fe؟</p>
-<p><a href="https://www.sammyfans.com/2025/07/12/samsung-galaxy-s25-fe-leak-reveals-surprise-display-battery-and-charging-upgrades/" data-type="link" data-id="https://www.sammyfans.com/2025/07/12/samsung-galaxy-s25-fe-leak-reveals-surprise-display-battery-and-charging-upgrades/">مصدر</a></p>
-</p></div>
-
+<p><a href="https://www.sammyfans.com/2025/07/12/samsung-galaxy-s25-fe-leak-reveals-surprise-display-battery-and-charging-upgrades/" data-type="link" data-id="https://www.sammyfans.com/2025/07/12/samsung-galaxy-s25-fe-leak-reveals-surprise-display-battery-and-charging-upgrades/">مصدر</a></p></div>

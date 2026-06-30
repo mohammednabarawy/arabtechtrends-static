@@ -28,4 +28,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d9%88%d8%a7%d9%88%d9%8a-%d8%aa
 <p>وتؤكد هواوي أنه سيتم طرح التحديث بشكل تدريجي، وسيصل إلى جميع مستخدمي هواتف سلسلة Mate 80 خلال الفترة المقبلة.</p>
 <p><a href="https://www.huaweicentral.com/huawei-mate-80-series-first-update/" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
-

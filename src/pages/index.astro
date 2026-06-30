@@ -1,70 +1,85 @@
 ---
 import { getCollection } from "astro:content";
+import PostCard from "../components/PostCard.astro";
 import BaseLayout from "../layouts/BaseLayout.astro";
-import { siteSections } from "../site";
+import { categories } from "../site";
+import { filterPostsByCategory, getPostImage, sortPosts } from "../utils/posts";
 
-const posts = (await getCollection("posts", ({ data }) => !data.draft))
-  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
-  .slice(0, 120);
+const allPosts = sortPosts(await getCollection("posts", ({ data }) => !data.draft));
+const posts = allPosts.slice(0, 120);
 
 const [featured, ...rest] = posts;
 const sidePosts = rest.slice(0, 4);
 const latest = rest.slice(4, 10);
-const usedPostIds = new Set([featured?.id, ...sidePosts.map((post) => post.id), ...latest.map((post) => post.id)].filter(Boolean));
-const pickSectionPosts = (keywords: string[]) => {
+const usedPostIds = new Set([featured?.id, ...sidePosts.map((p) => p.id), ...latest.map((p) => p.id)].filter(Boolean));
+
+const pickSectionPosts = (categorySlug: string) => {
+  const category = categories.find((c) => c.slug === categorySlug);
+  if (!category) return [];
   const picked = [];
-
   for (const post of posts) {
+    if (usedPostIds.has(post.id)) continue;
     const text = `${post.data.title} ${post.data.category}`.toLowerCase();
-    if (usedPostIds.has(post.id) || !keywords.some((keyword) => text.includes(keyword.toLowerCase()))) {
-      continue;
-    }
-
+    if (!category.keywords.some((k) => text.includes(k.toLowerCase()))) continue;
     picked.push(post);
     usedPostIds.add(post.id);
-    if (picked.length === 4) {
-      break;
-    }
+    if (picked.length === 4) break;
   }
-
   return picked;
 };
+
 const sectionGroups = [
-  { title: "هواتف وأندرويد", posts: pickSectionPosts(["هاتف", "هواتف", "أندرويد", "android", "سامسونج", "شاومي"]) },
-  { title: "آيفون وآبل", posts: pickSectionPosts(["آيفون", "ايفون", "iphone", "آبل", "apple"]) },
-  { title: "تطبيقات وشروحات", posts: pickSectionPosts(["تطبيق", "واتساب", "تيليجرام", "جيميل", "شروحات", "ويندوز"]) }
-].filter((group) => group.posts.length);
+  { title: "هواتف وأندرويد", slug: "phones", posts: pickSectionPosts("phones") },
+  { title: "آيفون وآبل", slug: "iphone", posts: pickSectionPosts("iphone") },
+  { title: "تطبيقات وشروحات", slug: "apps", posts: pickSectionPosts("apps") }
+].filter((g) => g.posts.length);
+
 const base = import.meta.env.BASE_URL.endsWith("/") ? import.meta.env.BASE_URL : `${import.meta.env.BASE_URL}/`;
-const withBase = (path: string) => /^(https?:)?\/\//.test(path) ? path : `${base}${path.replace(/^\/+/, "")}`;
+const withBase = (path: string) => path.startsWith("http") ? path : `${base}${path.replace(/^\/+/, "")}`;
+const featuredImage = featured ? getPostImage(featured) : undefined;
 ---
 
-<BaseLayout title="عرب تك | التقنية بين يديك">
+<BaseLayout title="عرب تك | التقنية بين يديك" image={featuredImage}>
   <section class="ticker">
     <strong>آخر الأخبار</strong>
-    <span>{featured?.data.title}</span>
-  </section>
-
-  <section class="category-bar" aria-label="الأقسام">
-    {siteSections.map((category) => <a href={withBase("/posts/")}>{category}</a>)}
+    {featured && (
+      <a class="ticker__link" href={withBase(`/posts/${featured.slug}/`)}>
+        {featured.data.title}
+      </a>
+    )}
   </section>
 
   <section class="hero">
     {featured && (
       <a class="lead-card" href={withBase(`/posts/${featured.slug}/`)}>
-        {featured.data.image ? <img src={withBase(featured.data.image)} alt="" loading="eager" /> : <span class="media-fallback">ATT</span>}
+        {(() => {
+          const img = getPostImage(featured);
+          return img ? (
+            <img src={withBase(img)} alt={featured.data.title} loading="eager" decoding="async" />
+          ) : (
+            <span class="media-fallback">ATT</span>
+          );
+        })()}
         <em>{featured.data.category}</em>
         <strong>{featured.data.title}</strong>
         <small>{featured.data.pubDate.toLocaleDateString("ar-EG")}</small>
       </a>
     )}
     <div class="hero-stack">
-      {sidePosts.map((post) => (
-        <a href={withBase(`/posts/${post.slug}/`)}>
-          {post.data.image ? <img src={withBase(post.data.image)} alt="" loading="lazy" /> : <span class="media-fallback">{post.data.category.slice(0, 2)}</span>}
-          <span>{post.data.category}</span>
-          <strong>{post.data.title}</strong>
-        </a>
-      ))}
+      {sidePosts.map((post) => {
+        const img = getPostImage(post);
+        return (
+          <a href={withBase(`/posts/${post.slug}/`)}>
+            {img ? (
+              <img src={withBase(img)} alt={post.data.title} loading="lazy" decoding="async" />
+            ) : (
+              <span class="media-fallback">{post.data.category.slice(0, 2)}</span>
+            )}
+            <span>{post.data.category}</span>
+            <strong>{post.data.title}</strong>
+          </a>
+        );
+      })}
     </div>
   </section>
 
@@ -74,31 +89,17 @@ const withBase = (path: string) => /^(https?:)?\/\//.test(path) ? path : `${base
   </section>
 
   <div class="post-grid">
-    {latest.map((post) => (
-      <article class="post-card">
-        {post.data.image ? <img src={withBase(post.data.image)} alt="" loading="lazy" /> : <span class="media-fallback">{post.data.category.slice(0, 2)}</span>}
-        <p>{post.data.category}</p>
-        <h3><a href={withBase(`/posts/${post.slug}/`)}>{post.data.title}</a></h3>
-        <span>{post.data.pubDate.toLocaleDateString("ar-EG")}</span>
-      </article>
-    ))}
+    {latest.map((post) => <PostCard post={post} />)}
   </div>
 
   {sectionGroups.map((group) => (
     <section class="section-block">
       <div class="section-head">
         <h2>{group.title}</h2>
-        <a href={withBase("/posts/")}>المزيد</a>
+        <a href={withBase(`/category/${group.slug}/`)}>المزيد</a>
       </div>
       <div class="post-grid compact-grid">
-        {group.posts.map((post) => (
-          <article class="post-card">
-            {post.data.image ? <img src={withBase(post.data.image)} alt="" loading="lazy" /> : <span class="media-fallback">{post.data.category.slice(0, 2)}</span>}
-            <p>{post.data.category}</p>
-            <h3><a href={withBase(`/posts/${post.slug}/`)}>{post.data.title}</a></h3>
-            <span>{post.data.pubDate.toLocaleDateString("ar-EG")}</span>
-          </article>
-        ))}
+        {group.posts.map((post) => <PostCard post={post} compact />)}
       </div>
     </section>
   ))}

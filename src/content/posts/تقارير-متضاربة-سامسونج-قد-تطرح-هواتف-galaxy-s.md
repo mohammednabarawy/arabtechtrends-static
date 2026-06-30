@@ -17,8 +17,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d9%82%d8%a7%d8%b1%d9%8a%d8%b1-
 <p>ويعود السبب وراء هذه القرارات المحتملة -بحسب التسريبات- إلى الانطباع السلبي لدى المستخدمين تجاه معالجات Exynos مقارنة بمعالجات Snapdragon، بالإضافة إلى الاتفاقية الموقعة بين سامسونج وكوالكوم والتي تقضي بأن تأتي 75% على الأقل من أجهزة S26 حول العالم بمعالج Snapdragon 8 Elite Gen 5. وإذا لم تلتزم سامسونج بذلك فسوف تواجه غرامات مالية ضخمة.</p>
 <p>هناك جانب تقني أيضًا: إنتاج معالج Exynos 2600 لا يزال غير مستقر كما ينبغي، على الرغم من أن عملية التصنيع GAA بدقة 2 نانومتر تحقق تحسنًا أسرع من تقنيات التصنيع القديمة البالغة 3 نانومتر. وهذا يعني أن سامسونج قد لا تكون قادرة على تصنيع ما يكفي لتغطية الأسواق الكبيرة حتى لو أرادت ذلك.</p>
 <div>ومثل كل ما يتعلق بسلسلة S26 مؤخرًا، تبقى هذه المعلومات في إطار الشائعات فقط، ومن المتوقع أن تظهر تسريبات أخرى قريبًا تنفي أو تعدل ما يتم تداوله الآن.</p>
-<p><a href="https://www.gsmarena.com/samsung_now_said_to_be_using_the_exynos_2600_in_the_galaxy_s26_series_in_just_one_market-news-70592.php" target="_blank" rel="nofollow">مصدر</a><br />&#13;
+<p><a href="https://www.gsmarena.com/samsung_now_said_to_be_using_the_exynos_2600_in_the_galaxy_s26_series_in_just_one_market-news-70592.php" target="_blank" rel="nofollow">مصدر</a><br />
 </p>
 </div>
 </div>
-

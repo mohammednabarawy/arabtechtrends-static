@@ -13,10 +13,10 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a7%d8%b3-26-%d8%a7%d9%84%d8%aa%d8
 
 <div>
 <p>بعد تسريب حلقات الكاميرا ، عاد Galaxy S26 Ultra إلى الواجهة مرة أخرى بعد ظهور أغطية الحماية التي تؤكد ميزات التصميم النهائي لوحدة الكاميرات الخلفية.</p>
-<h2 class="wp-block-heading">Galaxy S26 تفاصيل التصميم الفائق ، وفقا للتسربات</h2>
+<h2>Galaxy S26 تفاصيل التصميم الفائق ، وفقا للتسربات</h2>
 <p>وفقًا لـ The Well -Leak Ice Universe ، سيأتي الهاتف مع وحدة جديدة تضم ثلاث كاميرات داخل تصميم بيضاوي بارز قليلاً ، في حين سيتم توزيع الكاميرا الرابعة باستخدام الفلاش والليزر خارج هذا الإطار.</p>
 <p>علاوة على ذلك ، تكشف الأغطية عن وجود أزرار للتحكم في الصوت والطاقة على الجانب الأيمن ، مع ثقوب لتعليق الحبل الجانبي.</p>
-<h2 class="wp-block-heading">Galaxy S26 المواصفات الفائقة وفقًا للتسريبات</h2>
+<h2>Galaxy S26 المواصفات الفائقة وفقًا للتسريبات</h2>
 <figure class="wp-block-image size-full"></figure>
 <p><strong>شاشة</strong>: 6.9 بوصة النوع <strong>ديناميكية AMOLED 2x</strong>يدعم معدل تحديث متغير من 1 إلى 120 هرتز.</p>
 <p><strong>المعالج</strong>: <strong>Snapdragon 8 Elite Gen 5 for Galaxy</strong>.</p>
@@ -35,7 +35,5 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a7%d8%b3-26-%d8%a7%d9%84%d8%aa%d8
 <p><strong>طلب</strong>: <strong>Android 16</strong> واجهة <strong>واجهة المستخدم واحدة 8.5</strong>.</p>
 <p>تشير التقارير أيضًا إلى أن كاميرات الهاتف قد لا تحقق القفزة الكبيرة التي تنتظرها البعض ، في حين أن Galaxy S26 Pro و S26 Edge ستدعم معالجات Exynos 2600 في أسواق محددة.</p>
 <p>وبالتالي ، يبدو أن Samsung تراهن على التصميم والتكامل الجديد مع معالج Snapdragon لتعزيز تجربة المستخدم ، بينما يظل الاهتمام يعتمد على الأداء الفعلي للكاميرات في الإطلاق الرسمي.</p>
-<p>في رأيك &#8230; ما هي أبرز التغييرات التي يجب أن تكون على تصميم الهاتف؟</p>
-<p><a href="https://www.xiaomiadictos.com/xiaomi-va-a-por-el-iphone-17-se-salta-el-xiaomi-16-y-presentara-directamente-el-xiaomi-17/" data-type="link" data-id="https://www.xiaomiadictos.com/xiaomi-va-a-por-el-iphone-17-se-salta-el-xiaomi-16-y-presentara-directamente-el-xiaomi-17/">مصدر</a></p>
-</p></div>
-
+<p>في رأيك … ما هي أبرز التغييرات التي يجب أن تكون على تصميم الهاتف؟</p>
+<p><a href="https://www.xiaomiadictos.com/xiaomi-va-a-por-el-iphone-17-se-salta-el-xiaomi-16-y-presentara-directamente-el-xiaomi-17/" data-type="link" data-id="https://www.xiaomiadictos.com/xiaomi-va-a-por-el-iphone-17-se-salta-el-xiaomi-16-y-presentara-directamente-el-xiaomi-17/">مصدر</a></p></div>

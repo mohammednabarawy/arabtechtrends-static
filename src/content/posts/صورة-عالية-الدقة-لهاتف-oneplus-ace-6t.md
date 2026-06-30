@@ -23,4 +23,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b5%d9%88%d8%b1%d8%a9-%d8%b9%d8%a7
 <p><a href="https://www.gsmarena.com/oneplus_ace_6t_design_leaked_renders-news-70412.php" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
 </div>
-

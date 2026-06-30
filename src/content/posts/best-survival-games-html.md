@@ -14,322 +14,167 @@ sourceUrl: "https://www.arabtechtrends.com/best-survival-games-html/"
 
 <p class="wp-block-paragraph">ألعاب البقاء على قيد الحياة هي واحدة من أفضل أنواع ألعاب الفيديو التي تمتاز بالإثارة والتشويق والمتعة. يعتمد هذا النوع من الألعاب على عدة أمور هامّة مثل استكشاف بيئة اللعبة لجمع الموارد، بناء مأوى وتطوير أدوات وأسلحة لمساعدتك على البقاء، مقاومة بيئة محفوفة بالمخاطر وغيرها من الأمور. وكما تعرفنا في مقالات سابقة عن مجموعة من أنواع الألعاب المختلفة مثل أفضل ألعاب السولز شديدة التنافسية، وكذلك أفضل ألعاب سيارات للكمبيوتر وغير ذلك. وفي مقال اليوم سنتحدث عن أفضل ألعاب البقاء على قيد الحياة أون لاين للكمبيوتر، وأيضًا أفضل ألعاب البقاء على قيد الحياة بدون نت.</p>
 
-
-
-<div id="ez-toc-container" class="ez-toc-v2_0_85 ez-toc-wrap-right counter-hierarchy ez-toc-counter-rtl ez-toc-light-blue ez-toc-container-direction">
-<div class="ez-toc-title-container">
-<p class="ez-toc-title" style="cursor:inherit">محتوى المقالة</p>
-<span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" aria-label="Toggle Table of Content"><span class="ez-toc-js-icon-con"><span class=""><span class="eztoc-hide" style="display:none;">Toggle</span><span class="ez-toc-icon-toggle-span"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></span></span></a></span></div>
 <nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-1" href="https://www.arabtechtrends.com/best-survival-games-html/#1-_%D9%84%D8%B9%D8%A8%D8%A9_Days_Gone" >1- لعبة Days Gone</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-2" href="https://www.arabtechtrends.com/best-survival-games-html/#%D9%85%D8%AA%D8%B7%D9%84%D8%A8%D8%A7%D8%AA_%D8%AA%D8%B4%D8%BA%D9%8A%D9%84_%D9%84%D8%B9%D8%A8%D8%A9_Days_Gone_%D8%A7%D9%84%D8%AD%D8%AF_%D8%A7%D9%84%D8%A3%D8%AF%D9%86%D9%89" >متطلبات تشغيل لعبة Days Gone (الحد الأدنى)</a></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-3" href="https://www.arabtechtrends.com/best-survival-games-html/#2-_%D9%84%D8%B9%D8%A8%D8%A9_Rust" >2- لعبة Rust</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-4" href="https://www.arabtechtrends.com/best-survival-games-html/#%D9%85%D8%AA%D8%B7%D9%84%D8%A8%D8%A7%D8%AA_%D8%AA%D8%B4%D8%BA%D9%8A%D9%84_%D9%84%D8%B9%D8%A8%D8%A9_Rust_%D8%A7%D9%84%D8%AD%D8%AF_%D8%A7%D9%84%D8%A3%D8%AF%D9%86%D9%89" >متطلبات تشغيل لعبة Rust (الحد الأدنى)</a></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-5" href="https://www.arabtechtrends.com/best-survival-games-html/#3-_%D9%84%D8%B9%D8%A8%D8%A9_DayZ" >3- لعبة DayZ</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-6" href="https://www.arabtechtrends.com/best-survival-games-html/#%D9%85%D8%AA%D8%B7%D9%84%D8%A8%D8%A7%D8%AA_%D8%AA%D8%B4%D8%BA%D9%8A%D9%84_%D9%84%D8%B9%D8%A8%D8%A9_DayZ_%D8%A7%D9%84%D8%AD%D8%AF_%D8%A7%D9%84%D8%A3%D8%AF%D9%86%D9%89" >متطلبات تشغيل لعبة DayZ (الحد الأدنى)</a></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-7" href="https://www.arabtechtrends.com/best-survival-games-html/#4-_%D9%84%D8%B9%D8%A8%D8%A9_Dying_Light" >4- لعبة Dying Light</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-8" href="https://www.arabtechtrends.com/best-survival-games-html/#%D9%85%D8%AA%D8%B7%D9%84%D8%A8%D8%A7%D8%AA_%D8%AA%D8%B4%D8%BA%D9%8A%D9%84_%D9%84%D8%B9%D8%A8%D8%A9_Dying_Light_%D8%A7%D9%84%D8%AD%D8%AF_%D8%A7%D9%84%D8%A3%D8%AF%D9%86%D9%89" >متطلبات تشغيل لعبة Dying Light (الحد الأدنى)</a></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-9" href="https://www.arabtechtrends.com/best-survival-games-html/#5-_%D9%84%D8%B9%D8%A8%D8%A9_Ark_Survival_Evolved" >5- لعبة Ark: Survival Evolved</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-10" href="https://www.arabtechtrends.com/best-survival-games-html/#%D9%85%D8%AA%D8%B7%D9%84%D8%A8%D8%A7%D8%AA_%D8%AA%D8%B4%D8%BA%D9%8A%D9%84_%D9%84%D8%B9%D8%A8%D8%A9_Ark_Survival_Evolved_%D8%A7%D9%84%D8%AD%D8%AF_%D8%A7%D9%84%D8%A3%D8%AF%D9%86%D9%89" >متطلبات تشغيل لعبة Ark: Survival Evolved (الحد الأدنى)</a></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-11" href="https://www.arabtechtrends.com/best-survival-games-html/#6-_%D9%84%D8%B9%D8%A8%D8%A9_Frostpunk" >6- لعبة Frostpunk</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-12" href="https://www.arabtechtrends.com/best-survival-games-html/#%D9%85%D8%AA%D8%B7%D9%84%D8%A8%D8%A7%D8%AA_%D8%AA%D8%B4%D8%BA%D9%8A%D9%84_%D9%84%D8%B9%D8%A8%D8%A9_Frostpunk_%D8%A7%D9%84%D8%AD%D8%AF_%D8%A7%D9%84%D8%A3%D8%AF%D9%86%D9%89" >متطلبات تشغيل لعبة Frostpunk (الحد الأدنى)</a></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-13" href="https://www.arabtechtrends.com/best-survival-games-html/#7-_%D9%84%D8%B9%D8%A8%D8%A9_Minecraft" >7- لعبة Minecraft</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-14" href="https://www.arabtechtrends.com/best-survival-games-html/#%D9%85%D8%AA%D8%B7%D9%84%D8%A8%D8%A7%D8%AA_%D8%AA%D8%B4%D8%BA%D9%8A%D9%84_%D9%84%D8%B9%D8%A8%D8%A9_Minecraft_%D8%A7%D9%84%D8%AD%D8%AF_%D8%A7%D9%84%D8%A3%D8%AF%D9%86%D9%89_%D9%86%D8%B3%D8%AE%D8%A9_%D8%AC%D8%A7%D9%81%D8%A7" >متطلبات تشغيل لعبة Minecraft (الحد الأدنى / نسخة جافا)</a></li></ul></li></ul></nav></div>
-<h2 class="wp-block-heading"><span class="ez-toc-section" id="1-_%D9%84%D8%B9%D8%A8%D8%A9_Days_Gone"></span>1- لعبة Days Gone<span class="ez-toc-section-end"></span></h2>
+<h2><span class="ez-toc-section" id="1-_%D9%84%D8%B9%D8%A8%D8%A9_Days_Gone"></span>1- لعبة Days Gone<span class="ez-toc-section-end"></span></h2>
 
+<p class="wp-block-paragraph">– سنبدأ معكم قائمة فضل ألعاب البقاء على قيد الحياة بواحدة من أفضل ألعاب الفيديو التي استمتعت بها بشكل شخصي، وواحدة من أفضل قصص الألعاب بشكل عام. تدور قصة اللعبة حول تفشي فيروس غامض في أمريكا أدى إلى تحول معظم السكان إلى موتى أحياء "زومبي".</p>
 
+<p class="wp-block-paragraph">– ميزة لعبة Days Gone أنها توفر قصة ممتازة مع عنصر الصراع للبقاء، حيث يتحكم اللاعبون في شخصية Deacon St. John وهو صائد جوائز، يتولى تنفيذ مهمات خطرة داخل عالم اللعبة الموبوء والمليء بالمخاطر لصالح معسكرات الناجين من الوباء.</p>
 
-<p class="wp-block-paragraph">&#8211; سنبدأ معكم قائمة فضل ألعاب البقاء على قيد الحياة بواحدة من أفضل ألعاب الفيديو التي استمتعت بها بشكل شخصي، وواحدة من أفضل قصص الألعاب بشكل عام. تدور قصة اللعبة حول تفشي فيروس غامض في أمريكا أدى إلى تحول معظم السكان إلى موتى أحياء &#8220;زومبي&#8221;.</p>
+<p class="wp-block-paragraph">– مع تنفيذ المهام تتطور قصة اللعبة والبحث عن مصدر الوباء بطريقة مشوقة ومليئة بالإثارة. يجب عليك الصراع داخل هذا العالم ضد الزومبي والحيوانات المفترسة والعصابات المسلحة وغيرها من المخاطر من أجل البقاء على قيد الحياة.</p>
 
-
-
-<p class="wp-block-paragraph">&#8211; ميزة لعبة Days Gone أنها توفر قصة ممتازة مع عنصر الصراع للبقاء، حيث يتحكم اللاعبون في شخصية Deacon St. John وهو صائد جوائز، يتولى تنفيذ مهمات خطرة داخل عالم اللعبة الموبوء والمليء بالمخاطر لصالح معسكرات الناجين من الوباء.</p>
-
-
-
-<p class="wp-block-paragraph">&#8211; مع تنفيذ المهام تتطور قصة اللعبة والبحث عن مصدر الوباء بطريقة مشوقة ومليئة بالإثارة. يجب عليك الصراع داخل هذا العالم ضد الزومبي والحيوانات المفترسة والعصابات المسلحة وغيرها من المخاطر من أجل البقاء على قيد الحياة.</p>
-
-
-
-<p class="wp-block-paragraph">&#8211; يمكن اعتبار هذه اللعبة أيضًا من أفضل ألعاب عالم مفتوح للكمبيوتر حيث تتميز بخريطة ضخمة، وعدد كبير من المهام الأساسية والجانبية .تعتمد اللعبة بشكل رئيسي على تنفيذ المهام وجمع الموارد من أجل النجاة وتطوير المعدات والأسلحة والدراجة النارية الخاصّة بك.</p>
-
-
+<p class="wp-block-paragraph">– يمكن اعتبار هذه اللعبة أيضًا من أفضل ألعاب عالم مفتوح للكمبيوتر حيث تتميز بخريطة ضخمة، وعدد كبير من المهام الأساسية والجانبية .تعتمد اللعبة بشكل رئيسي على تنفيذ المهام وجمع الموارد من أجل النجاة وتطوير المعدات والأسلحة والدراجة النارية الخاصّة بك.</p>
 
 <p class="wp-block-paragraph"><em>الألعاب في هذه القائمة مدفوعة. سنقوم بتوفير روابط لشرائها من أفضل موقع شراء ألعاب PC بأرخص سعر متوفر. إذا لم يكن لديك القدرة على شراء هذه الألعاب يمكنك استخدام أي موقع تحميل ألعاب تورنت في الوقت الحالي.</em></p>
 
-
-
-<h3 class="wp-block-heading"><span class="ez-toc-section" id="%D9%85%D8%AA%D8%B7%D9%84%D8%A8%D8%A7%D8%AA_%D8%AA%D8%B4%D8%BA%D9%8A%D9%84_%D9%84%D8%B9%D8%A8%D8%A9_Days_Gone_%D8%A7%D9%84%D8%AD%D8%AF_%D8%A7%D9%84%D8%A3%D8%AF%D9%86%D9%89"></span>متطلبات تشغيل لعبة Days Gone (الحد الأدنى)<span class="ez-toc-section-end"></span></h3>
-
-
+<h3><span class="ez-toc-section" id="%D9%85%D8%AA%D8%B7%D9%84%D8%A8%D8%A7%D8%AA_%D8%AA%D8%B4%D8%BA%D9%8A%D9%84_%D9%84%D8%B9%D8%A8%D8%A9_Days_Gone_%D8%A7%D9%84%D8%AD%D8%AF_%D8%A7%D9%84%D8%A3%D8%AF%D9%86%D9%89"></span>متطلبات تشغيل لعبة Days Gone (الحد الأدنى)<span class="ez-toc-section-end"></span></h3>
 
 <ul class="wp-block-list">
 <li>نظام التشغيل: Windows 10 64bit</li>
 
-
-
 <li>الرام: 8 جيجابايت</li>
-
-
 
 <li>مساحة التخزين: 70 جيجابايت. يفضل استخدام وسيط تخزين SSD</li>
 
-
-
 <li>المعالج: Intel Core i5-2500K@3.3GHz <strong>///</strong> AMD FX 6300@3.5GHz</li>
-
-
 
 <li>كارت الرسوميات: Nvidia GeForce GTX 780 (3 GB) <strong>///</strong> AMD Radeon R9 290</li>
 </ul>
 
+<h2><span class="ez-toc-section" id="2-_%D9%84%D8%B9%D8%A8%D8%A9_Rust"></span>2- لعبة Rust<span class="ez-toc-section-end"></span></h2>
 
+<p class="wp-block-paragraph">– الخيار الثاني في قائمة أفضل ألعاب البقاء على قيد الحياة أون لاين هي بالتأكيد اللعبة المميزة Rust وهي واحدة من أكثر الألعاب حصولًا على تقييمات إيجابية على منصة Steam. لعبة رست هي لعبة بقاء وعالم مفتوح متعددة اللاعبين تتميز بعالم ضخم وبيئة مفتوحة.</p>
 
-<h2 class="wp-block-heading"><span class="ez-toc-section" id="2-_%D9%84%D8%B9%D8%A8%D8%A9_Rust"></span>2- لعبة Rust<span class="ez-toc-section-end"></span></h2>
+<p class="wp-block-paragraph">– يبدأ اللاعبون اللعبة عراة على جزيرة غامضة، ولا يمتلكون سوى حجر وشعلة نار، وستحتاج إلى استكشاف الجزيرة من أجل البحث عن الطعام وبناء ملجأ، والهروب من مخاطر الطبيعة، ويجب عليك جمع المزيد من الموارد لصنع الأدوات والأسلحة وبناء الملاجئ للبقاء على قيد الحياة.</p>
 
+<p class="wp-block-paragraph">– يحتاج اللاعبون إلى تجميع الموارد من البيئة مثل الأخشاب والأحجار، واستخدامها لبناء الأدوات والأسلحة وأماكن السكن المختلفة، ويمكن للاعبين تشكيل تحالفات أو خوض حروب ضد الآخرين للحصول على مزيد من الموارد. فهي بالتأكيد واحدة من أفضل ألعاب استراتيجية أون لاين للكمبيوتر.</p>
 
+<p class="wp-block-paragraph">– التفاعل بين اللاعبين من أهم عناصر البقاء على قيد الحياة في لعبة Rust، حيث يقوم اللاعبون بالتعاون مع بعضهم البعض Co-Op أو التنافس ضد بعضهم البعض PvP. يمكن للاعبين أن يتعرضوا لفقدان كل العناصر التي جمعوها عند الموت. وهذا يجعل البقاء على قيد الحياة تحديًا مستمرًا ويضيف مزيدًا من التوتر والحذر والإثارة أثناء اللعب.</p>
 
-<p class="wp-block-paragraph">&#8211; الخيار الثاني في قائمة أفضل ألعاب البقاء على قيد الحياة أون لاين هي بالتأكيد اللعبة المميزة Rust وهي واحدة من أكثر الألعاب حصولًا على تقييمات إيجابية على منصة Steam. لعبة رست هي لعبة بقاء وعالم مفتوح متعددة اللاعبين تتميز بعالم ضخم وبيئة مفتوحة.</p>
-
-
-
-<p class="wp-block-paragraph">&#8211; يبدأ اللاعبون اللعبة عراة على جزيرة غامضة، ولا يمتلكون سوى حجر وشعلة نار، وستحتاج إلى استكشاف الجزيرة من أجل البحث عن الطعام وبناء ملجأ، والهروب من مخاطر الطبيعة، ويجب عليك جمع المزيد من الموارد لصنع الأدوات والأسلحة وبناء الملاجئ للبقاء على قيد الحياة.</p>
-
-
-
-<p class="wp-block-paragraph">&#8211; يحتاج اللاعبون إلى تجميع الموارد من البيئة مثل الأخشاب والأحجار، واستخدامها لبناء الأدوات والأسلحة وأماكن السكن المختلفة، ويمكن للاعبين تشكيل تحالفات أو خوض حروب ضد الآخرين للحصول على مزيد من الموارد. فهي بالتأكيد واحدة من أفضل ألعاب استراتيجية أون لاين للكمبيوتر.</p>
-
-
-
-<p class="wp-block-paragraph">&#8211; التفاعل بين اللاعبين من أهم عناصر البقاء على قيد الحياة في لعبة Rust، حيث يقوم اللاعبون بالتعاون مع بعضهم البعض Co-Op أو التنافس ضد بعضهم البعض PvP. يمكن للاعبين أن يتعرضوا لفقدان كل العناصر التي جمعوها عند الموت. وهذا يجعل البقاء على قيد الحياة تحديًا مستمرًا ويضيف مزيدًا من التوتر والحذر والإثارة أثناء اللعب.</p>
-
-
-
-<h3 class="wp-block-heading"><span class="ez-toc-section" id="%D9%85%D8%AA%D8%B7%D9%84%D8%A8%D8%A7%D8%AA_%D8%AA%D8%B4%D8%BA%D9%8A%D9%84_%D9%84%D8%B9%D8%A8%D8%A9_Rust_%D8%A7%D9%84%D8%AD%D8%AF_%D8%A7%D9%84%D8%A3%D8%AF%D9%86%D9%89"></span>متطلبات تشغيل لعبة Rust (الحد الأدنى)<span class="ez-toc-section-end"></span></h3>
-
-
+<h3><span class="ez-toc-section" id="%D9%85%D8%AA%D8%B7%D9%84%D8%A8%D8%A7%D8%AA_%D8%AA%D8%B4%D8%BA%D9%8A%D9%84_%D9%84%D8%B9%D8%A8%D8%A9_Rust_%D8%A7%D9%84%D8%AD%D8%AF_%D8%A7%D9%84%D8%A3%D8%AF%D9%86%D9%89"></span>متطلبات تشغيل لعبة Rust (الحد الأدنى)<span class="ez-toc-section-end"></span></h3>
 
 <ul class="wp-block-list">
 <li>نظام التشغيل: Windows 10 64bit</li>
 
-
-
 <li>المعالج: معالج 64 بت Intel Core i7-3770 <strong>///</strong> AMD FX-9590</li>
-
-
 
 <li>الرام: 10 جيجابايت.</li>
 
-
-
 <li>كارت الرسوميات: GTX 670 2GB <strong>///</strong> AMD R9 280</li>
-
-
 
 <li>مساحة التخزين: 25 جيجابايت. يفضل استخدام هارد SSD</li>
 </ul>
 
+<h2><span class="ez-toc-section" id="3-_%D9%84%D8%B9%D8%A8%D8%A9_DayZ"></span>3- لعبة DayZ<span class="ez-toc-section-end"></span></h2>
 
+<p class="wp-block-paragraph">– لعبة "DayZ تُعد واحدة من أفضل ألعاب بقاء ورعب ومتعددة اللاعبين تم تطويرها حتى الآن. اللعبة تشبه في قصتها لعبة Rust، حيث تدور اللعبة في دولة ما بعد الاتحاد السوفيتي تُسمى Chernarus، والتي ضُربت بفيروس مجهول أدى إلى تحول معظم سكانها إلى موتى أحياء "زومبي".</p>
 
-<h2 class="wp-block-heading"><span class="ez-toc-section" id="3-_%D9%84%D8%B9%D8%A8%D8%A9_DayZ"></span>3- لعبة DayZ<span class="ez-toc-section-end"></span></h2>
+<p class="wp-block-paragraph">– نمط اللعب في DayZ يشبه إلى حدٍ ما نمط ألعاب باتل رويال للكمبيوتر من حيث النجاة والقضاء على المنافسين. الهدف الرئيسي للاعب هو البقاء على قيد الحياة بأي وسيلة ممكنة، وهذا يحتاج إلى البحث عن الماء والطعام والدواء والأسلحة، وفي نفس الوقت التعامل مع تهديدات بيئة اللعبة واللاعبين الآخرين.</p>
 
+<p class="wp-block-paragraph">– أيضًا مثل لعبة Rust؛ توفر DayZ إمكانية اللعبة التعاوني بين اللاعبين، وهذا يجعل كل تجربة لعب فريدة في حد ذاتها. ومن أهم مميزات DayZ أنه تتمتع بدرجة عالية من الواقعية في آليات اللعب، مثل تأثير الجوع والعطش والأمراض والإصابات على اللاعب.</p>
 
-
-<p class="wp-block-paragraph">&#8211; لعبة &#8220;DayZ تُعد واحدة من أفضل ألعاب بقاء ورعب ومتعددة اللاعبين تم تطويرها حتى الآن. اللعبة تشبه في قصتها لعبة Rust، حيث تدور اللعبة في دولة ما بعد الاتحاد السوفيتي تُسمى Chernarus، والتي ضُربت بفيروس مجهول أدى إلى تحول معظم سكانها إلى موتى أحياء &#8220;زومبي&#8221;.</p>
-
-
-
-<p class="wp-block-paragraph">&#8211; نمط اللعب في DayZ يشبه إلى حدٍ ما نمط ألعاب باتل رويال للكمبيوتر من حيث النجاة والقضاء على المنافسين. الهدف الرئيسي للاعب هو البقاء على قيد الحياة بأي وسيلة ممكنة، وهذا يحتاج إلى البحث عن الماء والطعام والدواء والأسلحة، وفي نفس الوقت التعامل مع تهديدات بيئة اللعبة واللاعبين الآخرين.</p>
-
-
-
-<p class="wp-block-paragraph">&#8211; أيضًا مثل لعبة Rust؛ توفر DayZ إمكانية اللعبة التعاوني بين اللاعبين، وهذا يجعل كل تجربة لعب فريدة في حد ذاتها. ومن أهم مميزات DayZ أنه تتمتع بدرجة عالية من الواقعية في آليات اللعب، مثل تأثير الجوع والعطش والأمراض والإصابات على اللاعب.</p>
-
-
-
-<h3 class="wp-block-heading"><span class="ez-toc-section" id="%D9%85%D8%AA%D8%B7%D9%84%D8%A8%D8%A7%D8%AA_%D8%AA%D8%B4%D8%BA%D9%8A%D9%84_%D9%84%D8%B9%D8%A8%D8%A9_DayZ_%D8%A7%D9%84%D8%AD%D8%AF_%D8%A7%D9%84%D8%A3%D8%AF%D9%86%D9%89"></span>متطلبات تشغيل لعبة DayZ (الحد الأدنى)<span class="ez-toc-section-end"></span></h3>
-
-
+<h3><span class="ez-toc-section" id="%D9%85%D8%AA%D8%B7%D9%84%D8%A8%D8%A7%D8%AA_%D8%AA%D8%B4%D8%BA%D9%8A%D9%84_%D9%84%D8%B9%D8%A8%D8%A9_DayZ_%D8%A7%D9%84%D8%AD%D8%AF_%D8%A7%D9%84%D8%A3%D8%AF%D9%86%D9%89"></span>متطلبات تشغيل لعبة DayZ (الحد الأدنى)<span class="ez-toc-section-end"></span></h3>
 
 <ul class="wp-block-list">
 <li>نظام التشغيل: Windows 10 64bit</li>
 
-
-
 <li>المعالج: معالج 64 بت Intel Core i5-4430</li>
-
-
 
 <li>ذاكرة الوصول العشوائيram: ثمانية جيجابايت.</li>
 
-
-
 <li>كارت الرسوميات: NVIDIA GeForce GTX 760 <strong>/// </strong>AMD R9 270X</li>
-
-
 
 <li>مساحة التخزين: 25 جيجابايت</li>
 </ul>
 
+<h2><span class="ez-toc-section" id="4-_%D9%84%D8%B9%D8%A8%D8%A9_Dying_Light"></span>4- لعبة Dying Light<span class="ez-toc-section-end"></span></h2>
 
+<p class="wp-block-paragraph">– تُعد لعبة Dying Light واحدة من أفضل ألعاب رعب للكمبيوتر من نوع وصراع البقاء على قيد الحياة، مع مزيج من التشويق والحركة والمغامرة. هذه اللعبة تشبه كثيرًا في تفاصيلها ونمط اللعب الخاصّ بها لعبة DayZ.</p>
 
-<h2 class="wp-block-heading"><span class="ez-toc-section" id="4-_%D9%84%D8%B9%D8%A8%D8%A9_Dying_Light"></span>4- لعبة Dying Light<span class="ez-toc-section-end"></span></h2>
+<p class="wp-block-paragraph">– تدور قصة اللعبة في مدينة خيالية تدعى Harran، والتي تفشى فيها فيروس غامض قام بتحويل البشر إلى زومبي. يتحكم اللاعبون في شخصية كايل كرين، وهو عميل سري يُرسل إلى المدينة الموبوءة للبحث عن ملف سري. فيمكن اعتبار هذه اللعبة أيضًا ضمن قسم ألعاب تقمص الأدوار والشخصيات RPG.</p>
 
+<p class="wp-block-paragraph">– كما هو الحال في ألعاب البقاء على قيد الحياة فيجب على اللاعب استكشاف محيط مدينة اللعبة، جمع الإمدادات الضرورية، وكذلك صنع الأسلحة للدفاع عن النفس ضد الزومبي والأعداء. تدعم اللعبة أيضًا الوضع التعاوني بين 4 لاعبين.</p>
 
+<p class="wp-block-paragraph">– تتميز اللعبة بدورة متغيرة ليلية ونهارية، حيث تصبح اللعبة أكثر خطورة وتحديًا في الليل مع ظهور أنواع أقوى وأكثر عدائية من الزومبي. أيضًا من أهم العناصر التي تميز لعبة Dying Light عن غيرها من ألعاب البقاء على قيد الحياة هو نظام الحركة الحرة المستوحى من رياضة الباركور، الذي يسمح للاعبين بالتنقل بسرعة وسلاسة عبر البيئات المعقدة.</p>
 
-<p class="wp-block-paragraph">&#8211; تُعد لعبة Dying Light واحدة من أفضل ألعاب رعب للكمبيوتر من نوع وصراع البقاء على قيد الحياة، مع مزيج من التشويق والحركة والمغامرة. هذه اللعبة تشبه كثيرًا في تفاصيلها ونمط اللعب الخاصّ بها لعبة DayZ.</p>
-
-
-
-<p class="wp-block-paragraph">&#8211; تدور قصة اللعبة في مدينة خيالية تدعى Harran، والتي تفشى فيها فيروس غامض قام بتحويل البشر إلى زومبي. يتحكم اللاعبون في شخصية كايل كرين، وهو عميل سري يُرسل إلى المدينة الموبوءة للبحث عن ملف سري. فيمكن اعتبار هذه اللعبة أيضًا ضمن قسم ألعاب تقمص الأدوار والشخصيات RPG.</p>
-
-
-
-<p class="wp-block-paragraph">&#8211; كما هو الحال في ألعاب البقاء على قيد الحياة فيجب على اللاعب استكشاف محيط مدينة اللعبة، جمع الإمدادات الضرورية، وكذلك صنع الأسلحة للدفاع عن النفس ضد الزومبي والأعداء. تدعم اللعبة أيضًا الوضع التعاوني بين 4 لاعبين.</p>
-
-
-
-<p class="wp-block-paragraph">&#8211; تتميز اللعبة بدورة متغيرة ليلية ونهارية، حيث تصبح اللعبة أكثر خطورة وتحديًا في الليل مع ظهور أنواع أقوى وأكثر عدائية من الزومبي. أيضًا من أهم العناصر التي تميز لعبة Dying Light عن غيرها من ألعاب البقاء على قيد الحياة هو نظام الحركة الحرة المستوحى من رياضة الباركور، الذي يسمح للاعبين بالتنقل بسرعة وسلاسة عبر البيئات المعقدة.</p>
-
-
-
-<h3 class="wp-block-heading"><span class="ez-toc-section" id="%D9%85%D8%AA%D8%B7%D9%84%D8%A8%D8%A7%D8%AA_%D8%AA%D8%B4%D8%BA%D9%8A%D9%84_%D9%84%D8%B9%D8%A8%D8%A9_Dying_Light_%D8%A7%D9%84%D8%AD%D8%AF_%D8%A7%D9%84%D8%A3%D8%AF%D9%86%D9%89"></span>متطلبات تشغيل لعبة Dying Light (الحد الأدنى)<span class="ez-toc-section-end"></span></h3>
-
-
+<h3><span class="ez-toc-section" id="%D9%85%D8%AA%D8%B7%D9%84%D8%A8%D8%A7%D8%AA_%D8%AA%D8%B4%D8%BA%D9%8A%D9%84_%D9%84%D8%B9%D8%A8%D8%A9_Dying_Light_%D8%A7%D9%84%D8%AD%D8%AF_%D8%A7%D9%84%D8%A3%D8%AF%D9%86%D9%89"></span>متطلبات تشغيل لعبة Dying Light (الحد الأدنى)<span class="ez-toc-section-end"></span></h3>
 
 <ul class="wp-block-list">
-<li>نظام التشغيل: Windows 7 &#8211; 64 Bit</li>
-
-
+<li>نظام التشغيل: Windows 7 – 64 Bit</li>
 
 <li>جيل المعالج: Intel Core i5-2500 @3.3 GHz <strong>///</strong> AMD FX-8320 -3.5 GHz</li>
 
-
-
 <li>الذاكرة العشوائية: 4 جيجابايت</li>
 
-
-
 <li>كارت الرسوميات: NVIDIA GeForce GTX 760 <strong>/// </strong>AMD R9 270X</li>
-
-
 
 <li>مساحة التخزين: 40 جيجابايت</li>
 </ul>
 
+<h2><span class="ez-toc-section" id="5-_%D9%84%D8%B9%D8%A8%D8%A9_Ark_Survival_Evolved"></span>5- لعبة Ark: Survival Evolved<span class="ez-toc-section-end"></span></h2>
 
+<p class="wp-block-paragraph">– على عكس ألعاب البقاء على قيد الحياة السابق ذكرها، توفر لعبة Ark: Survival Evolved بيئة لعب وقصة مختلفة عن قصص الصراع للبقاء مع الزومبي ونهاية العالم وغيرها من هذه الأمور، ولكن تعتمد اللعبة على عنصر الصراع ضد الطبيعة. أيضًا هذه اللعبة تعد من أفضل ألعاب البقاء على قيد الحياة بدون نت. فلا تحتاج إلى اتصال بالإنترنت للاستمتاع باللعبة في وضع اللعب الفردي Single-Player Mode.</p>
 
-<h2 class="wp-block-heading"><span class="ez-toc-section" id="5-_%D9%84%D8%B9%D8%A8%D8%A9_Ark_Survival_Evolved"></span>5- لعبة Ark: Survival Evolved<span class="ez-toc-section-end"></span></h2>
+<p class="wp-block-paragraph">– يبدأ لاعبوا Ark: Survival Evolved اللعبة على جزيرة خيالية تسمى Ark بلا ملابس أو موارد. بيئة هذه الجزيرة تضم العديد من الكائنات الضخمة مثل الديناصورات والكائنات الأخرى من عصور ما قبل التاريخ، وهذه الكائنات أبرز ما يجب على اللاعبين مواجهته للبقاء على قيد الحياة.</p>
 
+<p class="wp-block-paragraph">– مثل باقي ألعاب الصراع للبقاء؛ يجب على اللاعبين جمع الموارد، بناء مأوى للسكن والاختباء، وكذلك صنع الأسلحة والأدوات للبقاء على قيد الحياة. كما يمكنهم ترويض حيوانات اللعبة مثل الديناصورات واستخدامها للمساعدة في الصيد والتنقل، وأيضًا في القتال. تسمح اللعبة أيضًا بالوضع التعاوني والانضمام إلى قبائل والقتال معهم لتكوين مجتمعات كبيرة والفوز في المعارك.</p>
 
-
-<p class="wp-block-paragraph">&#8211; على عكس ألعاب البقاء على قيد الحياة السابق ذكرها، توفر لعبة Ark: Survival Evolved بيئة لعب وقصة مختلفة عن قصص الصراع للبقاء مع الزومبي ونهاية العالم وغيرها من هذه الأمور، ولكن تعتمد اللعبة على عنصر الصراع ضد الطبيعة. أيضًا هذه اللعبة تعد من أفضل ألعاب البقاء على قيد الحياة بدون نت. فلا تحتاج إلى اتصال بالإنترنت للاستمتاع باللعبة في وضع اللعب الفردي Single-Player Mode.</p>
-
-
-
-<p class="wp-block-paragraph">&#8211; يبدأ لاعبوا Ark: Survival Evolved اللعبة على جزيرة خيالية تسمى Ark بلا ملابس أو موارد. بيئة هذه الجزيرة تضم العديد من الكائنات الضخمة مثل الديناصورات والكائنات الأخرى من عصور ما قبل التاريخ، وهذه الكائنات أبرز ما يجب على اللاعبين مواجهته للبقاء على قيد الحياة.</p>
-
-
-
-<p class="wp-block-paragraph">&#8211; مثل باقي ألعاب الصراع للبقاء؛ يجب على اللاعبين جمع الموارد، بناء مأوى للسكن والاختباء، وكذلك صنع الأسلحة والأدوات للبقاء على قيد الحياة. كما يمكنهم ترويض حيوانات اللعبة مثل الديناصورات واستخدامها للمساعدة في الصيد والتنقل، وأيضًا في القتال. تسمح اللعبة أيضًا بالوضع التعاوني والانضمام إلى قبائل والقتال معهم لتكوين مجتمعات كبيرة والفوز في المعارك.</p>
-
-
-
-<h3 class="wp-block-heading"><span class="ez-toc-section" id="%D9%85%D8%AA%D8%B7%D9%84%D8%A8%D8%A7%D8%AA_%D8%AA%D8%B4%D8%BA%D9%8A%D9%84_%D9%84%D8%B9%D8%A8%D8%A9_Ark_Survival_Evolved_%D8%A7%D9%84%D8%AD%D8%AF_%D8%A7%D9%84%D8%A3%D8%AF%D9%86%D9%89"></span>متطلبات تشغيل لعبة Ark: Survival Evolved (الحد الأدنى)<span class="ez-toc-section-end"></span></h3>
-
-
+<h3><span class="ez-toc-section" id="%D9%85%D8%AA%D8%B7%D9%84%D8%A8%D8%A7%D8%AA_%D8%AA%D8%B4%D8%BA%D9%8A%D9%84_%D9%84%D8%B9%D8%A8%D8%A9_Ark_Survival_Evolved_%D8%A7%D9%84%D8%AD%D8%AF_%D8%A7%D9%84%D8%A3%D8%AF%D9%86%D9%89"></span>متطلبات تشغيل لعبة Ark: Survival Evolved (الحد الأدنى)<span class="ez-toc-section-end"></span></h3>
 
 <ul class="wp-block-list">
-<li>نظام التشغيل: Windows 10 &#8211; 64 Bit</li>
-
-
+<li>نظام التشغيل: Windows 10 – 64 Bit</li>
 
 <li>خصائص المعالج: Intel Core i5-2400 <strong>/// </strong>AMD FX-8320</li>
 
-
-
 <li>الذاكرة العشوائية: 8 جيجابايت</li>
 
-
-
 <li>كارت الرسوميات: NVIDIA GTX 670 2GB <strong>/// </strong>AMD Radeon HD 7870</li>
-
-
 
 <li>مساحة التخزين: 60 جيجابايت</li>
 </ul>
 
-
-
-<h2 class="wp-block-heading"><span class="ez-toc-section" id="6-_%D9%84%D8%B9%D8%A8%D8%A9_Frostpunk"></span>6- لعبة Frostpunk<span class="ez-toc-section-end"></span></h2>
-
-
+<h2><span class="ez-toc-section" id="6-_%D9%84%D8%B9%D8%A8%D8%A9_Frostpunk"></span>6- لعبة Frostpunk<span class="ez-toc-section-end"></span></h2>
 
 <p class="wp-block-paragraph">لعبة Frostpunk هي أيضًا واحدة من أفضل ألعاب البقاء على قيد الحياة بدون نت يمكنك الاستمتاع بها. تتميز هذه اللعبة بأسلوب مختلف عن أساليب الألعاب السابقة من أجل البقاء على قيد الحياة. فهذه اللعبة تعتمد على تعمير وبناء المدينة الأخيرة على الأرض للنجاة. من أهم مميزات هذه اللعبة أيضًا أنها لا تحتاج إلى جهاز بمواصفات عالية، فهي من أفضل ألعاب للأجهزة الضعيفة.</p>
 
+<p class="wp-block-paragraph">– تدور قصة اللعبة في نهاية القرن التاسع عشر، حيث يتعرض كوكب الأرض لعصر جليدي مفاجئ يؤدي لتدمير كل أشكال الحضارة. وتكون المهمة الأساسية للاعبين هي الحفاظ على المدينة الأخيرة الناجية على الكوكب عبر التحكم في من تبقى من الناجين، ويجب على اللاعبين إدارة المدينة والتأكد من بقاء سكانها على قيد الحياة في ظروف قاسية وباردة.</p>
 
+<p class="wp-block-paragraph">– تتميز Frostpunk بأنها أيضًا من الألعاب الاستراتيجية المميزة، حيث يعتمد نمط اللعب على اتخاذ قرارات صعبة في كثير من الأحيان، مثل كيفية توزيع الموارد المحدودة، وكيفية التعامل مع القضايا الاجتماعية والأخلاقية التي تنشأ في مجتمع يصارع على البقاء. قراراتك سيكون لها تأثير مباشر على اللعبة ويمكن أن تؤدي إلى نتائج مختلفة.</p>
 
-<p class="wp-block-paragraph">&#8211; تدور قصة اللعبة في نهاية القرن التاسع عشر، حيث يتعرض كوكب الأرض لعصر جليدي مفاجئ يؤدي لتدمير كل أشكال الحضارة. وتكون المهمة الأساسية للاعبين هي الحفاظ على المدينة الأخيرة الناجية على الكوكب عبر التحكم في من تبقى من الناجين، ويجب على اللاعبين إدارة المدينة والتأكد من بقاء سكانها على قيد الحياة في ظروف قاسية وباردة.</p>
-
-
-
-<p class="wp-block-paragraph">&#8211; تتميز Frostpunk بأنها أيضًا من الألعاب الاستراتيجية المميزة، حيث يعتمد نمط اللعب على اتخاذ قرارات صعبة في كثير من الأحيان، مثل كيفية توزيع الموارد المحدودة، وكيفية التعامل مع القضايا الاجتماعية والأخلاقية التي تنشأ في مجتمع يصارع على البقاء. قراراتك سيكون لها تأثير مباشر على اللعبة ويمكن أن تؤدي إلى نتائج مختلفة.</p>
-
-
-
-<h3 class="wp-block-heading"><span class="ez-toc-section" id="%D9%85%D8%AA%D8%B7%D9%84%D8%A8%D8%A7%D8%AA_%D8%AA%D8%B4%D8%BA%D9%8A%D9%84_%D9%84%D8%B9%D8%A8%D8%A9_Frostpunk_%D8%A7%D9%84%D8%AD%D8%AF_%D8%A7%D9%84%D8%A3%D8%AF%D9%86%D9%89"></span>متطلبات تشغيل لعبة Frostpunk (الحد الأدنى)<span class="ez-toc-section-end"></span></h3>
-
-
+<h3><span class="ez-toc-section" id="%D9%85%D8%AA%D8%B7%D9%84%D8%A8%D8%A7%D8%AA_%D8%AA%D8%B4%D8%BA%D9%8A%D9%84_%D9%84%D8%B9%D8%A8%D8%A9_Frostpunk_%D8%A7%D9%84%D8%AD%D8%AF_%D8%A7%D9%84%D8%A3%D8%AF%D9%86%D9%89"></span>متطلبات تشغيل لعبة Frostpunk (الحد الأدنى)<span class="ez-toc-section-end"></span></h3>
 
 <ul class="wp-block-list">
-<li>نظام التشغيل: Windows 7 &#8211; 64 Bit</li>
-
-
+<li>نظام التشغيل: Windows 7 – 64 Bit</li>
 
 <li>خصائص المعالج: معالج 3.2 GHz ثنائي النواة</li>
 
-
-
 <li>الذاكرة العشوائية: 4 جيجابايت</li>
 
-
-
 <li>كارت الرسوميات: كارت رسوميات بذاكرة VRAM بحجم 2 جيجابايت.</li>
-
-
 
 <li>مساحة التخزين: 8 جيجابايت</li>
 </ul>
 
+<h2><span class="ez-toc-section" id="7-_%D9%84%D8%B9%D8%A8%D8%A9_Minecraft"></span>7- لعبة Minecraft<span class="ez-toc-section-end"></span></h2>
 
+<p class="wp-block-paragraph">– نختم معكم قائمة أفضل ألعاب البقاء على قيد الحياة بلعبة Minecraft الشهيرة. تعتمد هذه اللعبة بشكل رئيسي على الإبداع والبناء، مع استخدام الكتل أو المكعبات لبناء الأشياء وتشكيل العوالم. تتميز اللعبة بعدم حاجتها إلى الكثير من الموارد. فهي واحدة من أفضل ألعاب للكمبيوتر الضعيف يمكنك الاستمتاع بها.</p>
 
-<h2 class="wp-block-heading"><span class="ez-toc-section" id="7-_%D9%84%D8%B9%D8%A8%D8%A9_Minecraft"></span>7- لعبة Minecraft<span class="ez-toc-section-end"></span></h2>
-
-
-
-<p class="wp-block-paragraph">&#8211; نختم معكم قائمة أفضل ألعاب البقاء على قيد الحياة بلعبة Minecraft الشهيرة. تعتمد هذه اللعبة بشكل رئيسي على الإبداع والبناء، مع استخدام الكتل أو المكعبات لبناء الأشياء وتشكيل العوالم. تتميز اللعبة بعدم حاجتها إلى الكثير من الموارد. فهي واحدة من أفضل ألعاب للكمبيوتر الضعيف يمكنك الاستمتاع بها.</p>
-
-
-
-<p class="wp-block-paragraph">&#8211; تتميز ماين كرافت بتوفير بيئة لعب مفتوحة وديناميكية تتغير باستمرار، وتوفر للاعبين البناء والاستكشاف، والتعديل على ما قاموا ببناءه بطرق غير محدودة. كما تدعم اللعبة أسلوب اللعب التعاوني أو الجماعي. توفر اللعبة نمطين رئيسيين يمكنك الاستمتاع بهما:</p>
-
-
+<p class="wp-block-paragraph">– تتميز ماين كرافت بتوفير بيئة لعب مفتوحة وديناميكية تتغير باستمرار، وتوفر للاعبين البناء والاستكشاف، والتعديل على ما قاموا ببناءه بطرق غير محدودة. كما تدعم اللعبة أسلوب اللعب التعاوني أو الجماعي. توفر اللعبة نمطين رئيسيين يمكنك الاستمتاع بهما:</p>
 
 <p class="wp-block-paragraph">1- نمط الصراع للبقاء Survival Mode: يحتاج اللاعبون في هذا الوضع إلى جمع موارد من بيئة اللعبة لبناء العالم الخاصّ بهم والبقاء على قيد الحياة. وهذا يشمل جمع الأطعمة وبناء المأوى، والدفاع ضد الوحوش التي تظهر ليلاً أو في مناطق مظلمة.</p>
 
-
-
 <p class="wp-block-paragraph">2- نمط الإبداع Creative Mode: يمنح هذا الوضع اللاعبين الوصول إلى جميع الموارد والكتل في اللعبة بشكل غير محدود، مما يسمح لهم ببناء وإنشاء بحرية دون القلق بشأن الكفاح للبقاء أو الوحوش داخل اللعبة أو غير ذلك.</p>
 
+<p class="wp-block-paragraph">– من أهم مميزات ماين كرافت أيضًا أنها متوفرة للحواسيب والهواتف الذكية، وتعد واحدة من أفضل ألعاب البقاء على قيد الحياة للأندرويد بدون نت وكذلك iOS. يمكنك تحميل اللعبة من الروابط التالية.</p>
 
-
-<p class="wp-block-paragraph">&#8211; من أهم مميزات ماين كرافت أيضًا أنها متوفرة للحواسيب والهواتف الذكية، وتعد واحدة من أفضل ألعاب البقاء على قيد الحياة للأندرويد بدون نت وكذلك iOS. يمكنك تحميل اللعبة من الروابط التالية.</p>
-
-
-
-<h3 class="wp-block-heading"><span class="ez-toc-section" id="%D9%85%D8%AA%D8%B7%D9%84%D8%A8%D8%A7%D8%AA_%D8%AA%D8%B4%D8%BA%D9%8A%D9%84_%D9%84%D8%B9%D8%A8%D8%A9_Minecraft_%D8%A7%D9%84%D8%AD%D8%AF_%D8%A7%D9%84%D8%A3%D8%AF%D9%86%D9%89_%D9%86%D8%B3%D8%AE%D8%A9_%D8%AC%D8%A7%D9%81%D8%A7"></span>متطلبات تشغيل لعبة Minecraft (الحد الأدنى / نسخة جافا)<span class="ez-toc-section-end"></span></h3>
-
-
+<h3><span class="ez-toc-section" id="%D9%85%D8%AA%D8%B7%D9%84%D8%A8%D8%A7%D8%AA_%D8%AA%D8%B4%D8%BA%D9%8A%D9%84_%D9%84%D8%B9%D8%A8%D8%A9_Minecraft_%D8%A7%D9%84%D8%AD%D8%AF_%D8%A7%D9%84%D8%A3%D8%AF%D9%86%D9%89_%D9%86%D8%B3%D8%AE%D8%A9_%D8%AC%D8%A7%D9%81%D8%A7"></span>متطلبات تشغيل لعبة Minecraft (الحد الأدنى / نسخة جافا)<span class="ez-toc-section-end"></span></h3>
 
 <ul class="wp-block-list">
 <li>نظام التشغيل: Windows 7</li>
 
-
-
 <li>الذاكرة العشوائية: 2 جيجابايت</li>
-
-
 
 <li>المعالج: Intel Core i3-3210 3.2 GHz <strong>///</strong> AMD A8-7600 APU 3.1 GHz</li>
 
-
-
 <li>كارت الرسوميات: Intel HD Graphics 4000 <strong>///</strong> AMD Radeon R5</li>
 </ul>
-

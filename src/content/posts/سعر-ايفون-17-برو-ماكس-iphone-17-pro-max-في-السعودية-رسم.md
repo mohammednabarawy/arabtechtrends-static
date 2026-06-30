@@ -13,7 +13,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%b9%d8%b1-%d8%a7%d9%8a%d9%81
 
 <div>
 <p>بمجرد الإعلان عن سلسلة iPhone 17 الجديدة. بدأ العديد من المستخدمين في البحث عن هواتف سلسلة في الدول العربية. هنا نسلط الضوء على سعر iPhone 17 Pro Max في المملكة العربية السعودية</p>
-<h2 class="wp-block-heading">سعر iPhone17 Pro Max في Riyals السعودية</h2>
+<h2>سعر iPhone17 Pro Max في Riyals السعودية</h2>
 <ul class="wp-block-list">
 <li>    السعة 256 جيجابايت = 5699 ريال</li>
 <li>    سعة 512 جيجابايت = 6699 Riyals</li>
@@ -21,7 +21,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%b9%d8%b1-%d8%a7%d9%8a%d9%81
 <li>    قدرة 2 تيرابايت = 9699 riyals</li>
 </ul>
 <figure class="wp-block-image size-full"></figure>
-<h2 class="wp-block-heading">ميزات ومواصفات iPhone 17 Pro Max </h2>
+<h2>ميزات ومواصفات iPhone 17 Pro Max </h2>
 <p>قدمت Apple مع iPhone 17 Pro Max تصميمًا مختلفًا عما اعتدنا عليه قبل سنوات. لأول مرة منذ إطلاق iPhone 11 Pro ، غيرت الشركة شكل وحدة الكاميرات ، حيث يأتي الهاتف الآن مع مستطيل ضخم يمتد من اليسار إلى اليمين الذي يتضمن العدسات الثلاثة ، فلاش ، ومستشعر Lidar.</p>
 <p>يتميز الهاتف أيضًا بخلفية هجينة تجمع بين الألومنيوم والزجاج ، حيث يتم تمييز المعدن بوضوح لإعطاء الجهاز قدرة أكبر على الإهدار إلى الحرارة بفضل اعتماد غرفة بخار للتبريد. أضافت Apple أيضًا تحسينات على الهيكل لمقاومة الصدمات بالاعتماد على زجاج Ceramic Shield 2 المقاوم للزجاج.</p>
 <p>يعمل iPhone 17 Pro Max مع معالج A19 Pro الجديد ، الذي وصفته شركة Apple بأنه أقوى معالج الهواتف الذكية في العالم. أنه يحتوي على 6 نوى عالية الأداء و 4 نوى عالية الكفاءة ، إلى جانب وحدة معالجة الرسوم السداسية (GPU) هي قفزة ملحوظة في الرسومات والألعاب.</p>
@@ -46,9 +46,9 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%b9%d8%b1-%d8%a7%d9%8a%d9%81
 <li><strong>الماسح الضوئي LIDAR</strong> للواقع المعزز والتصوير المهني.</li>
 <li>قدرات التخزين تبدأ من 256 جيجابايت وما يصل إلى 2 تيرابايت.</li>
 <li>رام (رام) بسعة 12 جيجابايت.</li>
-<li>خيارات الألوان: <strong>البرتقالي &#8211; الفضة &#8211; الأزرق</strong>.</li>
+<li>خيارات الألوان: <strong>البرتقالي – الفضة – الأزرق</strong>.</li>
 </ul>
-<h2 class="wp-block-heading">سعر iPhone 17 Pro Max وتاريخ التوافر</h2>
+<h2>سعر iPhone 17 Pro Max وتاريخ التوافر</h2>
 <p>أعلنت شركة Apple أن سعر iPhone 17 Pro Max سيبدأ من 1،319 يورو ، مع الحفاظ على أسعار مماثلة للجيل السابق دون زيادة.</p>
 <ul class="wp-block-list">
 <li><strong>تاريخ فتح الطلبات قبل</strong>12 سبتمبر 2025.</li>
@@ -57,4 +57,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%b9%d8%b1-%d8%a7%d9%8a%d9%81
 <p>في رأيك ، ما هي أبرز ميزة الجهاز؟</p>
 <p><a href="https://www.gsmarena.com/aluminum_unibody_iphone_17_pro_and_pro_max_have_bigger_batteries_48mp_zooms-news-69421.php" data-type="link" data-id="https://www.gsmarena.com/aluminum_unibody_iphone_17_pro_and_pro_max_have_bigger_batteries_48mp_zooms-news-69421.php">مصدر</a></p>
 <p><!-- July_singl_down --></p></div>
-

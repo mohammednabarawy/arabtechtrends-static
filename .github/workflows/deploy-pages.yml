@@ -24,10 +24,12 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
+      - run: node tools/generate-redirects.mjs
       - run: npm run build
         env:
           SITE_URL: https://www.arabtechtrends.com
           BASE_PATH: /
+          GSC_VERIFICATION_TOKEN: ${{ secrets.GSC_VERIFICATION_TOKEN }}
       - run: touch dist/.nojekyll
       - uses: actions/upload-pages-artifact@v3
         with:

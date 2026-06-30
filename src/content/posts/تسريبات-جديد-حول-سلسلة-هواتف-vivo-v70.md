@@ -27,4 +27,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8%d8%a7%
 <p>ومع تزايد الموافقات والتسريبات، يبدو أن الإعلان الرسمي عن سلسلة Vivo V70 أصبح مسألة وقت فقط، في انتظار الكشف النهائي عن المواصفات والأسعار والأسواق المستهدفة.</p>
 <p><a href="https://www.gizmochina.com/2025/12/28/vivo-v70-elite-5g-bis-certification-india-launch/" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
-

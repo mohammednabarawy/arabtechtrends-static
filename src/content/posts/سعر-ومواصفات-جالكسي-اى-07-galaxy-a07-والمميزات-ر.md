@@ -12,8 +12,8 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%b9%d8%b1-%d9%88%d9%85%d9%88
 ---
 
 <div>
-<p>كشفت الشركة الكورية ، Samsung ، عن هاتفها الجديد ، الذي يدعى Samsung Galaxy ، 07 &#8220;Galaxy A07&#8221; في السلسلة A ، ليكون خليفة Galaxy A06 الذي تم طرحه العام الماضي. يأتي الهاتف الجديد بمجموعة من تحسينات وتحديثات الأداء المهمة ، مما يجعله أحد أبرز الخيارات في فئة الهواتف الاقتصادية.</p>
-<h2 class="wp-block-heading">مواصفات وميزات Galaxy A07</h2>
+<p>كشفت الشركة الكورية ، Samsung ، عن هاتفها الجديد ، الذي يدعى Samsung Galaxy ، 07 "Galaxy A07" في السلسلة A ، ليكون خليفة Galaxy A06 الذي تم طرحه العام الماضي. يأتي الهاتف الجديد بمجموعة من تحسينات وتحديثات الأداء المهمة ، مما يجعله أحد أبرز الخيارات في فئة الهواتف الاقتصادية.</p>
+<h2>مواصفات وميزات Galaxy A07</h2>
 <p><strong>شاشة:</strong> يحتوي Galaxy A07 على شاشة LCD HD+ 6.7 بوصة بدقة (720 × 1600 بكسل) مع تحديث 90 هرتز ، مع تصميم كاميرا أمامية.</p>
 <p><strong>المعالج:</strong> تمت ترقية معالج Helio G85 إلى Helio G99 (مع تصنيع 6nm) مع وحدة رسومات Mali-G57 MC2.</p>
 <p><strong>الذاكرة والتخزين:</strong></p>
@@ -32,9 +32,9 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%b9%d8%b1-%d9%88%d9%85%d9%88
 <p><strong>أبعاد الهاتف:</strong> 164.4 × 77.4 × 7.6 مم.</p>
 <p><strong>الوزن:</strong> 184 غرام.</p>
 <p><strong>اتصال:</strong> Dual 4G VoLTE ، Wi-Fi مزدوج المدى (2.4 / 5 جيجا هرتز) ، Bluetooth 5.3 ، منفذ USB-C ، وسماعات 3.5 مم.</p>
-<h3 class="wp-block-heading">خيارات الألوان</h3>
-<p>سيكون الهاتف متاحًا بثلاثة ألوان: الأخضر &#8211; اللون الأرجواني &#8211; الأسود.</p>
-<h3 class="wp-block-heading">Galaxy A07 السعر</h3>
+<h3>خيارات الألوان</h3>
+<p>سيكون الهاتف متاحًا بثلاثة ألوان: الأخضر – اللون الأرجواني – الأسود.</p>
+<h3>Galaxy A07 السعر</h3>
 <ul class="wp-block-list">
 <li><strong>4GB + 64GB:</strong> بسعر (حوالي 86 دولار).</li>
 <li><strong>4GB + 128GB:</strong> بسعر (حوالي 101 دولار).</li>
@@ -42,6 +42,4 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%b9%d8%b1-%d9%88%d9%85%d9%88
 <li><strong>8 جيجابايت + 256 جيجابايت:</strong> بسعر (حوالي 141 دولار).</li>
 </ul>
 <p>في رأيك ، هل يستحق Galaxy A07 الشراء؟</p>
-<p><a href="https://www.fonearena.com/blog/462531/samsung-galaxy-a07-price-specifications.html" data-type="link" data-id="https://www.fonearena.com/blog/462531/samsung-galaxy-a07-price-specifications.html">مصدر</a></p>
-</p></div>
-
+<p><a href="https://www.fonearena.com/blog/462531/samsung-galaxy-a07-price-specifications.html" data-type="link" data-id="https://www.fonearena.com/blog/462531/samsung-galaxy-a07-price-specifications.html">مصدر</a></p></div>

@@ -1,12 +1,12 @@
 ---
 title: "يأتي تحديث One UI 8.5 مع أفضل الميزات التي تقدمها سامسونج حتى الآن!"
-description: "كشفت تسريبات واسعة عن حزمة كبيرة من الميزات القادمة في تحديث واجهة سامسونج One UI 8.5، والذي من المقرر أن يصل للمستخدمين العام المقبل. أشارت التسريبات إلى أن سامسونج تستعد لإعادة إطلاق ميزة “Smart Manager” الشهيرة التي كانت متوفرة في هواتف "
+description: "كشفت تسريبات واسعة عن حزمة كبيرة من الميزات القادمة في تحديث واجهة سامسونج One UI 8.5، والذي من المقرر أن يصل للمستخدمين العام المقبل. أشارت التسريبات إلى أن سامسونج تستعد لإعادة إطلاق ميزة “Smart Manager” الشهيرة التي كانت متوفرة في هواتف"
 pubDate: "2025-11-14T15:31:57"
 updatedDate: "2025-11-15T01:07:31"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "https://www.arabtechtrends.com/wp-content/uploads/2025/11/1763161650_742_one-ui-85.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui-8-5-%d9%82%d8%a7%d8%af%d9%85-%d9%85%d8%b9-%d8%a3%d9%81%d8%b6%d9%84-%d9%85%d8%b2%d8%a7%d9%8a%d8%a7-%d9%82%d8%af%d9%85%d8%aa%d9%87%d8%a7-%d8%b3%d8%a7%d9%85%d8%b3/"
 ---
@@ -19,32 +19,29 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui
 </div>
 <div class="entry-content entry clearfix">
 <p>كشفت تسريبات واسعة عن حزمة كبيرة من الميزات القادمة في تحديث واجهة سامسونج One UI 8.5، والذي من المقرر أن يصل للمستخدمين العام المقبل. أشارت التسريبات إلى أن سامسونج تستعد لإعادة إطلاق ميزة “Smart Manager” الشهيرة التي كانت متوفرة في هواتف جالاكسي القديمة، ولكن بإمكانيات أحدث وأكثر شمولاً.</p>
-<div id="ez-toc-container" class="ez-toc-v2_0_85 ez-toc-wrap-right counter-hierarchy ez-toc-counter-rtl ez-toc-light-blue ez-toc-container-direction">
-<div class="ez-toc-title-container">
-<p class="ez-toc-title" style="cursor:inherit">محتوى المقالة</p>
-<span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" aria-label="Toggle Table of Content"><span class="ez-toc-js-icon-con"><span class=""><span class="eztoc-hide" style="display:none;">Toggle</span><span class="ez-toc-icon-toggle-span"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></span></span></a></span></div>
-<nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-1" href="https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui-8-5-%d9%82%d8%a7%d8%af%d9%85-%d9%85%d8%b9-%d8%a3%d9%81%d8%b6%d9%84-%d9%85%d8%b2%d8%a7%d9%8a%d8%a7-%d9%82%d8%af%d9%85%d8%aa%d9%87%d8%a7-%d8%b3%d8%a7%d9%85%d8%b3/#%D8%A3%D8%A8%D8%B1%D8%B2_%D8%A7%D9%84%D9%85%D9%8A%D8%B2%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%B3%D8%B1%D8%A8%D8%A9_%E2%80%9CApp_Lock%E2%80%9D" >أبرز الميزات المسربة: “App Lock”</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-2" href="https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui-8-5-%d9%82%d8%a7%d8%af%d9%85-%d9%85%d8%b9-%d8%a3%d9%81%d8%b6%d9%84-%d9%85%d8%b2%d8%a7%d9%8a%d8%a7-%d9%82%d8%af%d9%85%d8%aa%d9%87%d8%a7-%d8%b3%d8%a7%d9%85%d8%b3/#%D8%AA%D8%AD%D8%B3%D9%8A%D9%86_%D8%B9%D9%88%D8%AF%D8%A9_%E2%80%9C%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D8%B1_%D8%A7%D9%84%D8%B0%D9%83%D9%8A%E2%80%9D" >تحسين عودة &#8220;المدير الذكي&#8221;</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-3" href="https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui-8-5-%d9%82%d8%a7%d8%af%d9%85-%d9%85%d8%b9-%d8%a3%d9%81%d8%b6%d9%84-%d9%85%d8%b2%d8%a7%d9%8a%d8%a7-%d9%82%d8%af%d9%85%d8%aa%d9%87%d8%a7-%d8%b3%d8%a7%d9%85%d8%b3/#1_%D8%AD%D8%A7%D9%84%D8%A9_%D8%A7%D9%84%D9%87%D8%A7%D8%AA%D9%81" >1. حالة الهاتف</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-4" href="https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui-8-5-%d9%82%d8%a7%d8%af%d9%85-%d9%85%d8%b9-%d8%a3%d9%81%d8%b6%d9%84-%d9%85%d8%b2%d8%a7%d9%8a%d8%a7-%d9%82%d8%af%d9%85%d8%aa%d9%87%d8%a7-%d8%b3%d8%a7%d9%85%d8%b3/#2_%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D9%81%D9%82" >2. المرافق</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-5" href="https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui-8-5-%d9%82%d8%a7%d8%af%d9%85-%d9%85%d8%b9-%d8%a3%d9%81%d8%b6%d9%84-%d9%85%d8%b2%d8%a7%d9%8a%d8%a7-%d9%82%d8%af%d9%85%d8%aa%d9%87%d8%a7-%d8%b3%d8%a7%d9%85%d8%b3/#3_%D8%AA%D8%AD%D8%B3%D9%8A%D9%86%D8%A7%D8%AA_%D8%A7%D9%84%D8%A3%D8%AF%D8%A7%D8%A1_%D9%88%D8%A7%D9%84%D8%AA%D8%AE%D8%B2%D9%8A%D9%86" >3. تحسينات الأداء والتخزين</a></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-6" href="https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui-8-5-%d9%82%d8%a7%d8%af%d9%85-%d9%85%d8%b9-%d8%a3%d9%81%d8%b6%d9%84-%d9%85%d8%b2%d8%a7%d9%8a%d8%a7-%d9%82%d8%af%d9%85%d8%aa%d9%87%d8%a7-%d8%b3%d8%a7%d9%85%d8%b3/#%D8%A7%D9%84%D8%AE%D8%B5%D9%88%D8%B5%D9%8A%D8%A9_%D9%88%D8%A7%D9%84%D8%AA%D9%83%D8%A7%D9%85%D9%84_%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF" >الخصوصية والتكامل الجديد</a></li></ul></nav></div>
-<h3 class="wp-block-heading"><span class="ez-toc-section" id="%D8%A3%D8%A8%D8%B1%D8%B2_%D8%A7%D9%84%D9%85%D9%8A%D8%B2%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%B3%D8%B1%D8%A8%D8%A9_%E2%80%9CApp_Lock%E2%80%9D"></span>أبرز الميزات المسربة: “App Lock”<span class="ez-toc-section-end"></span></h3>
+
+<nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-1" href="https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui-8-5-%d9%82%d8%a7%d8%af%d9%85-%d9%85%d8%b9-%d8%a3%d9%81%d8%b6%d9%84-%d9%85%d8%b2%d8%a7%d9%8a%d8%a7-%d9%82%d8%af%d9%85%d8%aa%d9%87%d8%a7-%d8%b3%d8%a7%d9%85%d8%b3/#%D8%A3%D8%A8%D8%B1%D8%B2_%D8%A7%D9%84%D9%85%D9%8A%D8%B2%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%B3%D8%B1%D8%A8%D8%A9_%E2%80%9CApp_Lock%E2%80%9D" >أبرز الميزات المسربة: “App Lock”</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-2" href="https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui-8-5-%d9%82%d8%a7%d8%af%d9%85-%d9%85%d8%b9-%d8%a3%d9%81%d8%b6%d9%84-%d9%85%d8%b2%d8%a7%d9%8a%d8%a7-%d9%82%d8%af%d9%85%d8%aa%d9%87%d8%a7-%d8%b3%d8%a7%d9%85%d8%b3/#%D8%AA%D8%AD%D8%B3%D9%8A%D9%86_%D8%B9%D9%88%D8%AF%D8%A9_%E2%80%9C%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D8%B1_%D8%A7%D9%84%D8%B0%D9%83%D9%8A%E2%80%9D" >تحسين عودة "المدير الذكي"</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-3" href="https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui-8-5-%d9%82%d8%a7%d8%af%d9%85-%d9%85%d8%b9-%d8%a3%d9%81%d8%b6%d9%84-%d9%85%d8%b2%d8%a7%d9%8a%d8%a7-%d9%82%d8%af%d9%85%d8%aa%d9%87%d8%a7-%d8%b3%d8%a7%d9%85%d8%b3/#1_%D8%AD%D8%A7%D9%84%D8%A9_%D8%A7%D9%84%D9%87%D8%A7%D8%AA%D9%81" >1. حالة الهاتف</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-4" href="https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui-8-5-%d9%82%d8%a7%d8%af%d9%85-%d9%85%d8%b9-%d8%a3%d9%81%d8%b6%d9%84-%d9%85%d8%b2%d8%a7%d9%8a%d8%a7-%d9%82%d8%af%d9%85%d8%aa%d9%87%d8%a7-%d8%b3%d8%a7%d9%85%d8%b3/#2_%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D9%81%D9%82" >2. المرافق</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-5" href="https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui-8-5-%d9%82%d8%a7%d8%af%d9%85-%d9%85%d8%b9-%d8%a3%d9%81%d8%b6%d9%84-%d9%85%d8%b2%d8%a7%d9%8a%d8%a7-%d9%82%d8%af%d9%85%d8%aa%d9%87%d8%a7-%d8%b3%d8%a7%d9%85%d8%b3/#3_%D8%AA%D8%AD%D8%B3%D9%8A%D9%86%D8%A7%D8%AA_%D8%A7%D9%84%D8%A3%D8%AF%D8%A7%D8%A1_%D9%88%D8%A7%D9%84%D8%AA%D8%AE%D8%B2%D9%8A%D9%86" >3. تحسينات الأداء والتخزين</a></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-6" href="https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui-8-5-%d9%82%d8%a7%d8%af%d9%85-%d9%85%d8%b9-%d8%a3%d9%81%d8%b6%d9%84-%d9%85%d8%b2%d8%a7%d9%8a%d8%a7-%d9%82%d8%af%d9%85%d8%aa%d9%87%d8%a7-%d8%b3%d8%a7%d9%85%d8%b3/#%D8%A7%D9%84%D8%AE%D8%B5%D9%88%D8%B5%D9%8A%D8%A9_%D9%88%D8%A7%D9%84%D8%AA%D9%83%D8%A7%D9%85%D9%84_%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF" >الخصوصية والتكامل الجديد</a></li></ul></nav></div>
+<h3><span class="ez-toc-section" id="%D8%A3%D8%A8%D8%B1%D8%B2_%D8%A7%D9%84%D9%85%D9%8A%D8%B2%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%B3%D8%B1%D8%A8%D8%A9_%E2%80%9CApp_Lock%E2%80%9D"></span>أبرز الميزات المسربة: “App Lock”<span class="ez-toc-section-end"></span></h3>
 <p>وأهم ما كشفه التسريب هو إضافة ميزة “App Lock” المدمجة بشكل أساسي في النظام. تتيح هذه الميزة للمستخدمين تأمين تطبيقات محددة بشكل فردي باستخدام:</p>
 <ul class="wp-block-list">
 <li><strong>رقم التعريف الشخصي/كلمة المرور.</strong></li>
 <li><strong>القياسات الحيوية (الوجه وبصمة الإصبع).</strong></li>
 </ul>
 <p>يعد هذا التضمين خطوة مهمة لتعزيز الخصوصية والأمان دون الحاجة إلى تطبيقات الطرف الثالث.</p>
-<figure class="wp-block-image size-full"><img data-lazyloaded="1" data-recalc-dims="1" decoding="async" width="708" height="396" src="https://www.arabtechtrends.com/wp-content/uploads/2025/11/1763161650_742_one-ui-85.jpg" alt="تحديث واجهة One 8.5" class="wp-image-226355"  data-/></figure>
-<h3 class="wp-block-heading"><span class="ez-toc-section" id="%D8%AA%D8%AD%D8%B3%D9%8A%D9%86_%D8%B9%D9%88%D8%AF%D8%A9_%E2%80%9C%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D8%B1_%D8%A7%D9%84%D8%B0%D9%83%D9%8A%E2%80%9D"></span>تحسين عودة &#8220;المدير الذكي&#8221;<span class="ez-toc-section-end"></span></h3>
-<p>سيصبح &#8220;Smart Manager&#8221; مركزًا مخصصًا يحتوي على أدوات إضافية شاملة لتحسين استخدام أجهزة Galaxy. المكونات الرئيسية المسربة تشمل:</p>
-<h4 class="wp-block-heading"><span class="ez-toc-section" id="1_%D8%AD%D8%A7%D9%84%D8%A9_%D8%A7%D9%84%D9%87%D8%A7%D8%AA%D9%81"></span><strong>1. حالة الهاتف</strong><span class="ez-toc-section-end"></span></h4>
+<figure class="wp-block-image size-full"><img width="708" height="396" src="https://www.arabtechtrends.com/wp-content/uploads/2025/11/1763161650_742_one-ui-85.jpg" alt="تحديث واجهة One 8.5" class="wp-image-226355"></figure>
+<h3><span class="ez-toc-section" id="%D8%AA%D8%AD%D8%B3%D9%8A%D9%86_%D8%B9%D9%88%D8%AF%D8%A9_%E2%80%9C%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D8%B1_%D8%A7%D9%84%D8%B0%D9%83%D9%8A%E2%80%9D"></span>تحسين عودة "المدير الذكي"<span class="ez-toc-section-end"></span></h3>
+<p>سيصبح "Smart Manager" مركزًا مخصصًا يحتوي على أدوات إضافية شاملة لتحسين استخدام أجهزة Galaxy. المكونات الرئيسية المسربة تشمل:</p>
+<h4><span class="ez-toc-section" id="1_%D8%AD%D8%A7%D9%84%D8%A9_%D8%A7%D9%84%D9%87%D8%A7%D8%AA%D9%81"></span><strong>1. حالة الهاتف</strong><span class="ez-toc-section-end"></span></h4>
 <p>ستتضمن علامة التبويب هذه أدوات الرعاية الأساسية، بما في ذلك:</p>
 <ul class="wp-block-list">
 <li><strong>بطارية.</strong></li>
-<li><strong>حماية:</strong> على غرار ميزة &#8220;العناية بالجهاز&#8221;، تقوم بفحص التطبيقات والجهاز بحثًا عن أي مشكلات محتملة.</li>
+<li><strong>حماية:</strong> على غرار ميزة "العناية بالجهاز"، تقوم بفحص التطبيقات والجهاز بحثًا عن أي مشكلات محتملة.</li>
 <li><strong>تخزين.</strong></li>
 <li><strong>ذاكرة.</strong></li>
 <li><strong>استخدام البيانات.</strong></li>
 <li><strong>المكالمات والرسائل المحظورة (المكالمات/الرسائل المحظورة).</strong></li>
 </ul>
-<h4 class="wp-block-heading"><span class="ez-toc-section" id="2_%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D9%81%D9%82"></span><strong>2. المرافق</strong><span class="ez-toc-section-end"></span></h4>
+<h4><span class="ez-toc-section" id="2_%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D9%81%D9%82"></span><strong>2. المرافق</strong><span class="ez-toc-section-end"></span></h4>
 <p>يحتوي هذا القسم على بطاقات للميزات المتقدمة بما في ذلك:</p>
 <ul class="wp-block-list">
 <li><strong>تعزيز الطاقة.</strong></li>
@@ -54,18 +51,17 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui
 <li><strong>رعاية إضافية.</strong></li>
 <li><strong>المختبرات.</strong></li>
 </ul>
-<h4 class="wp-block-heading"><span class="ez-toc-section" id="3_%D8%AA%D8%AD%D8%B3%D9%8A%D9%86%D8%A7%D8%AA_%D8%A7%D9%84%D8%A3%D8%AF%D8%A7%D8%A1_%D9%88%D8%A7%D9%84%D8%AA%D8%AE%D8%B2%D9%8A%D9%86"></span><strong>3. تحسينات الأداء والتخزين</strong><span class="ez-toc-section-end"></span></h4>
+<h4><span class="ez-toc-section" id="3_%D8%AA%D8%AD%D8%B3%D9%8A%D9%86%D8%A7%D8%AA_%D8%A7%D9%84%D8%A3%D8%AF%D8%A7%D8%A1_%D9%88%D8%A7%D9%84%D8%AA%D8%AE%D8%B2%D9%8A%D9%86"></span><strong>3. تحسينات الأداء والتخزين</strong><span class="ez-toc-section-end"></span></h4>
 <ul class="wp-block-list">
 <li><strong>تحسين واجهة التخزين:</strong> ستصبح إزالة الملفات غير المرغوب فيها والتطبيقات غير المستخدمة وبيانات التطبيقات وملفات APK القابلة للتثبيت أسهل بكثير.</li>
 <li><strong>تحسين وضع الاستعداد للنوم:</strong> لتقليل استهلاك البطارية عندما يكون المستخدم نائما.</li>
 <li><strong>محول الأداء الذكي:</strong> سيسمح هذا الزر للتطبيقات بالبقاء نشطة لفترة زمنية يحددها المستخدم لضمان تجربة سلسة ودون انقطاع.</li>
 <li><strong>التحكم في الخلفية:</strong> قائمة منظمة بالتطبيقات حسب حالتها (غير مقيدة، محسّنة، مقيدة، نائمة) باستخدام أداة تصفية سهلة.</li>
 </ul>
-<h3 class="wp-block-heading"><span class="ez-toc-section" id="%D8%A7%D9%84%D8%AE%D8%B5%D9%88%D8%B5%D9%8A%D8%A9_%D9%88%D8%A7%D9%84%D8%AA%D9%83%D8%A7%D9%85%D9%84_%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF"></span>الخصوصية والتكامل الجديد<span class="ez-toc-section-end"></span></h3>
+<h3><span class="ez-toc-section" id="%D8%A7%D9%84%D8%AE%D8%B5%D9%88%D8%B5%D9%8A%D8%A9_%D9%88%D8%A7%D9%84%D8%AA%D9%83%D8%A7%D9%85%D9%84_%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF"></span>الخصوصية والتكامل الجديد<span class="ez-toc-section-end"></span></h3>
 <p>وستتضمن الواجهة الجديدة أيضًا قائمة “Privacy Lockdown” للتحكم الفوري في إعدادات الخصوصية، وسيتم ربط ميزة Smart Manager بالإشعارات المباشرة وNow Bar لضمان حصول المستخدمين على المزيد من التحديثات الفورية حول نشاط التطبيق.</p>
 <p><strong>ملحوظة:</strong></p>
 <p>من المرجح أن يتم إطلاق هذه الميزات أولاً للمستخدمين في الصين، ويمكن أن تنضم إليها مجموعة من ميزات الذكاء الاصطناعي الحصرية لهذا السوق. ومن المتوقع أن يظهر One UI 8.5 لأول مرة رسميًا مع سلسلة الهواتف <strong>جالاكسي اس26</strong> آت.</p>
-<p>أخبرنا برأيك في قسم التعليقات بالأسفل حول أهم الميزة التي يجب أن يجلبها تحديث واجهة One UI 8.5&#8230;</p>
+<p>أخبرنا برأيك في قسم التعليقات بالأسفل حول أهم الميزة التي يجب أن يجلبها تحديث واجهة One UI 8.5…</p>
 <p><a href="https://www.sammyfans.com/2025/11/13/tons-of-new-one-ui-8-5-features-leak/" data-type="link" data-id="https://www.sammyfans.com/2025/11/13/tons-of-new-one-ui-8-5-features-leak/">مصدر</a></p>
 </div></div>
-

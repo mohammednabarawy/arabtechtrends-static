@@ -6,7 +6,7 @@ updatedDate: "2025-12-04T04:54:29"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["أداء قوي","تصميم نحيف","ميزات تجعل عملية طيه أكثر فعالية","هاتف Nubia Flip3"]
-image: ""
+image: "https://www.arabtechtrends.com/wp-content/uploads/2025/12/1764816866_790_nubia-flip3.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d8%aa%d9%81-nubia-flip3-%d9%8a%d8%b8%d9%87%d8%b1-%d8%b1%d8%b3%d9%85%d9%8a%d8%a7-%d8%a8%d8%aa%d8%b5%d9%85%d9%8a%d9%85-%d9%86%d8%ad%d9%8a%d9%81-%d9%88%d8%a3%d8%af%d8%a7%d8%a1-%d9%82%d9%88d/"
 ---
@@ -18,13 +18,12 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d8%aa%d9%81-nubia-flip3-
 <p></p>
 <p>وفيما يتعلق بالشاشة، يأتي هاتف Nubia Flip3 بشاشة داخلية مرنة بقياس 6.9 بوصة توفر دقة Full HD+ بالإضافة إلى معدل تحديث 120 هرتز لتوفر تجربة مشاهدة أكثر سلاسة سواء أثناء التصفح أو مشاهدة مقاطع الفيديو، بينما يبلغ قياس الشاشة الخارجية AMOLED 4 بوصات وتتيح عرض الإشعارات والتعامل بسرعة مع بعض وظائف الهاتف دون الحاجة لفتحه، مما يزيد من معدل الاستخدام العملي اليومي.</p>
 <p>وعلى صعيد التصوير الفوتوغرافي، يقدم الجهاز إعدادًا مزدوجًا في الخلف يبدأ بكاميرا رئيسية بدقة 50 ميجابكسل، قادرة على التقاط صور بدقة عالية وتفاصيل واضحة، بينما تأتي الكاميرا الثانية ذات الزاوية العريضة بدقة 12 ميجابكسل لتوسيع مجال التصوير الفوتوغرافي وإضافة منظور أكبر للصور. ولمحبي السيلفي يعتمد الهاتف على كاميرا أمامية بدقة 32 ميجابكسل، مما يضعه في مستوى متميز مقارنة بمعظم الهواتف الصدفية الموجودة في السوق.</p>
-<div align="center"><img decoding="async" src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1764816866_790_nubia-flip3.webp.webp" class="img-responsive lazy" alt="" border="0"/></div>
+<div align="center"><img src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1764816866_790_nubia-flip3.webp.webp" class="img-responsive lazy" alt=""/></div>
 <p></p>
 <p>ومن نقاط قوة الهاتف تأتي من البطارية، حيث يأتي هاتف Nubia Flip3 ببطارية بسعة 4,610 مللي أمبير، ومع تصميم الأجهزة القابلة للطي، تعد هذه السعة رقمًا ممتازًا يسمح بالاعتماد على الهاتف لفترات أطول دون الحاجة المتكررة للشحن، خاصة مع الشاشة الخارجية التي تقلل من الفتح المستمر للهاتف.</p>
 <p>كما يأتي الهاتف مع مجموعة من الإضافات التي تعزز تجربة المستخدم اليومية، مثل قارئ بصمات الأصابع الجانبي المدمج في زر الطاقة ومعيار الحماية IP54 الذي يوفر مقاومة الغبار ورذاذ الماء، بالإضافة إلى دعم تقنية Bluetooth 6.0 و NFC. يزن الهاتف 187 جرامًا، ويبلغ سمكه عند فرده 7.5 ملم، وهو تصميم نحيف جدًا مقارنة بمعظم الأجهزة القابلة للطي.</p>
-<div align="center"><img decoding="async" src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1764816867_564_nubia-flip3.webp.webp" class="img-responsive lazy" alt="" border="0"/></div>
+<div align="center"><img src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1764816867_564_nubia-flip3.webp.webp" class="img-responsive lazy" alt=""/></div>
 <p></p>
 <p>ومن ناحية النظام البرمجي، يعمل هاتف nubia Flip3 على نظام التشغيل Android 15 مباشرة من العلبة، ومن المؤكد أن تحديث Android 16 سيصل خلال الأسابيع الأولى من إصداره للمستخدمين. وسيتوفر الهاتف باللونين الأبيض والأسود عند طرحه في الأسواق، فيما لم تكشف الشركة بعد عن السعر الرسمي، مع وعد بالإعلان عنه مع بدء المبيعات في يناير 2026.</p>
 <p><a href="https://www.gsmarena.com/nubia_flip3_debuts_with_dimensity_7400x_4inch_cover_screen-news-70535.php" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
-

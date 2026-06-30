@@ -25,13 +25,13 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d8%aa%d9%81-oneplus-15r-
 <div>
 <ul>
 <li>شاشة 165 هرتز.</li>
-<p>&#13;</p>
+<p></p>
 <li>البطارية تتجاوز 8000 مللي أمبير.</li>
-<p>&#13;</p>
+<p></p>
 <li>شحن سريع بقوة 100 واط.</li>
-<p>&#13;</p>
+<p></p>
 <li>كاميرا خلفية مزدوجة بدقة 50 ميجابكسل.</li>
-<p>&#13;
+<p>
 </ul>
 </div>
 <p>ومن غير المرجح أن يحصل الإصدار على عدسة مقربة مخصصة للتكبير البصري.</p>
@@ -39,4 +39,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d8%aa%d9%81-oneplus-15r-
 <p><a href="https://www.notebookcheck.net/OnePlus-15R-reportedly-skipping-Snapdragon-8-Elite-in-favor-of-newer-chipset.1169231.0.html" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
 </div>
-

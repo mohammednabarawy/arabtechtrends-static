@@ -12,4 +12,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a7%d9%8a%d9%81%d9%88%d9%86-17-%d8
 ---
 
 <p>iPhone 17 iPhone 17e يكشف سرًا جديدًا.. هل ستكون التغييرات مفاجئة؟</p>
-

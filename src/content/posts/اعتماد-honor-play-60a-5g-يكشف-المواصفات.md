@@ -25,4 +25,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a7%d8%b9%d8%aa%d9%85%d8%a7%d8%af-
 <p><a href="https://www.gizmochina.com/2025/11/30/honor-play-60a-5g-certification-confirms-key-specs-bigger-yet-slimmer-and-lighter/" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
 </div>
-

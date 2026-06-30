@@ -12,4 +12,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%
 ---
 
 <p>تبدأ Samsung رسميًا في إطلاق واجهة UI 8 One: إليك جدول التحديث</p>
-

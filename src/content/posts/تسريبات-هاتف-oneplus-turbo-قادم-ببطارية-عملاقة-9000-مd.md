@@ -21,4 +21,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8%d8%a7%
 <p>وفي تسريب منفصل، تم الكشف عن أن سلسلة Turbo لن تقتصر على جهاز واحد فقط عند الإطلاق، بل ستشمل طرازين من البداية. ومن المتوقع أن يتشارك الهاتفان في بطاريات ضخمة بسعة 9000 مللي أمبير وشاشات ذات معدل تحديث مرتفع يصل إلى 165 هرتز، بالإضافة إلى اعتماد معالجات Snapdragon 8، وهو ما يضع السلسلة الجديدة في موقع تنافسي قوي ضمن فئة الهواتف عالية الأداء.</p>
 <p><a href="https://www.gsmarena.com/oneplus_turbo_will_have_the_biggest_battery_ever_put_in_a_oneplus_phone-news-70805.php" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
-

@@ -26,4 +26,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d9%87
 <p><a href="https://www.gsmarena.com/nubia_v80_pro_launches_heres_whats_different_compared_to_the_v80_design-news-70399.php" target="_blank">مصدر</a></p>
 </div>
 </div>
-

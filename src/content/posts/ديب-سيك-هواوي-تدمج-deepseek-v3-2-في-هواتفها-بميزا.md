@@ -31,4 +31,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%af%d9%8a%d8%a8-%d8%b3%d9%8a%d9%83
 <p>ما رأيك بقرار هواوي دمج DeepSeek-V3.2 في مساعدها الذكي Celia؟</p>
 <p><a href="https://www.huaweicentral.com/huawei-integrates-deepseek-v3-2-ai-into-celia-for-top-phones/" data-type="link" data-id="https://www.huaweicentral.com/huawei-integrates-deepseek-v3-2-ai-into-celia-for-top-phones/">مصدر</a></p>
 </div></div>
-

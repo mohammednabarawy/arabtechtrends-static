@@ -23,4 +23,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a8%d9%84%d8%a7%d9%8a%d8%b3%d8%aa%
 <p>الإصدار المحدث من PlayStation 5 Pro متوفر حاليًا في الأسواق الأوروبية، ومن المتوقع أن يتوسع طرحه قريبًا إلى مناطق أخرى، بما في ذلك الشرق الأوسط وأمريكا اللاتينية. ومع ذلك، من غير المتوقع أن تنخفض الأسعار على الرغم من انخفاض تكاليف التصنيع، حيث من المرجح أن تحافظ سوني على سياسة التسعير الحالية على غرار ما فعلته مع نسخة PS5 Slim.</p>
 <p><a href="https://www.tudocelular.com/curiosidade/noticias/n241544/ps5-pro-nova-revisao-investigada-mudancas-pontuais.html" data-type="link" data-id="https://www.tudocelular.com/curiosidade/noticias/n241544/ps5-pro-nova-revisao-investigada-mudancas-pontuais.html">مصدر</a></p>
 </div>
-

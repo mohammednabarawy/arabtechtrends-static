@@ -24,4 +24,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d9%85%d8%a7%d8%b9%d8%a7%d8%aa-
 <p><a href="https://www.notebookcheck.net/Sony-WF-1000XM6-rears-its-head-as-launch-information-surfaces-in-new-leak.1191323.0.html" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
 </div>
-

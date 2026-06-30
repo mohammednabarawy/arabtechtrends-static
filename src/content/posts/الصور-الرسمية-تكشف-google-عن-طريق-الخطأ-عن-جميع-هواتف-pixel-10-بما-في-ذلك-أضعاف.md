@@ -1,0 +1,43 @@
+---
+title: "الصور الرسمية: تكشف Google عن طريق الخطأ عن جميع هواتف Pixel 10 (بما في ذلك أضعاف)!"
+description: "في خطأ غير متوقع ومثير للجدل ، يبدو أن Google كشفت عن هواتفها الرائدة القادمة ، سلسلة Pixel 10 Series الكل ، من خلال تسرب كبير من خلال تطبيق متجر Google Play نفس! يقدم هذا التسرب ، الذي يأتي قبل شهر واحد فقط من حدث \"Made by Google\" القادم ف"
+pubDate: "2025-07-24T06:55:00"
+updatedDate: "2025-07-24T06:55:03"
+author: "Arab Tech Trends"
+category: "دروس تقنية ومقالات"
+tags: []
+image: "https://www.arabtechtrends.com/wp-content/uploads/2025/07/1753329300_615_الصور-الرسمية-تكشف-Google-عن-طريق-الخطأ-عن-جميع-هواتف.jpg"
+draft: false
+sourceUrl: "https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%25d8%25aa%25d8%25b3%25d8%25b1%25d9%258a%25d8%25a8-%25d8%25a3%25d9%2584%25d9%2588%25d8%25a7%25d9%2586-%25d9%2587%25d9%2588%25d8%25a7%25d8%25aa%25d9%2581-pix/"
+---
+
+<div class="entry-content clearfix single-post-content">
+<p>في خطأ غير متوقع ومثير للجدل ، يبدو أن Google كشفت عن هواتفها الرائدة القادمة ، سلسلة <b>Pixel 10 Series</b> الكل ، من خلال تسرب كبير من خلال تطبيق <b>متجر Google Play</b> نفس! يقدم هذا التسرب ، الذي يأتي قبل شهر واحد فقط من حدث "Made by Google" القادم في 20 أغسطس ، أول نظرة رسمية على جميع طرز السلاسل الجديدة ، بما في ذلك هاتف Pixel 10 الرئيسي مع أحد أفضل الألوان التي ستقدمها Google هذا العام.</p>
+<div class="hmnewc hmnewc-post-inline hmnewc-float-center hmnewc-align-center hmnewc-column-1 hmnewc-clearfix no-bg-box-model">
+
+</div>
+</div>
+<p><b>سلسلة Buster for Pixel 10: من التسريبات إلى التشويق الرسمي</b></p>
+<p>هذا الأسبوع ، نشاط استثنائي ومكثف لهواتف البكسل. بعد أيام قليلة من انتشار مجموعة كبيرة من صور التصميم (التقدم) التي تظهر جميع طرز Pixel 10 مع خيارات ألوان مختلفة ، بدأت Google نفسها التشويق الرسمي للمسلسل في وقت سابق من هذا الأسبوع عبر متجر Google Store.</p>
+<p>كان من المتوقع أن تكثف Google حملتها الترويجية مع نهج حدث "Made by Google" ، والذي من المقرر <b>20 أغسطس</b>. ومع ذلك ، فإن ما لم يتوقعه أحد هو أن الرأي الرسمي الأول يأتي إلى التشكيلة الكاملة من خلال تسرب مباشر وغير مقصود من خلال أحد تطبيقات Google الأساسية.</p>
+<div class="lwptoc lwptoc-autoWidth lwptoc-baseItems lwptoc-inherit" data-smooth-scroll="1" data-smooth-scroll-offset="24"></div>
+<h3><span id="banr_alany_lslslt_byksl_10_fy_mtjr_Play_Store_ykshf_kl_shy"><b>إعلان شعار </b><b>لسلسلة Pixel 10 </b><b>في متجر اللعب ، يكشف كل شيء!</b></span></h3>
+<figure id="attachment_95048" aria-describedby="caption-attachment-95048" style="width: 650px" class="wp-caption alignnone"><figcaption id="caption-attachment-95048" class="wp-caption-text">مصدر الصورة: Android Authory</figcaption></figure>
+<p>أثناء استكشاف تطبيق Google Play Store على أجهزة Android ، تتم مراقبة إعلان يبدو أنه يستخدم للترويج لسلسلة Pixel 10 في مرحلة ما بعد التشغيل. يشير النص "المتاح الآن" ووجود تاريخ "13 أكتوبر" كحد أقصى قدره 50 دولارًا ، إلى أنه من المفترض أن تظهر هذه اللافتة للمستخدمين من خلال متجر Play في سبتمبر المقبل.</p>
+<p>أقصى أهمية لهذا التسرب هو أنه يتم تقديمه <b>تتضمن الصور الرسمية الأولى من Google المجموعة الكاملة لسلسلة Pixel 10</b>الذي يشمل:</p>
+<ul>
+<li><b>بكسل 10</b></li>
+<li><b>Pixel 10 Pro</b></li>
+<li><b>Pixel 10 Pro XL</b></li>
+<li><b>Pixel 10 Pro Fold</b></li>
+</ul>
+<p>هذه هي المرة الأولى التي تعطي فيها Google رسميًا (حتى لو كانت عن طريق الخطأ) جميع النماذج في وقت واحد ، تأكيدًا على وجود هذا التنوع من الأجهزة.</p>
+<h3><span id="nzrt_ly_altsmym_walalwan_alazrq_alnyly_ybrz"><b>نظرة على التصميم والألوان: "Indigo Blue" تبرز!</b></span></h3>
+<p>كشفت الصور التي تم تسريبها عن لمحة عن التصميم العام للأجهزة ، وكذلك خيارات الألوان. بينما يرى البعض أن الألوان التي اختارت Google لطرز الموديلات في هذا التسرب كانت "باهتة" أو "ظلال شائكة" ، لكن الهاتف <b>بكسل 10</b> ظهر الأساسي في اللون <b>اللون الأزرق الجريء</b>وما تم وصفه على أنه – إلى جانب لون "Limoncello" – أحد أفضل البكسلات التي ستقدمها Google هذا العام. يشير هذا إلى أن Google قد تركز على تقديم خيارات ألوان أكثر حيوية وجذابة في النماذج الأساسية.</p>
+<p><img class="alignnone size-full wp-image-95049" src="https://www.arabtechtrends.com/wp-content/uploads/2025/07/1753329300_615_الصور-الرسمية-تكشف-Google-عن-طريق-الخطأ-عن-جميع-هواتف.jpg" alt="Google Pixel 10 باللون الأزرق" width="446" height="638"  ></p>
+<h3><span id="tdayat_altsryb_wma_nntzrh_mn_hdth_Made_by_Google_fy_aghsts"><b>تداعيات التسرب والانتظار من قبل حدث Google في أغسطس</b></span></h3>
+<p>يثير هذا التسرب الشامل أسئلة حول ما إذا كانت Google قد فقدت السيطرة على المعلومات المتعلقة بسلسلة Pixel 10. من خلال هذا العرض الكامل تقريبًا للفريق قبل الإطلاق الرسمي ، قام الفضول حول ما أخفيته Google في حدثها الكبير في أغسطس لإكمال نجاحات السلسلة السابقة Pixel 9.</p>
+<p>على الرغم من أن سلسلة Pixel 10 قد تم تسريبها تمامًا تقريبًا ، إلا أن هناك أجهزة Google أخرى لا تزال محاطة بالغموض. لقد سمعنا الكثير من التفاصيل الفنية حول <b>Pixel Watch 4</b>لكننا ما زلنا ننتظر نظرة حقيقية على نفس الوحدة. والصورة أقل وضوحًا عندما يتعلق الأمر <b>سماعات براعم بكسل</b> جديد. من المتوقع أن تكشف Google عن هذه الأجهزة والعديد من ابتكارات البرمجيات الأخرى خلال حدثها القادم.</p>
+<p>يبقى معرفة ما إذا كانت Google ستتعامل مع هذا التسرب من خلال الاعتراف أو الجهل ، وكيف سيؤثر ذلك على خطط التسويق والإعلان المتبقية. ولكن من المؤكد أن هذا التسرب أثار مستوى توقع سلسلة Pixel 10 إلى مستويات جديدة. مع ترقب المزيد والمزيد من التحسينات على جميع هواتف Google Pixel لتلقي ميزات الذكاء الاصطناعي المحلي على الهاتف.</p>
+<p><strong>مصدر</strong>: <a href="https://www.androidauthority.com/pixel-10-series-leak-3580303/" target="_blank" rel="noopener">Androidmentation</a></p>
+</div>

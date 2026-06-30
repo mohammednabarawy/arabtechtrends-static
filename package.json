@@ -4,15 +4,21 @@
   "private": true,
   "scripts": {
     "dev": "astro dev",
-    "build": "astro check && astro build",
+    "build": "node tools/gsc-verify.mjs && astro check && astro build && pagefind --site dist",
+    "fix:slugs": "node tools/fix-slugs.mjs",
+    "redirects": "node tools/generate-redirects.mjs",
+    "migrate:images": "node tools/recover-blogger-images.mjs && node tools/migrate-images.mjs",
+    "cleanup:posts": "node tools/cleanup-posts.mjs",
+    "extract:images": "node tools/extract-images.mjs",
     "import:wp": "node tools/import-wordpress.mjs",
     "post:new": "node tools/new-post.mjs",
     "preview": "astro preview"
   },
   "dependencies": {
     "@astrojs/check": "^0.9.4",
+    "@astrojs/sitemap": "^3.7.3",
     "astro": "^5.13.8",
+    "pagefind": "^1.5.2",
     "typescript": "^5.9.2"
-  },
-  "devDependencies": {}
+  }
 }

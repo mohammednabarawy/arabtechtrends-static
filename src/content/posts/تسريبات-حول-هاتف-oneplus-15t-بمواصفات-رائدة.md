@@ -25,4 +25,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8%d8%a7%
 <p>أما عن موعد الإطلاق، فلم يقدم تقرير OnePlus Club أي تفاصيل تاريخية، إلا أن Digital Chat Station سبق أن كشفت أنه من المقرر أن يرى الهاتف النور في أوائل عام 2026، مما يشير إلى أننا قد نرى الهاتف بعد أشهر قليلة من إطلاق الهاتف المنتظر OnePlus Ace 6T ضمن خطة زمنية درستها الشركة.</p>
 <p><a href="https://www.notebookcheck.net/New-OnePlus-15T-leak-reveals-core-specs-of-upcoming-compact-flagship-phone.1169121.0.html" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
-

@@ -20,15 +20,12 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui
 </div>
 <div class="entry-content entry clearfix">
 <p>أعلنت سامسونج عن سلسلة من التحديثات البرمجية المرتقبة التي تشمل هواتف Galaxy S25 وS24 وS23 وS22، بالإضافة إلى ساعات سلسلة Galaxy Watch5، وذلك خلال الأسبوع من 15 إلى 19 ديسمبر 2025. وتأتي هذه التحديثات في إطار جهود الشركة لتعزيز الأمن والاستقرار وتحسين تجربة المستخدم عبر هواتفها الذكية وساعاتها.</p>
-<div id="ez-toc-container" class="ez-toc-v2_0_85 ez-toc-wrap-right counter-hierarchy ez-toc-counter-rtl ez-toc-light-blue ez-toc-container-direction">
-<div class="ez-toc-title-container">
-<p class="ez-toc-title" style="cursor:inherit">محتوى المقالة</p>
-<span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" aria-label="Toggle Table of Content"><span class="ez-toc-js-icon-con"><span class=""><span class="eztoc-hide" style="display:none;">Toggle</span><span class="ez-toc-icon-toggle-span"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></span></span></a></span></div>
+
 <nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-1" href="https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui-8-5-%d8%a7%d9%84%d9%86%d8%b3%d8%ae%d8%a9-%d8%a7%d9%84%d8%aa%d8%ac%d8%b1%d9%8a%d8%a8%d9%8a%d8%a9-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d8%a9-%d8%aa%d8%b5%d9%84/#1_One_UI_85_Beta_2_%E2%80%93_%D8%A7%D9%84%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1_%D8%A7%D9%84%D8%AA%D8%AC%D8%B1%D9%8A%D8%A8%D9%8A_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A" >1. One UI 8.5 Beta 2 – الإصدار التجريبي الثاني</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-2" href="https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui-8-5-%d8%a7%d9%84%d9%86%d8%b3%d8%ae%d8%a9-%d8%a7%d9%84%d8%aa%d8%ac%d8%b1%d9%8a%d8%a8%d9%8a%d8%a9-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d8%a9-%d8%aa%d8%b5%d9%84/#2_%D8%AA%D8%B5%D8%AD%D9%8A%D8%AD_%D8%A7%D9%84%D8%A3%D9%85%D8%A7%D9%86_%D9%84%D8%B4%D9%87%D8%B1_%D8%AF%D9%8A%D8%B3%D9%85%D8%A8%D8%B1_%E2%80%93_%D8%AA%D8%B5%D8%AD%D9%8A%D8%AD_One_UI_8" >2. تصحيح الأمان لشهر ديسمبر – تصحيح One UI 8</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-3" href="https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui-8-5-%d8%a7%d9%84%d9%86%d8%b3%d8%ae%d8%a9-%d8%a7%d9%84%d8%aa%d8%ac%d8%b1%d9%8a%d8%a8%d9%8a%d8%a9-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d8%a9-%d8%aa%d8%b5%d9%84/#3_%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB%D8%A7%D8%AA_%D9%84%D9%80_Galaxy_Watch5" >3. تحديثات لـ Galaxy Watch5</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-4" href="https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui-8-5-%d8%a7%d9%84%d9%86%d8%b3%d8%ae%d8%a9-%d8%a7%d9%84%d8%aa%d8%ac%d8%b1%d9%8a%d8%a8%d9%8a%d8%a9-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d8%a9-%d8%aa%d8%b5%d9%84/#%D9%85%D9%84%D8%AE%D8%B5_%D8%A7%D9%84%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB%D8%A7%D8%AA" >ملخص التحديثات</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-5" href="https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui-8-5-%d8%a7%d9%84%d9%86%d8%b3%d8%ae%d8%a9-%d8%a7%d9%84%d8%aa%d8%ac%d8%b1%d9%8a%d8%a8%d9%8a%d8%a9-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d8%a9-%d8%aa%d8%b5%d9%84/#%D9%86%D8%B5%D8%A7%D8%A6%D8%AD_%D9%84%D9%84%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85%D9%8A%D9%86" >نصائح للمستخدمين</a></li></ul></nav></div>
-<h3 class="wp-block-heading"><span class="ez-toc-section" id="1_One_UI_85_Beta_2_%E2%80%93_%D8%A7%D9%84%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1_%D8%A7%D9%84%D8%AA%D8%AC%D8%B1%D9%8A%D8%A8%D9%8A_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A"></span><strong>1. One UI 8.5 Beta 2 – الإصدار التجريبي الثاني</strong><span class="ez-toc-section-end"></span></h3>
+<h3><span class="ez-toc-section" id="1_One_UI_85_Beta_2_%E2%80%93_%D8%A7%D9%84%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1_%D8%A7%D9%84%D8%AA%D8%AC%D8%B1%D9%8A%D8%A8%D9%8A_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A"></span><strong>1. One UI 8.5 Beta 2 – الإصدار التجريبي الثاني</strong><span class="ez-toc-section-end"></span></h3>
 <p>تستعد سامسونج لإطلاق الإصدار التجريبي الثاني من تحديث واجهة One UI 8.5 لهواتف Galaxy S25 وS25 Plus وS25 Ultra. ويهدف هذا الإصدار إلى تحسين الاستقرار والأداء وتجربة النظام بشكل عام، بعد الإصدار التجريبي الأول الذي تم إطلاقه في 8 ديسمبر في ألمانيا وكوريا الجنوبية والمملكة المتحدة والولايات المتحدة.</p>
 <p>ومن المتوقع أيضًا أن يتضمن الإصدار الجديد وصولاً موسعًا إلى الأسواق الأخرى، بما في ذلك الهند وبولندا، وفقًا للتسريبات الأخيرة. يعد هذا التحديث خطوة مهمة قبل الإصدار النهائي المتوقع في الربع الأول من عام 2026.</p>
-<h3 class="wp-block-heading"><span class="ez-toc-section" id="2_%D8%AA%D8%B5%D8%AD%D9%8A%D8%AD_%D8%A7%D9%84%D8%A3%D9%85%D8%A7%D9%86_%D9%84%D8%B4%D9%87%D8%B1_%D8%AF%D9%8A%D8%B3%D9%85%D8%A8%D8%B1_%E2%80%93_%D8%AA%D8%B5%D8%AD%D9%8A%D8%AD_One_UI_8"></span><strong>2. تصحيح الأمان لشهر ديسمبر – تصحيح One UI 8</strong><span class="ez-toc-section-end"></span></h3>
+<h3><span class="ez-toc-section" id="2_%D8%AA%D8%B5%D8%AD%D9%8A%D8%AD_%D8%A7%D9%84%D8%A3%D9%85%D8%A7%D9%86_%D9%84%D8%B4%D9%87%D8%B1_%D8%AF%D9%8A%D8%B3%D9%85%D8%A8%D8%B1_%E2%80%93_%D8%AA%D8%B5%D8%AD%D9%8A%D8%AD_One_UI_8"></span><strong>2. تصحيح الأمان لشهر ديسمبر – تصحيح One UI 8</strong><span class="ez-toc-section-end"></span></h3>
 <p>تواصل سامسونج تعزيزها <strong>السلامة والحماية</strong> بالنسبة لهواتف Galaxy من خلال تحديث التصحيح الأمني ​​الشهري استنادًا إلى <strong>واجهة مستخدم واحدة 8</strong>والتي تشمل:</p>
 <ul class="wp-block-list">
 <li><strong>سلسلة جالاكسي S24</strong></li>
@@ -36,10 +33,10 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui
 <li><strong>سلسلة جالاكسي S22</strong></li>
 </ul>
 <p>يهدف هذا التحديث إلى معالجة <strong>68 ثغرة أمنية</strong> ويتضمن نظام Android وواجهة One UI، بما في ذلك نقاط الضعف الحرجة وعالية المستوى، لضمان حماية بيانات المستخدم وتعزيز استقرار النظام.</p>
-<h3 class="wp-block-heading"><span class="ez-toc-section" id="3_%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB%D8%A7%D8%AA_%D9%84%D9%80_Galaxy_Watch5"></span><strong>3. تحديثات لـ Galaxy Watch5</strong><span class="ez-toc-section-end"></span></h3>
+<h3><span class="ez-toc-section" id="3_%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB%D8%A7%D8%AA_%D9%84%D9%80_Galaxy_Watch5"></span><strong>3. تحديثات لـ Galaxy Watch5</strong><span class="ez-toc-section-end"></span></h3>
 <p>وتشمل التحديثات أيضاً سلسلة Galaxy Watch5 وWatch5 Pro، التي ستتلقى تحديث One UI 8 Watch المبني على Wear OS 6، والذي يقدم تحسينات في الأداء والتحكم والتوافق مع الميزات الحديثة، للحفاظ على تجربة سلسة ومتقدمة لمستخدمي الساعات الذكية.</p>
 <p>المستخدمون ينتظرون أيضًا <strong>جالاكسي Watch4 وWatch4 كلاسيك</strong> التحديث يصل قريبا.</p>
-<h3 class="wp-block-heading"><span class="ez-toc-section" id="%D9%85%D9%84%D8%AE%D8%B5_%D8%A7%D9%84%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB%D8%A7%D8%AA"></span><strong>ملخص التحديثات</strong><span class="ez-toc-section-end"></span></h3>
+<h3><span class="ez-toc-section" id="%D9%85%D9%84%D8%AE%D8%B5_%D8%A7%D9%84%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB%D8%A7%D8%AA"></span><strong>ملخص التحديثات</strong><span class="ez-toc-section-end"></span></h3>
 <figure class="wp-block-table">
 <table class="has-fixed-layout">
 <thead>
@@ -68,7 +65,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui
 </tbody>
 </table>
 </figure>
-<h3 class="wp-block-heading"><span class="ez-toc-section" id="%D9%86%D8%B5%D8%A7%D8%A6%D8%AD_%D9%84%D9%84%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85%D9%8A%D9%86"></span><strong>نصائح للمستخدمين</strong><span class="ez-toc-section-end"></span></h3>
+<h3><span class="ez-toc-section" id="%D9%86%D8%B5%D8%A7%D8%A6%D8%AD_%D9%84%D9%84%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85%D9%8A%D9%86"></span><strong>نصائح للمستخدمين</strong><span class="ez-toc-section-end"></span></h3>
 <ul class="wp-block-list">
 <li>تأكد من تنزيل التحديثات بمجرد ظهور الإشعار عبر:<br /><strong>الإعدادات >> تحديث البرنامج >> التنزيل والتثبيت</strong></li>
 <li>يوصى بأخذ نسخة احتياطية من بياناتك قبل تثبيت التحديثات الرئيسية.</li>
@@ -76,4 +73,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui
 </ul>
 <p><a href="https://x.com/tarunvats33/status/2000055468434341944" data-type="link" data-id="https://x.com/tarunvats33/status/2000055468434341944">مصدر</a></p>
 </div></div>
-

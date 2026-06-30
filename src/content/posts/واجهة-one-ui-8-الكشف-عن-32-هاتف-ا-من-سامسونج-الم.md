@@ -13,7 +13,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-one-ui
 
 <div>
 <p>أعلنت شركة Samsung الكورية رسميًا عن تاريخ إطلاق تحديث واجهة One 8 ، وهو أحد أهم التحديثات في واجهته. بعد أن وصل التحديث سابقًا إلى هواتف Galaxy Z lovy7 ​​و Galaxy Z Flip7 ، سيتم إطلاقه لجميع هواتف Samsung Galaxy الأخرى ، بدءًا من أحدث الأجهزة.</p>
-<h3 class="wp-block-heading"><strong>سيبدأ تحديث واجهة المستخدم 8 في بداية شهر سبتمبر المقبل</strong></h3>
+<h3><strong>سيبدأ تحديث واجهة المستخدم 8 في بداية شهر سبتمبر المقبل</strong></h3>
 <p>أكدت الشركة الكورية على مدونتها الدولية أن تحديث One UI 8 سيبدأ في الوصول إلى بداية سبتمبر المقبل. على الرغم من عدم وجود تواريخ دقيقة ، إلا أن الأولوية ستكون لسلسلة Samsung Galaxy S25 ، والتي ستتلقى التحديث قريبًا.</p>
 <p>من المتوقع أن يجلب التحديث الجديد عددًا كبيرًا من الميزات والتحسينات ، بما في ذلك:</p>
 <p><strong>تصميم مرئي جديد:</strong> التحسينات الجمالية على واجهة المستخدم.</p>
@@ -67,6 +67,4 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-one-ui
 </ul>
 <p>أشارت Samsung إلى أن هذه القائمة الأولية تعتمد على وعود التحديث التي قدمها عند إطلاق كل منتج. سيتم الكشف عن القائمة الكاملة وتواريخ خط العرض الدقيقة لجميع الأجهزة في وقت لاحق في سبتمبر.</p>
 <p>هل هاتفك بين الهواتف التي ستحصل على التحديث في المرحلة الأولى أو الثانية؟</p>
-<p><a href="https://www.movilzona.es/noticias/actualizaciones/moviles-samsung-galaxy-proxima-semana-one-ui-8/" data-type="link" data-id="https://www.movilzona.es/noticias/actualizaciones/moviles-samsung-galaxy-proxima-semana-one-ui-8/">مصدر</a></p>
-</p></div>
-
+<p><a href="https://www.movilzona.es/noticias/actualizaciones/moviles-samsung-galaxy-proxima-semana-one-ui-8/" data-type="link" data-id="https://www.movilzona.es/noticias/actualizaciones/moviles-samsung-galaxy-proxima-semana-one-ui-8/">مصدر</a></p></div>

@@ -22,4 +22,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8-%d8%a7
 <p>لكن المفارقة هي أن هذه المواصفات تكاد تكون مطابقة لمواصفات هاتف Vivo X200s، وإذا كان التسريب دقيقا، فمن المحتمل أن Vivo بصدد إعادة إطلاق نفس الهاتف تحت اسم جديد وهو</p>
 <p><a href="https://www.gsmarena.com/vivo_x200ts_full_specs_leak_revealing_a_very_familiar_device-news-70795.php" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
-

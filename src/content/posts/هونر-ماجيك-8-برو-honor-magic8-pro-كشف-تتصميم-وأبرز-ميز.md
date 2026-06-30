@@ -6,14 +6,14 @@ updatedDate: "2025-10-11T13:07:19"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "https://www.arabtechtrends.com/wp-content/uploads/2025/10/1760177238_997_honor-magic8-pro.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%87%d9%88%d9%86%d8%b1-%d9%85%d8%a7%d8%ac%d9%8a%d9%83-8-%d8%a8%d8%b1%d9%88-honor-magic8-pro-%d9%83%d8%b4%d9%81-%d8%aa%d8%aa%d8%b5%d9%85%d9%8a%d9%85-%d9%88%d8%a3%d8%a8%d8%b1%d8%b2-%d9%85%d9%8a%d8%b2/"
 ---
 
 <div>
 <p>تستعد شركة Honor خلال الفترة الحالية للكشف عن أحدث هواتفها الرائدة Honor Magic8 Pro خلال شهر أكتوبر المقبل. وقبل الإعلان الرسمي، ظهرت صور حقيقية جديدة للهاتف على منصة Weibo الصينية، تكشف عن تصميمه الأنيق وتفاصيله التقنية المنتظرة.</p>
-<h2 class="wp-block-heading">مواصفات ومميزات هونر Magic8 Pro</h2>
+<h2>مواصفات ومميزات هونر Magic8 Pro</h2>
 <p>ويظهر التسريب الجديد الهاتف باللون الأبيض اللامع، حيث تظهر وحدة كاميرا دائرية كبيرة تحمل شعار “AiMAGE” وتتضمن ثلاث عدسات ومصباح يدوي LED.</p>
 <p>وعلى الرغم من احتفاظ Honor بنفس أسلوب التصميم العام مثل سلسلة Magic السابقة، إلا أن هناك تغييرًا ملحوظًا في موضع الفلاش، حيث تم نقله من أعلى الوحدة إلى الأسفل، مما يمنح الكاميرا مظهرًا أكثر توازناً.</p>
 <p>وبحسب التسريبات فإن النسخة الجديدة من الهاتف ستتوفر <strong>بأربعة ألوان</strong> يشمل الأبيض والأسود والذهبي والأزرق السماوي.</p>
@@ -32,10 +32,9 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d9%88%d9%86%d8%b1-%d9%85%d8%a7
 <p>ومن المتوقع أن يتمكن الهاتف من الشحن بالكامل في وقت قياسي لا يتجاوز 25 دقيقة تقريبًا، وذلك بفضل تقنية الشحن المحسنة التي طورتها شركة Honor مؤخرًا.</p>
 <p>وسيعمل الهاتف بنظام التشغيل Android 16 مع واجهة MagicOS المخصصة من Honor، والتي ستدمج مجموعة من ميزات الذكاء الاصطناعي الجديدة، بما في ذلك المهام المتعددة المحسنة، واقتراحات الاستخدام الذكي، وتخصيص التجربة بناءً على أسلوب المستخدم.</p>
 <p>وبهذه المواصفات، يبدو أن هاتف Honor Magic 8 Pro قادم بقوة لمنافسة هواتف مثل Xiaomi 17 Pro وGalaxy S26 Ultra من سامسونج، خاصة في الأداء والكاميرا وعمر البطارية.</p>
-<figure class="wp-block-image size-full"><img data-lazyloaded="1" data-recalc-dims="1" loading="lazy" decoding="async" width="600" height="604" src="https://www.arabtechtrends.com/wp-content/uploads/2025/10/1760177238_997_honor-magic8-pro.jpg" alt="هونر ماجيك 8 برو" class="wp-image-225260"  data-/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="600" height="604" src="https://www.arabtechtrends.com/wp-content/uploads/2025/10/1760177238_997_honor-magic8-pro.jpg" alt="هونر ماجيك 8 برو" class="wp-image-225260"></figure>
 <p>ورغم أن الصور المسربة لم تظهر بعد التصميم الأمامي للهاتف، إلا أن مصادر مطلعة أكدت أن المزيد من التفاصيل ستظهر خلال الأيام القليلة المقبلة استعدادًا للحدث الرسمي المنتظر في الصين.</p>
 <p>وبهذا التسريب، ترفع Honor مستوى الترقب لأحد هواتفها الأكثر إثارة في عام 2025، والذي يبدو أنه يجمع بين الأداء القوي والتصميم الفاخر والتصوير الاحترافي في حزمة واحدة متكاملة.</p>
-<p>شاركنا رأيك حول أهم ميزة يجب أن يأتي بها هاتف Honor Magic8 Pro المنتظر من هونر&#8230;</p>
+<p>شاركنا رأيك حول أهم ميزة يجب أن يأتي بها هاتف Honor Magic8 Pro المنتظر من هونر…</p>
 <p><a href="https://www.gizmochina.com/2025/10/08/honor-magic8-pro-real-life-image-reveals-design-ahead-of-october-launch/" data-type="link" data-id="https://www.gizmochina.com/2025/10/08/honor-magic8-pro-real-life-image-reveals-design-ahead-of-october-launch/">مصدر</a></p>
 </div>
-

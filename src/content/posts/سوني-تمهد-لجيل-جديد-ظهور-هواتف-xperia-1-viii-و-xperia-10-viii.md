@@ -23,4 +23,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d9%88%d9%86%d9%8a-%d8%aa%d9%85
 <div>ظهرت العلامات الأولى المتعلقة بهاتف Xperia 1 VIII على موقع إلكتروني تابع لمزود خدمات الاتصالات، قبل أن يتم رصد قوائم جديدة تشير إلى وجود طراز آخر من السلسلة لم يتم الإعلان عنه بعد. ووفقا <a href="https://thewalkmanblog.blogspot.com/2025/11/sony-xperia-will-have-2-models-in-2026.html" target="_blank" rel="nofollow">لمدونة Walkman</a>تمت إضافة أرقام الطراز PM-1520-BV إلى PM-1525-BV إلى قاعدة بيانات الجهاز.</div>
 <p>وعلى الرغم من أن هذه المؤشرات لا تبدو كبيرة للوهلة الأولى، إلا أن هذه الأرقام تتوافق مع نمط تخصيص النموذج الذي استخدمته Sony سابقًا مع Xperia 1 VII. </p>
 </div>
-

@@ -23,4 +23,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d9%88%d9%86%d8%b1-%d8%aa%d8%b9
 <p>ومن المقرر أن يتم إطلاق الهاتف رسميًا في الصين في الموعد المعلن، وستكشف HONOR عن المزيد من التفاصيل المتعلقة بالمواصفات النهائية والأسعار في الأيام المقبلة.</p>
 <p><a href="https://www.honor.com/cn/msale/Power.html?cid=128615" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
-

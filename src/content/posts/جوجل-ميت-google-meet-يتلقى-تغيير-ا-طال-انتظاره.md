@@ -26,4 +26,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d9%88%d8%ac%d9%84-%d9%85%d9%8a
 <p>ما رأيك في هذه الميزة؟</p>
 <p><a href="https://www.neowin.net/news/google-meet-allows-you-to-continue-conversations-in-google-chat-in-new-update/" data-type="link" data-id="https://www.neowin.net/news/google-meet-allows-you-to-continue-conversations-in-google-chat-in-new-update/">مصدر</a></p>
 </div></div>
-

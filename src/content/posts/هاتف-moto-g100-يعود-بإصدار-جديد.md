@@ -28,4 +28,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d8%aa%d9%81-moto-g100-%d
 <p><a href="https://www.gsmarena.com/moto_g100_arrives_in_china_with_7000_mah_battery_-news-69911.php" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
 </div>
-

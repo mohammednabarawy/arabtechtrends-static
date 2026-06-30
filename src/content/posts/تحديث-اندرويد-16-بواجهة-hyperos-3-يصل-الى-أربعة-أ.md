@@ -18,20 +18,19 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d8%a7
 <div>
 <ul>
 <li>هاتف بوكو F7 برو</li>
-<p>&#13;</p>
+<p></p>
 <li>هاتف بوكو F7</li>
-<p>&#13;</p>
+<p></p>
 <li>هاتف بوكو إم6 </li>
-<p>&#13;</p>
+<p></p>
 <li>هاتف ريدمي 13</li>
-<p>&#13;
+<p>
 </ul>
 </div>
 <p>لم يكن انضمام سلسلة F7 إلى قائمة الأجهزة المحدثة مفاجئًا، خاصة بعد حصول النسختين الصينيتين المعادلتين – Redmi K80 وRedmi Turbo 4 Pro – على تحديث واجهة HyperOS التي تعمل بنظام Android 16 سابقًا، وعادةً ما تشير هذه الخطوة إلى قرب وصول التحديث إلى الإصدارات العالمية من Poco.</p>
 <p>يعد HyperOS 3 أحد أكبر التحسينات التي قدمتها Xiaomi منذ سنوات، فهو لا يعمل على تحسين الأداء فحسب، بل يقدم أيضًا تجربة بصرية متجددة، بما في ذلك ميزة HyperIsland (إصدار Xiaomi من Dynamic Island)، وأنماط جديدة لشاشة القفل، وتحسينات واسعة النطاق لمحرر الصور داخل المعرض، بالإضافة إلى تكامل أعمق مع Google Gemini AI. كما أنه يوفر ميزات مثل Touch to Share، والترجمة الموسعة على مستوى النظام، وأدوات الكتابة والصوت المدعومة بالذكاء الاصطناعي على الأجهزة المناسبة.</p>
 <div>إذا كنت تمتلك أحد هذه الأجهزة التي بدأت بتلقي التحديث، فمن الجيد متابعة التحديث في الأيام القادمة.</p>
-<p><a href="https://www.gizmochina.com/2025/11/22/hyperos-3-stable-update-expands-to-four-more-xiaomi-and-poco-devices/" target="_blank" rel="nofollow">مصدر</a><br />&#13;
+<p><a href="https://www.gizmochina.com/2025/11/22/hyperos-3-stable-update-expands-to-four-more-xiaomi-and-poco-devices/" target="_blank" rel="nofollow">مصدر</a><br />
 </p>
 </div>
 </div>
-

@@ -1,0 +1,37 @@
+# Arab Tech Trends — robots.txt
+# https://www.arabtechtrends.com
+
+User-agent: *
+Allow: /
+
+# AI search-augmented crawlers (allow — drive citations and discovery)
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+# AI training / browsing crawlers (allow by default)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+# Aggressive scrapers
+User-agent: Bytespider
+Disallow: /
+
+Sitemap: https://www.arabtechtrends.com/sitemap-index.xml

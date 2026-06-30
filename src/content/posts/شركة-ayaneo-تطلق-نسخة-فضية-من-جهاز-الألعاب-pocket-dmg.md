@@ -28,4 +28,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%b1%d9%83%d8%a9-ayaneo-%d8%a
 <p><a href="https://www.gizmochina.com/2025/12/06/ayaneo-pocket-dmg-silver-limited-edition-launched-specs-price/" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
 </div>
-

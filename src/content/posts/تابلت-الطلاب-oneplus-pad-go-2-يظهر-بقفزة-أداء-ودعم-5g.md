@@ -24,4 +24,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%a7%d8%a8%d9%84%d8%aa-%d8%a7
 <p><a href="https://www.gizmochina.com/2025/12/02/oneplus-pad-go-2-dimensity-7300-geekbench-5g-support/" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
 </div>
-

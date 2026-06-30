@@ -1,6 +1,6 @@
 ---
 title: "يكشف تسرب خلفية Galaxy S26 Ultra عن ستة خيارات ألوان لهاتف Samsung"
-description: "وبينما لم تكشف سامسونج رسميًا بعد عن سلسلة Galaxy S26، إلا أن التفاصيل بدأت تتكشف تباعًا من خلال التسريبات والتلميحات التقنية. وجاءت أحدث المعلومات عبر تحديث One UI 8.5، حيث تم رصد مجموعة من الخلفيات التي يعتقد أنها تعكس ألوان إصدار Galaxy "
+description: "وبينما لم تكشف سامسونج رسميًا بعد عن سلسلة Galaxy S26، إلا أن التفاصيل بدأت تتكشف تباعًا من خلال التسريبات والتلميحات التقنية. وجاءت أحدث المعلومات عبر تحديث One UI 8.5، حيث تم رصد مجموعة من الخلفيات التي يعتقد أنها تعكس ألوان إصدار Galaxy"
 pubDate: "2025-12-02T05:41:00"
 updatedDate: "2025-12-03T01:44:23"
 author: "Arab Tech Trends"
@@ -23,4 +23,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8-%d8%ae
 <p><a href="https://www.notebookcheck.net/New-Galaxy-S26-Ultra-leak-reveals-planned-color-options-of-upcoming-flagship-phone.1174529.0.html" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
 </div>
-

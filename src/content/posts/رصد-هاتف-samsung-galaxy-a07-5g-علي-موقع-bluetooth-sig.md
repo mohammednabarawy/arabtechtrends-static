@@ -6,7 +6,7 @@ updatedDate: "2025-12-12T21:57:54"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["تسريبات تكشف تحركات سامسونج","صفحات دعم خاصة","موقع Bluetooth SIG","هاتف Samsung Galaxy A07 5G"]
-image: ""
+image: "https://www.arabtechtrends.com/wp-content/uploads/2025/12/1765569467_592_samsung-galaxy-a07-5g-----bluetooth.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b1%d8%b5%d8%af-%d9%87%d8%a7%d8%aa%d9%81-samsung-galaxy-a07-5g-%d8%b9%d9%84%d9%8a-%d9%85%d9%88%d9%82%d8%b9-bluetooth-sig/"
 ---
@@ -21,29 +21,28 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b1%d8%b5%d8%af-%d9%87%d8%a7%d8%aa
 <b>صفحات الدعم نحن على بعد خطوات قليلة من الإطلاق</b></p>
 <p>ويؤكد تفعيل صفحات دعم الهاتف في الولايات المتحدة وإسبانيا ونيوزيلندا أن الإعلان الرسمي قريب، وعادةً ما تبدأ سامسونج بفتح صفحات الدعم قبل أيام أو أسابيع قليلة من إطلاق الهاتف، مما يجعل ظهور الهاتف في الأسواق مسألة وقت فقط. وبحسب التسريبات الأخيرة، فمن الممكن أن يصل هاتف Galaxy A07 5G نهاية الشهر الجاري، ديسمبر، أو بداية العام الجديد، خلال شهر يناير المقبل، وذلك قبل حدث Galaxy Unpacked 2026 السنوي.</p>
 <p><b>نظرة سريعة على مواصفات هاتف Galaxy A07 4G للمقارنة</b><br />وكانت سامسونج قد أطلقت نسخة 4G من هاتف Galaxy A07 في الهند، بسعر يبدأ من 8999 روبية لنسخة 4 جيجا بايت مع مساحة تخزين داخلية 64 جيجا بايت، وبالألوان الأسود والأخضر والبنفسجي الفاتح.</p>
-<div align="center"><img decoding="async" src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1765569467_592_samsung-galaxy-a07-5g-----bluetooth.webp.webp" title="هاتف سامسونج جالاكسي A07 4G الذكي" class="img-responsive lazy" alt="هاتف سامسونج جالاكسي A07 4G الذكي" border="0"/></div>
+<div align="center"><img src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1765569467_592_samsung-galaxy-a07-5g-----bluetooth.webp.webp" title="هاتف سامسونج جالاكسي A07 4G الذكي" class="img-responsive lazy" alt="هاتف سامسونج جالاكسي A07 4G الذكي"/></div>
 <p>
 <b>جاء هاتف Samsung Galaxy A07 4G بالمواصفات التالية:</b></p>
 <ul>
 <li>شاشة PLS LCD بقياس 6.7 بوصة ودقة 720×1600 بكسل +HD ومعدل تحديث 90 هرتز.</li>
-<p>&#13;</p>
+<p></p>
 <li>معالج MediaTek Helio G99 ثماني النواة بدقة تصنيع 6 نانومتر مع معالج رسومي Mali-G57 MC2 .</li>
-<p>&#13;</p>
+<p></p>
 <li>ذاكرة عشوائية 4/6/8 جيجابايت مع خيارات تخزين داخلية 64/128/256 جيجابايت من نوع UFS 2.2.</li>
-<p>&#13;</p>
+<p></p>
 <li>نظام التشغيل Android 15 مع واجهة Samsung One UI 7 ودعم ستة ترقيات رئيسية للنظام وست سنوات من التحديثات الأمنية.</li>
-<p>&#13;</p>
+<p></p>
 <li>كاميرا خلفية مزدوجة مع كاميرا أساسية بدقة 50 ميجابكسل + 2 ميجابكسل.</li>
-<p>&#13;</p>
+<p></p>
 <li>كاميرا أمامية بدقة 8 ميجابكسل.</li>
-<p>&#13;</p>
+<p></p>
 <li>تصميم مقاوم للرذاذ والغبار بمعيار IP54.</li>
-<p>&#13;</p>
+<p></p>
 <li>بطارية بسعة 5000 مللي أمبير مع شحن سلكي بقوة 25 وات.</li>
-<p>&#13;
+<p>
 </ul>
 <p></p>
 <p>ورغم عدم الكشف عن مواصفات نسخة 5G بعد، إلا أن ظهورها المتكرر في التسريبات والقوائم الرسمية يشير إلى أن سامسونج تستعد لتوسيع عروضها في الفئة الاقتصادية مع دعم شبكات الجيل الخامس خلال الفترة المقبلة، ولم يتبق سوى أيام قليلة حتى نحصل على كافة التفاصيل حول الهواتف الجديدة.</p>
 <p><a href="https://www.gadgets360.com/mobiles/news/samsung-galaxy-a07-5g-bluetooth-sig-model-number-support-page-launch-expected-9796693" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
-

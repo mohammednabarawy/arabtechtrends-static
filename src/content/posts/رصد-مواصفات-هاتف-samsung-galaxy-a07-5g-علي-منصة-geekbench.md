@@ -22,4 +22,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b1%d8%b5%d8%af-%d9%85%d9%88%d8%a7
 <p>وبحسب التسريبات المتداولة فمن المتوقع أن تبصر نسخة Galaxy A07 5G النور إما في وقت لاحق من شهر ديسمبر الجاري أو مع بداية شهر يناير من العام الجديد 2026 مع تحسينات محدودة مقارنة بالجيل السابق، دون تغييرات جذرية في المواصفات ولا توجد تفاصيل مؤكدة حتى الآن حول تسعير الهاتف.</p>
 <p><a href="https://www.gsmarena.com/samsung_galaxy_a07_5g_specs_revealed_via_geekbench_listing-news-70725.php" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
-

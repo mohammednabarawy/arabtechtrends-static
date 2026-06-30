@@ -1,6 +1,6 @@
 ---
 title: "شركة اتصالات صينية تطلق جهاز لوحي يعمل بنظام أندرويد وويندوز"
-description: "وفي خطوة غير عادية داخل سوق الأجهزة اللوحية، قررت شركة China Unicom كسر القالب التقليدي، حيث قدمت منصة Cloud AI Pad الجديدة كمنصة هجينة تجمع بين اتصال 5G الدائم مع تجربة مستخدم مزدوجة بين Android وWindows، ولكن بروح سحابية واضحة. ولا يحاول "
+description: "وفي خطوة غير عادية داخل سوق الأجهزة اللوحية، قررت شركة China Unicom كسر القالب التقليدي، حيث قدمت منصة Cloud AI Pad الجديدة كمنصة هجينة تجمع بين اتصال 5G الدائم مع تجربة مستخدم مزدوجة بين Android وWindows، ولكن بروح سحابية واضحة. ولا يحاول"
 pubDate: "2025-12-23T04:12:00"
 updatedDate: "2025-12-23T09:04:53"
 author: "Arab Tech Trends"
@@ -27,4 +27,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%b1%d9%83%d8%a9-%d8%a7%d8%aa
 <p><a href="https://www.gizmochina.com/2025/12/22/china-unicom-cloud-ai-pad-launch-android-and-wiindows-system/" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
 </div>
-

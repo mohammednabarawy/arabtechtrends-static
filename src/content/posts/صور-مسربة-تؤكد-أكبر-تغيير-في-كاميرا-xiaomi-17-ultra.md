@@ -6,7 +6,7 @@ updatedDate: "2025-11-29T06:53:14"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["Xiaomi","Xiaomi 17 Ultra","التغيير الأكبر","الكاميرا","مع عدسات أقل"]
-image: ""
+image: "https://www.arabtechtrends.com/wp-content/uploads/2025/11/1764391992_964_xiaomi-17-ultra.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b5%d9%88%d8%b1-%d9%85%d8%b3%d8%b1%d8%a8%d8%a9-%d8%aa%d8%a4%d9%83%d8%af-%d8%a3%d9%83%d8%a8%d8%b1-%d8%aa%d8%ba%d9%8a%d9%8a%d8%b1-%d9%81%d9%8a-%d9%83%d8%a7%d9%85%d9%8a%d8%b1%d8%a7-xiaomi-17-ultra/"
 ---
@@ -17,33 +17,33 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b5%d9%88%d8%b1-%d9%85%d8%b3%d8%b1
 <div style="text-align:center;">
 </div>
 </div>
-<p><b>كاميرا أصغر&#8230;ولكنها أقوى بكثير</b></p>
+<p><b>كاميرا أصغر…ولكنها أقوى بكثير</b></p>
 <p>أبرز ما يميز هاتف Xiaomi 17 Ultra هو تقليل عدد العدسات الخلفية من أربع إلى ثلاث. للوهلة الأولى قد يبدو هذا بمثابة تنحي مقارنة بهاتف Xiaomi 15 Ultra الذي قدم نظامًا رباعيًا، لكن الحقيقة مختلفة تمامًا:</p>
 <div>
 <ul>
-<li>50 ميجابكسل &#8211; OmniVision OVX10500U (العدسة الرئيسية)</li>
-<p>&#13;</p>
-<li>200 ميجابكسل &#8211; Samsung S5KHPE (عدسة مقربة عالية الدقة)</li>
-<p>&#13;</p>
+<li>50 ميجابكسل – OmniVision OVX10500U (العدسة الرئيسية)</li>
+<p></p>
+<li>200 ميجابكسل – Samsung S5KHPE (عدسة مقربة عالية الدقة)</li>
+<p></p>
 <li>50 ميجابكسل – OmniVision OV50M أو Samsung S5KJN5 (عدسة واسعة)</li>
-<p>&#13;
+<p>
 </ul>
 </div>
 <div>ويعني هذا التغيير أن Xiaomi قررت التخلي عن العدسة المقربة ذات التقريب البصري 3x بدقة 50 ميجابكسل، واستبدالها بمستشعر أكثر قوة من حيث الوضوح والتقاط التفاصيل، بمعنى آخر: عدد العدسات أقل، لكن جودة المستشعرات أعلى – وهي خطوة تظهر اتجاهًا واضحًا نحو تحسين المخرجات بدلاً من مطاردة الأرقام.</p>
-<div style="text-align:center;"><img decoding="async" src="https://www.arabtechtrends.com/wp-content/uploads/2025/11/1764391992_964_xiaomi-17-ultra.webp.webp" class="img-responsive lazy" alt="" border="0"/>
+<div style="text-align:center;"><img src="https://www.arabtechtrends.com/wp-content/uploads/2025/11/1764391992_964_xiaomi-17-ultra.webp.webp" class="img-responsive lazy" alt=""/>
 </div>
 </div>
 <p>أما بالنسبة للكاميرا الأمامية، فمن المتوقع أن تكون OmniVision OV50ME بدقة 50 ميجابكسل، لتوفر تجربة تصوير سيلفي أقوى مما هو شائع حتى في الهواتف الرائدة.</p>
-<p><b>تصميم أدوات التصوير الفوتوغرافي&#8230;تجربة شبيهة بالكاميرات الاحترافية</b></p>
+<p><b>تصميم أدوات التصوير الفوتوغرافي…تجربة شبيهة بالكاميرات الاحترافية</b></p>
 <div>وتظهر الصور المسربة الهاتف مدمجًا مع مجموعة التصوير الفوتوغرافي الخاصة بشركة Xiaomi، وهي ملحق إضافي مصمم للمستخدمين المهتمين بالتصوير الفوتوغرافي. يأتي الطقم بلونين: البيج والأسود، ويتضمن:</div>
 <div>
 <ul>
 <li>مقبض إطلاق نار قابل للفصل</li>
-<p>&#13;</p>
+<p></p>
 <li>زر الغالق المادي</li>
-<p>&#13;</p>
+<p></p>
 <li>ملمس راحة اليد المخصص أثناء التصوير</li>
-<p>&#13;
+<p>
 </ul>
 </div>
 <p>يعيد هذا الملحق تجربة Xiaomi 15 Ultra ولكنه يأتي بتصميم أكثر نضجًا، مما يحول الهاتف إلى أداة تصوير أقرب إلى الكاميرات التقليدية – وهي خطوة ستجذب المحترفين والمبدعين على حدٍ سواء.</p>
@@ -51,8 +51,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b5%d9%88%d8%b1-%d9%85%d8%b3%d8%b1
 <p>النتيجة المتوقعة – صور أكثر وضوحًا، ونطاق ديناميكي أوسع، وأداء أفضل في ظروف الإضاءة المعقدة.</p>
 <p><b>تاريخ الإطلاق العالمي</b></p>
 <div>وتشير التقارير إلى أنه قد يتم الإعلان عن هاتف Xiaomi 17 Ultra في الصين في شهر ديسمبر أو بداية شهر يناير، على أن يبدأ إطلاقه عالميًا لاحقًا مع بقية سلسلة Xiaomi 17.</p>
-<p><a href="https://www.gizmochina.com/2025/11/28/xiaomi-17-ultra-photography-kit-render-reveal-triple-rear-camera-setup/" target="_blank" rel="nofollow">مصدر</a><br />&#13;
+<p><a href="https://www.gizmochina.com/2025/11/28/xiaomi-17-ultra-photography-kit-render-reveal-triple-rear-camera-setup/" target="_blank" rel="nofollow">مصدر</a><br />
 </p>
 </div>
 </div>
-

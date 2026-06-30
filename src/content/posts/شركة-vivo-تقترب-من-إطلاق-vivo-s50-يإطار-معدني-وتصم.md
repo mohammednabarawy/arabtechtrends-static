@@ -24,4 +24,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%b1%d9%83%d8%a9-vivo-%d8%aa%
 <p><a href="https://www.gizmochina.com/2025/11/27/vivo-s50-design-geekbench-snapdragon-8s-gen-3/" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
 </div>
-

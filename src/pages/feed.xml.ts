@@ -1,5 +1,6 @@
 import { getCollection } from "astro:content";
 import type { APIRoute } from "astro";
+import { getPostImage } from "../utils/posts";
 
 const escapeXml = (value = "") =>
   value
@@ -14,13 +15,17 @@ export const GET: APIRoute = async ({ site }) => {
     .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
     .slice(0, 50);
 
-  const origin = (site?.toString() ?? "https://arabtechtrends.com/").replace(/\/$/, "");
+  const origin = (site?.toString() ?? "https://www.arabtechtrends.com/").replace(/\/$/, "");
   const base = import.meta.env.BASE_URL.endsWith("/") ? import.meta.env.BASE_URL : `${import.meta.env.BASE_URL}/`;
   const channelUrl = new URL(base, `${origin}/`).toString();
 
   const items = posts
     .map((post) => {
       const link = new URL(`${base.replace(/^\//, "")}posts/${post.slug}/`, `${origin}/`).toString();
+      const image = getPostImage(post);
+      const enclosure = image
+        ? `<enclosure url="${escapeXml(image.startsWith("http") ? image : `${origin}/${image.replace(/^\//, "")}`)}" type="image/jpeg" />`
+        : "";
 
       return `
         <item>
@@ -30,6 +35,7 @@ export const GET: APIRoute = async ({ site }) => {
           <pubDate>${post.data.pubDate.toUTCString()}</pubDate>
           <category>${escapeXml(post.data.category)}</category>
           <description>${escapeXml(post.data.description)}</description>
+          ${enclosure}
         </item>`;
     })
     .join("");

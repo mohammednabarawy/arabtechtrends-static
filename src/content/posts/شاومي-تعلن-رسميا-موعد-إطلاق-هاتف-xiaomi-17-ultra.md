@@ -21,4 +21,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%aa
 <p>وتشير التوقعات إلى أن الهاتف لن يقتصر على السوق الصيني فقط، فمن المرجح أن يحظى بإطلاق عالمي خلال الأشهر القليلة المقبلة، ليكون أحد أقوى هواتف Xiaomi المنتظرة خلال الفترة المقبلة.</p>
 <p><a href="https://www.gsmarena.com/xiaomi_17_ultra_launch_date_and_design_officially_revealed-news-70813.php" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
-

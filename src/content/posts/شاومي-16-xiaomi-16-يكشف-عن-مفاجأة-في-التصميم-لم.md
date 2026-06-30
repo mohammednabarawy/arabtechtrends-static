@@ -19,9 +19,9 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-16-xia
 </div>
 <div class="entry-content entry clearfix">
 <p>كشفت تسريبات جديدة من الصين عن صور حقيقية لهاتف Xiaomi 16 والتي أظهرت اعتماد Xiaomi على التغيرات الجريئة في التصميم ، وخاصة في واجهة Hyperos 3 الجديدة التي تشبه Apple iOS ، والتي أثارت أسئلة واسعة بين المستخدمين.</p>
-<h4 class="wp-block-heading">تصميم مستوحى من iPhone؟</h4>
-<p>تظهر الصور التي تم تسريبها أن الهاتف يأتي مع شاشة مسطحة مع ثقب مركزي للكاميرا الأمامية ، مع الرسوم المتحركة التي تحاكي &#8220;الجزيرة الديناميكية&#8221; التي قدمتها Apple في iPhone 14 Pro وما بعده. على الرغم من أن الشركات الأخرى مثل Realme استخدمت أفكارًا مماثلة ، إلا أن التشابه الكبير هذه المرة مع واجهة iOS كان يتم رسمه للغاية.</p>
-<h4 class="wp-block-heading">واجهة Hyperos 3 تحاكي iOS</h4>
+<h4>تصميم مستوحى من iPhone؟</h4>
+<p>تظهر الصور التي تم تسريبها أن الهاتف يأتي مع شاشة مسطحة مع ثقب مركزي للكاميرا الأمامية ، مع الرسوم المتحركة التي تحاكي "الجزيرة الديناميكية" التي قدمتها Apple في iPhone 14 Pro وما بعده. على الرغم من أن الشركات الأخرى مثل Realme استخدمت أفكارًا مماثلة ، إلا أن التشابه الكبير هذه المرة مع واجهة iOS كان يتم رسمه للغاية.</p>
+<h4>واجهة Hyperos 3 تحاكي iOS</h4>
 <p>يُظهر الإصدار الجديد من Hyperos العناصر المرئية بالقرب من نظام Apple ، بما في ذلك:</p>
 <ul class="wp-block-list">
 <li>تصميم أيقونة لتطبيقات النظام مثل <strong>حاسبة ، مشاهدة ، بوصلة ، ومسجل</strong></li>
@@ -29,10 +29,8 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-16-xia
 <li>التنقل والرسومات التي تشير إلى تجربة مألوفة لمستخدمي iOS</li>
 </ul>
 <p>على الرغم من أن هذه الخطوة تظهر كجزء من خطة Xiaomi للتوسع على مستوى العالم ومباشرة مع Apple ، إلا أن هذا التشابه قد يتسبب في جدل ، وقد يتسبب في تنفير بعض المستخدمين لتجربة فريدة في نظام Android.</p>
-<h4 class="wp-block-heading">الجهاز لا يزال قيد التطوير</h4>
+<h4>الجهاز لا يزال قيد التطوير</h4>
 <p>حتى الآن ، لم تؤكد Xiaomi رسميًا تاريخ إطلاق الهاتف أو تفاصيل المواصفات الكاملة ، لكن التسريبات تؤكد أن الشركة تعمل بجد لتوفير جهاز رائد قادر على التنافس مع Apple في فئة الهواتف الرائدة ، من حيث تجربة التصميم والبرمجة.</p>
 <p>في رأيك ، ما هي أبرز ميزة يجب أن يجلبها Xiaomi 16؟</p>
-<p><a href="https://xiaomitime.com/xiaomi-16-real-images-leaked-looks-like-iphone-with-hyperos-59965/" data-type="link" data-id="https://xiaomitime.com/xiaomi-16-real-images-leaked-looks-like-iphone-with-hyperos-59965/">مصدر</a></p>
+<p><a href="https://xiaomitime.com/xiaomi-16-real-images-leaked-looks-like-iphone-with-hyperos-59965/" data-type="link" data-id="https://xiaomitime.com/xiaomi-16-real-images-leaked-looks-like-iphone-with-hyperos-59965/">مصدر</a></p></div>
 </p></div>
-</p></div>
-

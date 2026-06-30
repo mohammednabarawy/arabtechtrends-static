@@ -1,6 +1,6 @@
 ---
 title: "تبدأ Vivo في طرح تحديث OriginOS 6 لهواتف Vivo X100: أكبر ترقية منذ سنوات"
-description: "بدأت Vivo في طرح تحديث OriginOS 6 لجهاز X100 و ويحمل تحديث هاتف X100 رقم الإصدار PD2309F_EX_16.2.7.5.W30، بينما يأتي تحديث هاتف X100 Pro تحت رقم الإصدار PD2324F_EX_A_16.2.6.13.W30. ويعد هذا التحديث أحد أكبر الترقيات التي تلقتها هواتف Vivo، "
+description: "بدأت Vivo في طرح تحديث OriginOS 6 لجهاز X100 و ويحمل تحديث هاتف X100 رقم الإصدار PD2309F_EX_16.2.7.5.W30، بينما يأتي تحديث هاتف X100 Pro تحت رقم الإصدار PD2324F_EX_A_16.2.6.13.W30. ويعد هذا التحديث أحد أكبر الترقيات التي تلقتها هواتف Vivo،"
 pubDate: "2025-11-15T04:01:00"
 updatedDate: "2025-11-16T01:08:39"
 author: "Arab Tech Trends"
@@ -22,4 +22,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%81%d9%8a%d9%81%d9%88-%d8%aa%d8%a8
 <p><a href="https://www.gizmochina.com/2025/11/14/originos-6-update-now-rolling-out-to-vivo-x100-and-x100-pro/" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
 </div>
-

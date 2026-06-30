@@ -26,4 +26,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8-%d8%aa
 <p>وحتى يتم الإعلان الرسمي، يظل هاتف Tecno Pova Curve 2 5G أحد أكثر هواتف الفئة المتوسطة المنتظرة، خاصة لمن يبحثون عن بطارية عملاقة وتجربة شاشة متقدمة وبسعر تنافسي.</p>
 <p><a href="https://www.gizmochina.com/2025/12/26/tecno-pova-curve-2-5g-leak-design-specifications/" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
-

@@ -19,8 +19,8 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-hypero
 </div>
 <div class="entry-content entry clearfix">
 <p>عادت الشركة الصينية Xiaomi إلى دائرة الضوء بعد تسرب كبير على نطاق واسع كشف عن تفاصيل مهمة حول Hyperos 3. لم تقتصر التسريبات فقط على شاشة الشاشة الجديدة لتصميم سطح المكتب ، ولكن أيضًا بعض تطبيقاتها الجديدة شملت أيضًا جزءًا من الرسوم المتحركة الخاصة به ، والأهم من ذلك ، القائمة الرسمية لـ Xiaomi ، Redmi ، و Boku التي لن تحصل على هذا التحديث.</p>
-<h2 class="wp-block-heading">أهم ميزات Hyperos 3</h2>
-<h3 class="wp-block-heading">قفزة جمالية ووظيفية رائعة</h3>
+<h2>أهم ميزات Hyperos 3</h2>
+<h3>قفزة جمالية ووظيفية رائعة</h3>
 <p>الجانب الأكثر إثارة لهذا التسريب هو القفزة الجمالية والوظيفية العظيمة التي رهن عليها Xiaomi. يطبق Hyperos 3 تجديدًا شاملاً لتطبيقاته ، من التطبيق نفسه إلى الآلة الحاسبة أو البوصلة. تم إعادة تصميم كل هذه التطبيقات ، مع مجموعة جديدة من الرسوم المتحركة مع تأثيرات أكثر سلاسة.</p>
 <p><strong>أبرز الميزات الجديدة في Hyperos 3</strong></p>
 <p>عندما يصبح واضحًا من الصور التي تم تسريبها ، ستشمل Hyperos 3 ميزات جديدة مهمة على المستوى الجمالي ، بدءًا من:</p>
@@ -30,7 +30,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-hypero
 <li><strong>أجمل رسوم الرسوم المتحركة</strong>الرسوم المتحركة الجديدة تمامًا مع تأثيرات إعادة التصميم ، قادرة على إجراء المزيد من التحولات الطبيعية والسلاسة والعمق.</li>
 </ul>
 <p>وتفيد التقارير أنه تم تسريب مفهوم بصري جديد إلى الزجاج Ioquid سابقًا يشبه iOS 26 ، والذي يهدف إلى تحقيق مظهر عام أكثر تميزًا. تعمل Xiaomi على تحسينات متعددة للتأكد من أن هذه اللغة البصرية الجديدة لا تؤثر على أداء القوة المنخفضة ، والتي تحقق واجهة جذابة وسلسة في نفس الوقت.</p>
-<h3 class="wp-block-heading">القائمة الرسمية للأجهزة التي لن تتلقى تحديث Hyperos 3</h3>
+<h3>القائمة الرسمية للأجهزة التي لن تتلقى تحديث Hyperos 3</h3>
 <p>بالإضافة إلى التحسينات الجمالية ، كشفت هذه التسريبات عن القائمة الرسمية للهواتف ، والتي لن تتلقى تحديثًا للأسف <strong>Hyperos 3</strong>. من بين هذه الأجهزة ، هناك بعض النماذج الشهيرة التي ستبقى في الإصدار <strong>Hyperos 2</strong> بسبب قيود الأجهزة أو نهاية الدعم. تتضمن القائمة ما يلي:</p>
 <ul class="wp-block-list">
 <li><strong>سلسلة Xiaomi MI 11</strong> (بما في ذلك Xiaomi 11 Lite 5G NE)</li>
@@ -42,7 +42,5 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-hypero
 </ul>
 <p>إذا كان لديك أحد هذه الهواتف الذكية ، مثل Xiaomi Mi 11 أو Poco X5 Pro ، فلن تتلقى للأسف تحديث Hyperos 3.</p>
 <p>باختصار ، تؤكد هذه التسريبات أن Xiaomi تستعد لتحديث مهم لنظامه ، مع تحسينات بصرية وتطبيقات جديدة وتجربة أكثر سلاسة بشكل عام. من المتوقع أن يصل هذا التحديث في سبتمبر المقبل ، أو في أكتوبر على أبعد تقدير.</p>
-<p><a href="https://www.xiaomiadictos.com/filtracion-masiva-de-hyperos-3-nuevas-apps-animaciones-mejoradas-y-listado-oficial-de-modelos-que-no-se-actualizaran/" data-type="link" data-id="https://www.xiaomiadictos.com/filtracion-masiva-de-hyperos-3-nuevas-apps-animaciones-mejoradas-y-listado-oficial-de-modelos-que-no-se-actualizaran/">مصدر</a></p>
+<p><a href="https://www.xiaomiadictos.com/filtracion-masiva-de-hyperos-3-nuevas-apps-animaciones-mejoradas-y-listado-oficial-de-modelos-que-no-se-actualizaran/" data-type="link" data-id="https://www.xiaomiadictos.com/filtracion-masiva-de-hyperos-3-nuevas-apps-animaciones-mejoradas-y-listado-oficial-de-modelos-que-no-se-actualizaran/">مصدر</a></p></div>
 </p></div>
-</p></div>
-

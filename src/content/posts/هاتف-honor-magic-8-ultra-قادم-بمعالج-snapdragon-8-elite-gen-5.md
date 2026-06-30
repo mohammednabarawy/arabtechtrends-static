@@ -23,4 +23,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d8%aa%d9%81-honor-magic-
 <p><a href="https://www.gsmarena.com/honor_magic_8_ultra_certified_with_120w_charging_-news-70454.php" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
 </div>
-

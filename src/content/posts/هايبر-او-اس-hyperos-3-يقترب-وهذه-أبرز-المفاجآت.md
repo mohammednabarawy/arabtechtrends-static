@@ -19,11 +19,11 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d9%8a%d8%a8%d8%b1-%d8%a7
 </div>
 <div class="entry-content entry clearfix">
 <p>تستمر Xiaomi في العمل بوتيرة متسارعة لتطوير الإصدار الجديد من واجهة Hyperos 3 المخصصة ، حيث تشير أحدث التسريبات إلى أن البرنامج التجريبي للواجهة سيدخل حيز التنفيذ في أواخر أغسطس.</p>
-<p>جاءت هذه المعلومات من خلال تسرب جديد من حساب محطة الدردشة الرقمية الشهيرة على المنصة الصينية للصينيين ، والذي أشار إلى أن &#8220;العديد من الشركات ستبدأ في اختبار النسخ التجريبية من واجهات أنظمتها الجديدة خلال شهر أغسطس&#8221; ، دون ذكر Xiaomi مباشرة.</p>
+<p>جاءت هذه المعلومات من خلال تسرب جديد من حساب محطة الدردشة الرقمية الشهيرة على المنصة الصينية للصينيين ، والذي أشار إلى أن "العديد من الشركات ستبدأ في اختبار النسخ التجريبية من واجهات أنظمتها الجديدة خلال شهر أغسطس" ، دون ذكر Xiaomi مباشرة.</p>
 <p>ومع ذلك ، يرى المراقبون أن Xiaomi من بين هذه الشركات ، خاصة بعد التقارير الأخيرة التي أكدت نهاية تطوير Hyperos 2 ونقل الموارد الكاملة للشركة نحو الإصدار الجديد.</p>
-<h3 class="wp-block-heading">الانتقال الكامل نحو hyperos 3</h3>
+<h3>الانتقال الكامل نحو hyperos 3</h3>
 <p>أوقفت Xiaomi رسميًا أي تطور إضافي على Hyperos 2 ، وبدأت بالفعل في إعادة توجيه فريقها للعمل عليه <strong>Hyperos 3</strong>. تأتي هذه الخطوة ضمن مسعى الشركة للحاق بالمنافسين الذين يستعدون لإطلاق واجهاتهم الخاصة بناءً على <strong>Android 16</strong>.</p>
-<h3 class="wp-block-heading">ما هو المتوقع من Hyperos 3؟</h3>
+<h3>ما هو المتوقع من Hyperos 3؟</h3>
 <p>من المتوقع توفير التحديث المحدث مع تحسينات أساسية ، بما في ذلك:</p>
 <ul class="wp-block-list">
 <li><strong>واجهة مستخدم جديدة مع تغييرات مرئية واضحة</strong></li>
@@ -32,11 +32,9 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d9%8a%d8%a8%d8%b1-%d8%a7
 <li><strong>الاستقرار العليا والاستقرار في الأداء العام للنظام</strong></li>
 </ul>
 <p>تحدثت بعض الشائعات عن تبني تصميم مستوحى من الواجهة <strong>الزجاج السائل</strong> Apple ، لكن المصادر اللاحقة أنكرت صحة هذا الاتجاه.</p>
-<h3 class="wp-block-heading">تاريخ الإطلاق المتوقع</h3>
+<h3>تاريخ الإطلاق المتوقع</h3>
 <p>وفقًا للتسربات ، من المحتمل أن تطلق Xiaomi النسخة التجريبية المغلقة في نهاية أغسطس ، مع وصول الإصدار التجريبي العام <strong>في أواخر سبتمبر أو بداية شهر أكتوبر</strong>.</p>
 <p>تشير القوائم الأولية غير الرسمية إلى أن التحديث سيصل إلى مجموعة من هواتف Xiaomi المؤهلة ، التي سيتم نشرها <strong>القائمة الرسمية للأجهزة المدعومة</strong> في وقت لاحق من قبل الشركة.</p>
-<p>شارك رأيك في التعليقات على أبرز الميزة التي تحديث OS Hyper بشكل عام &#8230;</p>
-<p><a href="https://www.tudocelular.com/software/noticias/n238362/hyperos-3-rumor-fase-beta-testes-comecar-breve.html" data-type="link" data-id="https://www.tudocelular.com/software/noticias/n238362/hyperos-3-rumor-fase-beta-testes-comecar-breve.html">مصدر</a></p>
+<p>شارك رأيك في التعليقات على أبرز الميزة التي تحديث OS Hyper بشكل عام …</p>
+<p><a href="https://www.tudocelular.com/software/noticias/n238362/hyperos-3-rumor-fase-beta-testes-comecar-breve.html" data-type="link" data-id="https://www.tudocelular.com/software/noticias/n238362/hyperos-3-rumor-fase-beta-testes-comecar-breve.html">مصدر</a></p></div>
 </p></div>
-</p></div>
-

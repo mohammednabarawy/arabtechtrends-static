@@ -23,4 +23,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8-%d8%ac
 <p>في الغياب التام لتاريخ الإطلاق الرسمي للهاتف الذكي 10 من Infinix ، حتى الآن ، تشير التوقعات إلى أنه سيكون في الفترة المقبلة ، ووفقًا للتسريبات ، سيكون للهاتف مواصفات أساسية تلبي احتياجات المستخدمين بتكلفة متوسطة.   </p>
 <p><a href="https://www.xpertpick.com/mobile/infinix-smart-10-4g-render-specifications-leak/" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
-

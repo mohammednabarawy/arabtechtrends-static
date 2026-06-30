@@ -12,4 +12,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-magico
 ---
 
 <p>Magicos 10 رسميًا مع تحسينات ضخمة وستحصل هذه الأجهزة على التحديث!</p>
-

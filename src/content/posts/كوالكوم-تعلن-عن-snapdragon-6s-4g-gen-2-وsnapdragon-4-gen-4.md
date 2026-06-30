@@ -6,7 +6,7 @@ updatedDate: "2025-12-15T16:25:04"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["Qualcomm","Snapdragon 4 Gen 4","Snapdragon 6s 4G Gen 2","اتصالات 4G","تحسينات في الأداء"]
-image: ""
+image: "https://www.arabtechtrends.com/wp-content/uploads/2025/12/1765808701_458_snapdragon-6s-4g-gen-2.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%83%d9%88%d8%a7%d9%84%d9%83%d9%88%d9%85-%d8%aa%d8%b9%d9%84%d9%86-%d8%b9%d9%86-snapdragon-6s-4g-gen-2-%d9%88snapdragon-4-gen-4/"
 ---
@@ -19,18 +19,17 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%83%d9%88%d8%a7%d9%84%d9%83%d9%88%
 <div align="center"></div>
 <p></p>
 <p>ويتميز المعالج بمودم 5G sub-6 جيجا هرتز من الجيل السادس عشر الذي يتيح سرعات تنزيل تصل إلى 2.5 جيجابت/ثانية، مما يجعله خيارًا مناسبًا للهواتف الموجهة للأسواق التي تعتمد على الجيل الخامس. كما يدعم المعالج ذاكرة LPDDR5 السريعة وتخزين UFS 3.1 فائق السرعة، بالإضافة إلى دعم منفذ اتصال USB 3.2 Gen1 وتقنية الشحن السريع Quick Charge 4+، مما يضمن شحن 50% من البطارية خلال 15 دقيقة فقط.</p>
-<div align="center"><img decoding="async" src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1765808701_458_snapdragon-6s-4g-gen-2.webp.webp" title="مواصفات شريحة Snapdragon 4 Gen 4" class="img-responsive lazy" alt="مواصفات شريحة Snapdragon 4 Gen 4" border="0"/></div>
+<div align="center"><img src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1765808701_458_snapdragon-6s-4g-gen-2.webp.webp" title="مواصفات شريحة Snapdragon 4 Gen 4" class="img-responsive lazy" alt="مواصفات شريحة Snapdragon 4 Gen 4"/></div>
 <p></p>
 <p>أما بالنسبة لأجهزة التصوير والكاميرا فهي تدعم معالجة الصور بدقة تصل إلى 108 ميجابكسل، ولكن مع إعداد ISP مزدوج يعمل مع الكاميرات بدقة 16+16 ميجابكسل دون أي تأخير.</p>
 <p><b>شريحة Snapdragon 6s 4G Gen 2: تحسينات ملحوظة على الرغم من بقائها على شبكة 4G</b><br />ويحصل المعالج الجديد على معالج Kryo بتردد يصل إلى 2.9 جيجا هرتز، وهو أسرع بأكثر من 50% مقارنة بإصدار الجيل الأول، بينما يقدم معالج الرسوميات Adreno أداء أفضل بنسبة 20% مع دعم الشاشات بدقة تصل إلى 1080 بكسل ومعدل تحديث يصل إلى 120 هرتز.</p>
-<div align="center"><img decoding="async" src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1765808701_532_snapdragon-6s-4g-gen-2.webp.webp" title="معالج Snapdragon 6s 4G Gen 2" class="img-responsive lazy" alt="معالج Snapdragon 6s 4G Gen 2" border="0"/></div>
+<div align="center"><img src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1765808701_532_snapdragon-6s-4g-gen-2.webp.webp" title="معالج Snapdragon 6s 4G Gen 2" class="img-responsive lazy" alt="معالج Snapdragon 6s 4G Gen 2"/></div>
 <p></p>
 <p>يعتمد المعالج على تقنية تصنيع 6 نانومتر، وهي أحدث بكثير من تقنية 11 نانومتر في الإصدار السابق، ويدعم ما يصل إلى 8 جيجابايت من ذاكرة الوصول العشوائي LPDDR4X وتخزين UFS 2.2، بالإضافة إلى دعم منفذ اتصال USB 3.1 فائق السرعة وتقنية الشحن السريع Quick Charge 3 التي توفر شحنًا يصل إلى 80% خلال 35 دقيقة.</p>
 <p>أما بالنسبة لأجهزة الكاميرا، فيمكن للمعالج التعامل مع كاميرات تصل دقتها إلى 108 ميجابكسل ويأتي مع مزود خدمة إنترنت ثلاثي يمكنه تشغيل تكوينات الكاميرا 13+13+5 ميجابكسل أو 16+16 ميجابكسل دون تأخير الغالق مع دعم تسجيل الفيديو بدقة تصل إلى 1080 بكسل و60 إطارًا في الثانية.</p>
-<div align="center"><img decoding="async" src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1765808701_816_snapdragon-6s-4g-gen-2.webp.webp" title="مواصفات شريحة Snapdragon 6s 4G Gen 2" class="img-responsive lazy" alt="مواصفات شريحة Snapdragon 6s 4G Gen 2" border="0"/></div>
+<div align="center"><img src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1765808701_816_snapdragon-6s-4g-gen-2.webp.webp" title="مواصفات شريحة Snapdragon 6s 4G Gen 2" class="img-responsive lazy" alt="مواصفات شريحة Snapdragon 6s 4G Gen 2"/></div>
 <p></p>
 <p>لكن رغم التطورات والتحسينات، تظل شبكات الاتصال مقتصرة على 4G LTE، إلى جانب Wi-Fi 5، والبلوتوث الإصدار 5.2، ونظام متعدد المواقع مع تحسينات في دقة التتبع.</p>
 <p><b>إطلاق التوقعات</b><br />وتشير التوقعات إلى ظهور أولى الهواتف المزودة بهذه الرقائق خلال العام المقبل، وهو ما يعكس اهتمام كوالكوم المستمر بتقديم حلول قوية للهواتف ذات الميزانية المحدودة والمتوسطة دون التضحية بالأداء أو الكفاءة.</p>
 <p><a href="https://www.gsmarena.com/qualcomm_unveils_snapdragon_6s_4g_gen_2_and_snapdragon_4_gen_4-news-70716.php" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
-

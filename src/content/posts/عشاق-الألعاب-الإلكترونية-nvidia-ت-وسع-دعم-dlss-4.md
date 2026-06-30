@@ -21,27 +21,27 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b9%d8%b4%d8%a7%d9%82-%d8%a7%d9%84
 <div>
 <ol>
 <li>قرمزي الصحراء</li>
-<p>&#13;</p>
+<p></p>
 <li>F1® 25</li>
-<p>&#13;</p>
+<p></p>
 <li>FBC: Firebreak</li>
-<p>&#13;</p>
+<p></p>
 <li>الكثبان الرملية: الصحوة</li>
-<p>&#13;</p>
+<p></p>
 <li>inzoi</li>
-<p>&#13;</p>
+<p></p>
 <li>ضوء motiram</li>
-<p>&#13;</p>
+<p></p>
 <li>Mindseye</li>
-<p>&#13;</p>
+<p></p>
 <li>الطريق</li>
-<p>&#13;</p>
+<p></p>
 <li>Splitgate 2</li>
-<p>&#13;</p>
+<p></p>
 <li>ووتشانغ: الريش الساقطة</li>
-<p>&#13;</p>
+<p></p>
 <li>الفوضى enscape و autodesk vred</li>
-<p>&#13;
+<p>
 </ol>
 </div>
 <p><b>تتبع المسار و DLSS Ray Reconstructione: The Dark Ages في يونيو.</b></p>
@@ -52,4 +52,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b9%d8%b4%d8%a7%d9%82-%d8%a7%d9%84
 <p>في التحديث الجديد المتاح الآن عبر Steam ، عززت NVIDIA معالج الذكاء الاصطناعي للرسومات في Portal مع RTX لتحسين الأداء وجودة الصورة أكثر. تم دمج DLSS 4 أيضًا مع توليد إطارات متعددة مباشرة في اللعبة ، وتم تحديث إطار DLSS لاستخدام أحدث نموذج للذكاء الاصطناعي ، بالإضافة إلى إعادة بناء شعاع DLSS لاستخدام نموذج المحول الجديد.</p>
 <p>يوفر التحديث أيضًا تقنية RTX Neural Radiance Cache (NRC) ، وهي أول تظليل من Neurral في العالم الذي يستخدم الذكاء الاصطناعي لتقدير السخط بدقة عالية.</p>
 </div>
-

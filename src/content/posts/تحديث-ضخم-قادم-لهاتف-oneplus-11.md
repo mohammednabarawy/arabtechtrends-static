@@ -22,4 +22,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d8%b6
 <p>وبهذا التحديث تؤكد شركة OnePlus التزامها بدعم أجهزتها القديمة، خاصة الهواتف الرائدة التي لا تزال تحظى بشعبية كبيرة بين المستخدمين. ويبدو أن هاتف OnePlus 11 الذي حقق مبيعات قوية عند إطلاقه، لن يتراجع عن المنافسة قريباً، خاصة بعد حصوله على الإصدار الأخير من نظام التشغيل.</p>
 <p><a href="https://www.gsmarena.com/oneplus_11s_android_16_update_is_now_rolling_out-news-70538.php" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
-

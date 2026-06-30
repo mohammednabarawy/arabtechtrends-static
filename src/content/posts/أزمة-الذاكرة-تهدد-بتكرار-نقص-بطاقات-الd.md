@@ -20,8 +20,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a3%d8%b2%d9%85%d8%a9-%d8%a7%d9%84
 </div>
 <p>وتراهن شركة NVIDIA على أن الطلب على بطاقات الألعاب لن يكون قوياً في عام 2026 نتيجة غياب قفزات تقنية جديدة، لكن خفض الإنتاج بهذه الطريقة قد يؤدي إلى نتائج عكسية أبرزها قلة المعروض في الأسواق وارتفاع الأسعار، وهو سيناريو يذكرنا بأزمة البطاقات الرسومية التي ضربت السوق منذ سنوات.</p>
 <div>ولا تقتصر تداعيات أزمة الذاكرة الحالية على البطاقات الرسومية وحدها، إذ يتوقع المحللون أن تمتد تأثيراتها إلى سوق الأجهزة الإلكترونية بشكل عام. ومن المرجح أن ترتفع أسعار أجهزة الكمبيوتر المحمولة بشكل كبير، مع عودة تكوينات الذاكرة الأقل إلى الواجهة، سواء في أجهزة الكمبيوتر المحمولة أو الهواتف الذكية. وحتى أجهزة الألعاب وأنظمة الترفيه المنزلي قد لا تكون بمنأى عن موجة ارتفاع الأسعار، مع استمرار ارتفاع تكاليف شرائح الذاكرة عالمياً.</p>
-<p><a href="https://www.notebookcheck.net/DRAM-crisis-could-cause-new-GPU-shortages-Nvidia-expected-to-drastically-cut-GeForce-RTX-production.1187809.0.html" target="_blank" rel="nofollow">مصدر</a><br />&#13;
+<p><a href="https://www.notebookcheck.net/DRAM-crisis-could-cause-new-GPU-shortages-Nvidia-expected-to-drastically-cut-GeForce-RTX-production.1187809.0.html" target="_blank" rel="nofollow">مصدر</a><br />
 </p>
 </div>
 </div>
-

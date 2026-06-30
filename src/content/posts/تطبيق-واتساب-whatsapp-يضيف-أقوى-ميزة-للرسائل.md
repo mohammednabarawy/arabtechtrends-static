@@ -6,7 +6,7 @@ updatedDate: "2025-10-25T21:16:06"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "https://www.arabtechtrends.com/wp-content/uploads/2025/10/2025-10-21_15-43-32.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-%d9%88%d8%a7%d8%aa%d8%b3%d8%a7%d8%a8-whatsapp-%d9%8a%d8%b6%d9%8a%d9%81-%d8%a3%d9%82%d9%88%d9%89-%d9%85%d9%8a%d8%b2%d8%a9-%d9%84%d9%84%d8%b1%d8%b3%d8%a7%d8%a6%d9%84/"
 ---
@@ -19,21 +19,20 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-%d9%88
 </div>
 <div class="entry-content entry clearfix">
 <p>يواصل تطبيق واتساب العمل على تحسين تجربة المستخدم وتعزيز الخصوصية داخل المنصة، حيث بدأ مؤخراً باختبار ميزة جديدة تهدف إلى تقليل الرسائل غير المرغوب فيها (البريد العشوائي) وتقليل الإزعاج الناتج عن المحادثات المتكررة دون رد.</p>
-<h2 class="wp-block-heading">كيف تعمل خاصية تقليل الرسائل المزعجة والمحادثات غير المرغوب فيها</h2>
+<h2>كيف تعمل خاصية تقليل الرسائل المزعجة والمحادثات غير المرغوب فيها</h2>
 <p>وبحسب التفاصيل التي نشرها موقع TudoCelular، فإن الميزة الجديدة تحدد حدا شهريا لإرسال الرسائل إلى جهة الاتصال نفسها، بحيث يتم تفعيل هذا الحد عندما لا يتلقى المستخدم أي رد بعد عدة محاولات.</p>
 <p>بمعنى آخر، إذا استمر شخص ما في إرسال الرسائل دون الحصول على رد، فسيتم حظره مؤقتًا من الاستمرار في الإرسال إلى هذا المستخدم.</p>
 <p> <strong>الاستثناءات:</strong></p>
-<figure class="wp-block-image size-full"><img data-lazyloaded="1" data-recalc-dims="1" decoding="async" width="707" height="559" src="https://www.arabtechtrends.com/wp-content/uploads/2025/10/2025-10-21_15-43-32.jpg" alt="تطبيق واتس اب" class="wp-image-225634"  data-/></figure>
+<figure class="wp-block-image size-full"><img width="707" height="559" src="https://www.arabtechtrends.com/wp-content/uploads/2025/10/2025-10-21_15-43-32.jpg" alt="تطبيق واتس اب" class="wp-image-225634"></figure>
 <ul class="wp-block-list">
 <li>لن يتم تطبيق الحد على المحادثات العادية التي تتضمن ردودًا متبادلة.</li>
 <li>سيكون للحسابات التجارية حد أعلى للرسائل ويمكنها تقديم طلب استثناء يدوي من داخل التطبيق.</li>
 </ul>
-<h3 class="wp-block-heading">تتضمن الميزة الحسابات الشخصية والتجارية</h3>
+<h3>تتضمن الميزة الحسابات الشخصية والتجارية</h3>
 <p>ويؤكد واتساب أن هذه الخطوة تهدف إلى جعل المحادثات “أكثر توازناً وأقل تدخلاً”، وستنطبق على جميع أنواع الحسابات، سواء الشخصية أو التجارية. ومع ذلك، فإن المستخدم الذي يتجاوز الحد الأقصى سيتمكن من استقبال الرسائل والمكالمات بشكل طبيعي، ولكن لن يتمكن من إرسال رسائل جديدة إلا بعد انتهاء الفترة المحددة.</p>
-<h3 class="wp-block-heading">متى يتم الإطلاق؟</h3>
+<h3>متى يتم الإطلاق؟</h3>
 <p>الميزة حاليًا في مرحلة التطوير المتقدمة، ومن المتوقع أن يبدأ تطبيق WhatsApp في طرحها تدريجيًا خلال الأسابيع المقبلة لمستخدمي Android وiOS، إلى جانب ميزات أخرى قيد الاختبار مثل دمج Meta AI في Status.</p>
 <p>ومع هذه الإضافة الجديدة، يبدو أن واتساب يواصل جهوده لجعل التطبيق أكثر أمانًا وراحة للمستخدمين، خاصة مع تزايد الشكاوى من البريد العشوائي والأطراف غير المرغوب فيها.</p>
 <p>ما رأيك في هذه الميزة؟</p>
 <p><a href="https://www.tudocelular.com/seguranca/noticias/n241644/whatsapp-testa-recurso-mensagens-indesejadas.html" data-type="link" data-id="https://www.tudocelular.com/seguranca/noticias/n241644/whatsapp-testa-recurso-mensagens-indesejadas.html">مصدر</a></p>
 </div></div>
-

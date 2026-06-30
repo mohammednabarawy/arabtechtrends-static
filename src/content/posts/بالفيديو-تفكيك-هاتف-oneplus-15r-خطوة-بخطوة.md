@@ -26,4 +26,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a8%d8%a7%d9%84%d9%81%d9%8a%d8%af%
 جدير بالذكر أن هاتف OnePlus 15R تم إطلاقه رسميًا في الأسواق الهندية في 17 ديسمبر من الشهر الجاري، ليكون أحدث الهواتف الراقية في سلسلة R، مع تركيز واضح على الأداء القوي وعمر البطارية الطويل، بالإضافة إلى تجربة استخدام مدعومة بالذكاء الاصطناعي، في محاولة لتقديم بديل جذاب للهواتف الرائدة مرتفعة الأسعار.</p>
 <p><a href="https://www.gsmarena.com/oneplus_15r_teardown_reveals_repairfriendly_design-news-70793.php" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
-

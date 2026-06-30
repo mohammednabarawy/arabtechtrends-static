@@ -22,8 +22,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%aa
 <p>ويعاني بعض مستخدمي Xiaomi 15 Pro أيضًا من مشكلتين منفصلتين: الأولى تتعلق بعدم القدرة على سحب شريط الحالة للأسفل، والثانية هي عدم ظهور الوقت والتاريخ على شاشة القفل. وفي الوقت نفسه، يواجه Xiaomi 14 Pro مشكلات في تخصيص التطبيق، إلى جانب تعطل النظام والفشل في تحميل التطبيقات من متجر التطبيقات بسبب قيود البيانات.</p>
 <p>أما مستخدمي Redmi K70، فقد اشتكوا من اختفاء ميزة NFC في بعض الأحيان، وعدم ظهور محتوى متجر السمات، وهي مشكلة تعمل الشركة أيضًا على إصلاحها في تحديث HyperOS 3.0.2.0.</p>
 <div>وبحسب الصفحة الرسمية لشركة Xiaomi على موقع Weibo، فإن فريق البرمجيات يعمل على معالجة هذه المشكلات تدريجيًا، وسيتم إصدار تحديثات رسمية لحلها نهائيًا ضمن إصدارات HyperOS 3.0 القادمة، في محاولة لتحسين استقرار النظام وتقليل الأعطال التي ظهرت خلال الأسابيع الماضية.</p>
-<p><a href="https://www.huaweicentral.com/xiaomi-fixing-bunch-of-screen-and-ui-issues-with-new-hyperos-update/" target="_blank" rel="nofollow">مصدر</a><br />&#13;
+<p><a href="https://www.huaweicentral.com/xiaomi-fixing-bunch-of-screen-and-ui-issues-with-new-hyperos-update/" target="_blank" rel="nofollow">مصدر</a><br />
 </p>
 </div>
 </div>
-

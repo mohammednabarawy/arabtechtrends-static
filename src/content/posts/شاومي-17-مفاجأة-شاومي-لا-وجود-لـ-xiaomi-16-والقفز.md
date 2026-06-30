@@ -15,15 +15,13 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-17-%d9
 <p>أعلنت الشركة الصينية ، Xiaomi ، رسميًا عن خططها لإطلاق هواتفها الرائدة الجديدة التي تحمل اسم Xiaomi 17 ″ ، والتي ستشمل ثلاثة إصدارات من Xia 17 Xiaomi 17 و Xiaomi 17 Pro و Xiaom 17 Pro Max 17 Pro Max.</p>
 <p>ومن المثير للاهتمام ، أن الشركة قررت التغلب تمامًا على سلسلة Xiaom 16 والانتقال مباشرة إلى Xiaomi 17 ، في خطوة موصوفة على أنها توجيه إلى مسابقة Apple مباشرة ، حيث يتزامن الاسم مع إطلاق سلسلة iPhone 17 مؤخرًا.</p>
 <p><strong>ما هو سبب هذا؟ </strong></p>
-<p>أوضحت Xiaomi أن هذه الخطوة جاءت ضمن استراتيجية تسويقية تهدف إلى وضع أجهزتها على مستوى واحد مع أحدث هواتف Apple. بدلاً من إطلاق سلسلة &#8220;Xiaomi 16&#8221; كما هو متوقع ، رأت الشركة أن الانتقال إلى &#8220;17&#8221; سيمنح منتجاتها وجودًا أقوى في السوق العالمية وإرسال رسالة واضحة مفادها أنها تتنافس مباشرة مع أحدث إصدارات iPhone.</p>
-<h2 class="wp-block-heading">مواصفات هواتف Xiaomi 17 وفقًا للتسريبات</h2>
+<p>أوضحت Xiaomi أن هذه الخطوة جاءت ضمن استراتيجية تسويقية تهدف إلى وضع أجهزتها على مستوى واحد مع أحدث هواتف Apple. بدلاً من إطلاق سلسلة "Xiaomi 16" كما هو متوقع ، رأت الشركة أن الانتقال إلى "17" سيمنح منتجاتها وجودًا أقوى في السوق العالمية وإرسال رسالة واضحة مفادها أنها تتنافس مباشرة مع أحدث إصدارات iPhone.</p>
+<h2>مواصفات هواتف Xiaomi 17 وفقًا للتسريبات</h2>
 <p>وفقًا للمعلومات الرسمية والتسربات الموثوقة ، ستأتي سلسلة Xiaomi 17 مع عدد من المواصفات القوية التي تؤهلها لتكون منافسًا حقيقيًا في سوق الهاتف الرائد:</p>
 <p><strong>المعالج</strong>: ستعمل جميع الإصدارات مع معالج <strong>Snapdragon 8 Elite Gen 5</strong> آخر Qualcomm ، الذي يعتبر أداءً استثنائياً في معالجة الرسومات وكفاءة الطاقة العالية.</p>
 <p>البطارية: ستشهد السلسلة بطاريات كبيرة ، حيث أشارت التسريبات إلى أن إصدار Xiaomi 17 Pro Max قد يأتي بسعة 7500 مللي أمبير في الساعة ، وهي خطوة قد تحدث فرقًا كبيرًا في عمر البطارية مقارنة بالمنافسين.</p>
 <p><strong>كاميرات</strong>تعاون Xiaomi المستمر مع شركة <strong>لايكا</strong> ستستمر في هذه السلسلة ، مع تحسينات كبيرة في العدسات ، بما في ذلك إضافة عدسة بيركوب لتجربة تصوير مميزة في التكبير وأخذ الماكرو.</p>
 <p><strong>تصميم</strong>سيتضمن إصدار Xiaomi 17 Pro Max ميزة مثيرة للاهتمام ، حيث أكدت الشركة أنها ستحتوي <strong>الشاشة الخلفية الثانوية بجوار الكاميرات</strong>يمكن استخدامه لعرض التنبيهات والوقت ، أو كإطار محدد عند تصوير كاميرات الظهر.</p>
-<h3 class="wp-block-heading">تاريخ الإطلاق هو الهواتف <strong>Xiaomi 17 </strong></h3>
+<h3>تاريخ الإطلاق هو الهواتف <strong>Xiaomi 17 </strong></h3>
 <p>حددت Xiaomi تاريخًا رسميًا للكشف عن سلسلة <strong>Xiaomi 17</strong> في <strong>26 سبتمبر 2025</strong>خلال مؤتمر ضخم في الصين ، تتوفر الأجهزة لاحقًا في الأسواق العالمية.</p>
-<p><a href="https://www.xiaomiadictos.com/xiaomi-va-a-por-el-iphone-17-se-salta-el-xiaomi-16-y-presentara-directamente-el-xiaomi-17/#google_vignette" data-type="link" data-id="https://www.xiaomiadictos.com/xiaomi-va-a-por-el-iphone-17-se-salta-el-xiaomi-16-y-presentara-directamente-el-xiaomi-17/#google_vignette">مصدر</a></p>
-</p></div>
-
+<p><a href="https://www.xiaomiadictos.com/xiaomi-va-a-por-el-iphone-17-se-salta-el-xiaomi-16-y-presentara-directamente-el-xiaomi-17/#google_vignette" data-type="link" data-id="https://www.xiaomiadictos.com/xiaomi-va-a-por-el-iphone-17-se-salta-el-xiaomi-16-y-presentara-directamente-el-xiaomi-17/#google_vignette">مصدر</a></p></div>

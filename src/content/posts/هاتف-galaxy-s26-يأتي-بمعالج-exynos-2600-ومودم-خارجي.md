@@ -1,6 +1,6 @@
 ---
 title: "هاتف Galaxy S26 يأتي بمعالج Exynos 2600 ومودم خارجي وسط مخاوف بشأن كفاءة الطاقة"
-description: "تتجه الأنظار كلها نحو الجيل القادم من هواتف Galaxy S26 وسط مؤشرات على أن سامسونج قد تكرر سياسة توزيع المعالجات بين الأسواق، ولكن هذه المرة مع تغيير تقني مثير للجدل في نسخة Exynos. وبحسب التسريبات فإن بعض الإصدارات وتحديدا في كوريا الجنوبية "
+description: "تتجه الأنظار كلها نحو الجيل القادم من هواتف Galaxy S26 وسط مؤشرات على أن سامسونج قد تكرر سياسة توزيع المعالجات بين الأسواق، ولكن هذه المرة مع تغيير تقني مثير للجدل في نسخة Exynos. وبحسب التسريبات فإن بعض الإصدارات وتحديدا في كوريا الجنوبية"
 pubDate: "2025-12-23T03:51:00"
 updatedDate: "2025-12-23T12:05:34"
 author: "Arab Tech Trends"
@@ -26,4 +26,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d8%aa%d9%81-galaxy-s26-%
 <p><a href="https://www.gizmochina.com/2025/12/23/galaxy-s26-uses-exynos-2600-with-external-modem-raising-power-efficiency-questions/" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
 </div>
-

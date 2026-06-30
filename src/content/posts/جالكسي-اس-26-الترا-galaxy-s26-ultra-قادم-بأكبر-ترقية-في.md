@@ -18,8 +18,8 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-
 </div>
 </div>
 <div class="entry-content entry clearfix">
-<p>تعمل الشركة الكورية &#8220;Samsung&#8221; حاليًا على Galaxy S26 Ultra القادمة ، مع ترقية ضخمة في الشاشة ، والتي ستكون الأبرز في السنوات. بعد أن اعتمدت الشركة على M13 على شاشات كل من Galaxy S4 Ultra و S25 Ultra ، تستعد Samsung أخيرًا للانتقال إلى أحدث M14 ، إلى جانب تقنية COE المتقدمة.</p>
-<h2 class="wp-block-heading">أبرز ميزات Galaxy S26 Ultra</h2>
+<p>تعمل الشركة الكورية "Samsung" حاليًا على Galaxy S26 Ultra القادمة ، مع ترقية ضخمة في الشاشة ، والتي ستكون الأبرز في السنوات. بعد أن اعتمدت الشركة على M13 على شاشات كل من Galaxy S4 Ultra و S25 Ultra ، تستعد Samsung أخيرًا للانتقال إلى أحدث M14 ، إلى جانب تقنية COE المتقدمة.</p>
+<h2>أبرز ميزات Galaxy S26 Ultra</h2>
 <p><strong>أولا: M14 </strong></p>
 <p>سيجعل M14 الجديد الشاشة مشرقة ، مع تحسين جودة الألوان وزيادة مدة الصلاحية ، مما يضمن تجربة مشاهدة طويلة المدى. على عكس iPhone الذي كان قد استخدم هذه التكنولوجيا سابقًا ، فإن Galaxy S26 Ultra سيكون أول هاتف Samsung يحصل عليها ، في حين أن نسخ S26 Pro و S26 Edge ستبقى في أقدم M13.</p>
 <p><strong>ثانياً: تقنية COE لتقليل الأسماك وزيادة السطوع</strong></p>
@@ -32,8 +32,6 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-
 </ul>
 <p>تجدر الإشارة إلى أن Samsung قد استخدمت بالفعل هذه التكنولوجيا في سلسلة Galaxy Z Fold في السنوات الماضية ، ولكن تطبيقها الأول في سلسلة S سيكون خطوة مهمة للغاية.</p>
 <p>من المتوقع أن تكشف Samsung رسميًا عن سلسلة Galaxy S 26 في أوائل عام 2026 ، لتزويد المستخدمين بشاشة أكثر تطوراً تجمع بين M14 و COE لأول مرة على هواتف فائقة ، مما قد يجعلها أكبر قفزة على هواتف المجرة منذ سنوات.</p>
-<p>شارك رأيك في أهم ميزة يجب أن تصل هذه السلسلة من الهواتف إلى &#8230;</p>
-<p><a href="https://www.sammyfans.com/2025/09/22/galaxy-s26-ultra-big-upgrade/" data-type="link" data-id="https://www.sammyfans.com/2025/09/22/galaxy-s26-ultra-big-upgrade/">مصدر</a></p>
+<p>شارك رأيك في أهم ميزة يجب أن تصل هذه السلسلة من الهواتف إلى …</p>
+<p><a href="https://www.sammyfans.com/2025/09/22/galaxy-s26-ultra-big-upgrade/" data-type="link" data-id="https://www.sammyfans.com/2025/09/22/galaxy-s26-ultra-big-upgrade/">مصدر</a></p></div>
 </p></div>
-</p></div>
-

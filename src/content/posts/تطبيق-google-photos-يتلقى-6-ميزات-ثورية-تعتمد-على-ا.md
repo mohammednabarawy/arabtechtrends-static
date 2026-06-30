@@ -12,13 +12,13 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-google
 ---
 
 <div>
-<p>أعلنت <a href="https://blog.google/products/photos/nano-banana-ai-templates-ask-photos/?utm_source=tw&amp;utm_medium=social&amp;utm_campaign=nfg&amp;utm_content=&amp;utm_term=" data-type="link" data-id="https://blog.google/products/photos/nano-banana-ai-templates-ask-photos/?utm_source=tw&amp;utm_medium=social&amp;utm_campaign=nfg&amp;utm_content=&amp;utm_term=">جوجل</a> تم الإعلان عن تحديثات قوية لخدمة صور Google Photos، حيث أضافت 6 ميزات جديدة مدعومة بالذكاء الاصطناعي، بما في ذلك تحسينات في تحرير الصور، وإنشاء محتوى مرئي مبتكر، والبحث الذكي داخل مكتبة الصور، عبر نموذج Nano Banana الخاص بشركة Gemini. تهدف هذه التحديثات إلى تسهيل التفاعل مع ذكريات المستخدمين وجعل تحرير الصور أكثر سلاسة وإبداعًا.</p>
-<h2 class="wp-block-heading">وإليكم أهم 6 ميزات جديدة في صور جوجل التي تعتمد على الذكاء الاصطناعي</h2>
+<p>أعلنت <a href="https://blog.google/products/photos/nano-banana-ai-templates-ask-photos/?utm_source=tw&utm_medium=social&utm_campaign=nfg&utm_content=&utm_term=" data-type="link" data-id="https://blog.google/products/photos/nano-banana-ai-templates-ask-photos/?utm_source=tw&utm_medium=social&utm_campaign=nfg&utm_content=&utm_term=">جوجل</a> تم الإعلان عن تحديثات قوية لخدمة صور Google Photos، حيث أضافت 6 ميزات جديدة مدعومة بالذكاء الاصطناعي، بما في ذلك تحسينات في تحرير الصور، وإنشاء محتوى مرئي مبتكر، والبحث الذكي داخل مكتبة الصور، عبر نموذج Nano Banana الخاص بشركة Gemini. تهدف هذه التحديثات إلى تسهيل التفاعل مع ذكريات المستخدمين وجعل تحرير الصور أكثر سلاسة وإبداعًا.</p>
+<h2>وإليكم أهم 6 ميزات جديدة في صور جوجل التي تعتمد على الذكاء الاصطناعي</h2>
 <p><strong>تحرير الصور حسب الطلب</strong></p>
 <ol class="wp-block-list"/>
-<p>تتيح لك ميزة &#8220;ساعدني في التحرير&#8221; تحرير الصور بطريقة بسيطة للغاية. على سبيل المثال: إزالة النظارات الشمسية من شخص ما، فتح عينيه المغمضتين، تصحيح الابتسامة، وما إلى ذلك.</p>
+<p>تتيح لك ميزة "ساعدني في التحرير" تحرير الصور بطريقة بسيطة للغاية. على سبيل المثال: إزالة النظارات الشمسية من شخص ما، فتح عينيه المغمضتين، تصحيح الابتسامة، وما إلى ذلك.</p>
 <p>كيف يعمل: يستخدم التطبيق صور مجموعة الوجه الخاصة بالمستخدمين لإنشاء تعديلات دقيقة وشخصية للأشخاص الموجودين في مكتبة الصور.</p>
-<p>الاستخدام: ما عليك سوى فتح الصورة واختيار &#8220;مساعدتي في التحرير&#8221; واكتب التعديلات المطلوبة، وسيقوم التطبيق بتنفيذها تلقائيًا.</p>
+<p>الاستخدام: ما عليك سوى فتح الصورة واختيار "مساعدتي في التحرير" واكتب التعديلات المطلوبة، وسيقوم التطبيق بتنفيذها تلقائيًا.</p>
 <p><strong>التوسع على نظام iOS</strong></p>
 <ol start="2" class="wp-block-list"/>
 <p>الميزة، التي كانت مقتصرة على نظام Android، متاحة الآن لمستخدمي iOS في الولايات المتحدة.</p>
@@ -31,7 +31,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-google
 <p>تحويل الصور إلى لوحات فنية على طراز عصر النهضة.</p>
 <p>تحويل الصور إلى فسيفساء من البلاط الملون.</p>
 <p>تحويل الصور إلى صفحات من كتب قصص الأطفال.</p>
-<p>كيفية الاستخدام: افتح الصورة، واختر &#8220;ساعدني في التحرير&#8221;، ثم قم بوصف النمط الجديد الذي تريد تطبيقه، وسيقوم التطبيق بتنفيذه.</p>
+<p>كيفية الاستخدام: افتح الصورة، واختر "ساعدني في التحرير"، ثم قم بوصف النمط الجديد الذي تريد تطبيقه، وسيقوم التطبيق بتنفيذه.</p>
 <p><strong>قوالب الذكاء الاصطناعي الجاهزة</strong></p>
 <ol start="4" class="wp-block-list"/>
 <p>أضافت جوجل قسم الإنشاء باستخدام الذكاء الاصطناعي الذي يحتوي على قوالب جاهزة لتسهيل إنشاء الصور عبر الذكاء الاصطناعي.</p>
@@ -46,17 +46,16 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-google
 <p>تساعدك ميزة Ask Photos على البحث في مكتبة الصور الخاصة بك بشكل طبيعي وسريع.</p>
 <p>التوسع العالمي: متوفر الآن في أكثر من 100 دولة و17 لغة جديدة.</p>
 <p>كيفية الاستخدام: ما عليك سوى وصف ما تبحث عنه، وسيعرض التطبيق الصور والمعلومات الأكثر صلة.</p>
-<p><strong>تفاعل عميق مع الصور عبر زر &#8220;اسأل&#8221;.</strong></p>
+<p><strong>تفاعل عميق مع الصور عبر زر "اسأل".</strong></p>
 <ol start="6" class="wp-block-list"/>
-<p>وتتيح خاصية &#8220;اسأل&#8221; الجديدة التفاعل المباشر مع الصور.</p>
+<p>وتتيح خاصية "اسأل" الجديدة التفاعل المباشر مع الصور.</p>
 <p>الوظائف:</p>
 <p>ابدأ محادثة حول محتوى الصورة.</p>
 <p>اكتشف اللحظات المتعلقة بالصورة.</p>
 <p>قم بوصف التعديلات التي تريد تطبيقها وشاهد تنفيذها في ثوانٍ.</p>
-<p>كيفية الاستخدام: أثناء عرض الصورة، اضغط على زر &#8220;اسأل&#8221;، ثم اكتب أو اختر أحد الاقتراحات لبدء التفاعل.</p>
+<p>كيفية الاستخدام: أثناء عرض الصورة، اضغط على زر "اسأل"، ثم اكتب أو اختر أحد الاقتراحات لبدء التفاعل.</p>
 <p>خاتمة:</p>
 <p>تتيح هذه الميزات للمستخدمين تحرير الصور وإنشاء محتوى جديد والبحث داخل مكتبة الصور بطريقة أكثر ذكاءً وسهولة. يتم طرح التحديثات بالفعل، مما يجعل تجربة صور Google أكثر تفاعلية وإبداعًا.</p>
 <p>ما هي الميزة التي أعجبتك أكثر؟</p>
-<p><a href="https://blog.google/products/photos/nano-banana-ai-templates-ask-photos/?utm_source=tw&amp;utm_medium=social&amp;utm_campaign=nfg&amp;utm_content=&amp;utm_term=" data-type="link" data-id="https://blog.google/products/photos/nano-banana-ai-templates-ask-photos/?utm_source=tw&amp;utm_medium=social&amp;utm_campaign=nfg&amp;utm_content=&amp;utm_term=">مصدر</a></p>
+<p><a href="https://blog.google/products/photos/nano-banana-ai-templates-ask-photos/?utm_source=tw&utm_medium=social&utm_campaign=nfg&utm_content=&utm_term=" data-type="link" data-id="https://blog.google/products/photos/nano-banana-ai-templates-ask-photos/?utm_source=tw&utm_medium=social&utm_campaign=nfg&utm_content=&utm_term=">مصدر</a></p>
 </div>
-

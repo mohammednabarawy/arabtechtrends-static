@@ -12,17 +12,17 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-one-ui
 ---
 
 <div>
-<p>كشفت مصادر مستنيرة أن الشركة الكورية Samsung تستعد لإطلاق التحديث التجريبي من واجهة One UI 8 لهاتفها المتوسط &#8220;Galaxy A36&#8221;. يأتي هذا التطوير بعد مراقبة حزمة التحديث على الخوادم الداخلية للشركة ، مما يشير إلى أن الإطلاق الرسمي للنسخة التجريبية للمستخدمين وشيك.</p>
-<h2 class="wp-block-heading"><strong>Galaxy A36 تحديث تفاصيل إلى </strong>واجهة المستخدم واحدة 8</h2>
+<p>كشفت مصادر مستنيرة أن الشركة الكورية Samsung تستعد لإطلاق التحديث التجريبي من واجهة One UI 8 لهاتفها المتوسط "Galaxy A36". يأتي هذا التطوير بعد مراقبة حزمة التحديث على الخوادم الداخلية للشركة ، مما يشير إلى أن الإطلاق الرسمي للنسخة التجريبية للمستخدمين وشيك.</p>
+<h2><strong>Galaxy A36 تحديث تفاصيل إلى </strong>واجهة المستخدم واحدة 8</h2>
 <p>وفقًا للمعلومات التي نشرتها The Technical Leak (@Koram_Akilesh) ، فإن إصدار اختبار UI 8 لـ Galaxy A36 يحتوي على إصدار A3666EXXU4ZEH3. يؤكد هذا الاكتشاف خطة Samsung التي تم الإعلان عنها مسبقًا لتوسيع برنامجها التجريبي لتضمينها ، بالإضافة إلى الهواتف الرائدة والأجهزة المتوسطة والطائرة.</p>
 <p><strong>الإطلاق التجريبي:</strong> من المتوقع أن تبدأ Samsung في تزويد البرنامج التجريبي للمستخدمين في شهر واحد <strong>سبتمبر</strong> التالي.</p>
 <p><strong>البلدان المؤهلة:</strong> سيتمكن المستخدمون في البلدان المختارة من <strong>كوريا الجنوبية والولايات المتحدة والهند والمملكة المتحدة</strong> من التسجيل في البرنامج واختبار الواجهة الجديدة.</p>
 <p><strong>الهدف:</strong> تهدف Samsung إلى توفير تحديث واحد UI 8 لجميع الأجهزة المؤهلة قبل نهاية هذا العام ، مع فترة تجريبية قصيرة نسبيًا.</p>
 <figure class="wp-block-image size-full"></figure>
-<h4 class="wp-block-heading"><strong>الخلفية ومستقبل التحديثات</strong></h4>
+<h4><strong>الخلفية ومستقبل التحديثات</strong></h4>
 <p>يقال إن سلسلة من الهواتف <strong>Galaxy S25</strong> كانت أول من يشارك في البرنامج التجريبي لـ One Ui 8 منذ شهر مايو ، ومن المتوقع أن يتلقى الإصدار الثابت من التحديث الشهر المقبل. لقد انضمت مؤخرًا إلى سلسلة <strong>Galaxy S24</strong> والهواتف القابلة للطي <strong>Galaxy Z Flip 6</strong> و<strong>z أضعاف 6</strong>.</p>
 <p>يشير هذا التوسع في البرنامج التجريبي إلى أن Samsung تولي اهتمامًا كبيرًا لتوفير أحدث ميزاتها لمجموعة أوسع من هواتفها ، مما يعزز موقعها في السوق.</p>
-<h4 class="wp-block-heading"><strong>مواصفات Galaxy A36</strong></h4>
+<h4><strong>مواصفات Galaxy A36</strong></h4>
 <p>كتذكير ، يأتي Galaxy A36 مع مواصفات جذابة تتضمن:</p>
 <p><strong>شاشة:</strong> 6.7 -شاشة Super AMOLED و FHD+، بمعدل تحديث قدره 120 هرتز.</p>
 <p><strong>المعالج:</strong> Qualcomm Snapdragon 6 Gen 3.</p>
@@ -32,6 +32,4 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-one-ui
 <p><strong>مقاومة الماء والغبار:</strong> معيار IP67.</p>
 <p>تؤكد هذه الخطوة من Samsung التزامها بتوفير أحدث البرامج للهواتف من فئات مختلفة ، مما يمنح مستخدمي الطابقات الأوسط من تجربة الأجهزة الرائدة.</p>
 <p>هل لديك واحدة من هواتف Samsung A؟</p>
-<p><a href="https://www.tudocelular.com/samsung/noticias/n239026/one-ui-8-beta-galaxy-a36-servidores-samsung.html" data-type="link" data-id="https://www.tudocelular.com/samsung/noticias/n239026/one-ui-8-beta-galaxy-a36-servidores-samsung.html">مصدر</a></p>
-</p></div>
-
+<p><a href="https://www.tudocelular.com/samsung/noticias/n239026/one-ui-8-beta-galaxy-a36-servidores-samsung.html" data-type="link" data-id="https://www.tudocelular.com/samsung/noticias/n239026/one-ui-8-beta-galaxy-a36-servidores-samsung.html">مصدر</a></p></div>

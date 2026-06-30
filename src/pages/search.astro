@@ -1,0 +1,29 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+---
+
+<BaseLayout title="بحث | عرب تك" showCategoryBar={false}>
+  <section class="page-head">
+    <p class="eyebrow">بحث</p>
+    <h1>ابحث في الموقع</h1>
+    <p class="page-meta">ابحث بين مئات المقالات والأخبار التقنية</p>
+  </section>
+  <div id="search" class="search-box"></div>
+  <link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
+  <script src="/pagefind/pagefind-ui.js" is:inline></script>
+  <script is:inline>
+    function initSearch() {
+      if (typeof PagefindUI === "undefined") return;
+      new PagefindUI({
+        element: "#search",
+        showSubResults: true,
+        resetStyles: false
+      });
+    }
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", initSearch);
+    } else {
+      initSearch();
+    }
+  </script>
+</BaseLayout>

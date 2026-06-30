@@ -6,7 +6,7 @@ updatedDate: "2025-12-29T22:14:29"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["بتصميمات مختلفة","بطارية بسعة 9000 مللي أمبير","وان بلس تقترب من إطلاق سلسلة هواتف Turbo 6"]
-image: ""
+image: "https://www.arabtechtrends.com/wp-content/uploads/2025/12/1767039267_283_turbo-6.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%88%d9%86-%d8%a8%d9%84%d8%b3-%d8%aa%d8%b3%d8%aa%d8%b9%d8%af-%d9%84%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d8%b3%d9%84%d8%b3%d9%84%d8%a9-turbo-6/"
 ---
@@ -19,7 +19,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d9%86-%d8%a8%d9%84%d8%b3-%d8%a
 <p>
 <b>OnePlus Turbo 6: أداء رائد وبطارية ضخمة</b></p>
 <p>وسيأتي هاتف OnePlus Turbo 6 بشاشة تدعم معدل تحديث عالي يصل إلى 165 هرتز، بينما تأتي الأجهزة الداخلية للهاتف بمعالج Snapdragon 8s Gen 4 من شركة كوالكوم، بالإضافة إلى خيارات الذاكرة المتنوعة، حيث يأتي مع خيارات ذاكرة عشوائية 12/16 جيجابايت مع خيارات تخزين داخلية 256/512 جيجابايت. وسيأتي الهاتف ببطارية كبيرة بسعة 9000 مللي أمبير، بالإضافة إلى حصوله على معيار IP69 لمقاومة الماء. والغبار، وسيصدر الهاتف بألوان هي Chasing Light Silver، وLone Black، وWilderness Green.</p>
-<div align="center"><img decoding="async" src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1767039267_283_turbo-6.webp.webp" title="ون بلس توربو 6 فولت" class="img-responsive lazy" alt="ون بلس توربو 6 فولت" border="0"/></div>
+<div align="center"><img src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1767039267_283_turbo-6.webp.webp" title="ون بلس توربو 6 فولت" class="img-responsive lazy" alt="ون بلس توربو 6 فولت"/></div>
 <p>
 <b>OnePlus Turbo 6V: خيار متوازن بمواصفات قوية</b></p>
 <p>أما هاتف OnePlus Turbo 6V، فسيتوفر بألوان Fearless Blue، وLone Black، وNova White، مع ثلاثة إصدارات من الذاكرة والتخزين، وهي بسعات 8 جيجابايت مع 256 جيجابايت، أو 12 جيجابايت مع 256 جيجابايت، أو 12 جيجابايت مع 512 جيجابايت.</p>
@@ -27,4 +27,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d9%86-%d8%a8%d9%84%d8%b3-%d8%a
 <p>ومن المتوقع أن تكشف شركة OnePlus المزيد من التفاصيل المتعلقة بالكاميرات والأسعار والمواصفات الأخرى خلال الأيام القليلة المقبلة، مع اقتراب الإطلاق الرسمي لسلسلة Turbo 6 في الصين.</p>
 <p><a href="https://www.gsmarena.com/oneplus_turbo_6_and_turbo_6v_to_launch_on_january_8_design_and_key_specs_revealed-news-70874.php" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
-

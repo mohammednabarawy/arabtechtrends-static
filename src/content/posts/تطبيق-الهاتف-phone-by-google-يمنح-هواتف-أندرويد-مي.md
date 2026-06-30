@@ -19,7 +19,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-%d8%a7
 </div>
 <div class="entry-content entry clearfix">
 <p>كشفت Google النقاب عن بطاقات الاتصال في الهاتف بواسطة Google Application الشهر الماضي ، وهي ميزة تتيح للمستخدمين تخصيص بطاقات الاتصال بطريقة جديدة. اليوم ، بدأت الشركة في اختبار تحديث مهم يرفع مستوى التخصيص بشكل كبير.</p>
-<h3 class="wp-block-heading">تخصيص أعمق لتصميم البطاقات في تطبيق الهاتف من Google</h3>
+<h3>تخصيص أعمق لتصميم البطاقات في تطبيق الهاتف من Google</h3>
 <p>وفقًا للتسريبات ، ستضيف Google خيارًا جديدًا في شريط الخطوط داخل إعدادات بطاقات الاتصال ، والتي تظهر في شكل أيقونة حمل الشريحة. عند النقر فوقه ، سيتمكن المستخدم من التحكم:</p>
 <ul class="wp-block-list">
 <li><strong>عرض الخط</strong> (عرض)</li>
@@ -28,12 +28,10 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-%d8%a7
 </ul>
 <p>مع التفتيش المباشر للتغييرات في الوقت الفعلي.</p>
 <p>على الرغم من أن الميزة تعمل حاليًا مع خط Google Sans Flex ، إلا أنها تحول نوعي مقارنة بالإصدار الحالي ، ويمنح مرونة المستخدم التي لا تتوفر حتى في ميزة ملصقات العقد على أجهزة iPhone.</p>
-<h3 class="wp-block-heading">اختبار محدود قبل الإطلاق</h3>
+<h3>اختبار محدود قبل الإطلاق</h3>
 <p>أشارت التقارير إلى أن هذه الميزة ظهرت في إصدار تجريبي محدد من الهاتف بواسطة تطبيق Google (الإصدار 192.0.806919635 التجريبي) ، لكنها اختفت في أحدث إصدار (193.0.809761572) ، مما يشير إلى أن Google تختبرها مع مجموعة صغيرة من المستخدمين الحاليين.</p>
 <p>على الرغم من عدم وجود تاريخ رسمي للإطلاق ، فإن حجم العمل في تطوير هذه الإضافة يعزز إمكانية تقديمها على نطاق أوسع خلال الفترة المقبلة.</p>
 <p>إذا كانت هذه الميزة تصل رسميًا ، فستتفوق Google Cards على نظيرها على iPhone بفضل خيارات التخصيص المتقدمة ، مما يجعل تجربة إدارة الاتصال أكثر تميزًا لمستخدمي Android.</p>
-<p>في رأيك ، ما هي أكثر الميزة التي يفتقر إليها تطبيق الهاتف من Google؟ شارك رأيك &#8230;</p>
-<p><a href="https://www.androidpolice.com/google-phone-calling-cards-beta-customization-android/?taid=68d68e5e68de4c00016b746b&amp;utm_campaign=trueanthem&amp;utm_medium=social&amp;utm_source=twitter" target="_blank" rel="noopener" title="المصدر">مصدر</a></p>
+<p>في رأيك ، ما هي أكثر الميزة التي يفتقر إليها تطبيق الهاتف من Google؟ شارك رأيك …</p>
+<p><a href="https://www.androidpolice.com/google-phone-calling-cards-beta-customization-android/?taid=68d68e5e68de4c00016b746b&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter" target="_blank" rel="noopener" title="المصدر">مصدر</a></p></div>
 </p></div>
-</p></div>
-

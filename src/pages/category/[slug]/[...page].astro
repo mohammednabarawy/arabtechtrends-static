@@ -1,0 +1,56 @@
+---
+import { getCollection } from "astro:content";
+import type { GetStaticPaths } from "astro";
+import Breadcrumbs from "../../../components/Breadcrumbs.astro";
+import PostCard from "../../../components/PostCard.astro";
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import { categories, postsPerPage } from "../../../site";
+import { filterPostsByCategory } from "../../../utils/posts";
+
+export const getStaticPaths = (async ({ paginate }) => {
+  const allPosts = await getCollection("posts", ({ data }) => !data.draft);
+  const paths = [];
+
+  for (const category of categories) {
+    const filtered = filterPostsByCategory(allPosts, category);
+    const paginated = paginate(filtered, {
+      pageSize: postsPerPage,
+      params: { slug: category.slug },
+      props: { category }
+    });
+    paths.push(...paginated);
+  }
+
+  return paths;
+}) satisfies GetStaticPaths;
+
+const { page, category } = Astro.props;
+const base = import.meta.env.BASE_URL.endsWith("/") ? import.meta.env.BASE_URL : `${import.meta.env.BASE_URL}/`;
+const withBase = (path: string) => `${base}${path.replace(/^\/+/, "")}`;
+---
+
+<BaseLayout title={`${category.label} | عرب تك`} canonicalPath={page.url.current}>
+  <Breadcrumbs
+    items={[
+      { label: "الرئيسية", href: "/" },
+      { label: category.label }
+    ]}
+  />
+  <section class="page-head">
+    <p class="eyebrow">قسم</p>
+    <h1>{category.label}</h1>
+    <p class="page-meta">{page.total} مقال — صفحة {page.currentPage} من {page.lastPage}</p>
+  </section>
+
+  <div class="post-grid">
+    {page.data.map((post) => <PostCard post={post} />)}
+  </div>
+
+  {page.lastPage > 1 && (
+    <nav class="pagination" aria-label="تصفح الصفحات">
+      {page.url.prev && <a href={page.url.prev}>السابق</a>}
+      <span>صفحة {page.currentPage} / {page.lastPage}</span>
+      {page.url.next && <a href={page.url.next}>التالي</a>}
+    </nav>
+  )}
+</BaseLayout>

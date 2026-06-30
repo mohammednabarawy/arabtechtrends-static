@@ -17,13 +17,13 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d8%aa%d9%81-oneplus-ace-
 <div>
 <ul>
 <li>1,061,167 نقطة في اختبار وحدة المعالجة المركزية</li>
-<p>&#13;</p>
+<p></p>
 <li>1,160,801 نقطة في اختبار GPU</li>
-<p>&#13;</p>
+<p></p>
 <li>538316 نقطة في الذاكرة</li>
-<p>&#13;</p>
+<p></p>
 <li>801,275 نقطة في تجربة المستخدم (UX)</li>
-<p>&#13;
+<p>
 </ul>
 </div>
 <p>يعمل الهاتف بنظام التشغيل Android 16 ويدعم معدل تحديث عالي يصل إلى 165 هرتز، مما يجعله من بين أسرع الشاشات المتوفرة حاليًا.</p>
@@ -38,4 +38,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d8%aa%d9%81-oneplus-ace-
 <p><a href="https://www.gizmochina.com/2025/11/21/oneplus-ace-6t-antutu-snapdragon-8-gen-5/" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
 </div>
-

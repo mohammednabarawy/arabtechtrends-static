@@ -24,4 +24,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%ad%d8%b5%d9%84-%d9%87%d8%a7%d8%aa
 <p><b>تاريخ الإطلاق المتوقع</b><br />ومن المنتظر أن يظهر الهاتف رسميًا خلال الربع الأول من عام 2026 ليكمل تشكيلة سلسلة Vivo X300، التي شاركت مؤخرًا في سباق المنافسة الرائد للهواتف الذكية مع إطلاق Vivo</p>
 <p><a href="https://www.gadgets360.com/mobiles/news/vivo-x300-ultra-3c-certification-model-number-charging-specifications-leak-weibo-9789562" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
-

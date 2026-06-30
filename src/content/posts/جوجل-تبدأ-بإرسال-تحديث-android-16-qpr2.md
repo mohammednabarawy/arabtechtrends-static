@@ -6,7 +6,7 @@ updatedDate: "2025-12-03T16:50:11"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["تحديث Android 16 QPR2","جوجل","ميزات الذكاء الاصطناعي المذهلة والثورية","هواتف Pixel"]
-image: ""
+image: "https://www.arabtechtrends.com/wp-content/uploads/2025/12/1764773408_937_android-16-qpr2---pixel.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d9%88%d8%ac%d9%84-%d8%aa%d8%a8%d8%af%d8%a3-%d8%a8%d8%a5%d8%b1%d8%b3%d8%a7%d9%84-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-android-16-qpr2/"
 ---
@@ -19,14 +19,13 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d9%88%d8%ac%d9%84-%d8%aa%d8%a8
 <p>بالنسبة لأولئك الذين يفضلون تخصيص مظهر واجهة الهاتف، تمنح جوجل مساحة أكبر للتعديل، من خلال أشكال أيقونات مخصصة للشاشة الرئيسية، وأيقونات مموهة محسّنة، بالإضافة إلى وضع مظلم موسع قادر على تعتيم التطبيقات التي لا تدعم الوضع المظلم أصلاً، مما يمنح تجربة بصرية موحدة وأكثر راحة.</p>
 <p>وعلى مستوى الشاشة، يضيف التحديث وضع الإضاءة المنخفضة لشاشة التوقف، والذي يخفض سطوع الساعة تلقائيًا بناءً على الإضاءة المحيطة. تمت إضافة خيار جديد أيضًا ضمن قائمة العرض واللمس الذي يسمح لك بالتحكم في شدة سطوع HDR بحيث لا تظهر الصورة شديدة السطوع في التطبيقات أو الوسائط التي تستخدم هذا الوضع.</p>
 <p>يولي التحديث اهتمامًا خاصًا بالعائلات، حيث يتلقى النظام تحسينات شاملة في أدوات الرقابة الأبوية، والتي أصبحت الآن محمية برمز PIN. يمكن للوالدين الآن تعيين حدود زمنية لاستخدام الهاتف، وجدولة أوقات الاستراحة، وتعيين مؤقتات التطبيق، وإدارة التجربة الرقمية لأطفالهم بسهولة أكبر.</p>
-<div align="center"><img decoding="async" src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1764773408_937_android-16-qpr2---pixel.webp.webp" class="img-responsive lazy" alt="" border="0"/></div>
+<div align="center"><img src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1764773408_937_android-16-qpr2---pixel.webp.webp" class="img-responsive lazy" alt=""/></div>
 <p></p>
 <p>ويقدم Android 16 QPR2 أيضًا خيارات Expressive Options، وهي ميزة تعرض ترجمات فورية لمحتوى الفيديو والقصص والبث المباشر، مما يشير إلى الأصوات والعواطف المحيطة، إلى جانب مجموعات جديدة من ملصقات Emoji Kitchen في لوحة مفاتيح Gboard لإثراء الاتصال المرئي.</p>
 <p>تستعد شركة جوجل لإطلاق ميزة جديدة ضمن تطبيق الهاتف تسمى Call Reason، والتي تتيح للمتصلين تحديد سبب المكالمة ووضعها كحالة عاجلة، ليتمكن الطرف الآخر من الاستجابة بشكل أسرع وأكثر ملاءمة.</p>
-<div align="center"><img decoding="async" src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1764773409_256_android-16-qpr2---pixel.webp.webp" class="img-responsive lazy" alt="" border="0"/></div>
+<div align="center"><img src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1764773409_256_android-16-qpr2---pixel.webp.webp" class="img-responsive lazy" alt=""/></div>
 <p></p>
 <p>وفيما يتعلق بالرسائل، يمكن للمستخدمين الآن مغادرة المحادثات الجماعية أو الإبلاغ عنها بخطوات أقل، ويمكن فحص الرسائل والمحادثات بحثًا عن الاحتيال باستخدام دائرة البحث. ويصل التحديث أيضًا بميزة عملية داخل متصفح Chrome، وهي تثبيت الإشارات المرجعية في علامات التبويب.</p>
 <p>وتؤكد جوجل أن التحديث بدأ بالفعل في الوصول إلى أجهزة Pixel 6 وما بعده بشكل تدريجي، على أن تتوسع دائرة التوفر خلال الفترة المقبلة.</p>
 <p><a href="https://www.gsmarena.com/google_rolling_out_new_android_16_qpr2_for_pixel_devices-news-70541.php" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
-

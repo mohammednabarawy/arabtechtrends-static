@@ -13,7 +13,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-hypero
 
 <div>
 <p>بدأت شركة Xiaomi في إطلاق تحديث HyperOS 3 المستقر عالميًا والمبني على نظام Android 16 لأجهزة REDMI Note 14 Pro 5G وREDMI Note 14 Pro+ 5G وPOCO X7، وهو خبر جيد لمحبي هذه الأجهزة الذين لم يتوقعوا إصدار التحديث هذا الشهر. التحديثات الجديدة متاحة بالفعل، ويمكن للمستخدمين تثبيتها يدويًا عند وصولها.</p>
-<h3 class="wp-block-heading">تفاصيل التحديث الجديد</h3>
+<h3>تفاصيل التحديث الجديد</h3>
 <p>يتوفر إصداران من التحديثات للمستخدمين:</p>
 <ul class="wp-block-list">
 <li><strong>ريدمي نوت 14 برو 5جي</strong></li>
@@ -21,7 +21,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-hypero
 <li><strong>بوكو اكس7</strong></li>
 </ul>
 <p>يجلب التحديث العديد من التحسينات الجديدة، مما يعزز استقرار النظام والأداء العام.</p>
-<h3 class="wp-block-heading">أبرز مميزات نظام HyperOS 3</h3>
+<h3>أبرز مميزات نظام HyperOS 3</h3>
 <p><strong>تحسين الخبرة الأساسية:</strong><br />أصبح النظام أكثر سلاسة واستقرارًا، مع تحسين الأداء والاستجابة مع تقليل استهلاك الطاقة.</p>
 <p><strong>تحسين إدارة الذاكرة:</strong><br />تم تحسين تخصيص الذاكرة واسترجاعها، مما يزيد من الذاكرة المتوفرة للنظام ويحسن كفاءة تشغيل التطبيقات.</p>
 <p><strong>تحسين أداء الفيديو القصير:</strong><br />تم تحسين كفاءة تشغيل مقاطع الفيديو القصيرة لتحسين عمر البطارية.</p>
@@ -54,4 +54,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-hypero
 <p>برأيك: ما هي أهم مميزات التحديث؟</p>
 <p><a href="https://hyperosinsider.com/redmi-note-14-pro-pro-5g-and-poco-x7-receives-hyperos-3-global-stable-update-with-android-16/" data-type="link" data-id="https://hyperosinsider.com/redmi-note-14-pro-pro-5g-and-poco-x7-receives-hyperos-3-global-stable-update-with-android-16/">مصدر</a></p>
 </div>
-

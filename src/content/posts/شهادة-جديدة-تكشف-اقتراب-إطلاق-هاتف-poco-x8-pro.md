@@ -25,4 +25,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d9%87%d8%a7%d8%af%d8%a9-%d8%ac
 <p>ومع ظهور سلسلة X8 في المزيد من الشهادات العالمية، يبدو أن الإعلان الرسمي أصبح قريبًا جدًا، وقد تبدأ Poco في التشويق للسلسلة في الأسابيع المقبلة.</p>
 <p><a href="https://www.gizmochina.com/2025/12/10/poco-x8-pro-bis-certified/" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
-

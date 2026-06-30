@@ -12,8 +12,8 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%b9%d8%b1-%d9%88%d9%85%d9%88
 ---
 
 <div>
-<p>تم الكشف عن تسرب اليوم ، المواصفات الرئيسية ، المواصفات ، وأسعار أحدث أقراص Samsung ، والتي هي سلسلة &#8220;Samsung Galaxy Tab S11&#8221; (Tab S11 ، Tab S11 Ultra) و Tab S10 Lite. تشير الشائعات إلى أن إطلاق هذه الأجهزة سيقام في الربع الثالث من عام 2025 ، مع الأثقال التي سيكون تاريخها المحدد في 4 سبتمبر.</p>
-<h2 class="wp-block-heading"><strong>مواصفات مواصفات Galaxy Tab S11</strong></h2>
+<p>تم الكشف عن تسرب اليوم ، المواصفات الرئيسية ، المواصفات ، وأسعار أحدث أقراص Samsung ، والتي هي سلسلة "Samsung Galaxy Tab S11" (Tab S11 ، Tab S11 Ultra) و Tab S10 Lite. تشير الشائعات إلى أن إطلاق هذه الأجهزة سيقام في الربع الثالث من عام 2025 ، مع الأثقال التي سيكون تاريخها المحدد في 4 سبتمبر.</p>
+<h2><strong>مواصفات مواصفات Galaxy Tab S11</strong></h2>
 <p>تأتي سلسلة Galaxy Tab S11 مع مواصفات تقنية متقدمة ، حيث ستحصل Tab S11 و Tab S11 Ultra على شاشات AMOLED الفاخرة. سيأتي Tab S11 مع شاشة 11 بوصة و 2560 × 1600 بكسل ، في حين أن Tab S11 Ultra سيكون حجم شاشة أكبر 14.6 بوصة و 2960 × 1848 بكسل. سيحتوي كلا الجهازين على كاميرا خلفية 13 -megapixel وكاميرا أمامية 12 -megapixel ، مما يوفر تجربة تصوير ممتازة.</p>
 <p>فيما يتعلق بالأداء ، يعتمد كلا الجهازين على معالج 9400 من Dymensity من MediaTek ، بالإضافة إلى خيارات RAM (RAM) التي تصل إلى 16 جيجابايت وسعة تخزين قدرها 1 تيرابايت. سيتم تزويد TAB S11 أيضًا ببطارية بسعة 8400 مللي أمبير في الساعة ، في حين ستحصل Tab S11 Ultra على بطارية ضخمة بسعة 11600 مللي أمبير في الساعة ، مع دعم شحن 45 وات لكلا الجهازين.</p>
 <p>لم يهمل التسرب الكشف عن تفاصيل Galaxy Tab S10 Lite ، وهو الخيار الاقتصادي في هذه السلسلة. سيأتي الجهاز مع شاشة LCD 10.9 و 2112 × 1320 بكسل. ستعمل مع معالج Samsung 1380 Exynos ، مع خيارات ذاكرة الوصول العشوائي تتراوح بين 6 و 8 جيجابايت ، وسعة تخزين تبلغ 256 جيجابايت. أما بالنسبة للكاميرات ، فسيحتوي على كاميرا خلفية 8 -megapixel وكاميرا أمامية 5 -megapixel ، وبطارية 8000 مللي أمبير في الساعة مع دعم شحن سريع يبلغ 25 واط.</p>
@@ -25,6 +25,4 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%b9%d8%b1-%d9%88%d9%85%d9%88
 <p>Galaxy Tab S10 Lite: يبدأ من 399 يورو مقابل ذاكرة الوصول العشوائي 6 جيجابايت وتخزين 128 جيجابايت.</p>
 <p>تؤكد هذه التسريبات التزام سامسونج بتوفير مجموعة واسعة من الأجهزة اللوحية التي تتناسب مع شرائح المستخدمين المختلفين ، من الفئة الرائدة إلى الفئة المتوسطة الاقتصادية.</p>
 <p>في رأيك ، ما هي أبرز ميزة أقراص Samsung؟</p>
-<p><a href="https://www.gsmarena.com/mega_leak_reveals_galaxy_tab_s11_s11_ultra_and_s10_lite_specs_and_pricing-news-68960.php" data-type="link" data-id="https://www.gsmarena.com/mega_leak_reveals_galaxy_tab_s11_s11_ultra_and_s10_lite_specs_and_pricing-news-68960.php">مصدر</a></p>
-</p></div>
-
+<p><a href="https://www.gsmarena.com/mega_leak_reveals_galaxy_tab_s11_s11_ultra_and_s10_lite_specs_and_pricing-news-68960.php" data-type="link" data-id="https://www.gsmarena.com/mega_leak_reveals_galaxy_tab_s11_s11_ultra_and_s10_lite_specs_and_pricing-news-68960.php">مصدر</a></p></div>

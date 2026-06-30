@@ -18,9 +18,9 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a3%d9%86%d8%af%d8%b1%d9%88%d9%8a%
 </div>
 </div>
 <div class="entry-content entry clearfix">
-<p>في ضوء الإطلاق المبكر للإصدار المستقر من Android 16 &#8220;Android 16&#8221; في يونيو 2025 ، والذي يتجول في وصول التحديثات إلى هواتف Google والأجهزة اللوحية بحد أقصى من المعتاد ، يواجه جزء كبير من مستخدمي Android أخبارًا غير سارة.</p>
+<p>في ضوء الإطلاق المبكر للإصدار المستقر من Android 16 "Android 16" في يونيو 2025 ، والذي يتجول في وصول التحديثات إلى هواتف Google والأجهزة اللوحية بحد أقصى من المعتاد ، يواجه جزء كبير من مستخدمي Android أخبارًا غير سارة.</p>
 <p>وصلت العديد من الأجهزة إلى نهاية دورة حياتها من التحديثات الرئيسية ، ولن تكون مؤهلة لتلقي هذه الترقية المهمة.</p>
-<h2 class="wp-block-heading">لن تحصل الهواتف على تحديث Android 16 &#8220;Android 16&#8221;</h2>
+<h2>لن تحصل الهواتف على تحديث Android 16 "Android 16"</h2>
 <p>على الرغم من أن معظم الشركات المصنعة للهواتف الذكية لم تؤكد بعد خارطة الطريق الرسمية الخاصة بهم لتحديثات Android 16 ، إلا أن هذه القائمة تم إعدادها بناءً على سياسات البرامج الحالية وبعض التوقعات. فيما يلي أبرز الأجهزة التي من غير المرجح أن تحصل على تحديث Android 16:</p>
 <p><strong>سامسونج:</strong></p>
 <ul class="wp-block-list">
@@ -317,9 +317,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a3%d9%86%d8%af%d8%b1%d9%88%d9%8a%
 </ul>
 </li>
 </ul>
-<h3 class="wp-block-heading">كلمة أخيرة:</h3>
+<h3>كلمة أخيرة:</h3>
 <p>إذا كان جهازك مدرجًا في هذه القائمة ، فمن غير المرجح أن تتلقى تحديث Android 16. ومع ذلك ، يُنصح بالانتظار حتى يتم إصدار القائمة الرسمية للمصنعين للتأكيد النهائي.</p>
-<p><a href="https://www.gizmochina.com/2025/07/13/android-16-update-ineligible-devices-list/" data-type="link" data-id="https://www.gizmochina.com/2025/07/13/android-16-update-ineligible-devices-list/">مصدر</a></p>
+<p><a href="https://www.gizmochina.com/2025/07/13/android-16-update-ineligible-devices-list/" data-type="link" data-id="https://www.gizmochina.com/2025/07/13/android-16-update-ineligible-devices-list/">مصدر</a></p></div>
 </p></div>
-</p></div>
-

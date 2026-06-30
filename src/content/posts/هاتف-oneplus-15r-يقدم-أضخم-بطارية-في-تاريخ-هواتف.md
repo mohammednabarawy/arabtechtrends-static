@@ -24,4 +24,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d8%aa%d9%81-oneplus-15r-
 <p><a href="https://www.gizmochina.com/2025/12/05/oneplus-15r-battery-charging-details-confirmed/" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
 </div>
-

@@ -24,4 +24,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a3%d9%88%d8%a8%d9%88-%d8%aa%d9%84
 <p>وبحسب ما يتم تداوله حاليًا، فمن المتوقع أن تكشف شركة أوبو رسميًا عن Find</p>
 <p><a href="https://www.gsmarena.com/oppo_find_x9_ultra_battery_capacity_officially_teased-news-70739.php" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
-

@@ -33,7 +33,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-hypero
 <li>تخطيط مفتوح وواضح</li>
 </ul>
 <p>وتهدف شركة Xiaomi إلى جعل الانتقال بين الشاشتين أكثر سلاسة واتساقًا، وهي خطوة مهمة لتحسين تجربة الطي والاستخدام اليومي.</p>
-<h3 class="wp-block-heading">ميزة Super Island تصل إلى هواتف MIX Flip</h3>
+<h3>ميزة Super Island تصل إلى هواتف MIX Flip</h3>
 <p>أحد أبرز الإضافات إلى HyperOS 3 هو Super Island، وهو عبارة عن شريط تفاعلي صغير يعرض:</p>
 <ul class="wp-block-list">
 <li>التنبيهات</li>
@@ -41,9 +41,8 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-hypero
 <li>الإجراءات المتعلقة بالتطبيق</li>
 </ul>
 <p>تتكيف الميزة تلقائيًا مع الحالات المطوية وغير المطوية وتقلل الحاجة إلى النوافذ المنبثقة، مما يعزز تجربة المستخدم.</p>
-<h4 class="wp-block-heading">متى سيصل التحديث للمستخدمين</h4>
+<h4>متى سيصل التحديث للمستخدمين</h4>
 <p>وبعد الانتهاء من الإصدارات النهائية تشير التوقعات إلى أن الإطلاق الرسمي سيتم خلال الأسابيع القليلة المقبلة. وتم تحديث الأجهزة التي أكملت مرحلة الاختبار في نفس الفترة بشكل سريع، مما يزيد من احتمال وصول التحديث قريبًا لمستخدمي MIX Flip.</p>
 <p>هل تلقيت تحديث HyperOS 3؟</p>
 <p><a href="https://www.gizchina.com/xiaomi-phones/xiaomi-mix-flip-prepares-for-its-global-hyperos-3-upgrade" data-type="link" data-id="https://www.gizchina.com/xiaomi-phones/xiaomi-mix-flip-prepares-for-its-global-hyperos-3-upgrade">مصدر</a></p>
 </div>
-

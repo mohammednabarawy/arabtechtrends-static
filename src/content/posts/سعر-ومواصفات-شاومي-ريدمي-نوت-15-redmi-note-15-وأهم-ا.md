@@ -13,7 +13,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%b9%d8%b1-%d9%88%d9%85%d9%88
 
 <div>
 <p>كشفت Xiaomi النقاب عن Redmi Note 15 في الصين ، إلى جانب النسخة المحترفة من السلسلة. يأتي الهاتف بتصميم نحيف بسمك 7.35 مم فقط ، ويركز على توفير تجربة شاشة متقدمة مع بطارية كبيرة ومعالج قوي من Qualcomm.</p>
-<h2 class="wp-block-heading">سعر ومواصفات Redmi Note 15 وأهم الميزات</h2>
+<h2>سعر ومواصفات Redmi Note 15 وأهم الميزات</h2>
 <p><strong>شاشة رائعة مع تجربة عرض هائلة</strong></p>
 <p>يأتي Redmi Note 15 مع شاشة OLED 6.77 مع دقة FHD +FHD وتحديث 120 هرتز ، مع معدل استجابة يصل لمس حتى 240 هرتز و 2160 هرتز للاستجابة الفورية. تدعم الشاشة أيضًا سطوع ما يصل إلى 3200 شمعة ، مع تقنيات تعتيم عالي التردد وعمق اللون 10 بوصة ، مما يجعلها مناسبة لاستخدام أشعة الشمس ومثالية للمحتوى المرئي.</p>
 <p><strong>أداء قوي مع معالج Snapdragon</strong></p>
@@ -44,7 +44,5 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%b9%d8%b1-%d9%88%d9%85%d9%88
 <li>12+256 جيجابايت الإصدار: 1499 يوان (حوالي 208 دولار)</li>
 </ul>
 <p>الهاتف متاح بالفعل للشراء في الصين ، ومن المتوقع أن يتم إطلاقه في الأسواق العالمية خلال الفترة المقبلة.</p>
-<p>في رأيك &#8230; هل يستحق Redmi Note 15 الشراء؟</p>
-<p><a href="https://www.fonearena.com/blog/462380/redmi-note-15-price-specifications.html" data-type="link" data-id="https://www.fonearena.com/blog/462380/redmi-note-15-price-specifications.html">مصدر</a></p>
-</p></div>
-
+<p>في رأيك … هل يستحق Redmi Note 15 الشراء؟</p>
+<p><a href="https://www.fonearena.com/blog/462380/redmi-note-15-price-specifications.html" data-type="link" data-id="https://www.fonearena.com/blog/462380/redmi-note-15-price-specifications.html">مصدر</a></p></div>

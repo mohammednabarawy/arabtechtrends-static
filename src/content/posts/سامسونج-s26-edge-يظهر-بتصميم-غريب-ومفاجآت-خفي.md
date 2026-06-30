@@ -6,7 +6,7 @@ updatedDate: "2025-09-08T03:42:50"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "https://www.arabtechtrends.com/wp-content/uploads/2025/09/1757292166_865_samsung-s26-edge.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-s26-edge-%d9%8a%d8%b8%d9%87%d8%b1-%d8%a8%d8%aa%d8%b5%d9%85%d9%8a%d9%85-%d8%ba%d8%b1%d9%8a%d8%a8-%d9%88%d9%85%d9%81%d8%a7%d8%ac%d8%a2%d8%aa-%d8%ae%d9%81%d9%8a/"
 ---
@@ -20,16 +20,14 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%
 </div>
 <div class="entry-content entry clearfix">
 <p>كشفت الصور الجديدة التي تم تسريبها لـ Samsung S26 Edge عن تغييرات جذرية في التصميم التي تجعلها الأقرب إلى تصميم iPhone 17 القادم من Apple ، مع إضافة دعم إلى مغناطيس QI2 الذي يفتح الباب لتجربة شحن لاسلكية أكثر تطوراً وتوافقًا مع الملحقات.</p>
-<h2 class="wp-block-heading">يذكر Samsung S26 Edge Design iPhone 17</h2>
-<p>أظهرت الصور التي نشرتها الحارة الشهيرة @OnLeaks عبر عناوين Android &#8211; أن Samsung S26 Edge ستأتي مع وحدة كاميرا عرض كاملة في الخلف ، ولكن مع تثبيت كاميرتين فقط على الطرف الأيسر. يمنح هذا التصميم الجهاز مظهرًا وثيقًا جدًا لـ iPhone 17 ، مما أثار الجدل بين المتابعين حول تقارب Samsung و Apple Designs.</p>
-<figure class="wp-block-image size-full"><img data-lazyloaded="1" data-recalc-dims="1" decoding="async" width="708" height="401" src="https://www.arabtechtrends.com/wp-content/uploads/2025/09/1757292166_865_samsung-s26-edge.jpg" alt="Samsung S26 EDGE " class="wp-image-224442"  data-/></figure>
+<h2>يذكر Samsung S26 Edge Design iPhone 17</h2>
+<p>أظهرت الصور التي نشرتها الحارة الشهيرة @OnLeaks عبر عناوين Android – أن Samsung S26 Edge ستأتي مع وحدة كاميرا عرض كاملة في الخلف ، ولكن مع تثبيت كاميرتين فقط على الطرف الأيسر. يمنح هذا التصميم الجهاز مظهرًا وثيقًا جدًا لـ iPhone 17 ، مما أثار الجدل بين المتابعين حول تقارب Samsung و Apple Designs.</p>
+<figure class="wp-block-image size-full"><img width="708" height="401" src="https://www.arabtechtrends.com/wp-content/uploads/2025/09/1757292166_865_samsung-s26-edge.jpg" alt="Samsung S26 EDGE " class="wp-image-224442"></figure>
 <p>أشار التقرير إلى أن Samsung S26 Edge ستأتي بأبعاد قدرها 158.4 × 75.7 × 5.5 مم ، لتكون أرق من الجيل السابق (Samsung S25 Edge) على الرغم من تحسينات البطارية المتوقعة. لكن ظهور الكاميرا يصل إلى 10.8 مم ، أي أنه يقارب سمك الهاتف نفسه ، مما قد يقلل من جمالية التصميم النحيف.</p>
-<figure class="wp-block-image size-full"><img data-lazyloaded="1" data-recalc-dims="1" loading="lazy" decoding="async" width="708" height="451" src="https://www.arabtechtrends.com/wp-content/uploads/2025/09/1757292167_594_samsung-s26-edge.jpg" alt="Samsung S26 EDGE " class="wp-image-224444"  data-/></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="708" height="451" src="https://www.arabtechtrends.com/wp-content/uploads/2025/09/1757292167_594_samsung-s26-edge.jpg" alt="Samsung S26 EDGE " class="wp-image-224444"></figure>
 <p>واحدة من أبرز المفاجآت هي أن Samsung تستعد لإضافة مغناطيس QI2 إلى سلسلة Galaxy S26 ، بعد تسرب الأمس التي ألمحت في هذه الخطوة. على الرغم من أن هذه المغناطيس غير مرئية في الصور ، إلا أن ملفات CAD للملحقات تكشف بدقة عن مواقعها من أجل الامتثال لأغطية الحماية والإكسسوارات المغناطيسية. ستجعل هذه الخطوة أخيرًا Samsung أقرب إلى ما تقدمه Apple مع Magsafe ، ولكن وفقًا لمعيار QI2 الجديد.</p>
-<figure class="wp-block-image size-full"><img data-lazyloaded="1" data-recalc-dims="1" loading="lazy" decoding="async" width="708" height="402" src="https://www.arabtechtrends.com/wp-content/uploads/2025/09/1757292167_493_samsung-s26-edge.jpg" alt="Samsung S26 EDGE " class="wp-image-224443"  data-/></figure>
-<p>من الجدير بالذكر أن الإصدار الأول من التقرير قد تم نشره باسم Galaxy S26 Pro بدلاً من Edge ، مشيرًا إلى أن Samsung قد تطلق الإصدار &#8220;S26 العادي&#8221; أيضًا. ولكن تم حذف هذا الجزء من التقرير بسرعة ، في حين أكدت المصادر السابقة أن الإصدار الأساسي سيُعرف باسم &#8220;Pro&#8221;.</p>
+<figure class="wp-block-image size-full"><img loading="lazy" width="708" height="402" src="https://www.arabtechtrends.com/wp-content/uploads/2025/09/1757292167_493_samsung-s26-edge.jpg" alt="Samsung S26 EDGE " class="wp-image-224443"></figure>
+<p>من الجدير بالذكر أن الإصدار الأول من التقرير قد تم نشره باسم Galaxy S26 Pro بدلاً من Edge ، مشيرًا إلى أن Samsung قد تطلق الإصدار "S26 العادي" أيضًا. ولكن تم حذف هذا الجزء من التقرير بسرعة ، في حين أكدت المصادر السابقة أن الإصدار الأساسي سيُعرف باسم "Pro".</p>
 <p>ما رأيك في هذا التصميم الذي تم تسريبه لـ Samsung S26 Edge؟</p>
-<p><a href="https://9to5google.com/2025/09/05/samsung-galaxy-s26-edge-design-renders-qi2-report/" data-type="link" data-id="https://9to5google.com/2025/09/05/samsung-galaxy-s26-edge-design-renders-qi2-report/">مصدر</a></p>
+<p><a href="https://9to5google.com/2025/09/05/samsung-galaxy-s26-edge-design-renders-qi2-report/" data-type="link" data-id="https://9to5google.com/2025/09/05/samsung-galaxy-s26-edge-design-renders-qi2-report/">مصدر</a></p></div>
 </p></div>
-</p></div>
-

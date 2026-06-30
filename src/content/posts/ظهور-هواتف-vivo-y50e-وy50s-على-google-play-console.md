@@ -6,7 +6,7 @@ updatedDate: "2025-12-19T08:12:32"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["Vivo هاتف vivo Y50e","اقتراب الإطلاق","دعم شبكات 5G","منصة Google Play Console","هاتف vivo Y50s"]
-image: ""
+image: "https://www.arabtechtrends.com/wp-content/uploads/2025/12/vivo-y50e--y50s-----google-play-console.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b8%d9%87%d9%88%d8%b1-%d9%87%d9%88%d8%a7%d8%aa%d9%81-vivo-y50e-%d9%88y50s-%d8%b9%d9%84%d9%89-google-play-console/"
 ---
@@ -21,10 +21,9 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b8%d9%87%d9%88%d8%b1-%d9%87%d9%88
 <p>
 <b>هاتف Vivo الجديد يحصل على شهادة 3C مع دعم الشحن السريع</b></p>
 <p>وفي تطور منفصل، حصل هاتف vivo الجديد الذي يحمل رقم الموديل V2531A على موافقة هيئة 3C الصينية بموجب رقم الشهادة 2025011606834402، وتم تصنيف الهاتف ضمن فئة الهواتف الذكية التي تدعم شبكات 5G وتم إدراجه إلى جانب الشواحن التي تحمل أرقام الطراز V4440L0A0-CN و V4440L0E0-CN. وتؤكد بيانات الاعتماد أن الهاتف سيدعم الشحن السلكي السريع بقدرة تصل إلى 44 واطًا، بينما تمتد صلاحية شهادة 3C الخاصة به حتى 29 أغسطس 2030.</p>
-<div align="center"><img decoding="async" src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/vivo-y50e--y50s-----google-play-console.webp.webp" width="980" height="182" title="معتمدة من هيئة 3C الصينية بموجب شهادة رقم 2025011606834402" class="img-responsive lazy" alt="معتمدة من هيئة 3C الصينية بموجب شهادة رقم 2025011606834402" border="0"/>
+<div align="center"><img src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/vivo-y50e--y50s-----google-play-console.webp.webp" width="980" height="182" title="معتمدة من هيئة 3C الصينية بموجب شهادة رقم 2025011606834402" class="img-responsive lazy" alt="معتمدة من هيئة 3C الصينية بموجب شهادة رقم 2025011606834402"/>
 </div>
 <p></p>
 <p>ومن المتوقع أن تكشف Vivo عن المزيد من المعلومات حول هواتفها القادمة خلال الأيام المقبلة، سواء من حيث المواصفات التقنية أو مواعيد الإطلاق الرسمية. ويأتي ذلك بالتزامن مع نشاط الشركة الملحوظ في السوق الصيني، حيث أعلنت مؤخرًا عن سلسلة Vivo S50 التي تضم هواتف Vivo S50 وVivo S50 Pro الصغيرة، إلى جانب الجهاز اللوحي Vivo Pad 5 Pro Soft Light Edition. بدأت مبيعات الجهاز اللوحي بالفعل في الصين، بينما من المقرر إطلاق مبيعات سلسلة Vivo S50 في 19 ديسمبر 2025.</p>
 <p><a href="https://www.thetechoutlook.com/tech-whispers/vivo-y50e-5g-and-y50s-5g-appear-on-the-google-play-console-supported-devices-list-new-vivo-v2531a-smartphone-certified-by-the-3c-authority/" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
-

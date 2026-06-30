@@ -19,10 +19,10 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-one-ui
 </div>
 <div class="entry-content entry clearfix">
 <p>بدأت الشركة الكورية Samsung رسميًا في تقديم تحديث مستقر من واجهة One 8.0 استنادًا إلى نظام التشغيل Android 16 لـ Galaxy E56 ، بعد فترة وجيزة من فتح برنامج التجربة التجريبية في وقت سابق من هذا الشهر.</p>
-<h2 class="wp-block-heading">Galaxy A Update 56 to One UI 8.0 Interface</h2>
+<h2>Galaxy A Update 56 to One UI 8.0 Interface</h2>
 <p>في البداية ، وعد تحديث مستخدمي هاتف كوريا الجنوبية برقم هاتف A566SKSU2BYI5 ، والذي يتماشى تمامًا مع الجدول الزمني الذي أعلنته Samsung سابقًا ، بإطلاق الإصدار المستقر في 22 سبتمبر 2025 ونجح في الالتزام بتاريخها.</p>
 <p>أما بالنسبة للمستخدمين خارج كوريا ، فقد أكدت الشركة أن التحديث سيبدأ في الوصول تدريجياً خلال الأسبوع من 25 إلى 28 سبتمبر 2025 ، بدءًا من البرازيل ثم بقية المناطق الدولية.</p>
-<h3 class="wp-block-heading">أبرز تحديث UI 8 المعروض</h3>
+<h3>أبرز تحديث UI 8 المعروض</h3>
 <ul class="wp-block-list">
 <li>تحسينات في واجهة الاستخدام وعناصر التصميم.</li>
 <li>ميزات جديدة في إمكانات الوصول والخصوصية.</li>
@@ -31,11 +31,9 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-one-ui
 <li>التحديثات في تطبيق Samsung Health.</li>
 <li>تعزيزات الأمان وحماية البيانات المتكاملة.</li>
 </ul>
-<h3 class="wp-block-heading">كيف تحصل على التحديث؟</h3>
+<h3>كيف تحصل على التحديث؟</h3>
 <p>للتأكد من توفر التحديث على جهازك ، يمكنك الانتقال إلى:<br /><strong>الإعدادات> تحديث البرنامج> تنزيل وتثبيت</strong>.</p>
 <p>وبالتالي ، خطوات Galaxy E 56 خطوات جديدة نحو تجربة أكثر تقدماً بفضل واجهة One UI 8 ، والتي تعد واحدة من أكبر تحديثات Samsung من حيث المزايا والتحسينات.</p>
-<p>هل لديك المجرة 56 أو أي من فئة A.؟ شارك رأيك &#8230;</p>
-<p><a href="https://www.sammobile.com/news/samsung-releases-one-ui-8-stable-update-galaxy-a56/" target="_blank" rel="noopener" title="المصدر">مصدر</a></p>
+<p>هل لديك المجرة 56 أو أي من فئة A.؟ شارك رأيك …</p>
+<p><a href="https://www.sammobile.com/news/samsung-releases-one-ui-8-stable-update-galaxy-a56/" target="_blank" rel="noopener" title="المصدر">مصدر</a></p></div>
 </p></div>
-</p></div>
-

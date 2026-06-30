@@ -21,7 +21,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d8%b3
 <p>تشير أحدث التسريبات إلى أن الشركة الكورية Samsung تستعد لبدء إطلاق التحديث المستقر من واجهة UI 8 التي تم تحديثها على Android 16 لهواتفها الذكية والأجهزة الذكية ، بعد سلسلة من النسخ التجريبية التي تم إطلاقها مؤخرًا.</p>
 <p>على الرغم من أن الشركة أكدت سابقًا وصول التحديث في سبتمبر ، إلا أن تسربًا جديدًا كشف عن جدول أكثر دقة لتاريخ الإطلاق ومجموعة الأجهزة التي ستحصل على التحديث أولاً.</p>
 <p>وفقًا للتسرب ، ستكون سلسلة Galaxy S25 أول من يحصل على التحديث المستقر في 18 سبتمبر 2025 ، بينما سيتم إرفاق بقية الأجهزة بنهاية أكتوبر.</p>
-<h2 class="wp-block-heading">الجدول الزمني الذي تم تسريبه للتحديث <strong>مستقر واحد مستقر</strong></h2>
+<h2>الجدول الزمني الذي تم تسريبه للتحديث <strong>مستقر واحد مستقر</strong></h2>
 <p><strong>18 سبتمبر 2025</strong></p>
 <ul class="wp-block-list">
 <li>Galaxy S25</li>
@@ -41,7 +41,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d8%b3
 <p><strong>1 أكتوبر 2025</strong></p>
 <ul class="wp-block-list">
 <li>Galaxy Tab S10 Plus</li>
-<li>Galaxy Tab S10 Ultra (Wi-Fi &#038; 5g)</li>
+<li>Galaxy Tab S10 Ultra (Wi-Fi & 5g)</li>
 <li>Galaxy Watch Fe</li>
 <li>Galaxy Watch 7</li>
 <li>Galaxy Watch 6</li>
@@ -69,7 +69,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d8%b3
 <p><strong>9 أكتوبر 2025</strong></p>
 <ul class="wp-block-list">
 <li>Galaxy Tab S10 Fe</li>
-<li>Galaxy Tab S10 Fe Plus (Wi-Fi &#038; 5g)</li>
+<li>Galaxy Tab S10 Fe Plus (Wi-Fi & 5g)</li>
 </ul>
 <p><strong>13 أكتوبر 2025</strong></p>
 <ul class="wp-block-list">
@@ -106,7 +106,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d8%b3
 <li>Galaxy A33 5G</li>
 <li>Galaxy A34 5G</li>
 </ul>
-<h3 class="wp-block-heading">ملاحظات مهمة</h3>
+<h3>ملاحظات مهمة</h3>
 <ul class="wp-block-list">
 <li>تعتمد التواريخ المذكورة على تسرب ، ولم يتم تأكيدها رسميًا بواسطة Samsung.</li>
 <li>قد تختلف تواريخ الإطلاق حسب المنطقة وسرعة اختبار الاستقرار.</li>
@@ -114,7 +114,5 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d8%b3
 </ul>
 <p>مع هذا ، يدخل ملايين مستخدمي Samsung العد التنازلي للحصول على واجهة <strong>واجهة المستخدم واحدة 8</strong>والتي سوف تغير تجربة الاستخدام بشكل كبير.</p>
 <p>هل هاتفك بين هذه الهواتف أعلاه؟</p>
-<p><a href="https://www.sammyfans.com/2025/09/06/samsung-one-ui-8-beta-7-and-stable-release-date-expectations/" data-type="link" data-id="https://www.sammyfans.com/2025/09/06/samsung-one-ui-8-beta-7-and-stable-release-date-expectations/">مصدر</a></p>
+<p><a href="https://www.sammyfans.com/2025/09/06/samsung-one-ui-8-beta-7-and-stable-release-date-expectations/" data-type="link" data-id="https://www.sammyfans.com/2025/09/06/samsung-one-ui-8-beta-7-and-stable-release-date-expectations/">مصدر</a></p></div>
 </p></div>
-</p></div>
-

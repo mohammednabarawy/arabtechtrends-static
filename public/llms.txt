@@ -1,0 +1,28 @@
+# Arab Tech Trends (عرب تك)
+> Arabic technology news, reviews, and guides since 2012.
+
+عرب تك موقع عربي متخصص في أخبار التقنية، مراجعات الهواتف والتطبيقات، شروحات الأندرويد والآيفون والكمبيوتر والألعاب.
+
+## Key pages
+- [Homepage](https://www.arabtechtrends.com/): Latest tech news and featured articles
+- [All posts](https://www.arabtechtrends.com/posts/): Full article archive
+- [Search](https://www.arabtechtrends.com/search/): Site search
+- [RSS feed](https://www.arabtechtrends.com/feed.xml): Subscribe to updates
+
+## Categories
+- [أخبار تقنية](https://www.arabtechtrends.com/category/news/): Technology news
+- [هواتف](https://www.arabtechtrends.com/category/phones/): Smartphones
+- [أندرويد](https://www.arabtechtrends.com/category/android/): Android news and guides
+- [آيفون](https://www.arabtechtrends.com/category/iphone/): iPhone and Apple
+- [تطبيقات](https://www.arabtechtrends.com/category/apps/): Apps and services
+- [كمبيوتر](https://www.arabtechtrends.com/category/computer/): PC and Windows
+- [ألعاب](https://www.arabtechtrends.com/category/games/): Gaming
+- [شروحات](https://www.arabtechtrends.com/category/guides/): Tutorials and how-tos
+
+## About
+Arab Tech Trends publishes original Arabic content covering smartphones, apps, AI tools, gaming, and computing. Founded 2012.
+
+## Contact & social
+- Facebook: https://www.facebook.com/profile.php?id=61560338201303
+- YouTube: https://www.youtube.com/@arabtechtrends
+- Instagram: https://www.instagram.com/arabtechtrends_official/

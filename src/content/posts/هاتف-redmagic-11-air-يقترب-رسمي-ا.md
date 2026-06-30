@@ -25,4 +25,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d8%aa%d9%81-redmagic-11-
 <p><a href="https://www.gsmarena.com/redmagic_11_air_is_coming_soon_key_specs_tipped-news-70847.php" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
 </div>
-

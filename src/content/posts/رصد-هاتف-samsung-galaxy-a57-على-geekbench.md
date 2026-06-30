@@ -25,4 +25,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b1%d8%b5%d8%af-%d9%87%d8%a7%d8%aa
 <p><a href="https://www.gsmarena.com/samsung_galaxy_a57_runs_geekbench_with_the_exynos_1680_chipset_on_board-news-70409.php" target="_blank" rel="nofollow"><span style="font-size:14px;">مصدر</span></a></p>
 </div>
 </div>
-

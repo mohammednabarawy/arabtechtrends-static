@@ -26,4 +26,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d8%aa%d9%81-huawei-mate-
 <p><a href="https://www.huaweicentral.com/huawei-mate-80-hits-1-million-sales-faster-than-any-mate-phone-ever/" target="_blank">مصدر</a></p>
 </div>
 </div>
-

@@ -12,10 +12,10 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-15t-%d
 ---
 
 <div>
-<p>وفقًا لأحدث التسريبات ، تستعد الشركة الصينية Xiaomi لإطلاق الجيل الجديد من هواتفها الرائدة في سلسلة &#8220;T&#8221; ، حيث كشفت التسريبات الأخيرة عن تفاصيل مهمة حول Xiaomi Pro 15T Pro.</p>
+<p>وفقًا لأحدث التسريبات ، تستعد الشركة الصينية Xiaomi لإطلاق الجيل الجديد من هواتفها الرائدة في سلسلة "T" ، حيث كشفت التسريبات الأخيرة عن تفاصيل مهمة حول Xiaomi Pro 15T Pro.</p>
 <p>في الواقع ، تمت مراقبة الجهاز مؤخرًا في قوائم الائتمان الخاصة بـ NBTC في تايلاند وعلى منصة أداء Geekbench ، مما يؤكد اسمه ورقم الطراز والمواصفات الرئيسية.</p>
-<h2 class="wp-block-heading">المواصفات وأهم ميزات Xiaomi 15T Pro وفقًا للتسريبات</h2>
-<p>يحتوي هاتف Xiaomi Pro على رقم طراز 2506BPN68G ، حيث يشير الحرف &#8220;G&#8221; إلى أنه مخصص للسوق العالمي. هذا يعني أنه من المحتمل أن يتم تقديم الجهاز في جميع الأسواق التي شهدت إطلاق أجهزة سلسلة &#8220;T&#8221; السابقة.</p>
+<h2>المواصفات وأهم ميزات Xiaomi 15T Pro وفقًا للتسريبات</h2>
+<p>يحتوي هاتف Xiaomi Pro على رقم طراز 2506BPN68G ، حيث يشير الحرف "G" إلى أنه مخصص للسوق العالمي. هذا يعني أنه من المحتمل أن يتم تقديم الجهاز في جميع الأسواق التي شهدت إطلاق أجهزة سلسلة "T" السابقة.</p>
 <p>في اختبارات Geekbench 6.4.0 لنظام Android ، سجل الهاتف 1057 نقطة في اختبار أحادي النزاع و 4،009 نقطة في الاختبار متعدد الأزهار. ومع ذلك ، من المهم أن نلاحظ أن هذه النتائج غالبًا ما تكون من النماذج الأولية وقد لا تعكس الأداء النهائي للجهاز.</p>
 <p><strong>معالج خافت 9400+ ، تغييرات الكاميرا والبطارية</strong></p>
 <div id="inline-related-post" class="mag-box mini-posts-box content-only">
@@ -36,6 +36,4 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-15t-%d
 <p>حصل الهاتف أيضًا على اعتماد من لجنة الاتصالات الفيدرالية (FCC) ، والتي كشفت عن توفره بثلاثة خيارات تخزين: 256 جيجابايت ، 512 جيجابايت ، و 1 تيرابايت. كل هذه الإصدارات ستأتي مع ذاكرة وصول عشوائي 12 جيجابايت.</p>
 <p>من المتوقع أن تكشف Xiaomi عن مزيد من التفاصيل حول الهاتف مع تاريخ الإطلاق الرسمي المقترب ، والذي قد يكون في أواخر سبتمبر ، على غرار إطلاق سلسلة 14T العام الماضي.</p>
 <p>في رأيك ، ما هي الميزة الأبرز التي يجب على الهاتف إحضارها؟</p>
-<p><a href="https://www.gsmarena.com/xiaomi_15t_pro_name_and_model_number_confirmed_as_its_spotted_on_geekbench-news-68636.php" data-type="link" data-id="https://www.gsmarena.com/xiaomi_15t_pro_name_and_model_number_confirmed_as_its_spotted_on_geekbench-news-68636.php">مصدر</a></p>
-</p></div>
-
+<p><a href="https://www.gsmarena.com/xiaomi_15t_pro_name_and_model_number_confirmed_as_its_spotted_on_geekbench-news-68636.php" data-type="link" data-id="https://www.gsmarena.com/xiaomi_15t_pro_name_and_model_number_confirmed_as_its_spotted_on_geekbench-news-68636.php">مصدر</a></p></div>

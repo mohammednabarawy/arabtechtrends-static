@@ -19,10 +19,10 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-
 </div>
 <div class="entry-content entry clearfix">
 <p>تستعد شركة Samsung الكورية لإطلاق سلسلة Galaxy S26 العام المقبل ، ومع زيادة التسريبات حول Galaxy S26 Ultra ، ظهرت معلومات جديدة تشير إلى أن الهاتف قد يحصل على ميزة مستوحاة من Apple ، وتحديداً من سلسلة iPhone 17.</p>
-<h2 class="wp-block-heading">ميزة صورة صورة شخصية في Galaxy S26 Ultra</h2>
+<h2>ميزة صورة صورة شخصية في Galaxy S26 Ultra</h2>
 <p>وفقًا للتقارير الحديثة ، تقوم Samsung بتطوير وظيفة تسمح بأخذ صور شخصية أفقية مع الاستمرار في الاحتفاظ بالهاتف مع الموقف الرأسي ، وهي ميزة مماثلة لبرنامج Apple الذي قدمته مؤخرًا. قد تكون هذه الإضافة مفيدة بشكل خاص للهواتف الكبيرة مثل Galaxy S26 Ultra ، والتي تأتي مع شاشة 6.9 بوصة ضخمة ، مما يجعل من الصعب التحكم فيها في أيدي صغيرة.</p>
 <p>لن تقتصر هذه الميزة على الوضع الأفقي فحسب ، بل من المتوقع أيضًا أن تستفيد من تقنيات الذكاء الاصطناعي لتوسيع زاوية الكاميرا الأمامية تلقائيًا عند تصوير الصور ، مما يعزز سهولة الاستخدام في سيناريوهات مختلفة. ومع ذلك ، يبقى السؤال حول ما إذا كانت Samsung ستتمكن من إدخال هذه الميزة في الوقت المناسب ، حيث قد يكون من الضروري استبدال المستشعر الأمامي الحالي بكاميرا محسّنة تدعم هذا النوع من التكنولوجيا.</p>
-<h3 class="wp-block-heading">المواصفات المتوقعة لهاتف Galaxy S26 Ultra</h3>
+<h3>المواصفات المتوقعة لهاتف Galaxy S26 Ultra</h3>
 <p>إلى جانب هذه الشائعات ، تكشف التسريبات أيضًا عن مجموعة من المواصفات القوية التي من المتوقع أن يحملها الهاتف:</p>
 <ul class="wp-block-list">
 <li><strong>شاشة:</strong> شاشة Dynamic AMOLED 2X 6.9 ، مع معدل تحديث متغير من 1 إلى 120 هرتز ، والسطوع أعلى وتكنولوجيا الانعكاس.</li>
@@ -43,10 +43,8 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-
 <li><strong>مزايا إضافية:</strong> مقاومة الماء والغبار مع معيار IP68 ، قارئ بصمات الأصابع المدمج ، ومكبرات صوت Strio.</li>
 <li><strong>طلب:</strong> <strong>Android 16</strong> واجهة <strong>واجهة المستخدم واحدة 8.5</strong>.</li>
 </ul>
-<h3 class="wp-block-heading">تغييرات التصميم</h3>
+<h3>تغييرات التصميم</h3>
 <p>من ناحية أخرى ، أظهرت تسريبات جديدة أن Galaxy S26 Ultra ستأتي مع مظهر محدث مع تعديلات على وحدة الكاميرات الخلفية ، حيث ظهرت الصور المسرة تؤكد وجود عدسات جديدة ، مما يعكس استمرار Samsung في تحسين الشكل الخارجي لسلسلةها الرائدة.</p>
-<p>شارك رأيك في أبرز الميزة التي يجب أن تصل Galaxy S26 Ultra إلى &#8230;</p>
-<p><a href="https://www.tudocelular.com/mercado/noticias/n240172/galaxys26ultra-recurso-camera-inspirado-iphone.html" data-type="link" data-id="https://www.tudocelular.com/mercado/noticias/n240172/galaxys26ultra-recurso-camera-inspirado-iphone.html">مصدر</a></p>
+<p>شارك رأيك في أبرز الميزة التي يجب أن تصل Galaxy S26 Ultra إلى …</p>
+<p><a href="https://www.tudocelular.com/mercado/noticias/n240172/galaxys26ultra-recurso-camera-inspirado-iphone.html" data-type="link" data-id="https://www.tudocelular.com/mercado/noticias/n240172/galaxys26ultra-recurso-camera-inspirado-iphone.html">مصدر</a></p></div>
 </p></div>
-</p></div>
-

@@ -24,4 +24,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8%d8%a7%
 <p><b>3 بطاريات ومعالج كوالكوم جديد</b><br />وفي الداخل، تشير المعلومات إلى أن سامسونج تعتمد على ثلاث وحدات بطارية، ربما بتقنية كربون السيليكون، لتوفير الطاقة الكافية لهذا النوع من الأجهزة. سيعمل الهاتف بمعالج Qualcomm Snapdragon 8 Elite، وهو أحد أقوى الشرائح المتوقعة في فئة الهواتف الرائدة، والذي يعد بأداء من الدرجة الأولى مهما كانت المهام.</p>
 <p><a href="https://www.gizmochina.com/2025/11/30/samsungs-galaxy-z-trifold-now-rumored-to-be-cheaper-than-huaweis-counterpart/" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
-

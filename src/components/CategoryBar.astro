@@ -1,0 +1,19 @@
+---
+import { categories } from "../site";
+import { withBase } from "../utils/posts";
+
+const base = import.meta.env.BASE_URL.endsWith("/") ? import.meta.env.BASE_URL : `${import.meta.env.BASE_URL}/`;
+const currentPath = Astro.url.pathname.replace(/\/$/, "");
+---
+
+<nav class="category-bar" aria-label="الأقسام">
+  {categories.map((category) => {
+    const href = withBase(`/category/${category.slug}/`, base);
+    const isActive = currentPath.endsWith(`/category/${category.slug}`);
+    return (
+      <a href={href} class:list={[{ active: isActive }]} aria-current={isActive ? "page" : undefined}>
+        {category.label}
+      </a>
+    );
+  })}
+</nav>

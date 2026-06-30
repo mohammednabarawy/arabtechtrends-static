@@ -24,4 +24,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d8%aa%d9%81-iphone-17e-%
 <p><a href="https://www.gsmarena.com/iphone_17e_display_details_leak-news-70551.php" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
 </div>
-

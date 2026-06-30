@@ -12,8 +12,8 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-hypero
 ---
 
 <div>
-<p>بدأت الشركة الصينية &#8220;Xiaomi&#8221; رسميًا الاختبارات الداخلية لإصدار &#8220;Hyperos 3&#8221; ، وهو مؤشر قوي على التحديث الجديد. من المتوقع أن يتم تقديم Hyperos 3 رسميًا خلال شهر سبتمبر وأكتوبر القادمين ، مما يمثل تحولًا نوعيًا وتطويرًا ملحوظًا من الإصدار السابق Hyperos 2.</p>
-<h2 class="wp-block-heading">أبرز ميزات Hyperos 3</h2>
+<p>بدأت الشركة الصينية "Xiaomi" رسميًا الاختبارات الداخلية لإصدار "Hyperos 3" ، وهو مؤشر قوي على التحديث الجديد. من المتوقع أن يتم تقديم Hyperos 3 رسميًا خلال شهر سبتمبر وأكتوبر القادمين ، مما يمثل تحولًا نوعيًا وتطويرًا ملحوظًا من الإصدار السابق Hyperos 2.</p>
+<h2>أبرز ميزات Hyperos 3</h2>
 <p>تشير التغييرات التي تم إجراؤها على Hyperos 2.2 و Hyperos 2.3 إلى الاتجاه العام لـ Hyperos 3. من المتوقع تقديم التحديث الجديد:</p>
 <p>واجهة المستخدم أكثر دقة وصقل: لتوفير تجربة مرئية محسنة للمستخدمين. إشعارات الوقت الفعلية: لتحسين التفاعل مع التطبيقات والخدمات. التأثيرات المرئية: لإعطاء لمسة جمالية حديثة لواجهة المستخدم. الدعم المتقدم لبرنامج تطبيقات Vulkan: لتحسين أداء الرسومات في الألعاب والتطبيقات. الوظائف الذكية الإضافية: تهدف إلى جعل هذا إصدار HyperOS هو واحد من أكثر الأفراد تقدمًا وشمولية في السنوات الأخيرة.</p>
 <div class="wp-block-image">
@@ -28,7 +28,5 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-hypero
 <p>هواتف Redmi (الهواتف الذكية): Redmi 14C ، Redmi Note 14 ، Redmi Note 14 5G ، Redmi Note 14 Pro ، Redmi Note 14 Pro 5g ، Redmi Note 14 Pro+ 5G ، Redmi Note 13 ، Redmi Note 13 5G ، Redmi Note 13 Pro Redmi Note 12 5G ، Redmi Note 12 Pro 5G ، Redmi Note 12 Pro+ 5G ، Redmi 12 ، Redmi 12 5G.</p>
 <p>أجهزة الكمبيوتر اللوحي: Xiaomi Pad 7 ، Xiaomi Pad 7 Pro ، Redmi Pad Pro 5G ، Redmi Pad SE 8.7 ، Redmi Pad SE 8.7 4G.</p>
 <p>هذه هي النماذج الوحيدة التي ستتلقى بالتأكيد Hyperos 3. يبقى معرفة ما إذا كانت Xiaomi ستضيف أي أجهزة أخرى إلى هذه القائمة في خططها النهائية.</p>
-<p>هل جهازك في قائمة الهواتف المؤهلة لتلقي Hyperos 3؟ ما هي الميزات التي تبحث عنها في هذا التحديث؟ شارك رأيك في التعليقات &#8230;</p>
-<p><a href="https://www.xiaomiadictos.com/xiaomi-ya-esta-probando-hyperos-3-en-algunos-de-sus-moviles-seran-los-primeros-en-actualizarse/" data-type="link" data-id="https://www.xiaomiadictos.com/xiaomi-ya-esta-probando-hyperos-3-en-algunos-de-sus-moviles-seran-los-primeros-en-actualizarse/">مصدر</a></p>
-</p></div>
-
+<p>هل جهازك في قائمة الهواتف المؤهلة لتلقي Hyperos 3؟ ما هي الميزات التي تبحث عنها في هذا التحديث؟ شارك رأيك في التعليقات …</p>
+<p><a href="https://www.xiaomiadictos.com/xiaomi-ya-esta-probando-hyperos-3-en-algunos-de-sus-moviles-seran-los-primeros-en-actualizarse/" data-type="link" data-id="https://www.xiaomiadictos.com/xiaomi-ya-esta-probando-hyperos-3-en-algunos-de-sus-moviles-seran-los-primeros-en-actualizarse/">مصدر</a></p></div>

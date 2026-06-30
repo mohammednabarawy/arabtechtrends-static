@@ -6,7 +6,7 @@ updatedDate: "2025-07-24T03:48:43"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "https://www.arabtechtrends.com/wp-content/uploads/2025/07/1753318121_85_يوفر-Gmail-أداة-ذكية-للتحكم-في-الاشتراكات-بنقرة-واحدة.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d9%8a%d9%85%d9%8a%d9%84-gmail-%d9%8a%d9%8f%d9%82%d8%af%d9%91%d9%85-%d8%a3%d8%af%d8%a7%d8%a9-%d8%b0%d9%83%d9%8a%d8%a9-%d9%84%d9%84%d8%aa%d8%ad%d9%83%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%a7%d8%b4/"
 ---
@@ -18,18 +18,16 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d9%8a%d9%85%d9%8a%d9%84-gmail-
 </div>
 </div>
 <div class="entry-content entry clearfix">
-<p>أطلقت Google رسميًا ميزة تُعرف باسم &#8220;إدارة الاشتراكات&#8221; الجديدة في خدمة البريد الإلكتروني Gmail ، والتي تهدف إلى تبسيط عملية إلغاء الاشتراك من الرسائل غير المرغوب فيها والتحكم في البريد المدرج.</p>
+<p>أطلقت Google رسميًا ميزة تُعرف باسم "إدارة الاشتراكات" الجديدة في خدمة البريد الإلكتروني Gmail ، والتي تهدف إلى تبسيط عملية إلغاء الاشتراك من الرسائل غير المرغوب فيها والتحكم في البريد المدرج.</p>
 <p>جاءت هذه الميزة الجديدة بعد اختبار على Android ، وهي الآن متاحة تدريجياً لمستخدمي Gmail على منصات مختلفة.</p>
-<h2 class="wp-block-heading">تفاصيل ميزة إدارة الاشتراك في Gmail</h2>
-<p>تمتلئ العديد من صناديق البريد دائمًا برسائل الأخبار والعروض الترويجية والاشتراكات من المواقع التي قد لا تكون ذات صلة بعد الآن. لمواجهة هذه الفوضى ، وفرت Google ميزة &#8220;إدارة الاشتراك&#8221; التي تتيح للمستخدمين إلغاء الاشتراك من هذه الرسائل بسهولة تامة وبنقر فوق واحد.</p>
+<h2>تفاصيل ميزة إدارة الاشتراك في Gmail</h2>
+<p>تمتلئ العديد من صناديق البريد دائمًا برسائل الأخبار والعروض الترويجية والاشتراكات من المواقع التي قد لا تكون ذات صلة بعد الآن. لمواجهة هذه الفوضى ، وفرت Google ميزة "إدارة الاشتراك" التي تتيح للمستخدمين إلغاء الاشتراك من هذه الرسائل بسهولة تامة وبنقر فوق واحد.</p>
 <p><strong>مزيد من التفاصيل حول الميزة:</strong></p>
-<figure class="wp-block-image size-full"><img data-lazyloaded="1" data-recalc-dims="1" decoding="async" width="590" height="766" src="https://www.arabtechtrends.com/wp-content/uploads/2025/07/1753318121_85_يوفر-Gmail-أداة-ذكية-للتحكم-في-الاشتراكات-بنقرة-واحدة.jpg" alt="Gmail " class="wp-image-223311"  data-/></figure>
+<figure class="wp-block-image size-full"><img width="590" height="766" src="https://www.arabtechtrends.com/wp-content/uploads/2025/07/1753318121_85_يوفر-Gmail-أداة-ذكية-للتحكم-في-الاشتراكات-بنقرة-واحدة.jpg" alt="Gmail " class="wp-image-223311"></figure>
 <p><strong>سهولة الاستخدام:</strong> تتيح الميزة للمستخدمين إلغاء الاشتراك من الرسائل غير المرغوب فيها مباشرة من البريد الوارد ، وتوفير الوقت والجهد في البحث عن إلغاء الروابط داخل الرسائل نفسها.</p>
-<p><strong>توافر متعدد المنافذ:</strong> بعد اختباره على نظام Android في أبريل الماضي ، تم الآن إطلاق ميزة &#8220;إدارة الاشتراك&#8221; لمستخدمي Gmail على Android و iOS و Web. هذا يضمن ميزة قاعدة واسعة من المستخدمين بغض النظر عن الجهاز الذي يستخدمونه.</p>
+<p><strong>توافر متعدد المنافذ:</strong> بعد اختباره على نظام Android في أبريل الماضي ، تم الآن إطلاق ميزة "إدارة الاشتراك" لمستخدمي Gmail على Android و iOS و Web. هذا يضمن ميزة قاعدة واسعة من المستخدمين بغض النظر عن الجهاز الذي يستخدمونه.</p>
 <p><strong>عروض الدراسات العليا:</strong> تتم عملية العرض تدريجياً ، مما يعني أن الميزة قد تستغرق بضعة أسابيع للوصول إلى جميع المستخدمين في جميع أنحاء العالم.</p>
 <p>يعد هذا التحديث خطوة مهمة من Google إلى تحسين تجربة المستخدم في Gmail ، ومساعدتهم على تنظيم بريدهم القادم بشكل أكثر كفاءة. من خلال تبسيط عملية التخلص من الرسائل غير الضرورية ، تهدف Google إلى جعل البريد الوارد مكانًا أكثر تنظيماً والتركيز على الرسائل المهمة.</p>
 <p>ما رأيك في هذه الميزة؟ ما هي أكثر الميزة التي تفتقر إليها Gmail؟</p>
-<p><a href="https://www.howtogeek.com/gmails-new-feature-will-help-you-rein-in-your-subscriptions/" data-type="link" data-id="https://www.howtogeek.com/gmails-new-feature-will-help-you-rein-in-your-subscriptions/">مصدر</a></p>
+<p><a href="https://www.howtogeek.com/gmails-new-feature-will-help-you-rein-in-your-subscriptions/" data-type="link" data-id="https://www.howtogeek.com/gmails-new-feature-will-help-you-rein-in-your-subscriptions/">مصدر</a></p></div>
 </p></div>
-</p></div>
-

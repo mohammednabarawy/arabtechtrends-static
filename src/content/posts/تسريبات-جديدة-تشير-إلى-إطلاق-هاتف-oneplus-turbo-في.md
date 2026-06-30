@@ -23,4 +23,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8%d8%a7%
 <p>وحتى الآن لم تظهر أي معلومات رسمية حول موعد الإطلاق العالمي، لكن من المرجح أن تصبح الصورة أكثر وضوحًا بعد الإعلان الرسمي عن الهاتف في الصين خلال شهر يناير المقبل، حيث من المرجح أن تبدأ OnePlus في الكشف عن خططها للتوسع خارج السوق المحلية.</p>
 <p><a href="https://www.threads.com/@yabhishekhd/post/DSjl_1Ejx-z" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
-

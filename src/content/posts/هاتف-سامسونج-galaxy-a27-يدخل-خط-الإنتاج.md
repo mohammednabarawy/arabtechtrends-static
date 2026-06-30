@@ -24,4 +24,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d8%aa%d9%81-%d8%b3%d8%a7
 <p><a href="https://www.gsmarena.com/samsung_galaxy_a27_launch_timeframe-news-70314.php" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
 </div>
-

@@ -13,10 +13,10 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-ios-26
 
 <div>
 <p>أصدرت Apple الإصدار التجريبي الخامس من iOS 26 ، والذي لا يزال قيد التطوير ، كجزء من برنامج الإصدار التجريبي للمطورين والمستخدمين. يأتي هذا التحديث الجديد بعد سلسلة من التعديلات التي تضمنت المظهر الجديد للنظام المعروف باسم Liquid Glass ، وهو تأثير بصري شفاف تم تقديمه لأول مرة في الإعلان الرسمي للنظام خلال مؤتمر المطورين في يونيو الماضي.</p>
-<h2 class="wp-block-heading">أهم ميزات الإصدار التجريبي الخامس من IOS 26 Beta</h2>
+<h2>أهم ميزات الإصدار التجريبي الخامس من IOS 26 Beta</h2>
 <figure class="wp-block-image size-full"></figure>
-<p><strong>عاد زر الإرجاع في تطبيق البريد (البريد):</strong> بعد اختفائه أشعلت تذمر بعض المستخدمين ، قام Apple بإعادة هوية زر &#8220;تحديد&#8221; ، والذي يسمح باختيار عدة رسائل في وقت واحد.</p>
-<p><strong>إعادة -submitting &#8220;Swatch الكلاسيكية للتبديل بين أنظمة الكاميرا&#8221;:</strong> يتيح هذا الخيار للمستخدمين عكس اتجاه التبديل بين أوضاع التصوير في تطبيق الكاميرا ، والذي يعيد التجربة الكلاسيكية التي اعتادها البعض.</p>
+<p><strong>عاد زر الإرجاع في تطبيق البريد (البريد):</strong> بعد اختفائه أشعلت تذمر بعض المستخدمين ، قام Apple بإعادة هوية زر "تحديد" ، والذي يسمح باختيار عدة رسائل في وقت واحد.</p>
+<p><strong>إعادة -submitting "Swatch الكلاسيكية للتبديل بين أنظمة الكاميرا":</strong> يتيح هذا الخيار للمستخدمين عكس اتجاه التبديل بين أوضاع التصوير في تطبيق الكاميرا ، والذي يعيد التجربة الكلاسيكية التي اعتادها البعض.</p>
 <p><strong>إشعار جديد عندما تنخفض البطارية:</strong> عندما تصل البطارية إلى 20 ٪ ، يعرض تنبيه التصميم المحدث خيارًا مباشرًا لتنشيط وضع توفير الطاقة (وضع الطاقة المنخفض).</p>
 <p><strong>تحسينات واجهة المستخدم:</strong> يتضمن التحديث حركات انتقالية جديدة (الرسوم المتحركة) ، شاشة الترحيب ، بالإضافة إلى <strong>أيقونة جديدة للهواء</strong>.</p>
 <p><strong>تقسيم أزرار الإزالة:</strong> عند ترتيب الرموز على الشاشة الرئيسية ، أصبحت أزرار الحذف (-) شفافة الآن ، مما يمنح الواجهة مظهرًا سلسًا.</p>
@@ -25,6 +25,4 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-ios-26
 <p>يتضمن التحديث الآن شاشات ترحيبية جديدة للملاحظات وتطبيقات Apple Music.</p>
 <p>يتم توفير التحديثات التجريبية لـ iPados 26 و Watchos 26 و Macos Tahoe 26 و TVOS 26 و VisionOS 26 أنظمة في نفس الوقت.</p>
 <p>هل تلقيت التحديث؟</p>
-<p><a href="https://www.gsmarena.com/ios_26_beta_5_is_here_restores_the_select_button_in_mail_classic_mode_switching_in_the_camera_app-news-68921.php" data-type="link" data-id="https://www.gsmarena.com/ios_26_beta_5_is_here_restores_the_select_button_in_mail_classic_mode_switching_in_the_camera_app-news-68921.php">مصدر</a></p>
-</p></div>
-
+<p><a href="https://www.gsmarena.com/ios_26_beta_5_is_here_restores_the_select_button_in_mail_classic_mode_switching_in_the_camera_app-news-68921.php" data-type="link" data-id="https://www.gsmarena.com/ios_26_beta_5_is_here_restores_the_select_button_in_mail_classic_mode_switching_in_the_camera_app-news-68921.php">مصدر</a></p></div>

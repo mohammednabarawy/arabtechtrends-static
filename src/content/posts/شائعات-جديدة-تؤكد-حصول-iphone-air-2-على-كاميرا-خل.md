@@ -22,4 +22,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d8%a6%d8%b9%d8%a7%d8%aa-
 <p>على كل حال، تبقى هذه المعلومات في إطار التسريبات غير المؤكدة، ولن يتضح مدى صحتها إلا بعد مرور الوقت واقتراب الإعلان الرسمي من آبل.</p>
 <p><a href="https://www.gsmarena.com/iphone_air_2_once_again_rumored_to_gain_a_second_rear_camera_maybe_even_a_lower_price-news-70747.php" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
-

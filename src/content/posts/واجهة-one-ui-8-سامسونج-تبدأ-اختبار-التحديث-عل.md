@@ -22,7 +22,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-one-ui
 <p>تمر واحد من UI 8 BETA من خلال خطوات التدرج ، على غرار الإصدار السابق من One UI 7. بدأت سلسلة Galaxy S25 الرائدة في شهر مايو الماضي مع تحديث تجريبي ، تتبعها هواتف Galaxy S24 وأجهزة قابلة للطي مثل Z Fold 6 و Z Flip 6 هذا الشهر.</p>
 <p>أما بالنسبة للهواتف الأخرى مثل Galaxy S23 و Z Fold 5 و Z Flip 5 والإصدارات المتوسطة ، فمن المتوقع أن ينضم إلى سبتمبر.</p>
 <p>ومن المثير للاهتمام ، أن Galaxy A56 ، أحدث هواتف الطبقة العلوية المتوسطة ، لن تشارك في البرنامج التجريبي ، في حين أن التحديث سيكون متاحًا لأجهزة أخرى أقل مثل Galaxy A36 و A54 و A35.</p>
-<h3 class="wp-block-heading">متوقع واجهة المستخدم 8 مزايا</h3>
+<h3>متوقع واجهة المستخدم 8 مزايا</h3>
 <p>بالرغم من <strong>واجهة المستخدم واحدة 8</strong> لن تكون قفزة كبيرة مثل <strong>واجهة المستخدم واحدة 7</strong>ومع ذلك ، فإنه سيحمل العديد من التحسينات المهمة ، وأبرزها:</p>
 <ul class="wp-block-list">
 <li>تغييرات السرعة في تصميم لوحة التحكم السريع.</li>
@@ -31,7 +31,5 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-one-ui
 <li>تحسين الأداء العام مع تحسين تجربة الاستخدام.</li>
 </ul>
 <p>في رأيك ، ما هي أبرز ميزة للتحديث؟</p>
-<p><a href="https://www.tudocelular.com/samsung/noticias/n239169/one-ui-8-beta-galaxy-a55-servidores-samsung.html" data-type="link" data-id="https://www.tudocelular.com/samsung/noticias/n239169/one-ui-8-beta-galaxy-a55-servidores-samsung.html">مصدر</a></p>
+<p><a href="https://www.tudocelular.com/samsung/noticias/n239169/one-ui-8-beta-galaxy-a55-servidores-samsung.html" data-type="link" data-id="https://www.tudocelular.com/samsung/noticias/n239169/one-ui-8-beta-galaxy-a55-servidores-samsung.html">مصدر</a></p></div>
 </p></div>
-</p></div>
-

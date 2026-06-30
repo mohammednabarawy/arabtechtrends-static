@@ -22,4 +22,3 @@ sourceUrl: "https://www.arabtechtrends.com/nothing-%d8%aa%d8%a8%d8%af%d8%a3-%d8%
 <p>ولا شيء يشير إلى أن توقيت الإطلاق تزامن مع موسم الأعياد في محاولة لتقديم تجربة مستخدم محسنة للمستخدمين خلال هذه الفترة، مع التأكيد على أن عملية التحديث ستتوسع تدريجياً مع مرور الوقت لضمان الاستقرار وسلاسة الأداء على مختلف الأجهزة المدعومة.</p>
 <p><a href="https://www.gsmarena.com/nothing_phone_(3a)_lite_5g-14267.php" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
-

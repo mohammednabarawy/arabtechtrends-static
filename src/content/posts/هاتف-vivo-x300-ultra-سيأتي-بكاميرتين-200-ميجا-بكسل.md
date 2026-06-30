@@ -23,4 +23,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d8%aa%d9%81-vivo-x300-ul
 <p><a href="https://www.gsmarena.com/vivo_x300_ultras_camera_system_detailed_some_more-news-70383.php" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
 </div>
-

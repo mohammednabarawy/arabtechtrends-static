@@ -6,7 +6,7 @@ updatedDate: "2025-12-03T19:52:01"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["20500 مللي أمبير","بطارية فائقة","محدد ليزر مدمج","هاتف DOOGEE V Max LR"]
-image: ""
+image: "https://www.arabtechtrends.com/wp-content/uploads/2025/12/1764784318_317_doogee-v-max-lr.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d9%87%d8%a7%d8%aa%d9%81-doogee-v-max-lr/"
 ---
@@ -18,22 +18,21 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d9%87
 <p>
 <b>جهاز تحديد المدى بالليزر يصل إلى 40 مترًا</b></p>
 <p>الميزة الأبرز في الهاتف هي نطاق الليزر الدقيق المدمج الذي يبلغ 40 مترًا والذي يمكنه قياس الطول والمساحة والحجم بدقة احترافية. يدعم الهاتف قياسات تتراوح من 0.08 إلى 40 مترًا، بمعدل دقة يتراوح من ±3 إلى ±15 ملم، مما يجعله مناسبًا للمسح الهندسي وأعمال البناء وتصميم المساحات المنزلية وحتى تخطيط المناطق الخارجية.</p>
-<div align="center"><img decoding="async" src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1764784318_317_doogee-v-max-lr.webp.webp" class="img-responsive lazy" alt="" border="0"/></div>
+<div align="center"><img src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1764784318_317_doogee-v-max-lr.webp.webp" class="img-responsive lazy" alt=""/></div>
 <p>
 <b>أضواء التخييم مزدوجة</b></p>
 <p>وبالنسبة للمهام الليلية، يحصل الهاتف على نظام إضاءة مدمج يتكون من مصباحين للتخييم بقوة 1200 لومن، مع خمسة مستويات سطوع وثلاثة أوضاع تشغيل: عادي، وفلاش الطوارئ، وSOS. تتميز بنطاق إضاءة يصل إلى 8 أمتار، مما يجعلها بديلاً عمليًا لمصابيح التخييم المحمولة.</p>
 <p><b>البطارية هي الأكبر في فئتها</b><br />ويتميز الهاتف ببطارية ضخمة بسعة 20,500 مللي أمبير، لتوفر أيام تشغيل كاملة دون الحاجة للشحن، حتى في الظروف القاسية. ويمكن للمستخدم مشاهدة الفيديو لمدة 15 ساعة عند درجة حرارة -10°، وإجراء المكالمات عند -20°، مع إمكانية الشحن السريع بقدرة 45 واط ودعم الشحن العكسي بقدرة 10 واط لتغذية الأجهزة الأخرى.</p>
-<div align="center"><img decoding="async" src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1764784319_978_doogee-v-max-lr.webp.webp" width="923" height="1000" title="بطارية الهاتف DOOGEE V Max LR" class="img-responsive lazy" alt="بطارية الهاتف DOOGEE V Max LR" border="0"/></div>
+<div align="center"><img src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1764784319_978_doogee-v-max-lr.webp.webp" width="923" height="1000" title="بطارية الهاتف DOOGEE V Max LR" class="img-responsive lazy" alt="بطارية الهاتف DOOGEE V Max LR"/></div>
 <p></p>
 <p>ويعمل هاتف V Max LR أيضًا بمعالج MediaTek Dimensity 7300 مع 36 جيجابايت من ذاكرة الوصول العشوائي (16 جيجابايت أساسية + 20 جيجابايت من الذاكرة الافتراضية) مع 512 جيجابايت من مساحة التخزين الداخلية، ويعتمد على نظام التشغيل Android 15 المدمج مع تقنيات Gemini AI، بهدف توفير أداء متوازن وتكيف ذكي مع الاستخدام اليومي. كما يدعم الهاتف اتصالات 5G وWi-Fi 6E وNFC مع بلوتوث الإصدار 5.4، ويحتوي على شاشة IPS بقياس 6.78 بوصة بدقة FHD+ ومعدل تحديث 120 هرتز لضمان وضوح عالي حتى تحت أشعة الشمس.</p>
-<div align="center"><img decoding="async" src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1764784319_207_doogee-v-max-lr.webp.webp" width="980" height="564" title="كاميرات الهواتف الذكية DOOGEE V Max LR" class="img-responsive lazy" alt="كاميرات الهواتف الذكية DOOGEE V Max LR" border="0"/></div>
+<div align="center"><img src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1764784319_207_doogee-v-max-lr.webp.webp" width="980" height="564" title="كاميرات الهواتف الذكية DOOGEE V Max LR" class="img-responsive lazy" alt="كاميرات الهواتف الذكية DOOGEE V Max LR"/></div>
 <p>
 <b>نظام تصوير احترافي</b></p>
 <p>الهاتف مزود بكاميرا رئيسية بدقة 200 ميجابكسل، إلى جانب عدسة رؤية ليلية تعمل بالأشعة تحت الحمراء بدقة 20 ميجابكسل للتصوير في البيئات المظلمة، وعدسة فائقة الاتساع بدقة 8 ميجابكسل، بالإضافة إلى كاميرا أمامية بدقة 32 ميجابكسل. هذا المزيج الكامل يجعل الهاتف مناسبًا لالتقاط المناظر الطبيعية والصور الميدانية والمهام المهنية في الإضاءة المنخفضة.</p>
 <p><b>مصممة لتدوم</b><br />ويحمل الجهاز شهادتي IP68 وIP69K لمقاومة الماء والغبار والضغط العالي، مع قدرة مثبتة على تحمل الصدمات، وبيئة تشغيل تتراوح من -20 درجة إلى 55 درجة، مما يجعله خيارًا مثاليًا لعالم الاستكشاف والأعمال الصناعية والسفر في الهواء الطلق.</p>
-<div align="center"><img decoding="async" src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1764784319_790_doogee-v-max-lr.webp.webp" width="980" height="642" title="ألوان هاتف DOOGEE V Max LR" class="img-responsive lazy" alt="ألوان هاتف DOOGEE V Max LR" border="0"/></div>
+<div align="center"><img src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1764784319_790_doogee-v-max-lr.webp.webp" width="980" height="642" title="ألوان هاتف DOOGEE V Max LR" class="img-responsive lazy" alt="ألوان هاتف DOOGEE V Max LR"/></div>
 <p></p>
 <p>وبحسب ما نشرته الشركة فإن DOOGEE V Max LR سيتوفر في الأسواق العالمية عبر الموقع الرسمي للشركة وشركائها المعتمدين بسعر 579.99 دولار أمريكي باللونين Armor Black وBattle Rust Gray، مع عروض خاصة لفترة محدودة بمناسبة الإطلاق.</p>
 <p><a href="https://www.doogee.com/zh-hans/collections/v-max-series/products/v-max-lr" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
-

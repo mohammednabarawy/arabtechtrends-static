@@ -6,13 +6,13 @@ updatedDate: "2025-12-03T04:45:39"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["هاتف RedMagic منصة AnTuTu 4 مليون نقطة RedMagic 11 Pro"]
-image: ""
+image: "https://www.arabtechtrends.com/wp-content/uploads/2025/12/1764729938_793_redmagic-11-pro-plus-----4.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d8%aa%d9%81-redmagic-11-pro-plus-%d9%8a%d8%ad%d9%82%d9%82-%d8%a3%d9%83%d8%ab%d8%b1-%d9%85%d9%86-4-%d9%85%d9%84%d9%8a%d9%88%d9%86-%d9%86%d9%82%d8%b7%d8%a9/"
 ---
 
 <div itemprop="articleBody">
-<p>في شهر نوفمبر، بدت المنافسة على المركز الأول على AnTuTu وكأنها معركة بين معالجين يقودان جيلًا كاملاً من الهواتف الذكية. ولم يتم حسم التفوق، إذ تمكن معالج MediaTek Dimensity 9500 من التفوق على أحدث شرائح كوالكوم عندما أزيلت منه &#8220;أسلحة&#8221; التبريد، بينما حافظ Snapdragon 8 Elite Gen 5 على تفوقه فقط عندما كان في بيئة مثالية &#8211; وتلك البيئة تسمى RedMagic 11 Pro Plus، الهاتف الذي استطاع تحقيق 4 ملايين و100 ألف نقطة على منصة AnTuTu.</p>
+<p>في شهر نوفمبر، بدت المنافسة على المركز الأول على AnTuTu وكأنها معركة بين معالجين يقودان جيلًا كاملاً من الهواتف الذكية. ولم يتم حسم التفوق، إذ تمكن معالج MediaTek Dimensity 9500 من التفوق على أحدث شرائح كوالكوم عندما أزيلت منه "أسلحة" التبريد، بينما حافظ Snapdragon 8 Elite Gen 5 على تفوقه فقط عندما كان في بيئة مثالية – وتلك البيئة تسمى RedMagic 11 Pro Plus، الهاتف الذي استطاع تحقيق 4 ملايين و100 ألف نقطة على منصة AnTuTu.</p>
 <div></p>
 <div style="text-align:center;"></div>
 <p>
@@ -20,9 +20,8 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d8%aa%d9%81-redmagic-11-
 <p>لا يعتمد هاتف الألعاب على القوة الخام للمعالج فحسب، بل يعتمد أيضًا على نظام تبريد يبدو كما لو أنه مأخوذ من كمبيوتر مكتبي مخصص للاعبين: غرفة تبخر، ورق نحاس، وطبقات من الجرافين، وإطار من الألومنيوم، ومعدن سائل، ونظام تبريد سائل، ومروحة تدور بسرعة 24000 دورة في الدقيقة. كل هذا من أجل إبقاء درجة الحرارة تحت السيطرة، ليحافظ الجهاز على صدارته في الأداء للشهر الثاني على التوالي.</p>
 <p>لكن الواقع خارج عالم الألعاب يحكي قصة مختلفة. ولم يتمكن هاتف Vivo iQOO 15 المزود بنفس المعالج من الوصول إلى الصدارة، وتوقف عند 3.99 مليون نقطة، في حين يعكس هاتف oppo Find خريطة الأداء هنا حقيقة واضحة: هذا الجيل ليس انتصارًا مطلقًا لشركة Qualcomm، بل منافسة متساوية مع MediaTek.</p>
 <div></p>
-<div style="text-align:center;"><img decoding="async" src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1764729938_793_redmagic-11-pro-plus-----4.webp.webp" width="2000" height="1555" title="هواتف متوسطة المدى" class="img-responsive lazy" alt="هواتف متوسطة المدى" border="0"/>
+<div style="text-align:center;"><img src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1764729938_793_redmagic-11-pro-plus-----4.webp.webp" width="2000" height="1555" title="هواتف متوسطة المدى" class="img-responsive lazy" alt="هواتف متوسطة المدى"/>
 </div>
 </div>
 <p>ويصبح المشهد أكثر قسوة بالنسبة لشركة كوالكوم في الفئة المتوسطة. وتكشف النتائج عن حضور خجول لمعالجاته، حيث يظهر هاتف Realme GT Neo6 SE المبني على Snapdragon 7+ Gen 3 في المركز السابع فقط، باعتباره الهاتف الوحيد الذي يحتوي على معالج كوالكوم في المراكز العشرة الأولى. أما باقي المراكز فكانت حصتها شرائح Dimensity 8300 و Dimensity 8400، ففرضت MediaTek حضوراً واضحاً في وسط السوق.</p>
 </div>
-

@@ -18,9 +18,9 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-hypero
 </div>
 </div>
 <div class="entry-content entry clearfix">
-<p>تعمل الشركة الصينية Xiaomi على الجيل الجديد من واجهة &#8220;Hyperos 3&#8221; ، والتي ستأتي على نظام التشغيل Android 16 ، الذي يعد بتقديم تحسينات كبيرة على الأداء ، وواجهة مستخدم أكثر سلاسة ، ومجموعة من الميزات الجديدة.</p>
+<p>تعمل الشركة الصينية Xiaomi على الجيل الجديد من واجهة "Hyperos 3" ، والتي ستأتي على نظام التشغيل Android 16 ، الذي يعد بتقديم تحسينات كبيرة على الأداء ، وواجهة مستخدم أكثر سلاسة ، ومجموعة من الميزات الجديدة.</p>
 <p>وفقًا للتسريبات ، توقفت الشركة عن العمل على Hyperos 2 وبدأت بالفعل في التحضير لإصدار HyperOS 3 ، مع خطة لبدء الاختبارات التجريبية التجريبية خلال شهر أغسطس 2025. من المتوقع أن يتم الإطلاق الرسمي للنسخة المستقرة في أواخر سبتمبر أو أوائل أكتوبر ، على الرغم من عدم وجود تأكيد رسمي حتى الآن.</p>
-<h2 class="wp-block-heading">الهواتف المتوافقة مع Hyperos 3</h2>
+<h2>الهواتف المتوافقة مع Hyperos 3</h2>
 <p>على الرغم من أن Xiaomi لم يكشف رسميًا عن القائمة ، فمن المحتمل أن يحصل على التحديث ، ويشمل معظم هاتف Xiaomi 15 و 14 و 13 و 12 مع سلاسل مختلفة ، إلى جانب عدد من أجهزة Redmi و Boku وأجهزة Xiaomi Pad. تتضمن القائمة الكاملة العشرات من النماذج وفقًا لسياسة التحديث المعتادة.</p>
 <p><strong>أهم المزايا المتوقعة في Hyperos 3</strong></p>
 <ul class="wp-block-list">
@@ -32,7 +32,5 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-hypero
 </ul>
 <p>من خلال هذه التحديثات ، يبدو أن Xiaomi تستعد لتوفير تجربة أكثر سلاسة وآمنة لمستخدميها ، مع دمج ميزات Android 16 في بيئة HyperOS المخصصة.</p>
 <p>هل هاتفك مؤهل للحصول على Hyperos 3؟</p>
-<p><a href="https://www.gizmochina.com/2025/08/14/xiaomi-hyperos-3-update-release-date-eligible-devices-and-new-features/" data-type="link" data-id="https://www.gizmochina.com/2025/08/14/xiaomi-hyperos-3-update-release-date-eligible-devices-and-new-features/">مصدر</a></p>
+<p><a href="https://www.gizmochina.com/2025/08/14/xiaomi-hyperos-3-update-release-date-eligible-devices-and-new-features/" data-type="link" data-id="https://www.gizmochina.com/2025/08/14/xiaomi-hyperos-3-update-release-date-eligible-devices-and-new-features/">مصدر</a></p></div>
 </p></div>
-</p></div>
-

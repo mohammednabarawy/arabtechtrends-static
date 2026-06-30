@@ -19,7 +19,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-
 </div>
 <div class="entry-content entry clearfix">
 <p>تم الكشف عن تسرب جديد من محطة الدردشة الرقمية المدون الصينية على منصة WIPO بشأن مواصفات Samsung Galaxy S26 Pro ، والتي من المتوقع أن تكون البديل للإصدار الأساسي من السلسلة.</p>
-<h2 class="wp-block-heading">المواصفات وأهم ميزات Galaxy S26 Pro اعتمادًا على التسريبات</h2>
+<h2>المواصفات وأهم ميزات Galaxy S26 Pro اعتمادًا على التسريبات</h2>
 <p>وفقًا للمصادر ، ستشهد سلسلة Galaxy S26 إعادة تنظيم تتضمن ثلاثة نماذج:</p>
 <ul class="wp-block-list">
 <li><strong>Galaxy S26 Pro</strong></li>
@@ -34,7 +34,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-
 <li>قد تحصل جميع الطرز على شاشات محسّنة توفر تفاصيل أوضح وألوان أكثر حيوية ومستوى سطوع أعلى.</li>
 </ul>
 <p><strong>سعة البطارية</strong></p>
-<p>على الرغم من اسم &#8220;Pro&#8221; ، تشير التسريبات إلى أن الهاتف قد يظل أقل من منافسيه الصينيين في سعة البطارية:</p>
+<p>على الرغم من اسم "Pro" ، تشير التسريبات إلى أن الهاتف قد يظل أقل من منافسيه الصينيين في سعة البطارية:</p>
 <ul class="wp-block-list">
 <li>القدرة الاسمية: <strong>4175 ماه</strong></li>
 <li>القدرة النموذجية: <strong>4300 مللي أمبير</strong> (300 مللي أمبير من S25).</li>
@@ -43,7 +43,5 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-
 <p>سيحصل الهاتف على مستشعر رئيسي جديد ، لكن لم يتم الكشف عن التفاصيل بعد ، ومن المتوقع أن ينشر المزيد من المعلومات في الفترة المقبلة.</p>
 <p><strong>يطلق</strong></p>
 <p>لا توجد معلومات مؤكدة حول تاريخ الإطلاق الرسمي ، لكن التوقعات تشير إلى الكشف عنها في أوائل العام المقبل ، إلى جانب بقية السلسلة.</p>
-<p><a href="https://www.tudocelular.com/mercado/noticias/n238906/samsung-galaxy-s26-pro-especificacoes-vazadas.html" data-type="link" data-id="https://www.tudocelular.com/mercado/noticias/n238906/samsung-galaxy-s26-pro-especificacoes-vazadas.html">مصدر</a></p>
+<p><a href="https://www.tudocelular.com/mercado/noticias/n238906/samsung-galaxy-s26-pro-especificacoes-vazadas.html" data-type="link" data-id="https://www.tudocelular.com/mercado/noticias/n238906/samsung-galaxy-s26-pro-especificacoes-vazadas.html">مصدر</a></p></div>
 </p></div>
-</p></div>
-

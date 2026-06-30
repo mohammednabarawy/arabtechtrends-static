@@ -29,4 +29,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d8%aa%d9%81-xiaomi-17-ul
 <p><a href="https://www.gizmochina.com/2025/12/26/xiaomi-17-ultra-leica-edition-sold-out-almost-instantly-and-is-reselling-for-a-premium/" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
 </div>
-

@@ -1,6 +1,6 @@
 ---
 title: "Dunke: Awakening متاح الآن مع Nvidia DLSS 4 وتوليد الإطارات المتعددة"
-description: "NVIDIA DLSS 4 تقنية مع توليد إطارات متعددة الأداء المزدوج في الكثبان الرملية: الصحوة. بالإضافة إلى ذلك ، تتوفر الآن لعبة EA Sports F1 25 لأنها تتميز بتقنية تتبع المسار والدعم الكامل لمجموعة تقنية DLSS ، بما في ذلك إعادة بناء الإشعاع وتوليد "
+description: "NVIDIA DLSS 4 تقنية مع توليد إطارات متعددة الأداء المزدوج في الكثبان الرملية: الصحوة. بالإضافة إلى ذلك ، تتوفر الآن لعبة EA Sports F1 25 لأنها تتميز بتقنية تتبع المسار والدعم الكامل لمجموعة تقنية DLSS ، بما في ذلك إعادة بناء الإشعاع وتوليد"
 pubDate: "2025-06-10T14:22:00"
 updatedDate: "2025-07-07T10:55:19"
 author: "Arab Tech Trends"
@@ -26,4 +26,3 @@ sourceUrl: "https://www.arabtechtrends.com/nvidia-dlss-4-powers-dune-awakening-w
 <p>بالإضافة إلى ذلك ، يمكن لبطاقات Series Geforce RTX 50 تنشيط تقنية DLSS 4 مع دقة GeForce RTX متعددة الجيلات.</p>
 <p>wabastخadam dlss 4 maud toleyd alإطaaraT tlmtaded and dlss Ray REAND ، و Dlss super dels coll RTX 50 Series BDقة 4K ، MuadadadaT فaئقة (Ultra High) و Wttabud hlmusar (تتبع المسار) أثناء السباق الليلي على دائرة البحرين ، رطب مع 20 سيارة.</p>
 </div>
-

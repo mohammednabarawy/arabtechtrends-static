@@ -48,4 +48,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-hypero
 <p>هل هاتفك من بين الهواتف المذكورة أعلاه؟</p>
 <p><a href="https://www.tudocelular.com/software/noticias/n242420/xiaomi-hyperos-3-dispositivos-lista.html" data-type="link" data-id="https://www.tudocelular.com/software/noticias/n242420/xiaomi-hyperos-3-dispositivos-lista.html">مصدر</a></p>
 </div></div>
-

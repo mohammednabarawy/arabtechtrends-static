@@ -6,7 +6,7 @@ updatedDate: "2025-12-14T16:12:14"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["هواوي سلسلة هواتف هواوي نوفا 15 مواعيد الإطلاق الرسمية لهواتف سلسلة نوفا"]
-image: ""
+image: "https://www.arabtechtrends.com/wp-content/uploads/2025/12/1765721532_265_huawei-nova.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%85%d9%88%d8%a7%d8%b9%d9%8a%d8%af-%d9%85%d8%ad%d8%aa%d9%85%d9%84%d8%a9-%d9%84%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d8%b3%d9%84%d8%b3%d9%84%d8%a9-huawei-nova-15/"
 ---
@@ -19,7 +19,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%85%d9%88%d8%a7%d8%b9%d9%8a%d8%af-
 <p></p>
 <p>حافظت هواتف سلسلة Nova دائمًا على هوية تصميمية شبه ثابتة على مدار السنوات الماضية، مع تغييرات محدودة في الغالب فقط في موضع الكاميرات. واعتمدت معظم الإصدارات على حلقة كاميرا دائرية في الأعلى أو داخل وحدة عمودية على شكل كبسولة، مع تنوع في المواد بين الزجاج المزخرف والألوان الصلبة ولمسات تشبه الجلد. ومع ذلك، بقي الهيكل العام دون تغيير يذكر.</p>
 <p>ومع سلسلة Nova 15، قد تكسر شركة Huawei هذا النمط. وبحسب التسريب، فإن الشركة تعمل على إجراء تغييرات أكثر وضوحًا على التصميم دون الكشف عن تفاصيل دقيقة حتى الآن، إلا أن التغيير المتوقع قد يكون قريبًا من التحولات التي شهدتها هواتف هواوي الرائدة مؤخرًا.</p>
-<div align="center"><img decoding="async" src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1765721532_265_huawei-nova.webp.webp" class="img-responsive lazy" alt="" border="0"/></div>
+<div align="center"><img src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1765721532_265_huawei-nova.webp.webp" class="img-responsive lazy" alt=""/></div>
 <p>
 <b>ثلاثة نماذج والمواصفات المتوقعة</b></p>
 <p>وتشير المعلومات السابقة من Digital Chat Station إلى أن تشكيلة Nova 15 ستضم ثلاثة إصدارات وهي Huawei Nova 15 و Nova 15 Pro و Nova 15 Ultra. ومن المتوقع أن يأتي الإصدار الأساسي بشاشة مقاس 6.7 بوصة، بينما قد تحصل نسخة Pro على شاشة أكبر قليلًا بقياس 6.84 بوصة. ومن المتوقع أن تعتمد هذه الهواتف على شاشات LTPO OLED بدقة 1.5K.</p>
@@ -27,4 +27,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%85%d9%88%d8%a7%d8%b9%d9%8a%d8%af-
 <p>ومن المتوقع أن تعتمد هواتف السلسلة الجديدة على معالجات Kirin 8 الحديثة في خطوة تعكس استمرار هواوي في تطوير منصاتها الخاصة. ومع اقتراب المواعيد المحتملة، تتجه الأنظار نحو شركة هواوي في انتظار أي تأكيد رسمي يكشف عن موعد إطلاق سلسلة Nova 15 والمفاجآت التي ستحملها.</p>
 <p><a href="https://www.gizmochina.com/2025/12/14/huawei-nova-15-series-december-launch-leak/" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
-

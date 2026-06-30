@@ -12,9 +12,9 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%b9%d8%b1-%d9%88%d9%85%d9%88
 ---
 
 <div>
-<p>كشفت Apple عن عملاق الرائد &#8220;iPhone 17 Pro Max&#8221; ، والذي يمثل قمة هواتفها الرائدة لهذا العام. جاء iPhone 17 Pro Max مع تغييرات جذرية في التصميم ، وتحسينات كبيرة على الكاميرات ، ومعالج أقوى ، وبطارية غير مسبوقة هي الأطول في تاريخ سلسلة iPhone. </p>
+<p>كشفت Apple عن عملاق الرائد "iPhone 17 Pro Max" ، والذي يمثل قمة هواتفها الرائدة لهذا العام. جاء iPhone 17 Pro Max مع تغييرات جذرية في التصميم ، وتحسينات كبيرة على الكاميرات ، ومعالج أقوى ، وبطارية غير مسبوقة هي الأطول في تاريخ سلسلة iPhone. </p>
 <p>إلى جانب هذا الإصدار ، أعلنت Apple أيضًا عن iPhone 17 Pro و iPhone 17 و iPhone 17 Air ، بالإضافة إلى مجموعة من المنتجات الأخرى مثل Apple Watch Series 11 و AirPods Pro 3.</p>
-<h2 class="wp-block-heading">مواصفات iPhone 17 Pro Max وأهم الميزات </h2>
+<h2>مواصفات iPhone 17 Pro Max وأهم الميزات </h2>
 <p>قدمت Apple مع iPhone 17 Pro Max تصميمًا مختلفًا عما اعتدنا عليه قبل سنوات. لأول مرة منذ إطلاق iPhone 11 Pro ، غيرت الشركة شكل وحدة الكاميرات ، حيث يأتي الهاتف الآن مع مستطيل ضخم يمتد من اليسار إلى اليمين الذي يتضمن العدسات الثلاثة ، فلاش ، ومستشعر Lidar.</p>
 <p>يتميز الهاتف أيضًا بخلفية هجينة تجمع بين الألومنيوم والزجاج ، حيث يتم تمييز المعدن بوضوح لإعطاء الجهاز قدرة أكبر على الإهدار إلى الحرارة بفضل اعتماد غرفة بخار للتبريد. أضافت Apple أيضًا تحسينات على الهيكل لمقاومة الصدمات بالاعتماد على زجاج Ceramic Shield 2 المقاوم للزجاج.</p>
 <p>يعمل iPhone 17 Pro Max مع معالج A19 Pro الجديد ، الذي وصفته شركة Apple بأنه أقوى معالج الهواتف الذكية في العالم. أنه يحتوي على 6 نوى عالية الأداء و 4 نوى عالية الكفاءة ، إلى جانب وحدة معالجة الرسوم السداسية (GPU) هي قفزة ملحوظة في الرسومات والألعاب.</p>
@@ -40,15 +40,15 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%b9%d8%b1-%d9%88%d9%85%d9%88
 <li><strong>الماسح الضوئي LIDAR</strong> للواقع المعزز والتصوير المهني.</li>
 <li>قدرات التخزين تبدأ من 256 جيجابايت وما يصل إلى 2 تيرابايت.</li>
 <li>رام (رام) بسعة 12 جيجابايت.</li>
-<li>خيارات الألوان: <strong>البرتقالي &#8211; الفضة &#8211; الأزرق</strong>.</li>
+<li>خيارات الألوان: <strong>البرتقالي – الفضة – الأزرق</strong>.</li>
 </ul>
-<h2 class="wp-block-heading">سعر iPhone 17 Pro Max وتاريخ التوافر</h2>
+<h2>سعر iPhone 17 Pro Max وتاريخ التوافر</h2>
 <p>أعلنت شركة Apple أن سعر iPhone 17 Pro Max سيبدأ من 1،319 يورو ، مع الحفاظ على أسعار مماثلة للجيل السابق دون زيادة.</p>
 <ul class="wp-block-list">
 <li><strong>تاريخ فتح الطلبات قبل</strong>12 سبتمبر 2025.</li>
 <li><strong>تاريخ الإطلاق الرسمي</strong>19 سبتمبر 2025.</li>
 </ul>
-<h3 class="wp-block-heading">جدول المواصفات الكاملة لجهاز iPhone 17 Pro Max</h3>
+<h3>جدول المواصفات الكاملة لجهاز iPhone 17 Pro Max</h3>
 <figure class="wp-block-table">
 <table class="has-fixed-layout">
 <thead>
@@ -72,7 +72,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%b9%d8%b1-%d9%88%d9%85%d9%88
 </tr>
 <tr>
 <td>التخزين الداخلي</td>
-<td>256 غيغابايت &#8211; 512 جيجابايت &#8211; 1 تيرابايت &#8211; 2 تيرابايت</td>
+<td>256 غيغابايت – 512 جيجابايت – 1 تيرابايت – 2 تيرابايت</td>
 </tr>
 <tr>
 <td>الكاميرا الخلفية</td>
@@ -88,7 +88,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%b9%d8%b1-%d9%88%d9%85%d9%88
 </tr>
 <tr>
 <td>بطارية</td>
-<td>الرقم الرسمي &#8211; لم يتم الكشف عن أطول حياة في iPhone</td>
+<td>الرقم الرسمي – لم يتم الكشف عن أطول حياة في iPhone</td>
 </tr>
 <tr>
 <td>مقاومة الماء</td>
@@ -100,7 +100,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%b9%d8%b1-%d9%88%d9%85%d9%88
 </tr>
 <tr>
 <td>الألوان</td>
-<td>البرتقالي &#8211; الفضة &#8211; الأزرق</td>
+<td>البرتقالي – الفضة – الأزرق</td>
 </tr>
 <tr>
 <td>السعر</td>
@@ -108,12 +108,11 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%b9%d8%b1-%d9%88%d9%85%d9%88
 </tr>
 <tr>
 <td>توافر</td>
-<td>التحضير: 12 سبتمبر &#8211; الإطلاق: 19 سبتمبر 2025</td>
+<td>التحضير: 12 سبتمبر – الإطلاق: 19 سبتمبر 2025</td>
 </tr>
 </tbody>
 </table>
 </figure>
-<p>في رأيك ، ما هي الميزة الأبرز والأكثر أهمية التي جلبها iPhone 17 Pro Max؟ شارك رأيك في التعليقات &#8230;</p>
+<p>في رأيك ، ما هي الميزة الأبرز والأكثر أهمية التي جلبها iPhone 17 Pro Max؟ شارك رأيك في التعليقات …</p>
 <p><a href="https://ipadizate.com/iphone/iphone-17-pro-max-el-supergama-alta-de-apple-especificaciones-novedades-precio-y-fecha-de-lanzamiento" data-type="link" data-id="https://ipadizate.com/iphone/iphone-17-pro-max-el-supergama-alta-de-apple-especificaciones-novedades-precio-y-fecha-de-lanzamiento">مصدر</a></p>
 <p><!-- July_singl_down --></p></div>
-

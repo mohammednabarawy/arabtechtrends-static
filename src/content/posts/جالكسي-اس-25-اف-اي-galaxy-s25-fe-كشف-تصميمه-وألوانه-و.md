@@ -13,16 +13,16 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-
 
 <div>
 <p>كشفت التسريبات الحصرية عن تفاصيل كاملة عن Samsung Galaxy S25 Fe المتوقع ، والتي من المتوقع أن يتم إطلاقها رسميًا في 4 سبتمبر ، إلى جانب سلسلة Galaxy Tab S11. تُظهر التسريبات تصميم الهاتف ، وخيارات الألوان ، بالإضافة إلى بعض الميزات الرئيسية.</p>
-<h2 class="wp-block-heading"><strong>تصميم ومواصفات Galaxy S25 Fe</strong></h2>
+<h2><strong>تصميم ومواصفات Galaxy S25 Fe</strong></h2>
 <p>يعتمد تصميم الهاتف الجديد على خطوط تصميم سلسلة Galaxy S25 ، حيث يأتي مع بنية مستطيلة وزوايا دائرية ، مع إطار مسطح. يتضمن الجزء الخلفي من الجهاز ثلاث كاميرات مرتبة رأسياً ، مع كاميرا أمامية في منتصف الشاشة.</p>
-<p>سيكون الهاتف متاحًا بأربعة ألوان رئيسية: IcyBlue (Ice Blue) ، Jetblack (Black Jet) ، Navy (Navy) ، and White (White). تشير التسريبات إلى أن لون &#8220;cyblue&#8221; هو في الواقع ظل شاحب من اللون الأرجواني ، مما يمنحه مظهرًا فريدًا.</p>
+<p>سيكون الهاتف متاحًا بأربعة ألوان رئيسية: IcyBlue (Ice Blue) ، Jetblack (Black Jet) ، Navy (Navy) ، and White (White). تشير التسريبات إلى أن لون "cyblue" هو في الواقع ظل شاحب من اللون الأرجواني ، مما يمنحه مظهرًا فريدًا.</p>
 <figure class="wp-block-image size-full"></figure>
-<h3 class="wp-block-heading"><strong>ميزات Galaxy S25 Fe</strong></h3>
+<h3><strong>ميزات Galaxy S25 Fe</strong></h3>
 <p>تؤكد الصور التي تم تسريبها أن الهاتف سيحمل مجموعة من الميزات التي تدعمها الذكاء الاصطناعي ، وأبرزها:</p>
 <ul class="wp-block-list">
 <li><strong>Galaxy AI</strong>حزمة الذكاء الاصطناعي من سامسونج.</li>
 <li><strong>جوجل الجوزاء</strong>مساعد جوجل ل AI.</li>
-<li><strong>دائرة للبحث</strong>: ميزة &#8220;البحث مع الرسم&#8221; الشهيرة من Google.</li>
+<li><strong>دائرة للبحث</strong>: ميزة "البحث مع الرسم" الشهيرة من Google.</li>
 </ul>
 <p>تكشف التسريبات أيضًا عن المواصفات الفنية الرئيسية للهاتف ، والتي تشمل:</p>
 <p><strong>شاشة</strong>: حجم شاشة AMOLED الديناميكي 6.7 بوصة وتحديث 120 هرتز.</p>
@@ -31,8 +31,6 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-
 <p><strong>آلة تصوير</strong>: كاميرا خلفية ثلاثية مع 50 ميجابكسل و 12 ميجابكسل و 8 ميغابكسل.</p>
 <p><strong>بطارية</strong>: بطارية 4900 مللي أمبير في الساعة ، تدعم 45 واط ، و 15 واط.</p>
 <p><strong>نظام التشغيل</strong>: سيأتي الهاتف مسبقًا بواسطة نظام <strong>Android 16</strong> مع واجهة <strong>واجهة المستخدم واحدة 8</strong>.</p>
-<p>يوضح هذا التسرب أن Galaxy S25 Fe سيكون إضافة قوية إلى سلسلة &#8220;Fan Edition&#8221; ، لأنه يجمع بين التصميم الأنيق والمواصفات المتقدمة ، مع التركيز على ميزات الذكاء الاصطناعي التي أصبحت ميزة رئيسية لهواتف Samsung.</p>
-<p>شارك رأيك في التعليقات على أهم ميزة يجب أن تصل Galaxy S25 Fe إلى &#8230;</p>
-<p><a href="https://www.androidheadlines.com/samsung-galaxy-s25-fe-full-design-colors-features" target="_blank" rel="noopener" title="المصدر">مصدر</a></p>
-</p></div>
-
+<p>يوضح هذا التسرب أن Galaxy S25 Fe سيكون إضافة قوية إلى سلسلة "Fan Edition" ، لأنه يجمع بين التصميم الأنيق والمواصفات المتقدمة ، مع التركيز على ميزات الذكاء الاصطناعي التي أصبحت ميزة رئيسية لهواتف Samsung.</p>
+<p>شارك رأيك في التعليقات على أهم ميزة يجب أن تصل Galaxy S25 Fe إلى …</p>
+<p><a href="https://www.androidheadlines.com/samsung-galaxy-s25-fe-full-design-colors-features" target="_blank" rel="noopener" title="المصدر">مصدر</a></p></div>

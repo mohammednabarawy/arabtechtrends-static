@@ -14,7 +14,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d9%88%d8%a7%d9%88%d9%8a-%d9%85
 <div>
 <p>أعلنت شركة هواوي الصينية رسمياً عن موعد إطلاق سلسلة هواتفها الجديدة Huawei Mate 80 في الصين، وذلك بعد أشهر من التسريبات والتوقعات. وأوضحت الشركة عبر حساباتها الرسمية على مواقع التواصل الاجتماعي أن المؤتمر المخصص للكشف عن المسلسل سيعقد في 25 نوفمبر 2025.</p>
 <p>كما أكدت هواوي أنه سيتم استبدال هاتف Huawei Mate 80 Pro Plus بنموذج جديد يسمى Huawei Mate 80 Pro Max، وهو ما يعكس حرص الشركة على تقديم ترقيات مهمة في فئة الهواتف الرائدة.</p>
-<h3 class="wp-block-heading"><strong>أبرز موديلات سلسلة Huawei Mate 80Mate 80</strong></h3>
+<h3><strong>أبرز موديلات سلسلة Huawei Mate 80Mate 80</strong></h3>
 <p>تتضمن السلسلة أربعة هواتف رئيسية:</p>
 <p><strong>هواوي ميت 80 RS التصميم النهائي</strong></p>
 <p><strong>هواوي ميت 80</strong></p>
@@ -35,4 +35,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d9%88%d8%a7%d9%88%d9%8a-%d9%85
 <p>شاركنا رأيك في التعليقات حول أهم ميزة يجب أن تأتي بها سلسلة Huawei Mate 80…</p>
 <p><a href="https://www.tudocelular.com/mercado/noticias/n242707/huaweimate80-matex7-lancamento-data-kirin-design.html" data-type="link" data-id="https://www.tudocelular.com/mercado/noticias/n242707/huaweimate80-matex7-lancamento-data-kirin-design.html">مصدر</a></p>
 </div>
-

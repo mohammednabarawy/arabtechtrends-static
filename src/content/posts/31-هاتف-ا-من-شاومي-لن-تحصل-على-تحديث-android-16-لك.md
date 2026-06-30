@@ -19,7 +19,7 @@ sourceUrl: "https://www.arabtechtrends.com/31-%d9%87%d8%a7%d8%aa%d9%81%d9%8b%d8%
 </div>
 <div class="entry-content entry clearfix">
 <p>تستعد شركة Xiaomi الصينية لإطلاق واجهة HyperOS الجديدة استنادًا إلى نظام التشغيل Android 16 ، ولكن يبدو أن هذه الترقية الكبيرة لا تصل إلى جميع أجهزتها. وفقًا لتقرير جديد ، هناك 31 هواتف Xiaomi و Redmi و Boko التي لن تتلقى تحديث Android 16 ، لكن لن يتم تركها تمامًا بدون دعم.</p>
-<h3 class="wp-block-heading"><strong>لن تحصل هواتف شاميل على تحديث Android 16</strong></h3>
+<h3><strong>لن تحصل هواتف شاميل على تحديث Android 16</strong></h3>
 <p>تأتي هذه الأجهزة من فئات مختلفة ، بما في ذلك الهواتف الرائدة والمتوسطة ، والتي وصلت إلى نهاية دورة التحديث الرئيسية لنظام التشغيل. فيما يلي القائمة الكاملة للأجهزة التي لن تحصل على تحديث Android 16:</p>
 <ul class="wp-block-list">
 <li><strong>هواتف Xiaomi:</strong>
@@ -66,12 +66,10 @@ sourceUrl: "https://www.arabtechtrends.com/31-%d9%87%d8%a7%d8%aa%d9%81%d9%8b%d8%
 </ul>
 </li>
 </ul>
-<h3 class="wp-block-heading"><strong>ماذا يعني هذا للمستخدمين؟</strong></h3>
+<h3><strong>ماذا يعني هذا للمستخدمين؟</strong></h3>
 <p>على الرغم من عدم الحصول على Android 16 قد يبدو أخبارًا سيئة ، إلا أن هناك جانبًا إيجابيًا. وفقًا للمصادر ، ستعمل هذه الأجهزة حاليًا باستخدام Android 15 <strong>Hyperos 3</strong>. هذا يعني أن المستخدمين سيستمرون في الاستفادة من تحسينات واجهة المستخدم والميزات الجديدة التي تقدمها Xiaomi ، وإن كان بناءً على إصدار سابق من Android.</p>
 <p>يشير التقرير إلى أن التغييرات في Android 16 قد تكون محدودة وموجهة بشكل رئيسي إلى تحسين الواجهة الأولية ، مما يجعل عدم الحصول عليها أقل فعالية مما قد يتخيله بعض الأشخاص. واجهة Hyperos 3 ، من جانبها ، ستعمل على تحسين تجربة المستخدم وإضافة ميزات جديدة بغض النظر عن نظام التشغيل الأساسي.</p>
 <p>توضح سياسة تحديثات Xiaomi أنها عادة ما تقدم ما بين 2 إلى 4 تحديثات رئيسية لنظام التشغيل لأجهزةها الوسيطة ، من 3 إلى 4 تحديثات للأجهزة الرائدة ، بالإضافة إلى تحديثات الأمان المستمرة لعدة سنوات. لذلك ، فإن قرار التوقف عن تحديث هذه الأجهزة متوافق مع سياستهم المعتادة.</p>
 <p>هل هاتفك بين الهواتف التي لن تحصل على التحديث؟</p>
-<p><a href="https://www.huaweicentral.com/31-xiaomi-devices-are-out-from-android-16-league-but-will-get-hyperos-3/" data-type="link" data-id="https://www.huaweicentral.com/31-xiaomi-devices-are-out-from-android-16-league-but-will-get-hyperos-3/">مصدر</a></p>
+<p><a href="https://www.huaweicentral.com/31-xiaomi-devices-are-out-from-android-16-league-but-will-get-hyperos-3/" data-type="link" data-id="https://www.huaweicentral.com/31-xiaomi-devices-are-out-from-android-16-league-but-will-get-hyperos-3/">مصدر</a></p></div>
 </p></div>
-</p></div>
-

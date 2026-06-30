@@ -23,4 +23,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8-%d9%8a
 <p><a href="https://www.gsmarena.com/first_vivo_x_fold6_specs_leak_along_with_its_release_timeframe-news-70368.php" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
 </div>
-

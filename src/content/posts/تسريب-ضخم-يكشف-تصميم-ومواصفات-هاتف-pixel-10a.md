@@ -23,4 +23,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8-%d8%b6
 <p>ويحمل الهاتف الاسم الرمزي STA5، وتشير شهادة Verizon إلى أنه مصمم لتقديم تجربة الذكاء الاصطناعي لشركة جوجل، ولكن بسعر أكثر ملاءمة. ومن المتوقع أن تكشف التسريبات القادمة المزيد من التفاصيل، خاصة فيما يتعلق بالترقيات الحقيقية التي قد يقدمها الهاتف قبل الإعلان الرسمي.</p>
 <p><a href="https://www.gizmochina.com/2025/12/10/google-pixel-10a-specifcations-leaked-via-certification/" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
-

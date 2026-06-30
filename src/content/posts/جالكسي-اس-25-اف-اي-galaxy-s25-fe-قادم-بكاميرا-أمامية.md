@@ -12,4 +12,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-
 ---
 
 <p>Galaxy S25 Fe قادم مع كاميرا أمامية محسّنة ورسوم أسرع ، هل Samsung مفاجأة هذا العام؟</p>
-

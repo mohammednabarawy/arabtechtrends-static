@@ -18,8 +18,8 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%
 </div>
 </div>
 <div class="entry-content entry clearfix">
-<p>يستعد Relemi للكشف عن سلسلة من هواتف &#8220;Rilme Neo 8&#8221; في ديسمبر المقبل من هذا العام ، والتي ستستهدف الفئة المتوسطة العليا مع مزيج من الأداء القوي والمواصفات المتميزة. وفقًا لمحطة الدردشة الرقمية الشهيرة ، ستتألف السلسلة من ثلاثة نماذج ، مع خيارات لمعالجات Qualcomm و Mediatek.</p>
-<h2 class="wp-block-heading">RELAME NEO 8 المواصفات والميزات</h2>
+<p>يستعد Relemi للكشف عن سلسلة من هواتف "Rilme Neo 8" في ديسمبر المقبل من هذا العام ، والتي ستستهدف الفئة المتوسطة العليا مع مزيج من الأداء القوي والمواصفات المتميزة. وفقًا لمحطة الدردشة الرقمية الشهيرة ، ستتألف السلسلة من ثلاثة نماذج ، مع خيارات لمعالجات Qualcomm و Mediatek.</p>
+<h2>RELAME NEO 8 المواصفات والميزات</h2>
 <p>من المتوقع أن تأتي بعض نسخ من عالم Neo 8 بمعالج Snapdragon 8 Gen 5 ، في حين أن نسخًا أخرى قد تعتمد على معالج Mediatek Dimensity 9500e. تشير التقارير إلى أن الشركة تجري حاليًا اختبارات داخلية لتحديد المعالج النهائي لكل إصدار ، خاصة وأن كلا الاتجاهين قد وصلوا إلى مرحلة تطوير متقدمة.</p>
 <p>تتحدث التسريبات عن شاشة LTPs 1.5k OLED وتحديث ما يصل إلى 120 هرتز ، مع استشعار بصمات الأصابع في الجزء السفلي من الشاشة.</p>
 <p>ستكون الميزة الأبرز هي بطارية ضخمة تبدأ من 8000 مللي أمبير في الساعة ، والتي تعتمد على تقنية خلايا الكربون السيليكون لتحقيق هذه السعة الكبيرة دون التأثير على الحجم العام للجهاز.</p>
@@ -27,7 +27,5 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%
 <p>على الرغم من أن الشركة لم تعلق رسميًا على هذه التسريبات ، إلا أن Realme تستمر في التوسع في الأسواق ، بما في ذلك إطلاق الهواتف المصنعة محليًا في بعض البلدان مثل البرازيل.</p>
 <p>في حالة صحة هذه التسريبات ، سيكون Realme Neo 8 منافسًا قويًا في سوق الهاتف المتوسط العليا بفضل معالج رائد وبطارية استثنائية وتقنيات العرض والشحن المتقدمة.</p>
 <p>ما هي الميزة الأكثر احتمالا؟</p>
-<p><a href="https://www.tudocelular.com/mercado/noticias/n238831/realme-neo8-chipsnapdragon-tela15k-bateria-grande.html" data-type="link" data-id="https://www.tudocelular.com/mercado/noticias/n238831/realme-neo8-chipsnapdragon-tela15k-bateria-grande.html">مصدر</a></p>
+<p><a href="https://www.tudocelular.com/mercado/noticias/n238831/realme-neo8-chipsnapdragon-tela15k-bateria-grande.html" data-type="link" data-id="https://www.tudocelular.com/mercado/noticias/n238831/realme-neo8-chipsnapdragon-tela15k-bateria-grande.html">مصدر</a></p></div>
 </p></div>
-</p></div>
-

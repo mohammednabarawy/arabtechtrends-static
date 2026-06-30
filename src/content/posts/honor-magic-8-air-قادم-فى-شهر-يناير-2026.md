@@ -25,4 +25,3 @@ sourceUrl: "https://www.arabtechtrends.com/honor-magic-8-air-%d9%82%d8%a7%d8%af%
 <p><a href="https://www.gizmochina.com/2025/12/23/honors-magic-8-air-may-bring-flagship-power-in-a-compact-package/" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
 </div>
-

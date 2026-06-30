@@ -22,8 +22,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d9%81%d8%a7%d8%b5%d9%8a%d9%84-
 <p>وفيما يتعلق بتجربة المشاهدة، فمن المتوقع أن تتغير نسب العرض إلى الارتفاع تلقائيًا اعتمادًا على حجم الشاشة المستخدمة، بينما لا تزال تفاصيل الدقة لكل وضع غير معلنة. ومع ذلك، فإن معرفة أن Legion Pro 7i الحالي يأتي مع شاشة OLED بدقة WQXGA يعطي انطباعًا عن المستوى الذي تستهدفه Lenovo.</p>
 <p>وعلى المستوى البرمجي، يبدو أن الشركة تخطط لدمج الجهاز مع نظام واسع من ميزات الذكاء الاصطناعي، بما في ذلك تحسين الأداء أثناء اللعب، وإدارة معدلات الإطارات، وتتبع المؤشر، ومساعدة اللاعبين داخل الألعاب، وحتى ضبط الإضاءة تلقائيًا لتناسب الاستخدام.</p>
 <div>حتى هذه اللحظة، تلتزم شركة Lenovo الصمت رسميًا، لكن التوقعات تشير إلى أن جهاز Legion Pro Rollable سيظهر لأول مرة خلال معرض CES 2026 كنموذج تجريبي. ويبقى السؤال الأهم: هل ستغامر لينوفو بطرح هذا المفهوم في الأسواق، أم سيبقى مجرد عرض لقدراتها التقنية ورؤيتها للمستقبل؟</p>
-<p><a href="https://www.windowslatest.com/2025/12/19/exclusive-lenovo-legion-pro-rollable-uses-a-16-to-24-inch-rollable-oled-rtx-5090-core-ultra-and-ai-gaming-feature-with-windows-11/" target="_blank" rel="nofollow">مصدر</a><br />&#13;
+<p><a href="https://www.windowslatest.com/2025/12/19/exclusive-lenovo-legion-pro-rollable-uses-a-16-to-24-inch-rollable-oled-rtx-5090-core-ultra-and-ai-gaming-feature-with-windows-11/" target="_blank" rel="nofollow">مصدر</a><br />
 </p>
 </div>
 </div>
-

@@ -6,7 +6,7 @@ updatedDate: "2025-12-14T04:07:41"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["تطلق الترجمة الصوتية الفورية","خدمة الترجمة من جوجل","موديل Gemini 2.5","وميزة الصوت المباشر لسماعات الرأس"]
-image: ""
+image: "https://www.arabtechtrends.com/wp-content/uploads/2025/12/1765678059_824_google-----gemini-25.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%ab%d9%88%d8%b1%d8%a9-%d9%81%d9%8a-google-translate-%d9%88%d8%a7%d9%84%d8%af%d9%85%d8%ac-%d9%85%d8%b9-gemini-2-5/"
 ---
@@ -24,10 +24,9 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%ab%d9%88%d8%b1%d8%a9-%d9%81%d9%8a
 <p>
 <b>ميزة الترجمة المباشرة: ترجمة صوتية فورية عبر سماعات الرأس</b></p>
 <p>استنادًا إلى نموذج Gemini 2.5 Flash Native Audio، أضافت Google ميزة الترجمة المباشرة إلى تطبيق الترجمة. وتمكن هذه الميزة المستخدم من الاستماع إلى الترجمة الفورية مباشرة عبر سماعات الرأس، دون الحاجة إلى أجهزة خاصة أو سماعات محددة متوافقة. لقد رأينا بالفعل ميزات مماثلة في AirPods Pro 3 وسماعات الرأس الأخرى. والآن تقدم Google هذه الميزة لجمهور أوسع بكثير لأنها تعمل مع أي سماعة رأس.</p>
-<div align="center"><img decoding="async" src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1765678059_824_google-----gemini-25.webp.webp" class="img-responsive lazy" alt="" border="0"/></div>
+<div align="center"><img src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1765678059_824_google-----gemini-25.webp.webp" class="img-responsive lazy" alt=""/></div>
 <p></p>
 <p>وتبرز أهمية هذه الميزة في مواقف مختلفة، مثل المحادثات الثنائية بين لغات مختلفة، أو حضور المحاضرات أثناء السفر، أو متابعة وسائل الإعلام الأجنبية. وتشير جوجل أيضًا إلى أن التقنية الجديدة قادرة على نقل نغمة المتحدث وإيقاع الكلام، مما يجعل الترجمة أكثر طبيعية ويسهل التمييز بين المتحدثين.</p>
 <p>بدأ تطبيق Google Translate Live Translate التجريبي في طرحه لمستخدمي Android في الولايات المتحدة والمكسيك والهند. تدعم الميزة أكثر من 70 لغة، بما في ذلك التاميلية والكانادية والهندية والمالايالامية والبنغالية.</p>
 <p><a href="https://blog.google/products/search/gemini-capabilities-translation-upgrades/" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
-

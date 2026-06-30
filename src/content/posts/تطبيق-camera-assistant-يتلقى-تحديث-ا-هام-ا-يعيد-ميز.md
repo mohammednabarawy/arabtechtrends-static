@@ -13,10 +13,10 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-camera
 
 <div>
 <p>أطلقت شركة سامسونج تحديثًا جديدًا لتطبيق Camera Assistant يعيد ميزة الالتقاط ثلاثي الأبعاد، وهي إحدى الميزات التي تم إزالتها مؤقتًا من التطبيق في الإصدارات السابقة.</p>
-<h3 class="wp-block-heading">عادت ميزة التصوير ثلاثي الأبعاد إلى تطبيق Camera Assistant</h3>
+<h3>عادت ميزة التصوير ثلاثي الأبعاد إلى تطبيق Camera Assistant</h3>
 <p>ويعيد التحديث الجديد رقم 4.0.00.6 ميزة التصوير المكاني التي تتيح للمستخدمين التقاط صور ومقاطع فيديو ثلاثية الأبعاد يمكن مشاهدتها بتجربة غامرة على نظارة Galaxy XR الجديدة، وهو أول جهاز سامسونج يعمل بنظام Android XR تم تطويره بالتعاون مع جوجل.</p>
 <p>وكانت هذه الميزة متوفرة سابقًا في الإصدار 4.0.00.3، ثم اختفت في 4.0.00.4، قبل أن تعود الآن في نسختها المحسنة لمنح المستخدمين تجربة بصرية أكثر واقعية وتفاعلية من أي وقت مضى.</p>
-<h3 class="wp-block-heading">هواتف سامسونج التي تدعم التحديث</h3>
+<h3>هواتف سامسونج التي تدعم التحديث</h3>
 <p>التحديث متاح حاليًا لمستخدمي هواتف سامسونج الرائدة، ومن بينهم:</p>
 <ul class="wp-block-list">
 <li>مسلسل <strong>جالاكسي اس 25</strong></li>
@@ -30,4 +30,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-camera
 <p>برأيك، ما هي الميزة الأبرز التي يفتقدها تطبيق Camera Assistant؟</p>
 <p><a href="https://www.tudocelular.com/curiosidade/noticias/n241767/samsung-atualiza-camera-assistant-recurso-3d.html" data-type="link" data-id="https://www.tudocelular.com/curiosidade/noticias/n241767/samsung-atualiza-camera-assistant-recurso-3d.html">مصدر</a></p>
 </div>
-

@@ -6,7 +6,7 @@ updatedDate: "2025-12-20T11:26:57"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["OPPO تاريخ الإطلاق تابلت OPPO Pad Air 5 شاشة 2.8K شاشة مريحة للعين بطارية 10050 مللي أمبير"]
-image: ""
+image: "https://www.arabtechtrends.com/wp-content/uploads/2025/12/1766222815_87_oppo-pad-air-5.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a3%d9%88%d8%a8%d9%88-%d8%aa%d9%83%d8%b4%d9%81-%d8%b9%d9%86-%d9%85%d9%88%d8%b9%d8%af-%d8%a5%d8%b7%d9%84%d8%a7%d9%82-oppo-pad-air-5/"
 ---
@@ -21,19 +21,18 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a3%d9%88%d8%a8%d9%88-%d8%aa%d9%83
 <div align="center"></div>
 <p></p>
 <p>وسيأتي الجيل الجديد أيضًا بشاشة Soft Light بدقة 2.8K أو شاشة غير لامعة توفر تجربة مشاهدة مريحة للعين. ومن المتوقع أن يأتي بشاشة بقياس 12.1 بوصة بدقة 2800×1980 بكسل ونسبة عرض إلى ارتفاع 7:5 مع معدل تحديث 120 هرتز، ومعالج MediaTek Dimensity 7300 Ultra، ونظام تشغيل Android 16 مع واجهة ColorOS 16. ومن المتوقع أيضًا أن يشتمل على كاميرا أمامية وخلفية بدقة 8. وتأتي كل واحدة منهما ميجابيكسل، ومكبرات صوت رباعية مع دعم Dolby Atmos، بالإضافة إلى بطارية ضخمة بسعة 10,050 مللي أمبير مع دعم الشحن السريع بقدرة 33 وات بتقنية SuperVOOC.</p>
-<div align="center"><img decoding="async" src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1766222815_87_oppo-pad-air-5.webp.webp" class="img-responsive lazy" alt="" border="0"/></div>
+<div align="center"><img src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1766222815_87_oppo-pad-air-5.webp.webp" class="img-responsive lazy" alt=""/></div>
 <p>
 <b>تاريخ الإصدار وخيارات ذاكرة الوصول العشوائي</b></p>
 <p>ووفقًا لإعلان أوبو على منصة Weibo، سيتم إطلاق جهاز Oppo Pad Air 5 في الساعة 10 صباحًا بالتوقيت المحلي الصيني يوم 25 ديسمبر، وقد بدأت شركة أوبو بالفعل في تلقي الطلبات المسبقة عبر متجرها الرسمي، مع تقديم الجهاز بثلاثة خيارات للذاكرة والتخزين:</p>
 <ul>
 <li>نسخة بذاكرة عشوائية 8 جيجابايت + مساحة تخزين 128 جيجابايت</li>
-<p>&#13;</p>
+<p></p>
 <li>نسخة بذاكرة عشوائية 8 جيجا بايت + مساحة تخزين 256 جيجا بايت</li>
-<p>&#13;</p>
+<p></p>
 <li>نسخة بذاكرة عشوائية 12 جيجا بايت + مساحة تخزين 256 جيجا بايت</li>
-<p>&#13;
+<p>
 </ul>
 <p>كما سيتوفر الجهاز بألوان Starlight Powder وSpace Gray، ولا توجد تفاصيل حول السعر بعد، لكن مع اقتراب موعد الإطلاق، من المتوقع أن تكشف شركة أوبو عن مزيد من التفاصيل التقنية حول الجهاز اللوحي Pad Air 5 الجديد خلال الأيام القليلة المقبلة، خاصة فيما يتعلق بالشاشة غير اللامعة بدقة 2.8K والبطارية الكبيرة بسعة تصل إلى 10,050 مللي أمبير.</p>
 <p><a href="https://www.fonearena.com/blog/471592/oppo-pad-air-5-launch-date.html" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
-

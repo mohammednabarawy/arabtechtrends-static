@@ -12,7 +12,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%85%d9%88%d8%aa%d9%88%d8%b1%d9%88%
 ---
 
 <div itemprop="articleBody">
-<p>تستعد Motorola للكشف عن جيل جديد من هواتفها المزودة بقلم مبني ، حيث كشفت التسريبات الحديثة عن جهاز يحمل الاسم الرمزي &#8220;Orlando&#8221; ونموذج XT2617 ، والذي من المحتمل أن يكون الإصدار التالي هو Moto G Stylus 2026.</p>
+<p>تستعد Motorola للكشف عن جيل جديد من هواتفها المزودة بقلم مبني ، حيث كشفت التسريبات الحديثة عن جهاز يحمل الاسم الرمزي "Orlando" ونموذج XT2617 ، والذي من المحتمل أن يكون الإصدار التالي هو Moto G Stylus 2026.</p>
 <div></p>
 <div style="text-align:center;">
 </div>
@@ -26,4 +26,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%85%d9%88%d8%aa%d9%88%d8%b1%d9%88%
 <p><a href="https://www.phonearena.com/news/new-leak-suggests-that-the-moto-g-stylus-2026-is-already-in-development_id173262" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
 </div>
-

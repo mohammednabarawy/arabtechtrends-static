@@ -1,6 +1,6 @@
 ---
 title: "أعلنت شركة Xiaomi عن Xiaomi Smart Home Display 11 للتحكم في الأجهزة المنزلية الذكية"
-description: "أعلنت العملاق الصيني Xiaomi عن إضافة جديدة إلى نظامها من الأجهزة الذكية تستهدف المنزل الذكي، بدءاً من الأسواق الصينية، حيث أطلقت جهاز Xiaomi Smart Home Display 11، وهو جهاز مخصص ليكون مركز تحكم منزلي متكامل يعتمد على الذكاء الاصطناعي ونظام "
+description: "أعلنت العملاق الصيني Xiaomi عن إضافة جديدة إلى نظامها من الأجهزة الذكية تستهدف المنزل الذكي، بدءاً من الأسواق الصينية، حيث أطلقت جهاز Xiaomi Smart Home Display 11، وهو جهاز مخصص ليكون مركز تحكم منزلي متكامل يعتمد على الذكاء الاصطناعي ونظام"
 pubDate: "2025-12-27T15:11:00"
 updatedDate: "2025-12-27T15:44:51"
 author: "Arab Tech Trends"
@@ -22,4 +22,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%aa
 <p>أطلقت شركة Xiaomi جهاز Xiaomi Smart Home Display 11 ابتداءً من السوق الصيني بسعر 1299 يوان أي ما يعادل حوالي 185 دولار أمريكي، ليشكل خياراً جديداً للمستخدمين الذين يبحثون عن شاشة ذكية كبيرة تجمع بين التحكم المنزلي والترفيه في جهاز واحد بتصميم أنيق وسعر تنافسي.</p>
 <p><a href="https://www.gizmochina.com/2025/12/27/new-xiaomi-smart-home-display-11-launches-in-china-with-hyperos-11-screen-for-185/" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
-

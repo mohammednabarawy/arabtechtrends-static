@@ -21,4 +21,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a7%d8%b1%d8%aa%d9%81%d8%a7%d8%b9-
 <p><b>السبب الحقيقي: الذكاء الاصطناعي يلتهم الذاكرة</b><br />ترجع هذه الاضطرابات إلى الارتفاع الجنوني في الطلب على شرائح HBM وGDDR5 DRAM المستخدمة في مراكز بيانات الذكاء الاصطناعي. تنمو هذه المراكز بسرعة كبيرة وتستهلك كميات هائلة من الذاكرة، مما يسبب نقصًا في المعروض مما يؤثر بشكل مباشر على سوق الهواتف الذكية.</p>
 <p><a href="https://www.gsmarena.com/16gb_ram_phones_will_soon_be_a_luxury_due_to_memory_shortage-news-70709.php" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
-

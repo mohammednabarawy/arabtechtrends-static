@@ -13,7 +13,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d9%8a%d9%86%d8%af%d9%88%d8%b2-
 
 <div>
 <p>أطلقت شركة مايكروسوفت تحديثًا رئيسيًا جديدًا لنظام التشغيل Windows 11 (الإصدار 25H2) يجلب مجموعة من الميزات الثورية التي تغير تجربة المستخدم بشكل واضح، أبرزها إضافة عناصر واجهة المستخدم إلى شاشة القفل لأول مرة على الإطلاق.</p>
-<h2 class="wp-block-heading">أهم مميزات شاشة القفل الجديدة لنظام التشغيل Windows 11 &#8211; Windows 11</h2>
+<h2>أهم مميزات شاشة القفل الجديدة لنظام التشغيل Windows 11 – Windows 11</h2>
 <p><strong>    الحاجيات شاشة القفل</strong></p>
 <p>يمكن الآن للمستخدمين تخصيص أدوات شاشة القفل التي تعرض معلومات مهمة مثل الطقس أو الأسهم أو نتائج المباريات دون الحاجة إلى تسجيل الدخول. ويتم تنشيطها من المسار:</p>
 <blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
@@ -34,7 +34,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d9%8a%d9%86%d8%af%d9%88%d8%b2-
 </ul>
 <p><strong>ميزات جديدة لمساعد الراوي</strong></p>
 <p>تم تحسين إمكانية الوصول في النظام من خلال ميزة عارض برايل التي تعرض النص بما يعادله بطريقة برايل على الشاشة، إلى جانب تحسين تجربة الصوت والتنقل داخل برنامج Microsoft Word.</p>
-<h3 class="wp-block-heading">تحديثات للاعبين</h3>
+<h3>تحديثات للاعبين</h3>
 <p>كما قدمت مايكروسوفت أيضًا Gaming Copilot (الإصدار التجريبي) المدمج في Game Bar، والذي يساعد اللاعبين ذوي الصوت على اجتياز المراحل الصعبة أو الحصول على نصائح أثناء اللعب، فقط من خلال الضغط على Windows + G.</p>
 <p>التحديث الجديد متاح الآن للمستخدمين عبر الإعدادات:</p>
 <blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
@@ -44,4 +44,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d9%8a%d9%86%d8%af%d9%88%d8%b2-
 <p>ما رأيك في هذه التحسينات والميزات الجديدة لشاشة القفل في نظام التشغيل Windows 11؟ ما هي أبرز ميزة تفتقدها هذه النسخة من الويندوز؟</p>
 <p><a href="https://www.howtogeek.com/windows-11-is-getting-real-lock-screen-widgets/" data-type="link" data-id="https://www.howtogeek.com/windows-11-is-getting-real-lock-screen-widgets/">مصدر</a></p>
 </div>
-

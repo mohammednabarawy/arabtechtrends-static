@@ -29,7 +29,5 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-hypero
 </ul>
 <p>من المذهل أن استراتيجية Xiaomi تعتمد على الإطلاق التدريجي لضمان استقرار الإصدار الجديد في مناطق مختلفة وتقليل أي مخاطر محتملة. على الرغم من عدم الإعلان عن القائمة الرسمية الكاملة للأجهزة المدعومة حتى الآن ، إلا أن التحديث سيبدأ أولاً بأحدث الهواتف الرائدة ويصل إلى المجموعات الوسطى لاحقًا.</p>
 <p>يمثل هذا التحديث خطوة جديدة ضمن خطة Xiaomi لتوفير تجربة برمجية أكثر تكاملاً ومبدوة لمستخدميها في جميع أنحاء العالم ، مع تحسين استهلاك البطارية ودعم أحدث مزايا Android.</p>
-<p><a href="https://www.mundoxiaomi.com/noticias/android-16-realidad-xiaomi-hyperos-2-3-comienza-su-despliegue-global" data-type="link" data-id="https://www.mundoxiaomi.com/noticias/android-16-realidad-xiaomi-hyperos-2-3-comienza-su-despliegue-global">مصدر</a></p>
+<p><a href="https://www.mundoxiaomi.com/noticias/android-16-realidad-xiaomi-hyperos-2-3-comienza-su-despliegue-global" data-type="link" data-id="https://www.mundoxiaomi.com/noticias/android-16-realidad-xiaomi-hyperos-2-3-comienza-su-despliegue-global">مصدر</a></p></div>
 </p></div>
-</p></div>
-

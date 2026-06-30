@@ -6,7 +6,7 @@ updatedDate: "2025-11-23T05:36:15"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["هاتف جالكسي A77 Geekbench بمعالج مذهل"]
-image: ""
+image: "https://www.arabtechtrends.com/wp-content/uploads/2025/11/1763868972_58_samsung-galaxy-a77.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d8%aa%d9%81-samsung-galaxy-a77-%d9%8a%d8%b8%d9%87%d8%b1-%d8%a8%d9%85%d8%b9%d8%a7%d9%84%d8%ac-%d9%85%d8%b0%d9%87%d9%84-%d8%b9%d9%84%d9%89-geekbench/"
 ---
@@ -20,7 +20,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d8%aa%d9%81-samsung-gala
 </div>
 <p>ويبدو أن هاتف Galaxy A77 سيعتمد على شريحة Exynos جديدة كلياً لم تكشف عنها سامسونج بعد، وتظهر البيانات وجود وحدة معالجة مركزية تتكون من عشرة أنوية موزعة على ثلاث مجموعات بسرعات مختلفة، وهو أمر غير معتاد في الفئة المتوسطة. أما بالنسبة للرسوميات فإن وجود هاتف Xclipse 940 يعطي مؤشراً على نية سامسونج تقديم أداء رسومي أقرب إلى الهواتف الرائدة وبسعر أقل.</p>
 <div>الجهاز الذي ظهر في الاختبارات كان يعمل بنظام Android 16، ويحتوي على ذاكرة عشوائية بسعة 8 جيجابايت، مما يؤكد انتمائه للفئة المتوسطة العليا. أما نتائج الأداء فقد كانت لافتة، حيث سجل الهاتف 1,673 نقطة في اختبار النواة الواحدة و5,697 نقطة في اختبار النواة المتعددة، وتمثل هذه الأرقام زيادة كبيرة تصل إلى 45% مقارنة بهاتف Galaxy A56 المزود بشريحة Exynos 1580، بحيث تقترب الشريحة الجديدة بشكل ملحوظ من أداء Exynos. 2400 رغم اختلاف اللوحة الأم بين الشريحتين.</p>
-<div style="text-align:center;"><img decoding="async" src="https://www.arabtechtrends.com/wp-content/uploads/2025/11/1763868972_58_samsung-galaxy-a77.jpg" width="968" height="512" title="تردد معالج جالكسي A77" class="img-responsive lazy" alt="تردد معالج جالكسي A77" border="0"/>
+<div style="text-align:center;"><img src="https://www.arabtechtrends.com/wp-content/uploads/2025/11/1763868972_58_samsung-galaxy-a77.jpg" width="968" height="512" title="تردد معالج جالكسي A77" class="img-responsive lazy" alt="تردد معالج جالكسي A77"/>
 </div>
 </div>
 <p>وبفضل هذا المزيج من الأداء القوي، يبدو أن سامسونج تستعد لإطلاق هاتف يستهدف المستخدمين الذين يريدون قوة قريبة من أجهزة Galaxy S FE، ولكن بسعر أقل. فالهاتف Galaxy S25 FE، على سبيل المثال، يعتمد على شريحة Exynos 2400، مما يفتح الباب أمام الهاتف Galaxy A77 ليصبح خيارًا تنافسيًا بقوة في الطبقة المتوسطة العليا.</p>
@@ -28,4 +28,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d8%aa%d9%81-samsung-gala
 <p><a href="https://www.notebookcheck.net/Samsung-Galaxy-A77-lands-on-Geekbench-with-powerful-GPU-Key-specs.1168362.0.html" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
 </div>
-

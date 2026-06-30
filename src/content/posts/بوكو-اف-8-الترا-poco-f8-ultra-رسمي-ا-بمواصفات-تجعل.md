@@ -6,7 +6,7 @@ updatedDate: "2025-11-29T16:27:30"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "https://www.arabtechtrends.com/wp-content/uploads/2025/11/1764426447_100_poco-f8-ultra.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a8%d9%88%d9%83%d9%88-%d8%a7%d9%81-8-%d8%a7%d9%84%d8%aa%d8%b1%d8%a7-poco-f8-ultra-%d8%b1%d8%b3%d9%85%d9%8a%d9%8b%d8%a7-%d8%a8%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-%d8%aa%d8%ac%d8%b9%d9%84/"
 ---
@@ -20,13 +20,10 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a8%d9%88%d9%83%d9%88-%d8%a7%d9%81
 </div>
 <div class="entry-content entry clearfix">
 <p>أعلنت شركة POCO رسميًا عن هاتفها الجديد POCO F8 Ultra، الهاتف الرائد في سلسلة F8، خلال حدث عالمي في إندونيسيا. ويتميز الهاتف بشاشة AMOLED كبيرة الحجم بدقة 2K، ومعالج قوي من نوع Snapdragon 8 Elite من الجيل الخامس، وبطارية ضخمة تدعم الشحن السريع والشحن اللاسلكي، ونظام صوتي متطور مع دعم صوتي من BOSE، مع مقاومة الماء والغبار وفق معيار IP68.</p>
-<div id="ez-toc-container" class="ez-toc-v2_0_85 ez-toc-wrap-right counter-hierarchy ez-toc-counter-rtl ez-toc-light-blue ez-toc-container-direction">
-<div class="ez-toc-title-container">
-<p class="ez-toc-title" style="cursor:inherit">محتوى المقالة</p>
-<span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" aria-label="Toggle Table of Content"><span class="ez-toc-js-icon-con"><span class=""><span class="eztoc-hide" style="display:none;">Toggle</span><span class="ez-toc-icon-toggle-span"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></span></span></a></span></div>
+
 <nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-1" href="https://www.arabtechtrends.com/%d8%a8%d9%88%d9%83%d9%88-%d8%a7%d9%81-8-%d8%a7%d9%84%d8%aa%d8%b1%d8%a7-poco-f8-ultra-%d8%b1%d8%b3%d9%85%d9%8a%d9%8b%d8%a7-%d8%a8%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-%d8%aa%d8%ac%d8%b9%d9%84/#%D8%B3%D8%B9%D8%B1_%D9%88%D9%85%D9%88%D8%A7%D8%B5%D9%81%D8%A7%D8%AA_%D9%88%D9%85%D9%85%D9%8A%D8%B2%D8%A7%D8%AA_POCO_F8_Ultra" >سعر ومواصفات ومميزات POCO F8 Ultra</a></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-2" href="https://www.arabtechtrends.com/%d8%a8%d9%88%d9%83%d9%88-%d8%a7%d9%81-8-%d8%a7%d9%84%d8%aa%d8%b1%d8%a7-poco-f8-ultra-%d8%b1%d8%b3%d9%85%d9%8a%d9%8b%d8%a7-%d8%a8%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-%d8%aa%d8%ac%d8%b9%d9%84/#%D8%A7%D9%84%D8%A8%D8%B7%D8%A7%D8%B1%D9%8A%D8%A9_%D9%88%D8%A7%D9%84%D8%B4%D8%AD%D9%86" >البطارية والشحن</a></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-3" href="https://www.arabtechtrends.com/%d8%a8%d9%88%d9%83%d9%88-%d8%a7%d9%81-8-%d8%a7%d9%84%d8%aa%d8%b1%d8%a7-poco-f8-ultra-%d8%b1%d8%b3%d9%85%d9%8a%d9%8b%d8%a7-%d8%a8%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-%d8%aa%d8%ac%d8%b9%d9%84/#%D9%85%D9%88%D8%A7%D8%B5%D9%81%D8%A7%D8%AA_%D8%A5%D8%B6%D8%A7%D9%81%D9%8A%D8%A9" >مواصفات إضافية</a></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-4" href="https://www.arabtechtrends.com/%d8%a8%d9%88%d9%83%d9%88-%d8%a7%d9%81-8-%d8%a7%d9%84%d8%aa%d8%b1%d8%a7-poco-f8-ultra-%d8%b1%d8%b3%d9%85%d9%8a%d9%8b%d8%a7-%d8%a8%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-%d8%aa%d8%ac%d8%b9%d9%84/#%D8%A7%D9%84%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1_%D9%88%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D9%81%D8%B1" >الأسعار والتوافر</a></li></ul></nav></div>
-<h2 class="wp-block-heading"><span class="ez-toc-section" id="%D8%B3%D8%B9%D8%B1_%D9%88%D9%85%D9%88%D8%A7%D8%B5%D9%81%D8%A7%D8%AA_%D9%88%D9%85%D9%85%D9%8A%D8%B2%D8%A7%D8%AA_POCO_F8_Ultra"></span>سعر ومواصفات ومميزات POCO F8 Ultra <span class="ez-toc-section-end"></span></h2>
-<figure class="wp-block-image size-full"><img data-lazyloaded="1" data-recalc-dims="1" decoding="async" width="708" height="622" src="https://www.arabtechtrends.com/wp-content/uploads/2025/11/1764426447_100_poco-f8-ultra.jpg" alt="بوكو اف 8 الترا" class="wp-image-226613"  data-/></figure>
+<h2><span class="ez-toc-section" id="%D8%B3%D8%B9%D8%B1_%D9%88%D9%85%D9%88%D8%A7%D8%B5%D9%81%D8%A7%D8%AA_%D9%88%D9%85%D9%85%D9%8A%D8%B2%D8%A7%D8%AA_POCO_F8_Ultra"></span>سعر ومواصفات ومميزات POCO F8 Ultra <span class="ez-toc-section-end"></span></h2>
+<figure class="wp-block-image size-full"><img width="708" height="622" src="https://www.arabtechtrends.com/wp-content/uploads/2025/11/1764426447_100_poco-f8-ultra.jpg" alt="بوكو اف 8 الترا" class="wp-image-226613"></figure>
 <p><strong>شاشة</strong></p>
 <ul class="wp-block-list">
 <li>الحجم: 6.9 بوصة</li>
@@ -51,7 +48,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a8%d9%88%d9%83%d9%88-%d8%a7%d9%81
 <ul class="posts-items posts-list-container">
 <li class="widget-single-post-item widget-post-list tie-standard">
 <div class="post-widget-thumbnail">
-<img decoding="async" data-lazyloaded="1" width="220" height="150" src="https://www.arabtechtrends.com/wp-content/uploads/2025/11/1764426447_685_poco-f8-ultra.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="إطلاق POCO F8 Pro رسميًا بمميزات ومواصفات متقدمة!"  data-/></div>
+<img width="220" height="150" src="https://www.arabtechtrends.com/wp-content/uploads/2025/11/1764426447_685_poco-f8-ultra.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="إطلاق POCO F8 Pro رسميًا بمميزات ومواصفات متقدمة!"></div>
 </li>
 </ul>
 </div>
@@ -92,14 +89,14 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a8%d9%88%d9%83%d9%88-%d8%a7%d9%81
 <li>نظام صوتي 2.1 قناة مع صوت عميق وواسع وتجربة غامرة</li>
 <li>دعم الصوت عالي الدقة ومنفذ صوت USB من النوع C، مع إمكانية تعديل مستوى الصوت من <strong>بوس</strong></li>
 </ul>
-<h2 class="wp-block-heading"><span class="ez-toc-section" id="%D8%A7%D9%84%D8%A8%D8%B7%D8%A7%D8%B1%D9%8A%D8%A9_%D9%88%D8%A7%D9%84%D8%B4%D8%AD%D9%86"></span><strong>البطارية والشحن</strong><span class="ez-toc-section-end"></span></h2>
+<h2><span class="ez-toc-section" id="%D8%A7%D9%84%D8%A8%D8%B7%D8%A7%D8%B1%D9%8A%D8%A9_%D9%88%D8%A7%D9%84%D8%B4%D8%AD%D9%86"></span><strong>البطارية والشحن</strong><span class="ez-toc-section-end"></span></h2>
 <ul class="wp-block-list">
 <li>سعة البطارية: 6500 مللي أمبير وهي الأكبر في سلسلة F</li>
 <li>شحن سريع: يصل الشحن السريع بقوة 100 واط إلى 100% خلال 38 دقيقة</li>
 <li>الشحن اللاسلكي: 50 واط HyperCharge</li>
 <li>الشحن العكسي السلكي: 22.5 وات</li>
 </ul>
-<h2 class="wp-block-heading"><span class="ez-toc-section" id="%D9%85%D9%88%D8%A7%D8%B5%D9%81%D8%A7%D8%AA_%D8%A5%D8%B6%D8%A7%D9%81%D9%8A%D8%A9"></span><strong>مواصفات إضافية</strong><span class="ez-toc-section-end"></span></h2>
+<h2><span class="ez-toc-section" id="%D9%85%D9%88%D8%A7%D8%B5%D9%81%D8%A7%D8%AA_%D8%A5%D8%B6%D8%A7%D9%81%D9%8A%D8%A9"></span><strong>مواصفات إضافية</strong><span class="ez-toc-section-end"></span></h2>
 <ul class="wp-block-list">
 <li>نظام التشغيل: يعتمد Xiaomi HyperOS 3 على نظام التشغيل Android 16، مع 4 تحديثات للنظام و6 سنوات من التحديثات الأمنية</li>
 <li>مستشعر بصمة الإصبع بالموجات فوق الصوتية ثلاثي الأبعاد ومستشعر الأشعة تحت الحمراء</li>
@@ -108,7 +105,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a8%d9%88%d9%83%d9%88-%d8%a7%d9%81
 <li>الوزن: 218 جرام (أسود) / 220 جرام (دينيم)</li>
 <li>دعم شبكات 5G SA/NSA وWi-Fi 7 وBluetooth 5.4 وNFC</li>
 </ul>
-<h2 class="wp-block-heading"><span class="ez-toc-section" id="%D8%A7%D9%84%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1_%D9%88%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D9%81%D8%B1"></span><strong>الأسعار والتوافر</strong><span class="ez-toc-section-end"></span></h2>
+<h2><span class="ez-toc-section" id="%D8%A7%D9%84%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1_%D9%88%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D9%81%D8%B1"></span><strong>الأسعار والتوافر</strong><span class="ez-toc-section-end"></span></h2>
 <ul class="wp-block-list">
 <li>12 جيجابايت + 256 جيجابايت بسعر 729 دولارًا</li>
 <li>16 جيجابايت + 512 جيجابايت بسعر 799 دولارًا</li>
@@ -118,4 +115,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a8%d9%88%d9%83%d9%88-%d8%a7%d9%81
 <p>ما رأيك في هاتف POCO F8 Ultra؟</p>
 <p><a href="https://www.fonearena.com/blog/469782/poco-f8-ultra-price-specifications.html" data-type="link" data-id="https://www.fonearena.com/blog/469782/poco-f8-ultra-price-specifications.html">مصدر</a></p>
 </div></div>
-

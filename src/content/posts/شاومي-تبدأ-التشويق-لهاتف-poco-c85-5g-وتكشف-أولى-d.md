@@ -22,4 +22,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%aa
 <p><a href="https://www.gsmarena.com/poco_c85_5g_is_on_its_way_official_teaser_campaign_starts-news-70532.php" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
 </div>
-

@@ -23,4 +23,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%85%d9%88%d8%aa%d9%88%d8%b1%d9%88%
 <p>تحديث Android 16 لهاتف Edge 50 Ultra ليس مجرد ترقية عادية، بل يمثل امتدادًا لدورة دعم طويلة نسبيًا مقارنة بما تقدمه بعض الشركات المنافسة، ومع الوعد بوصول Android 17 لاحقًا، إلى جانب التحديثات الأمنية التي تمتد لسنوات، يبدو أن موتورولا تسعى إلى تعزيز ثقة مستخدميها بأجهزتها الرائدة، وضمان استمرارية تجربة الاستخدام المُرضية حتى نهاية دورة حياة الهاتف.</p>
 <p><a href="https://www.gsmarena.com/motorola_edge_50_ultra_is_now_receiving_the_android_16_update-news-70463.php" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
-

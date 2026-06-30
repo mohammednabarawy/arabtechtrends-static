@@ -20,13 +20,13 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%85%d8%b9%d8%a7%d9%84%d8%ac-%d8%ac
 <div>
 <ul>
 <li>9.3 ساعة من اللعب</li>
-<p>&#13;</p>
+<p></p>
 <li>20.8 ساعة على إنستغرام</li>
-<p>&#13;</p>
+<p></p>
 <li>ما يصل إلى 21 ساعة على يوتيوب</li>
-<p>&#13;</p>
+<p></p>
 <li>ما يصل إلى 125 ساعة من تشغيل الموسيقى</li>
-<p>&#13;
+<p>
 </ul>
 </div>
 <p>تؤكد Realme أن السلسلة ستصل مع Realme UI 7 المبني على نظام التشغيل Android 16، إلى جانب 3 سنوات من تحديثات النظام و4 سنوات من التحديثات الأمنية. تشير توقعات السوق إلى إعلان رسمي محتمل في 6 يناير 2026.</p>
@@ -40,11 +40,11 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%85%d8%b9%d8%a7%d9%84%d8%ac-%d8%ac
 <div>
 <ul>
 <li>رمادي فاخر</li>
-<p>&#13;</p>
+<p></p>
 <li>ذهبية فاخرة</li>
-<p>&#13;</p>
+<p></p>
 <li>كاميليا الوردي</li>
-<p>&#13;
+<p>
 </ul>
 </div>
 </div>
@@ -52,18 +52,17 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%85%d8%b9%d8%a7%d9%84%d8%ac-%d8%ac
 <div>
 <ul>
 <li>8 جيجابايت + 128 جيجابايت</li>
-<p>&#13;</p>
+<p></p>
 <li>8 جيجابايت + 256 جيجابايت</li>
-<p>&#13;</p>
+<p></p>
 <li>12 جيجابايت + 256 جيجابايت</li>
-<p>&#13;</p>
+<p></p>
 <li>12 جيجابايت + 512 جيجابايت</li>
-<p>&#13;
+<p>
 </ul>
 </div>
 <div>وقد يحصل الهاتف على شاشة AMOLED بقياس 6.78 بوصة وبدقة 1.5K ومعدل تحديث 144 هرتز، مع كاميرا أمامية بدقة 50 ميجابكسل وبطارية بسعة 7000 مللي أمبير مع شحن بقوة 80 وات. ومن المتوقع أن يشارك هاتف Realme 16 Pro بمعظم هذه المواصفات، مع اختلاف كبير في نظام الكاميرا، حيث قد يضم كاميرا مزدوجة بدقة 200 ميجابكسل + 8 ميجابكسل، بينما تأتي نسخة Pro + بنفس الإعداد مع إضافة عدسة بيريسكوب مقربة.</p>
-<p><a href="https://www.gizmochina.com/2025/12/10/realme-16-pro-plus-snapdragon-chip-specifications-india/" target="_blank" rel="nofollow">مصدر</a><br />&#13;
+<p><a href="https://www.gizmochina.com/2025/12/10/realme-16-pro-plus-snapdragon-chip-specifications-india/" target="_blank" rel="nofollow">مصدر</a><br />
 </p>
 </div>
 </div>
-

@@ -19,17 +19,14 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui
 </div>
 <div class="entry-content entry clearfix">
 <p>تم تسريب جدول زمني للكشف عن التواريخ المزعومة لتحديث الواجهة المستندة إلى Android 16 لنظام Android 16 لمجموعة واسعة من أجهزة المجرة. تتضمن القائمة الهواتف الرئيسية والمتوسطة المدى والأجهزة اللوحية والتحديثات الأولى من المتوقع أن تبدأ في أواخر سبتمبر.</p>
-<div id="ez-toc-container" class="ez-toc-v2_0_85 ez-toc-wrap-right counter-hierarchy ez-toc-counter-rtl ez-toc-light-blue ez-toc-container-direction">
-<div class="ez-toc-title-container">
-<p class="ez-toc-title" style="cursor:inherit">محتوى المقالة</p>
-<span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" aria-label="Toggle Table of Content"><span class="ez-toc-js-icon-con"><span class=""><span class="eztoc-hide" style="display:none;">Toggle</span><span class="ez-toc-icon-toggle-span"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></span></span></a></span></div>
+
 <nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-1" href="https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui-8-%d9%83%d8%b4%d9%81-%d9%85%d9%88%d8%b9%d8%af-%d8%a5%d8%b7%d9%84%d8%a7%d9%82%d9%87-%d9%88-%d8%a3%d9%88%d9%84-%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d8%ac%d8%a7%d9%84/#%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE_%D9%88%D8%B5%D9%88%D9%84_UNE_8_%D8%8C_%D8%A7%D9%84%D9%88%D8%A7%D8%AC%D9%87%D8%A9_%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%82%D8%B1%D8%A9_%D9%84%D9%87%D9%88%D8%A7%D8%AA%D9%81_%D8%A7%D9%84%D9%85%D8%AC%D8%B1%D8%A9" >تاريخ وصول UNE 8 ، الواجهة المستقرة لهواتف المجرة</a><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><ul class='ez-toc-list-level-4' ><li class='ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-2" href="https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui-8-%d9%83%d8%b4%d9%81-%d9%85%d9%88%d8%b9%d8%af-%d8%a5%d8%b7%d9%84%d8%a7%d9%82%d9%87-%d9%88-%d8%a3%d9%88%d9%84-%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d8%ac%d8%a7%d9%84/#%D8%B3%D9%84%D8%B3%D9%84%D8%A9_Galaxy_S" >سلسلة Galaxy S.</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-3" href="https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui-8-%d9%83%d8%b4%d9%81-%d9%85%d9%88%d8%b9%d8%af-%d8%a5%d8%b7%d9%84%d8%a7%d9%82%d9%87-%d9%88-%d8%a3%d9%88%d9%84-%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d8%ac%d8%a7%d9%84/#%D8%B3%D9%84%D8%B3%D9%84%D8%A9_Galaxy_Z" >سلسلة Galaxy Z.</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-4" href="https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui-8-%d9%83%d8%b4%d9%81-%d9%85%d9%88%d8%b9%d8%af-%d8%a5%d8%b7%d9%84%d8%a7%d9%82%d9%87-%d9%88-%d8%a3%d9%88%d9%84-%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d8%ac%d8%a7%d9%84/#Galaxy_%D8%B3%D9%84%D8%B3%D9%84%D8%A9" >Galaxy سلسلة</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-5" href="https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui-8-%d9%83%d8%b4%d9%81-%d9%85%d9%88%d8%b9%d8%af-%d8%a5%d8%b7%d9%84%d8%a7%d9%82%d9%87-%d9%88-%d8%a3%d9%88%d9%84-%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d8%ac%d8%a7%d9%84/#%D8%B3%D9%84%D8%B3%D9%84%D8%A9_Galaxy_M" >سلسلة Galaxy M.</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-6" href="https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui-8-%d9%83%d8%b4%d9%81-%d9%85%d9%88%d8%b9%d8%af-%d8%a5%d8%b7%d9%84%d8%a7%d9%82%d9%87-%d9%88-%d8%a3%d9%88%d9%84-%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d8%ac%d8%a7%d9%84/#%D8%B3%D9%84%D8%B3%D9%84%D8%A9_Galaxy_Xcover" >سلسلة Galaxy Xcover</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-7" href="https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui-8-%d9%83%d8%b4%d9%81-%d9%85%d9%88%d8%b9%d8%af-%d8%a5%d8%b7%d9%84%d8%a7%d9%82%d9%87-%d9%88-%d8%a3%d9%88%d9%84-%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d8%ac%d8%a7%d9%84/#%D8%B3%D9%84%D8%B3%D9%84%D8%A9_Galaxy_Tab_%D8%A3%D9%82%D8%B1%D8%A7%D8%B5" >سلسلة Galaxy Tab (أقراص)</a></li><li class='ez-toc-page-1 ez-toc-heading-level-4'><a class="ez-toc-link ez-toc-heading-8" href="https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui-8-%d9%83%d8%b4%d9%81-%d9%85%d9%88%d8%b9%d8%af-%d8%a5%d8%b7%d9%84%d8%a7%d9%82%d9%87-%d9%88-%d8%a3%d9%88%d9%84-%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d8%ac%d8%a7%d9%84/#%D8%B3%D9%84%D8%B3%D9%84%D8%A9_%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%A9_Galaxy_%D8%A7%D9%84%D8%B3%D8%A7%D8%B9%D8%A7%D8%AA_%D8%A7%D9%84%D8%B0%D9%83%D9%8A%D8%A9" >سلسلة مراقبة Galaxy (الساعات الذكية)</a></li></ul></li></ul></li></ul></nav></div>
-<h2 class="wp-block-heading"><span class="ez-toc-section" id="%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE_%D9%88%D8%B5%D9%88%D9%84_UNE_8_%D8%8C_%D8%A7%D9%84%D9%88%D8%A7%D8%AC%D9%87%D8%A9_%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%82%D8%B1%D8%A9_%D9%84%D9%87%D9%88%D8%A7%D8%AA%D9%81_%D8%A7%D9%84%D9%85%D8%AC%D8%B1%D8%A9"></span>تاريخ وصول UNE 8 ، الواجهة المستقرة لهواتف المجرة<span class="ez-toc-section-end"></span></h2>
+<h2><span class="ez-toc-section" id="%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE_%D9%88%D8%B5%D9%88%D9%84_UNE_8_%D8%8C_%D8%A7%D9%84%D9%88%D8%A7%D8%AC%D9%87%D8%A9_%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%82%D8%B1%D8%A9_%D9%84%D9%87%D9%88%D8%A7%D8%AA%D9%81_%D8%A7%D9%84%D9%85%D8%AC%D8%B1%D8%A9"></span>تاريخ وصول UNE 8 ، الواجهة المستقرة لهواتف المجرة<span class="ez-toc-section-end"></span></h2>
 <p>أكدت Samsung قبل بضعة أسابيع أنها ستبدأ في تقديم الإصدار الثابت من تحديث واجهة UNE 8 في مرحلة ما في سبتمبر. ولكن لم يتم الكشف عن تاريخ رسمي محدد حتى الآن. وإذا كنت تتساءل عن تاريخ هاتفك لتحديث البرنامج الرئيسي التالي ، فقد تكون محظوظًا.</p>
-<p>تسرب المستخدم &#8220;Alfatürk&#8221; على منصة X من جدول زمني مفصل يوضح متى سيتم إطلاق تحديث UI 8 الثابت على Android 16 لمجموعة واسعة من الأجهزة.</p>
+<p>تسرب المستخدم "Alfatürk" على منصة X من جدول زمني مفصل يوضح متى سيتم إطلاق تحديث UI 8 الثابت على Android 16 لمجموعة واسعة من الأجهزة.</p>
 <p>يجب أن يؤخذ في الاعتبار أن هذا التسرب غير رسمي. ولكن إذا كان هذا الجدول صحيحًا ، فإليك التواريخ المحتملة التي ستحصل فيها أجهزة Galaxy على التحديث:</p>
 <p><strong>الجدول الزمني الذي تم تسريبه لتحديث واجهة UI 8 مستقرة</strong></p>
-<h4 class="wp-block-heading"><span class="ez-toc-section" id="%D8%B3%D9%84%D8%B3%D9%84%D8%A9_Galaxy_S"></span><strong>سلسلة Galaxy S.</strong><span class="ez-toc-section-end"></span></h4>
+<h4><span class="ez-toc-section" id="%D8%B3%D9%84%D8%B3%D9%84%D8%A9_Galaxy_S"></span><strong>سلسلة Galaxy S.</strong><span class="ez-toc-section-end"></span></h4>
 <ul class="wp-block-list">
 <li><strong>18 سبتمبر:</strong>
 <ul class="wp-block-list">
@@ -64,7 +61,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui
 </ul>
 </li>
 </ul>
-<h4 class="wp-block-heading"><span class="ez-toc-section" id="%D8%B3%D9%84%D8%B3%D9%84%D8%A9_Galaxy_Z"></span><strong>سلسلة Galaxy Z.</strong><span class="ez-toc-section-end"></span></h4>
+<h4><span class="ez-toc-section" id="%D8%B3%D9%84%D8%B3%D9%84%D8%A9_Galaxy_Z"></span><strong>سلسلة Galaxy Z.</strong><span class="ez-toc-section-end"></span></h4>
 <ul class="wp-block-list">
 <li><strong>2 أكتوبر:</strong>
 <ul class="wp-block-list">
@@ -85,7 +82,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui
 </ul>
 </li>
 </ul>
-<h4 class="wp-block-heading"><span class="ez-toc-section" id="Galaxy_%D8%B3%D9%84%D8%B3%D9%84%D8%A9"></span><strong>Galaxy سلسلة</strong><span class="ez-toc-section-end"></span></h4>
+<h4><span class="ez-toc-section" id="Galaxy_%D8%B3%D9%84%D8%B3%D9%84%D8%A9"></span><strong>Galaxy سلسلة</strong><span class="ez-toc-section-end"></span></h4>
 <ul class="wp-block-list">
 <li><strong>25 سبتمبر:</strong>
 <ul class="wp-block-list">
@@ -124,7 +121,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui
 </ul>
 </li>
 </ul>
-<h4 class="wp-block-heading"><span class="ez-toc-section" id="%D8%B3%D9%84%D8%B3%D9%84%D8%A9_Galaxy_M"></span><strong>سلسلة Galaxy M.</strong><span class="ez-toc-section-end"></span></h4>
+<h4><span class="ez-toc-section" id="%D8%B3%D9%84%D8%B3%D9%84%D8%A9_Galaxy_M"></span><strong>سلسلة Galaxy M.</strong><span class="ez-toc-section-end"></span></h4>
 <ul class="wp-block-list">
 <li><strong>20 أكتوبر:</strong></li>
 <li><strong>27 أكتوبر:</strong>
@@ -134,7 +131,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui
 </ul>
 </li>
 </ul>
-<h4 class="wp-block-heading"><span class="ez-toc-section" id="%D8%B3%D9%84%D8%B3%D9%84%D8%A9_Galaxy_Xcover"></span><strong>سلسلة Galaxy Xcover</strong><span class="ez-toc-section-end"></span></h4>
+<h4><span class="ez-toc-section" id="%D8%B3%D9%84%D8%B3%D9%84%D8%A9_Galaxy_Xcover"></span><strong>سلسلة Galaxy Xcover</strong><span class="ez-toc-section-end"></span></h4>
 <ul class="wp-block-list">
 <li><strong>23 أكتوبر:</strong>
 <ul class="wp-block-list">
@@ -144,7 +141,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui
 </li>
 <li><strong>10 نوفمبر:</strong></li>
 </ul>
-<h4 class="wp-block-heading"><span class="ez-toc-section" id="%D8%B3%D9%84%D8%B3%D9%84%D8%A9_Galaxy_Tab_%D8%A3%D9%82%D8%B1%D8%A7%D8%B5"></span><strong>سلسلة Galaxy Tab (أقراص)</strong><span class="ez-toc-section-end"></span></h4>
+<h4><span class="ez-toc-section" id="%D8%B3%D9%84%D8%B3%D9%84%D8%A9_Galaxy_Tab_%D8%A3%D9%82%D8%B1%D8%A7%D8%B5"></span><strong>سلسلة Galaxy Tab (أقراص)</strong><span class="ez-toc-section-end"></span></h4>
 <ul class="wp-block-list">
 <li><strong>1 أكتوبر:</strong>
 <ul class="wp-block-list">
@@ -193,7 +190,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui
 </ul>
 </li>
 </ul>
-<h4 class="wp-block-heading"><span class="ez-toc-section" id="%D8%B3%D9%84%D8%B3%D9%84%D8%A9_%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%A9_Galaxy_%D8%A7%D9%84%D8%B3%D8%A7%D8%B9%D8%A7%D8%AA_%D8%A7%D9%84%D8%B0%D9%83%D9%8A%D8%A9"></span><strong>سلسلة مراقبة Galaxy (الساعات الذكية)</strong><span class="ez-toc-section-end"></span></h4>
+<h4><span class="ez-toc-section" id="%D8%B3%D9%84%D8%B3%D9%84%D8%A9_%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%A9_Galaxy_%D8%A7%D9%84%D8%B3%D8%A7%D8%B9%D8%A7%D8%AA_%D8%A7%D9%84%D8%B0%D9%83%D9%8A%D8%A9"></span><strong>سلسلة مراقبة Galaxy (الساعات الذكية)</strong><span class="ez-toc-section-end"></span></h4>
 <ul class="wp-block-list">
 <li><strong>1 أكتوبر:</strong>
 <ul class="wp-block-list">
@@ -212,8 +209,6 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui
 </ul>
 </li>
 </ul>
-<p>هل هاتفك بين هذه الهواتف؟ شارك رأيك &#8230;</p>
-<p><a href="https://www.androidheadlines.com/2025/09/leaked-samsung-one-ui-8-stable-rollout-release-schedule-galaxy-phones.html" data-type="link" data-id="https://www.androidheadlines.com/2025/09/leaked-samsung-one-ui-8-stable-rollout-release-schedule-galaxy-phones.html">مصدر</a></p>
+<p>هل هاتفك بين هذه الهواتف؟ شارك رأيك …</p>
+<p><a href="https://www.androidheadlines.com/2025/09/leaked-samsung-one-ui-8-stable-rollout-release-schedule-galaxy-phones.html" data-type="link" data-id="https://www.androidheadlines.com/2025/09/leaked-samsung-one-ui-8-stable-rollout-release-schedule-galaxy-phones.html">مصدر</a></p></div>
 </p></div>
-</p></div>
-

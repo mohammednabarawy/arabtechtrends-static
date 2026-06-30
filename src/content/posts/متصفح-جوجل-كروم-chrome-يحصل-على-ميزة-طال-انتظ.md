@@ -27,4 +27,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%85%d8%aa%d8%b5%d9%81%d8%ad-%d8%ac
 <p>ما رأيك في هذه الميزة؟ ما هي أبرز ميزة يفتقدها Google Chrome؟</p>
 <p><a href="https://www.androidauthority.com/chrome-for-android-pip-3607497/" data-type="link" data-id="https://www.androidauthority.com/chrome-for-android-pip-3607497/">مصدر</a></p>
 </div></div>
-

@@ -1,0 +1,97 @@
+---
+import {
+  siteDescription,
+  siteName,
+  siteNameEn,
+  siteTagline,
+  siteUrl
+} from "../site";
+import { absoluteUrl } from "../utils/posts";
+
+type Props = {
+  title: string;
+  description?: string;
+  image?: string;
+  canonicalPath?: string;
+  type?: "website" | "article";
+  publishedTime?: string;
+  modifiedTime?: string;
+  jsonLd?: Record<string, unknown> | Record<string, unknown>[];
+};
+
+const {
+  title,
+  description = siteDescription,
+  image,
+  canonicalPath = Astro.url.pathname,
+  type = "website",
+  publishedTime,
+  modifiedTime,
+  jsonLd
+} = Astro.props;
+
+const canonical = absoluteUrl(canonicalPath, siteUrl);
+const ogImage = image ? (image.startsWith("http") ? image : absoluteUrl(image, siteUrl)) : absoluteUrl("/uploads/arabtech-logo.png", siteUrl);
+const fullTitle = title.includes(siteName) || title.includes(siteNameEn) ? title : `${title} | ${siteName}`;
+
+const defaultJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  name: siteName,
+  alternateName: siteNameEn,
+  url: siteUrl,
+  description: siteDescription,
+  inLanguage: "ar",
+  publisher: {
+    "@type": "Organization",
+    name: siteName,
+    logo: {
+      "@type": "ImageObject",
+      url: absoluteUrl("/uploads/arabtech-logo.png", siteUrl)
+    }
+  }
+};
+
+const schemas = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : type === "website" ? [defaultJsonLd] : [];
+const gscToken = import.meta.env.GSC_VERIFICATION_TOKEN;
+---
+
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="description" content={description} />
+<meta name="author" content={siteName} />
+<meta name="theme-color" content="#e21b2d" />
+<link rel="canonical" href={canonical} />
+<link rel="icon" href="/uploads/arabtech-logo.png" type="image/png" />
+<link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+<link rel="apple-touch-icon" href="/uploads/arabtech-logo.png" />
+<link rel="alternate" type="application/rss+xml" title={`${siteName} RSS`} href="/feed.xml" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link
+  rel="stylesheet"
+  href="https://fonts.googleapis.com/css2?family=Noto+Kufi+Arabic:wght@500;700;800&family=Noto+Naskh+Arabic:wght@400;600;700&display=swap"
+/>
+<title>{fullTitle}</title>
+
+<meta property="og:type" content={type} />
+<meta property="og:site_name" content={siteName} />
+<meta property="og:title" content={fullTitle} />
+<meta property="og:description" content={description} />
+<meta property="og:url" content={canonical} />
+<meta property="og:image" content={ogImage} />
+<meta property="og:locale" content="ar_AR" />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content={fullTitle} />
+<meta name="twitter:description" content={description} />
+<meta name="twitter:image" content={ogImage} />
+
+{gscToken && <meta name="google-site-verification" content={gscToken} />}
+
+{type === "article" && publishedTime && <meta property="article:published_time" content={publishedTime} />}
+{type === "article" && modifiedTime && <meta property="article:modified_time" content={modifiedTime} />}
+
+{schemas.map((schema) => (
+  <script type="application/ld+json" set:html={JSON.stringify(schema)} />
+))}

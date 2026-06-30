@@ -24,4 +24,3 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d8%aa%d9%81-vivo-x200t-%
 <p><a href="https://www.notebookcheck.net/Vivo-isn-t-done-with-the-X200-series-as-Vivo-X200T-appears-in-GSMA-database.1166506.0.html" target="_blank" rel="nofollow">مصدر</a></p>
 </div>
 </div>
-

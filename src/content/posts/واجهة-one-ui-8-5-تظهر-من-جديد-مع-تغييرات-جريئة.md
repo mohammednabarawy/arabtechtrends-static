@@ -1,6 +1,6 @@
 ---
 title: "تظهر واجهة واجهة مستخدم واحدة مرة أخرى مع تغييرات جريئة!"
-description: "كشفت الصور Fedged عن أول نظرة على واجهة Samsung One UI 8.5 القادمة ، والتي من المتوقع أن تظهر لأول مرة مع سلسلة من هواتف Galaxy S 26 العام المقبل. يبدو أن الشركة تتجه لإعادة صياغة أسلوبها البصري مع بعض التغييرات في iOS. جاء التسرب من إصدار "
+description: "كشفت الصور Fedged عن أول نظرة على واجهة Samsung One UI 8.5 القادمة ، والتي من المتوقع أن تظهر لأول مرة مع سلسلة من هواتف Galaxy S 26 العام المقبل. يبدو أن الشركة تتجه لإعادة صياغة أسلوبها البصري مع بعض التغييرات في iOS. جاء التسرب من إصدار"
 pubDate: "2025-09-19T20:59:30"
 updatedDate: "2025-09-23T09:14:49"
 author: "Arab Tech Trends"
@@ -25,9 +25,9 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-one-ui
 <li><strong>زر العودة</strong> أصبح عنصرًا عائمًا مستقلًا في أعلى يسار الواجهة بدلاً من أن يكون جزءًا ثابتًا من الشريط العلوي.</li>
 <li>إضافة <strong>تأثير التدرج الباهت</strong> في القوائم ، يعطي المحتوى مظهرًا أكثر سلاسة وأنيقة.</li>
 </ul>
-<p>تعكس هذه الخطوات اتجاهًا جديدًا في تصميم تصميم Samsung ، حيث يرى البعض أنه يقترب من نمط &#8220;الزجاج السائل&#8221; في iOS 26 ، ولكن بدون تأثيرات مائية عاكسة ، مع الحفاظ على شخصية واجهة المستخدم المميزة.</p>
+<p>تعكس هذه الخطوات اتجاهًا جديدًا في تصميم تصميم Samsung ، حيث يرى البعض أنه يقترب من نمط "الزجاج السائل" في iOS 26 ، ولكن بدون تأثيرات مائية عاكسة ، مع الحفاظ على شخصية واجهة المستخدم المميزة.</p>
 <p>على الرغم من أن التغييرات قد تبدو طفيفة ، إلا أنها تشير إلى محاولة Samsung لتوفير تجربة استخدام أكثر حداثة وسلاسة ، والتي قد تحدث فرقًا ملموسًا عند إصدار واجهة المستخدم 8.5 رسميًا.</p>
-<h3 class="wp-block-heading">هواتف Samsung المؤهلة للحصول على تحديث One UI 8.5</h3>
+<h3>هواتف Samsung المؤهلة للحصول على تحديث One UI 8.5</h3>
 <p><strong>Galaxy S:</strong></p>
 <ul class="wp-block-list">
 <li>S25 / S25+ / S25 Ultra / S25 Edge / S25 Fe</li>
@@ -81,7 +81,5 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-one-ui
 </ul>
 <p>ومع ذلك ، تجدر الإشارة إلى أن هذا الإصدار لا يزال مبكرًا وغير محدود ، مما يعني أن بعض هذه التغييرات قد لا تصل إلى الإصدار الرسمي عند إطلاق التحديث على هواتف Galaxy S26 العام المقبل.</p>
 <p>هل هاتفك مؤهل للحصول على هذا التحديث؟</p>
-<p><a href="https://www.androidheadlines.com/2025/09/samsung-one-ui-8-5-leaked-images-new-design-ios-26.html" data-type="link" data-id="https://www.androidheadlines.com/2025/09/samsung-one-ui-8-5-leaked-images-new-design-ios-26.html">مصدر</a></p>
+<p><a href="https://www.androidheadlines.com/2025/09/samsung-one-ui-8-5-leaked-images-new-design-ios-26.html" data-type="link" data-id="https://www.androidheadlines.com/2025/09/samsung-one-ui-8-5-leaked-images-new-design-ios-26.html">مصدر</a></p></div>
 </p></div>
-</p></div>
-
