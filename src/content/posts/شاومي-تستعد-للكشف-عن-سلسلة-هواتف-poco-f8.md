@@ -6,7 +6,7 @@ updatedDate: "2025-11-17T13:31:40"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["هواتف Xiaomi وPoco F8 والحملة التشويقية وسلسلة الهواتف"]
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/11/1763379096_72_xiaomi---------poco-f8.jpg"
+image: "/uploads/wp/2025/11/1763379096_72_xiaomi---------poco-f8.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%aa%d8%b3%d8%aa%d8%b9%d8%af-%d9%84%d9%84%d9%83%d8%b4%d9%81-%d8%b9%d9%86-%d8%b3%d9%84%d8%b3%d9%84%d8%a9-%d9%87%d9%88%d8%a7%d8%aa%d9%81-poco-f8/"
 ---
@@ -24,7 +24,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%aa
 <p>وعلى الرغم من عدم ذكر اسم الهاتف صراحة، إلا أن مظهر التصميم في الإعلان يشير بوضوح إلى أن سلسلة F8 هي المرشح الرئيسي للإطلاق العالمي. وتشير التوقعات الحالية إلى أن هاتفي Poco F8 Pro وPoco F8 Ultra سيصلان خلال شهر ديسمبر.</p>
 <p><b>مشابه جدًا لسلسلة Redmi K90… مع اختلاف ملحوظ</b></p>
 <div>ووفقا للتقارير المتداولة، فإن سلسلة Poco F8 هي في الواقع نسخة عالمية معاد تسميتها من هواتف Redmi K90 وK90 Pro Max المخصصة للسوق الصينية. ومع ذلك، يبدو أن Poco ستجري تغييرًا واحدًا على الأقل، وهو تقديم بطاريات ذات سعة أصغر من تلك الموجودة في الإصدارات الصينية.</p>
-<div style="text-align:center;"><img src="https://www.arabtechtrends.com/wp-content/uploads/2025/11/1763379096_72_xiaomi---------poco-f8.jpg" width="1068" height="1335" title="التشويق للهاتف" class="img-responsive lazy" alt="التشويق للهاتف"/>
+<div style="text-align:center;"><img src="/uploads/wp/2025/11/1763379096_72_xiaomi---------poco-f8.jpg" width="1068" height="1335" title="التشويق للهاتف" class="img-responsive lazy" alt="التشويق للهاتف"/>
 </div>
 </div>
 <p>سيتم تشغيل Poco F8 Pro بواسطة معالج Snapdragon 8 Elite، بينما سيحصل Poco F8 Ultra على معالج Snapdragon 8 Elite Gen 5، وهو أحدث معالج رائد من شركة كوالكوم.</p>

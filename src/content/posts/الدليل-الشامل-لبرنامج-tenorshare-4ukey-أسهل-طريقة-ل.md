@@ -6,7 +6,7 @@ updatedDate: "2025-12-18T10:04:39"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/12/1766045074_283_iphone.jpg"
+image: "/uploads/wp/2025/12/1766045074_283_iphone.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a7%d9%84%d8%af%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%b4%d8%a7%d9%85%d9%84-%d9%84%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac-tenorshare-4ukey-%d8%a3%d8%b3%d9%87%d9%84-%d8%b7%d8%b1%d9%8a%d9%82%d8%a9-%d9%84/"
 ---
@@ -45,29 +45,29 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a7%d9%84%d8%af%d9%84%d9%8a%d9%84-
 <p>يتميز Tenorshare 4uKey بتصميم منظم يقسم الحلول إلى 5 أقسام رئيسية، مما يسهل على المستخدم اختيار الأداة المناسبة لمشكلته بضغطة زر.</p>
 <p>وفيما يلي شرح تفصيلي لكل خيار كما يظهر في واجهة البرنامج:</p>
 <h4><span class="ez-toc-section" id="1_%D9%81%D8%AA%D8%AD_%D8%B1%D9%85%D8%B2_%D9%85%D8%B1%D9%88%D8%B1_iPhone_%D8%AE%D9%8A%D8%A7%D8%B1_%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A_%D9%83%D8%A8%D9%8A%D8%B1"></span><strong>1. فتح رمز مرور iPhone (خيار رئيسي كبير)</strong><span class="ez-toc-section-end"></span></h4>
-<figure class="wp-block-image size-full"><img loading="lazy" width="708" height="445" src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1766045074_283_iphone.jpg" alt="    فتح رمز قفل الايفون" class="wp-image-227085"></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="708" height="445" src="/uploads/wp/2025/12/1766045074_283_iphone.jpg" alt="    فتح رمز قفل الايفون" class="wp-image-227085"></figure>
 <p>يظهر هذا الخيار على الجزء الأيمن والأكبر من الواجهة، وهو الوظيفة الأساسية للبرنامج.</p>
 <p><strong>وظيفته:</strong> هذا الخيار مخصص للحالات التي نسيت فيها كلمة مرور iPhone أو تم إيقاف تشغيل الجهاز. يقوم البرنامج بإزالة قفل الشاشة سواء كان رمزًا رقميًا (4 أو 6 أرقام)، أو Touch ID، أو Face ID.</p>
 <p><strong>كيف يعمل:</strong> بمجرد الضغط على زر "بدء إلغاء القفل" (الزر الأزرق)، سيوجهك البرنامج لتوصيل الجهاز وتنزيل نظام التشغيل المتوافق لفتح القفل.</p>
 <h4><span class="ez-toc-section" id="2_%D9%82%D9%85_%D8%A8%D8%A5%D8%B2%D8%A7%D9%84%D8%A9_%D9%82%D9%81%D9%84_%D8%AA%D9%86%D8%B4%D9%8A%D8%B7_iCloud"></span><strong>2. قم بإزالة قفل تنشيط iCloud </strong><span class="ez-toc-section-end"></span></h4>
-<figure class="wp-block-image size-large"><img loading="lazy" width="708" height="436" src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1766045075_85_iphone.jpg" alt="    فتح رمز قفل الايفون" class="wp-image-227086"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="708" height="436" src="/uploads/wp/2025/12/1766045075_85_iphone.jpg" alt="    فتح رمز قفل الايفون" class="wp-image-227086"></figure>
 <p>هذه ميزة جديدة تمت إضافتها إلى البرنامج (يشار إليها بعلامة جديدة في الصورة).</p>
 <p><strong>وظيفته:</strong> حل جذري للأجهزة العالقة على شاشة "قفل التنشيط" التي تطلب حساب المالك الأصلي.</p>
 <p><strong>فائدة:</strong> يساعدك هذا الخيار على تجاوز قفل iCloud على الأجهزة المقفلة على الفور، مما يؤدي إلى إحياء الجهاز الذي كان يعتبر "غير مرغوب فيه" بسبب هذا القفل.</p>
 <h4><span class="ez-toc-section" id="3_%D9%81%D8%AA%D8%AD_%D9%85%D8%B9%D8%B1%D9%81_%D8%A3%D8%A8%D9%84"></span><strong>3. فتح معرف أبل </strong><span class="ez-toc-section-end"></span></h4>
-<figure class="wp-block-image size-large"><img loading="lazy" width="708" height="436" src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1766045075_528_iphone.jpg" alt="    فتح رمز قفل الايفون" class="wp-image-227087"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="708" height="436" src="/uploads/wp/2025/12/1766045075_528_iphone.jpg" alt="    فتح رمز قفل الايفون" class="wp-image-227087"></figure>
 <p><strong>وظيفته:</strong> هذا القسم مخصص لأولئك الذين يمكنهم فتح الشاشة ولكنهم يواجهون مشكلة <strong>لقد نسيت كلمة مرور معرف التفاح الخاص بي</strong> يريد تسجيل الخروج أو تنزيل التطبيقات.</p>
 <p><strong>فائدة:</strong> يقوم البرنامج بإزالة معرف Apple الحالي الخاص بك وإيقاف تشغيل "Find My iPhone" (في ظل ظروف إصدار معينة)، مما يتيح لك التحكم الكامل في جهازك وحسابك الخاص.</p>
 <h4><span class="ez-toc-section" id="4_%D8%AA%D8%AC%D8%A7%D9%88%D8%B2_MDM"></span><strong>4. تجاوز MDM </strong><span class="ez-toc-section-end"></span></h4>
-<figure class="wp-block-image size-large"><img loading="lazy" width="708" height="436" src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1766045076_580_iphone.jpg" alt="    فتح رمز قفل الايفون" class="wp-image-227088"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="708" height="436" src="/uploads/wp/2025/12/1766045076_580_iphone.jpg" alt="    فتح رمز قفل الايفون" class="wp-image-227088"></figure>
 <p><strong>وظيفته :</strong> مخصص للأجهزة التي تدعم الإدارة عن بعد والتي تستخدمها الشركات أو المدارس.</p>
 <p><strong>فائدة:</strong> بنقرة واحدة، يمكنك تجاوز شاشة قفل الإدارة عن بعد واستخدام الجهاز بحرية دون معرفة المدير أو المسؤول، ودون الحاجة إلى اسم مستخدم وكلمة مرور للمؤسسة.</p>
 <h4><span class="ez-toc-section" id="5_%D9%82%D9%85_%D8%A8%D8%A5%D8%B2%D8%A7%D9%84%D8%A9_%D8%B1%D9%85%D8%B2_%D9%85%D8%B1%D9%88%D8%B1_%D9%88%D9%82%D8%AA_%D8%A7%D9%84%D8%B4%D8%A7%D8%B4%D8%A9"></span><strong>5. قم بإزالة رمز مرور وقت الشاشة  </strong><span class="ez-toc-section-end"></span></h4>
-<figure class="wp-block-image size-large"><img loading="lazy" width="708" height="436" src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1766045077_713_iphone.jpg" alt="" class="wp-image-227090"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="708" height="436" src="/uploads/wp/2025/12/1766045077_713_iphone.jpg" alt="" class="wp-image-227090"></figure>
 <p><strong>وظيفته :</strong> إذا نسيت رمز Screen Time (القيود الأبوية أو القيود الزمنية).</p>
 <p><strong>الميزة الأهم هنا:</strong> ما يميز هذا الخيار في Tenorshare 4uKey هو أنه يزيل هذا الرمز دون فقدان البيانات، مما يعني أن صورك وتطبيقاتك ستبقى آمنة تمامًا بعد العملية.</p>
 <p><strong>6. مدير كلمات المرور  </strong></p>
-<figure class="wp-block-image size-large"><img loading="lazy" width="708" height="436" src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1766045077_133_iphone.jpg" alt="    فتح رمز قفل الايفون" class="wp-image-227091"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="708" height="436" src="/uploads/wp/2025/12/1766045077_133_iphone.jpg" alt="    فتح رمز قفل الايفون" class="wp-image-227091"></figure>
 <p><strong>وظيفته :</strong> تعتبر هذه الأداة "نسخة احتياطية للذاكرة" لجهازك. إذا كنت تعاني من نسيان كلمات المرور المحفوظة على جهاز iPhone الخاص بك، فهذا الخيار هو الحل.</p>
 <p><strong>فائدة:</strong> يقوم البرنامج بمسح الجهاز لاستخراج وعرض المعلومات الحساسة المنسية، مثل: كلمات المرور لشبكات Wi-Fi المتصلة مسبقًا، وكلمات مرور مواقع الويب والتطبيقات، وحتى حسابات البريد الإلكتروني ومعرف Apple المخزن. يمكنك بعد ذلك تصدير هذه المعلومات وحفظها في ملف (مثل 1Password أو Chrome) لضمان عدم فقدانها مرة أخرى.</p>
 <h2><span class="ez-toc-section" id="%D8%AE%D8%A7%D8%AA%D9%85%D8%A9"></span><strong>خاتمة</strong><span class="ez-toc-section-end"></span></h2>

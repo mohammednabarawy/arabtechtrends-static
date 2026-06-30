@@ -6,7 +6,7 @@ updatedDate: "2025-11-29T06:53:14"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["Xiaomi","Xiaomi 17 Ultra","التغيير الأكبر","الكاميرا","مع عدسات أقل"]
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/11/1764391992_964_xiaomi-17-ultra.webp.webp"
+image: "/uploads/wp/2025/11/1764391992_964_xiaomi-17-ultra.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b5%d9%88%d8%b1-%d9%85%d8%b3%d8%b1%d8%a8%d8%a9-%d8%aa%d8%a4%d9%83%d8%af-%d8%a3%d9%83%d8%a8%d8%b1-%d8%aa%d8%ba%d9%8a%d9%8a%d8%b1-%d9%81%d9%8a-%d9%83%d8%a7%d9%85%d9%8a%d8%b1%d8%a7-xiaomi-17-ultra/"
 ---
@@ -30,7 +30,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b5%d9%88%d8%b1-%d9%85%d8%b3%d8%b1
 </ul>
 </div>
 <div>ويعني هذا التغيير أن Xiaomi قررت التخلي عن العدسة المقربة ذات التقريب البصري 3x بدقة 50 ميجابكسل، واستبدالها بمستشعر أكثر قوة من حيث الوضوح والتقاط التفاصيل، بمعنى آخر: عدد العدسات أقل، لكن جودة المستشعرات أعلى – وهي خطوة تظهر اتجاهًا واضحًا نحو تحسين المخرجات بدلاً من مطاردة الأرقام.</p>
-<div style="text-align:center;"><img src="https://www.arabtechtrends.com/wp-content/uploads/2025/11/1764391992_964_xiaomi-17-ultra.webp.webp" class="img-responsive lazy" alt=""/>
+<div style="text-align:center;"><img src="/uploads/wp/2025/11/1764391992_964_xiaomi-17-ultra.webp.webp" class="img-responsive lazy" alt=""/>
 </div>
 </div>
 <p>أما بالنسبة للكاميرا الأمامية، فمن المتوقع أن تكون OmniVision OV50ME بدقة 50 ميجابكسل، لتوفر تجربة تصوير سيلفي أقوى مما هو شائع حتى في الهواتف الرائدة.</p>

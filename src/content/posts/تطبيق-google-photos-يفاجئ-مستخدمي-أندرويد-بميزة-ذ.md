@@ -6,7 +6,7 @@ updatedDate: "2025-10-20T14:47:58"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/10/1760960877_330_google-photos---android.jpg"
+image: "/uploads/wp/2025/10/1760960877_330_google-photos---android.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-google-photos-%d9%8a%d9%81%d8%a7%d8%ac%d8%a6-%d9%85%d8%b3%d8%aa%d8%ae%d8%af%d9%85%d9%8a-%d8%a3%d9%86%d8%af%d8%b1%d9%88%d9%8a%d8%af-%d8%a8%d9%85%d9%8a%d8%b2%d8%a9-%d8%b0/"
 ---
@@ -22,7 +22,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-google
 <h2>تفاصيل ميزة إنشاء الفيديو التذكاري في تطبيق صور جوجل</h2>
 <p>بحسب تقرير نشره موقع Android Authority، كشف التحديث التجريبي للإصدار 7.50 من تطبيق Google Photos على نظام أندرويد عن أداة جديدة تتيح إنشاء مقاطع فيديو مميزة من خلال قوالب جاهزة تتضمن موسيقى محددة مسبقًا ونصوص تلقائية قابلة للتعديل.</p>
 <p>حتى الآن، سمحت خدمة Google Photos للمستخدمين بإنشاء مقاطع فيديو تسلط الضوء على أشخاص أو أحداث معينة عن طريق تحديد الصور والمقاطع يدويًا. ومع التحديث الجديد، سيبدأ المستخدم باختيار قالب مخصص يحدد تلقائيًا شكل الفيديو والموسيقى المصاحبة له.</p>
-<figure class="wp-block-image size-full"><img width="708" height="497" src="https://www.arabtechtrends.com/wp-content/uploads/2025/10/1760960877_330_google-photos---android.jpg" alt="" class="wp-image-225500"></figure>
+<figure class="wp-block-image size-full"><img width="708" height="497" src="/uploads/wp/2025/10/1760960877_330_google-photos---android.jpg" alt="" class="wp-image-225500"></figure>
 <p>تحتوي القوالب الجديدة على مجموعة متنوعة من الأسماء، مثل "Fall Vibes" و"Trip Recap" و"Hobbies"، وستتغير وفقًا للموسم أو نوع الصور داخل مكتبة المستخدم. المثير للاهتمام هو أن الموسيقى المستخدمة لا تقتصر على المقاطع المجانية، بل تشمل أيضًا الأغاني الشعبية مثل "Hip Hop Hooray" و"Breathe"، مما يجعل مقاطع الفيديو أكثر حيوية وجاذبية.</p>
 <p>وتتيح الميزة الجديدة أيضًا إمكانية إضافة نصوص مخصصة داخل الفيديو، بالإضافة إلى نصوص تلقائية مصممة لتناسب النشر على وسائل التواصل الاجتماعي، مثل “Core Memory unlocked” و”When the festivitiesضاءة”.</p>
 <p>ورغم أن الميزة لم يتم إطلاقها رسميًا بعد، إلا أن اكتشافها في الإصدار الأخير من تطبيق صور جوجل يشير إلى أنه سيتم إطلاقها قريبًا على نطاق واسع خلال الفترة المقبلة.</p>

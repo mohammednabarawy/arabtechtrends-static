@@ -6,7 +6,7 @@ updatedDate: "2025-12-02T22:43:21"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["بطارية بسعة 6500 مللي أمبير","بطارية عملاقة","هاتف OPPO A6x 5G مواصفات فائقة"]
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/12/1764708200_155_140-----------oppo-a6x.webp.webp"
+image: "/uploads/wp/2025/12/1764708200_155_140-----------oppo-a6x.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a7%d9%84%d9%83%d8%b4%d9%81-%d8%b1%d8%b3%d9%85%d9%8a%d8%a7-%d8%b9%d9%86-%d9%87%d8%a7%d8%aa%d9%81-oppo-a6x-5g-%d8%a8%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-%d9%81%d8%a7%d8%a6%d9%82%d8%a9/"
 ---
@@ -21,7 +21,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a7%d9%84%d9%83%d8%b4%d9%81-%d8%b1
 <p>وعلى صعيد الشبكات والاتصالات، يعتمد الهاتف على تقنية AI LinkBoost 3.0، وهو نظام مصمم لتعزيز استقرار الاتصال وتقليل فقدان الإشارة، مع إعطاء الأولوية للتطبيقات النشطة لضمان سرعة استجابة أعلى في البيئات الصعبة.</p>
 <p><b>تصميم متطور ولمسات رائدة في فئتها</b><br />يبلغ سمك الهاتف 8.58 ملم ويزن 212 جرامًا، وهو تصميم لا يزال مريحًا نسبيًا على الرغم من البطارية الكبيرة. يعتمد الجهاز إطارًا معدنيًا موحدًا ووحدة كاميرا ديكو محسنة، بينما تتم معالجة عدسة الكاميرا بطبقة خاصة مقاومة للماء ومقاومة لبصمات الأصابع.</p>
 <p>يعمل الهاتف بواجهة ColorOS 15 المبنية على نظام التشغيل Android 15 مع محرك العرض Luminous Rendering Engine لتحسين الرسومات والانتقالات داخل واجهة النظام مع التركيز بشكل أكبر على سهولة الاستخدام.</p>
-<div align="center"><img src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1764708200_155_140-----------oppo-a6x.webp.webp" title="    أرقام بطارية OPPO للهاتف الذكي OPPO A6x 5G" class="img-responsive lazy" alt=" أرقام بطارية OPPO للهاتف الذكي OPPO A6x 5G"/></div>
+<div align="center"><img src="/uploads/wp/2025/12/1764708200_155_140-----------oppo-a6x.webp.webp" title="    أرقام بطارية OPPO للهاتف الذكي OPPO A6x 5G" class="img-responsive lazy" alt=" أرقام بطارية OPPO للهاتف الذكي OPPO A6x 5G"/></div>
 <p>
 <b>بطارية بسعة 6500 مللي أمبير: قدرة تحمل أكبر من المعتاد</b></p>
 <p>الميزة الأبرز في هاتف OPPO A6x 5G هي بطاريته التي تبلغ سعتها 6500 مللي أمبير، والتي تصفها الشركة بأنها قادرة على تقديم أداء ينافس هواتف التحمل الرائدة.<br />
@@ -53,7 +53,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a7%d9%84%d9%83%d8%b4%d9%81-%d8%b1
 <p>
 </ul>
 <p></p>
-<div align="center"><img src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1764708200_622_140-----------oppo-a6x.webp.webp" class="img-responsive lazy" alt=""/></div>
+<div align="center"><img src="/uploads/wp/2025/12/1764708200_622_140-----------oppo-a6x.webp.webp" class="img-responsive lazy" alt=""/></div>
 <p>
 <b>الأسعار والتوافر</b></p>
 <p>يتوفر الهاتف باللون الأزرق الجليدي والأخضر الزيتوني، وتم إطلاقه رسميًا في الأسواق الهندية بثلاثة إصدارات مختلفة:</p>

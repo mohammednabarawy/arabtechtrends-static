@@ -6,7 +6,7 @@ updatedDate: "2025-10-22T15:54:00"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/10/1761137639_839_oxygenos-16.jpg"
+image: "/uploads/wp/2025/10/1761137639_839_oxygenos-16.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-oxygenos-16-%d8%b1%d8%b3%d9%85%d9%8a%d9%8b%d8%a7-%d8%a7%d9%84%d8%a2%d9%86-%d8%a8%d9%85%d8%b2%d8%a7%d9%8a%d8%a7-%d8%ab%d9%88%d8%b1%d9%8a%d8%a9-%d8%aa%d8%ac%d8%b9%d9%84/"
 ---
@@ -33,7 +33,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-oxygen
 </ul>
 <p>كما تم دمج Google Gemini في ميزة Mind Space، مما يجعله قادرًا على تحليل الملاحظات والمستندات وتقديم المساعدة الذكية بناءً على المعلومات الشخصية.</p>
 <div class="wp-block-image">
-<figure class="aligncenter size-full"><img loading="lazy" width="700" height="369" src="https://www.arabtechtrends.com/wp-content/uploads/2025/10/1761137639_839_oxygenos-16.jpg" alt="" class="wp-image-225496"></figure>
+<figure class="aligncenter size-full"><img loading="lazy" width="700" height="369" src="/uploads/wp/2025/10/1761137639_839_oxygenos-16.jpg" alt="" class="wp-image-225496"></figure>
 </div>
 <h3><span class="ez-toc-section" id="%D8%A3%D8%AF%D8%A7%D8%A1_%D8%A3%D8%B3%D8%B1%D8%B9_%D9%88%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%84%D8%A7%D8%AA_%D8%A3%D9%83%D8%AB%D8%B1_%D8%B3%D9%84%D8%A7%D8%B3%D8%A9"></span>أداء أسرع وانتقالات أكثر سلاسة<span class="ez-toc-section-end"></span></h3>
 <p>بفضل تقنية Parallel Processing 2.0 الجديدة، أصبح فتح التطبيقات وإغلاقها أسرع وأكثر سلاسة، مع رسومات "Flow Motion" التي تجعل التنقل داخل النظام يبدو طبيعيًا وسريعًا.</p>

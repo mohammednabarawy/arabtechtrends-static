@@ -6,7 +6,7 @@ updatedDate: "2025-10-21T11:50:48"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/10/1761036646_174_magicos-10.jpg"
+image: "/uploads/wp/2025/10/1761036646_174_magicos-10.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d9%88%d8%a7%d8%ac%d9%87%d8%a9-magicos-10-%d8%b1%d8%b3%d9%85%d9%8a%d9%8b%d8%a7-%d8%a8%d9%85%d8%b2%d8%a7%d9%8a%d8%a7-%d8%ab%d9%88%d8%b1%d9%8a%d8%a9-%d8%a5%d9%84%d9%8a/"
 ---
@@ -40,7 +40,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d9%88
 <li><strong>التعرف على الأشياء والنصوص</strong> من خلال الكاميرا في الوقت الحقيقي.</li>
 </ul>
 <p>ويمكن أيضًا تفعيل YOYO Vision عبر زر الذكاء الاصطناعي، لتوفير استجابة صوتية فورية، والتعرف على الوجه، وقراءة المستندات والإشعارات، وحتى التفاعل مع التطبيقات.</p>
-<figure class="wp-block-image size-full"><img width="700" height="308" src="https://www.arabtechtrends.com/wp-content/uploads/2025/10/1761036646_174_magicos-10.jpg" alt="تحديث واجهة MagicOS 10" class="wp-image-225542"></figure>
+<figure class="wp-block-image size-full"><img width="700" height="308" src="/uploads/wp/2025/10/1761036646_174_magicos-10.jpg" alt="تحديث واجهة MagicOS 10" class="wp-image-225542"></figure>
 <p><strong>نظام ماجيك بيج موديل 3.0</strong></p>
 <p>تقوم شركة Honor بدمج الجيل الثالث من Magic Big Model 3.0 في MagicOS 10، وهو نظام سحابي متعدد الوسائط قادر على معالجة الأوامر عالية السرعة مع تشفير كامل للبيانات. ويتيح هذا النظام التفاعل بين أجهزة Honor وأجهزة الشركات الأخرى مثل Apple، مع إمكانية مشاركة البيانات عبر Tap-to-Transfer بسهولة وأمان.</p>
 <p><strong>الحماية المتقدمة ضد الاحتيال</strong></p>

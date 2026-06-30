@@ -6,7 +6,7 @@ updatedDate: "2025-12-18T03:01:26"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/12/1766019684_897_realme-16-pro-realme-16-pro.jpg"
+image: "/uploads/wp/2025/12/1766019684_897_realme-16-pro-realme-16-pro.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b1%d9%8a%d9%84%d9%85%d9%8a-16-%d8%a8%d8%b1%d9%88-realme-16-pro-%d9%8a%d8%b3%d8%aa%d8%b9%d8%af-%d9%84%d9%84%d8%a7%d9%86%d8%b7%d9%84%d8%a7%d9%82-%d8%a8%d8%aa%d8%b5%d9%85%d9%8a%d9%85-%d9%85%d8%b0/"
 ---
@@ -25,7 +25,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b1%d9%8a%d9%84%d9%85%d9%8a-16-%d8
 <h4><span class="ez-toc-section" id="%D9%81%D9%84%D8%B3%D9%81%D8%A9_%D8%A7%D9%84%D8%AA%D8%B5%D9%85%D9%8A%D9%85_%D9%88%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%AF_%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85%D8%A9"></span>فلسفة التصميم والمواد المستخدمة<span class="ez-toc-section-end"></span></h4>
 <p>تركز هذه السلسلة على الجمع بين العناصر الطبيعية والشعور الحضري الحديث. تم استلهام عالم ريلمي من نسيج الطبيعة، مثل حقول القمح أو حصى الأنهار، لتوفير تجربة لمسية مميزة.</p>
 <p>ومن أبرز مميزات التصميم الجديد: استخدام السيليكون العضوي المستدام المصنوع من قش النباتات المتجددة، والذي يوفر ملمسًا ناعمًا مع مقاومة عالية للتآكل والأوساخ والبكتيريا، مع ضمان متانة الجهاز. كما يتميز الهاتف بخط منحني متواصل يمتد من الخلف إلى الشاشة، مع الحفاظ على سمك يبلغ 8.49 ملم فقط.</p>
-<figure class="wp-block-image size-full"><img width="708" height="409" src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1766019684_897_realme-16-pro-realme-16-pro.jpg" alt="" class="wp-image-227100"></figure>
+<figure class="wp-block-image size-full"><img width="708" height="409" src="/uploads/wp/2025/12/1766019684_897_realme-16-pro-realme-16-pro.jpg" alt="" class="wp-image-227100"></figure>
 <h4><span class="ez-toc-section" id="%D8%AE%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA_%D8%A7%D9%84%D8%A3%D9%84%D9%88%D8%A7%D9%86_%E2%80%9C%D8%A7%D9%84%D8%AA%D8%B5%D9%85%D9%8A%D9%85_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%E2%80%9D"></span>خيارات الألوان "التصميم الرئيسي".<span class="ez-toc-section-end"></span></h4>
 <p>تقدم السلسلة أربعة ألوان مميزة:</p>
 <ul class="wp-block-list">
@@ -42,13 +42,13 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b1%d9%8a%d9%84%d9%85%d9%8a-16-%d8
 <ul class="posts-items posts-list-container">
 <li class="widget-single-post-item widget-post-list tie-standard">
 <div class="post-widget-thumbnail">
-<img width="220" height="150" src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1766019685_21_realme-16-pro-realme-16-pro.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="ريلمي 16 برو"></div>
+<img width="220" height="150" src="/uploads/wp/2025/12/1766019685_21_realme-16-pro-realme-16-pro.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="ريلمي 16 برو"></div>
 </li>
 </ul>
 </div>
 </div>
 </div>
-<figure class="wp-block-image size-full"><img loading="lazy" width="708" height="364" src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1766019685_35_realme-16-pro-realme-16-pro.jpg" alt="ريلمي 16 برو" class="wp-image-227101"></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="708" height="364" src="/uploads/wp/2025/12/1766019685_35_realme-16-pro-realme-16-pro.jpg" alt="ريلمي 16 برو" class="wp-image-227101"></figure>
 <h4><span class="ez-toc-section" id="%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE_%D8%A7%D9%84%D8%A5%D8%B7%D9%84%D8%A7%D9%82"></span>تاريخ الإطلاق<span class="ez-toc-section-end"></span></h4>
 <p>وأكدت الشركة دمج تصميم Urban Wild وتقنية LumaColor IMAGE في السلسلة، دون الإعلان عن تاريخ إطلاق محدد، لكن من المتوقع أن تتوفر الهواتف في أوائل يناير 2026.</p>
 <p>ما رأيك في التصميم؟</p>

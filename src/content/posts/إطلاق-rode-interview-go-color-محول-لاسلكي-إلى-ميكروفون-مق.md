@@ -6,7 +6,7 @@ updatedDate: "2025-11-05T09:06:55"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/11/rode-interview-go-amazon-feature-to-the-sky-pink-4000x4000-rgb.jpg"
+image: "/uploads/wp/2025/11/rode-interview-go-amazon-feature-to-the-sky-pink-4000x4000-rgb.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-rode-interview-go-color-%d9%85%d8%ad%d9%88%d9%84-%d9%84%d8%a7%d8%b3%d9%84%d9%83%d9%8a-%d8%a5%d9%84%d9%89-%d9%85%d9%8a%d9%83%d8%b1%d9%88%d9%81%d9%88%d9%86-%d9%85%d9%82/"
 ---
@@ -20,22 +20,22 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-rode-i
 <p>يقوم Interview GO Color بتحويل أي جهاز لاسلكي من سلسلة RØDE Series IV إلى ميكروفون محمول لإجراء المقابلات، مما يمنح المستخدم القدرة على تسجيل صوت واضح واحترافي بسرعة وسهولة دون الحاجة إلى معدات إضافية معقدة. ويأتي الجهاز بمقبض قوي ودرع رياح قابل للإزالة، مما يضمن حماية الصوت من التشويه الناتج عن الرياح أو النطق الحاد، مع الحفاظ على وضوح الصوت وجودته العالية في كل تسجيل.</p>
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
 <figure class="wp-block-image size-large"></figure>
-<figure class="wp-block-image size-large"><img loading="lazy" width="708" height="708" data-id="226033" src="https://www.arabtechtrends.com/wp-content/uploads/2025/11/rode-interview-go-amazon-feature-to-the-sky-pink-4000x4000-rgb.jpg" alt="" class="wp-image-226033"></figure>
-<figure class="wp-block-image size-large"><img loading="lazy" width="708" height="708" data-id="226032" src="https://www.arabtechtrends.com/wp-content/uploads/2025/11/rode-interview-go-amazon-feature-to-the-sky-red-4000x4000-rgb.jpg" alt="" class="wp-image-226032"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="708" height="708" data-id="226033" src="/uploads/wp/2025/11/rode-interview-go-amazon-feature-to-the-sky-pink-4000x4000-rgb.jpg" alt="" class="wp-image-226033"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="708" height="708" data-id="226032" src="/uploads/wp/2025/11/rode-interview-go-amazon-feature-to-the-sky-red-4000x4000-rgb.jpg" alt="" class="wp-image-226032"></figure>
 </figure>
 <p><strong>ثانياً: التوافق مع جميع أجهزة RØDE اللاسلكية الحديثة</strong></p>
 <p>يتميز المحول بالتوافق الكامل مع جميع أجهزة RØDE اللاسلكية الحديثة، بما في ذلك Wireless GO (Gen 3)، وWireless PRO، وWireless ME، وWireless GO II، وWireless GO الأصلي، مما يمنح منشئي المحتوى حرية استخدام أي جهاز يفضلونه بنفس الأداء الاحترافي.</p>
 <p><strong>ثالثاً: متوفر باللون الأسود الكلاسيكي ومجموعة من الألوان الجريئة</strong></p>
 <p>ولإضفاء لمسة شخصية، يتوفر الجهاز بمجموعة من الألوان الجريئة، مثل الأحمر والبرتقالي والأخضر والوردي والأزرق، بالإضافة إلى اللون الأسود الكلاسيكي، مما يتيح للمستخدمين الاختيار بين التميز والظهور بألوان ملفتة للنظر أو الحفاظ على مظهر احترافي وهادئ أمام الكاميرا.</p>
-<figure class="wp-block-image size-large"><img loading="lazy" width="708" height="290" src="https://www.arabtechtrends.com/wp-content/uploads/2025/11/Interview-GO_video-thumbnail-a-1464x600-1.png" alt="" class="wp-image-226031"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="708" height="290" src="/uploads/wp/2025/11/Interview-GO_video-thumbnail-a-1464x600-1.png" alt="" class="wp-image-226031"></figure>
 <h4><span class="ez-toc-section" id="%D8%B1%D8%A7%D8%A8%D8%B9%D8%A7%D9%8B_%D9%85%D9%82%D8%A8%D8%B6_%D9%85%D8%AA%D9%8A%D9%86_%D9%88%D9%88%D8%A7%D9%82%D9%8A_%D9%85%D9%86_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%AD_%D9%82%D8%A7%D8%A8%D9%84_%D9%84%D9%84%D8%A5%D8%B2%D8%A7%D9%84%D8%A9"></span>رابعاً: مقبض متين وواقي من الرياح قابل للإزالة<span class="ez-toc-section-end"></span></h4>
 <p>تم تصميم Interview GO Color ليكون مثاليًا للمقابلات الميدانية والبودكاست وتسجيل المحتوى أثناء التنقل. ويضيف الدرع المرفق حماية إضافية ضد الضوضاء والرياح، مما يحافظ على وضوح الصوت ويضمن وضوح الكلمات المسجلة. تصميمها المريح يجعلها سهلة الاستخدام لفترات طويلة، ويضمن تجربة تسجيل سلسة واحترافية في أي مكان.</p>
 <h4><span class="ez-toc-section" id="%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AB%D8%A7%D9%84%D9%8A%D8%A9"></span>الاستخدامات المثالية<span class="ez-toc-section-end"></span></h4>
 <p>يعد Interview GO Color الحل الأمثل لإجراء المقابلات الميدانية والميدانية، وتقديم العروض التقديمية الحية، وتسجيل ملفات podcast، وإنشاء محتوى صوتي وفيديو احترافي أثناء التنقل. ويقدم الجهاز جودة صوتية متميزة، مع تصميم عملي وألوان متنوعة تسمح للمستخدم بالتعبير عن شخصيته أو الحفاظ على مظهر رسمي أمام الكاميرا.</p>
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-2 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-large"><img loading="lazy" width="708" height="708" data-id="226035" src="https://www.arabtechtrends.com/wp-content/uploads/2025/11/rode-interview-go-amazon-feature-to-the-sky-green-4000x4000-rgb.jpg" alt="" class="wp-image-226035"></figure>
-<figure class="wp-block-image size-large"><img loading="lazy" width="708" height="708" data-id="226036" src="https://www.arabtechtrends.com/wp-content/uploads/2025/11/rode-interview-go-amazon-feature-to-the-sky-blue-4000x4000-rgb.jpg" alt="" class="wp-image-226036"></figure>
-<figure class="wp-block-image size-large"><img loading="lazy" width="708" height="708" data-id="226037" src="https://www.arabtechtrends.com/wp-content/uploads/2025/11/rode-interview-go-amazon-orange-4000x4000-rgb.jpg" alt="" class="wp-image-226037"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="708" height="708" data-id="226035" src="/uploads/wp/2025/11/rode-interview-go-amazon-feature-to-the-sky-green-4000x4000-rgb.jpg" alt="" class="wp-image-226035"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="708" height="708" data-id="226036" src="/uploads/wp/2025/11/rode-interview-go-amazon-feature-to-the-sky-blue-4000x4000-rgb.jpg" alt="" class="wp-image-226036"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="708" height="708" data-id="226037" src="/uploads/wp/2025/11/rode-interview-go-amazon-orange-4000x4000-rgb.jpg" alt="" class="wp-image-226037"></figure>
 </figure>
 <h4><span class="ez-toc-section" id="%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B5%D9%81%D8%A7%D8%AA_%D8%A7%D9%84%D9%81%D9%86%D9%8A%D8%A9_%D9%88%D9%85%D8%AD%D8%AA%D9%88%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D8%B5%D9%86%D8%AF%D9%88%D9%82"></span>المواصفات الفنية ومحتويات الصندوق<span class="ez-toc-section-end"></span></h4>
 <p>ويزن المحول 84 جرامًا، بينما يزن درع الرياح 8 جرامًا. ويأتي المحول بأبعاد 237 × 42.9 × 23 ملم، في حين تبلغ أبعاد درع الرياح 81.6 × 73.3 × 73.3 ملم. يحتوي الصندوق على محول <strong>مقابلة GO اللون</strong>درع الرياح القابل للإزالة، ودليل المستخدم.</p>

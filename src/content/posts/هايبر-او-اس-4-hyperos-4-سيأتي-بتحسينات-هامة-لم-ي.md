@@ -6,7 +6,7 @@ updatedDate: "2025-11-17T23:28:47"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/11/1763414926_223_hyperos-4---hyperos-4.jpg"
+image: "/uploads/wp/2025/11/1763414926_223_hyperos-4---hyperos-4.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d9%8a%d8%a8%d8%b1-%d8%a7%d9%88-%d8%a7%d8%b3-4-hyperos-4-%d8%b3%d9%8a%d8%a3%d8%aa%d9%8a-%d8%a8%d8%aa%d8%ad%d8%b3%d9%8a%d9%86%d8%a7%d8%aa-%d9%87%d8%a7%d9%85%d8%a9-%d9%84%d9%85-%d9%8a/"
 ---
@@ -27,7 +27,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d9%8a%d8%a8%d8%b1-%d8%a7
 <li><strong>السلامة والاستقرار:</strong> أضافت جوجل طبقة أذونات جديدة لضمان أمان عملية إعادة تعيين الزر، مما يجعل التجربة أكثر استقرارًا وموثوقية.</li>
 <li><strong>المرونة:</strong> يتيح هذا التغيير للمستخدمين دعم جميع وحدات التحكم دون الحاجة إلى أدوات خارجية، مما يحل مشكلة دعم الأجهزة غير الكامل التي واجهها اللاعبون سابقًا.</li>
 </ul>
-<figure class="wp-block-image size-full"><img width="708" height="375" src="https://www.arabtechtrends.com/wp-content/uploads/2025/11/1763414926_223_hyperos-4---hyperos-4.jpg" alt="هايبر أو إس 4" class="wp-image-226377"></figure>
+<figure class="wp-block-image size-full"><img width="708" height="375" src="/uploads/wp/2025/11/1763414926_223_hyperos-4---hyperos-4.jpg" alt="هايبر أو إس 4" class="wp-image-226377"></figure>
 <h2><span class="ez-toc-section" id="%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D9%85%D8%AE%D8%B5%D8%B5%D8%A9_%D9%84%D9%88%D8%AD%D8%AF%D8%A7%D8%AA_%D8%A7%D9%84%D8%AA%D8%AD%D9%83%D9%85_%D8%B6%D9%85%D9%86_%D8%A7%D9%84%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF%D8%A7%D8%AA"></span><strong>قائمة مخصصة لوحدات التحكم ضمن الإعدادات</strong><span class="ez-toc-section-end"></span></h2>
 <p>تعمل جوجل على صفحة مخصصة لوحدات التحكم ضمن تطبيق الإعدادات، لتسهيل إدارة وضبط الأجهزة المتصلة دون الحاجة إلى التنقل بين تطبيقات متعددة.</p>
 <ul class="wp-block-list">

@@ -6,7 +6,7 @@ updatedDate: "2025-09-06T09:33:36"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/09/1757140414_470_galaxy-s25-fe.jpg"
+image: "/uploads/wp/2025/09/1757140414_470_galaxy-s25-fe.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%b9%d8%b1-%d9%88%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-%d8%a7%d8%b3-25-%d8%a7%d9%81-%d8%a7%d9%8a-galaxy-s25-fe-%d9%88%d8%a7%d9%84%d9%85%d9%8a%d8%b2/"
 ---
@@ -37,7 +37,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%b9%d8%b1-%d9%88%d9%85%d9%88
 <li><strong>الذاكرة والتخزين:</strong> يتوفر الهاتف في ذاكرة الوصول العشوائي (RAM) مع وحدة تخزين 8 جيجابايت ، وخيارات التخزين 128/256/512 جيجابايت.</li>
 </ul>
 <p>الهاتف متاح بسعر يبدأ من 650 دولارًا ، وهو نفس سعر الجيل السابق ، مما يشير إلى أن Samsung لم ترفع الأسعار على الرغم من التحسينات.</p>
-<figure class="wp-block-image size-full"><img width="708" height="586" src="https://www.arabtechtrends.com/wp-content/uploads/2025/09/1757140414_470_galaxy-s25-fe.jpg" alt="" class="wp-image-224379"></figure>
+<figure class="wp-block-image size-full"><img width="708" height="586" src="/uploads/wp/2025/09/1757140414_470_galaxy-s25-fe.jpg" alt="" class="wp-image-224379"></figure>
 <h2><span class="ez-toc-section" id="%D8%A3%D9%87%D9%85_%D9%85%D9%8A%D8%B2%D8%A7%D8%AA_Galaxy_S25_Fe"></span>أهم ميزات Galaxy S25 Fe<span class="ez-toc-section-end"></span></h2>
 <h3><span class="ez-toc-section" id="%D9%85%D9%8A%D8%B2%D8%A7%D8%AA_%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1_%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A_%D9%87%D9%8A_%D8%A7%D9%84%D9%86%D9%82%D8%B7%D8%A9_%D8%A7%D9%84%D9%85%D8%B1%D9%83%D8%B2%D9%8A%D8%A9"></span>ميزات الذكاء الاصطناعي هي النقطة المركزية<span class="ez-toc-section-end"></span></h3>
 <p>التركيز على الذكاء الاصطناعي هو أبرز الميزة في هذا الإصدار. يأتي <strong>Galaxy S25 Fe</strong> مزودة بميزات <strong>Galaxy AI</strong> المتقدم الذي يحسن تجربة المستخدم بشكل كبير:</p>
@@ -47,9 +47,9 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%b9%d8%b1-%d9%88%d9%85%d9%88
 <li><strong>التحرير التوليدي:</strong> يمكن لأداة تحرير الصور القوية إزالة الأشخاص أو الكائنات غير المرغوب فيها من الخلفية تلقائيًا.</li>
 </ul>
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
-<figure class="wp-block-image size-large"><img loading="lazy" width="702" height="656" data-id="224380" src="https://www.arabtechtrends.com/wp-content/uploads/2025/09/1757140414_11_galaxy-s25-fe.jpg" alt="Galaxy S25 Fe" class="wp-image-224380"></figure>
-<figure class="wp-block-image size-large"><img loading="lazy" width="708" height="590" data-id="224382" src="https://www.arabtechtrends.com/wp-content/uploads/2025/09/1757140414_749_galaxy-s25-fe.jpg" alt="" class="wp-image-224382"></figure>
-<figure class="wp-block-image size-large"><img loading="lazy" width="708" height="673" data-id="224381" src="https://www.arabtechtrends.com/wp-content/uploads/2025/09/1757140414_199_galaxy-s25-fe.jpg" alt="" class="wp-image-224381"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="702" height="656" data-id="224380" src="/uploads/wp/2025/09/1757140414_11_galaxy-s25-fe.jpg" alt="Galaxy S25 Fe" class="wp-image-224380"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="708" height="590" data-id="224382" src="/uploads/wp/2025/09/1757140414_749_galaxy-s25-fe.jpg" alt="" class="wp-image-224382"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="708" height="673" data-id="224381" src="/uploads/wp/2025/09/1757140414_199_galaxy-s25-fe.jpg" alt="" class="wp-image-224381"></figure>
 </figure>
 <h3><span class="ez-toc-section" id="%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D9%81%D8%B1_%D9%88%D8%A7%D9%84%D8%AA%D8%B5%D9%85%D9%8A%D9%85"></span>التوافر والتصميم<span class="ez-toc-section-end"></span></h3>
 <p>الهاتف متاح في السوق من اليوم ، وهو متوفر بأربعة ألوان: Jet Black و Navy و Micy Blue و White. إنه يتميز بتصميم نحيف ووزن خفيف (190 جرام) ، كما أنه مقاوم للماء وغبار مع معيار IP68.</p>

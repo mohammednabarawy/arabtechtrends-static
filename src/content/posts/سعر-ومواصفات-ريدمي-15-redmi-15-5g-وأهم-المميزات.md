@@ -6,7 +6,7 @@ updatedDate: "2025-08-20T02:30:29"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/08/1755646222_462_Redmi-15-5G-السعر-والمواصفات.png"
+image: "/uploads/wp/2025/08/1755646222_462_Redmi-15-5G-السعر-والمواصفات.png"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%b9%d8%b1-%d9%88%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-%d8%b1%d9%8a%d8%af%d9%85%d9%8a-15-redmi-15-5g-%d9%88%d8%a3%d9%87%d9%85-%d8%a7%d9%84%d9%85%d9%85%d9%8a%d8%b2%d8%a7%d8%aa/"
 ---
@@ -25,7 +25,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%b9%d8%b1-%d9%88%d9%85%d9%88
 <h3><span class="ez-toc-section" id="%D8%AA%D8%B5%D9%85%D9%8A%D9%85"></span>تصميم<span class="ez-toc-section-end"></span></h3>
 <p>يعتمد Redmi 15 5g على مواد بلاستيكية للإطار والظهر مع نافذة كاميرات مستطيلة ، والتي تحتوي على عدسة رئيسية واحدة وتبريرتين ثانويتين غير متوقعتين إلى جانب فلاش LED. في المقدمة ، نجد شاشة كبيرة تشغل معظم المساحة ذات الحافة السفلية الأكثر وضوحًا من بعض المنافسين.</p>
 <p>على الجانب الأيمن ، زر الطاقة المدمج مع أجهزة استشعار بصمات الأصابع وأزرار التحكم في الصوت ، بينما يتضمن الجانب الأيسر بطاقتي SIM مع دعم بطاقة الذاكرة. أدناه نجد منفذًا <strong>USB-C</strong>مكبر الصوت والميكروفون. يأتي الجهاز بسمك <strong>8.4 مم</strong> وزن <strong>217 غرام</strong>.</p>
-<figure class="wp-block-image size-full"><img width="532" height="647" src="https://www.arabtechtrends.com/wp-content/uploads/2025/08/1755646222_462_Redmi-15-5G-السعر-والمواصفات.png" alt="" class="wp-image-223986"></figure>
+<figure class="wp-block-image size-full"><img width="532" height="647" src="/uploads/wp/2025/08/1755646222_462_Redmi-15-5G-السعر-والمواصفات.png" alt="" class="wp-image-223986"></figure>
 <h3><span class="ez-toc-section" id="%D8%A7%D9%84%D8%B4%D8%A7%D8%B4%D8%A9_%D9%88%D8%A7%D9%84%D8%A3%D8%AF%D8%A7%D8%A1"></span>الشاشة والأداء<span class="ez-toc-section-end"></span></h3>
 <p>تم تجهيز الهاتف بشاشة LCD 6.9 و FHD +، بمعدل تحديث يبلغ 144 هرتز و 850 شمعة كحد أقصى ، لتجربة مشاهدة سلسة حتى تحت أشعة الشمس المباشرة.</p>
 <p>من حيث الأداء ، يعمل Redmi 15 5G مع Android 15 في واجهة Hyperos 2 ، ويعتمد على معالج Snapdragon 6S Gen 3 بسرعة 2.3 جيجاهرتز ، والذي يوفر جيدًا للاستخدام اليومي وبعض الألعاب المتوسطة.</p>
@@ -35,7 +35,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%b9%d8%b1-%d9%88%d9%85%d9%88
 <ul class="posts-items posts-list-container">
 <li class="widget-single-post-item widget-post-list tie-standard">
 <div class="post-widget-thumbnail">
-<img width="220" height="150" src="https://www.arabtechtrends.com/wp-content/uploads/2025/08/Redmi-15-5G-السعر-والمواصفات.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="Redmi 15"></div>
+<img width="220" height="150" src="/uploads/wp/2025/08/Redmi-15-5G-السعر-والمواصفات.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="Redmi 15"></div>
 </li>
 </ul>
 </div>
@@ -46,7 +46,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%b9%d8%b1-%d9%88%d9%85%d9%88
 <h3><span class="ez-toc-section" id="%D8%A7%D9%84%D8%A3%D9%84%D9%88%D8%A7%D9%86_%D9%88%D8%A7%D9%84%D8%B3%D8%B9%D8%B1"></span>الألوان والسعر<span class="ez-toc-section-end"></span></h3>
 <p>الهاتف متاح بثلاثة ألوان: الأسود والأخضر والتيتانيوم ، وبسعر يبدأ من 240 دولار.</p>
 <h2><span class="ez-toc-section" id="%D9%85%D9%88%D8%A7%D8%B5%D9%81%D8%A7%D8%AA_Redmi_15G_%D8%A7%D9%84%D9%83%D8%A7%D9%85%D9%84%D8%A9_%D9%81%D9%8A_%D8%AC%D8%AF%D9%88%D9%84_%D8%B2%D9%85%D9%86%D9%8A"></span>مواصفات Redmi 15G الكاملة في جدول زمني<span class="ez-toc-section-end"></span></h2>
-<figure class="wp-block-image size-full"><img loading="lazy" width="608" height="766" src="https://www.arabtechtrends.com/wp-content/uploads/2025/08/1755646222_126_Redmi-15-5G-السعر-والمواصفات.png" alt="" class="wp-image-223987"></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="608" height="766" src="/uploads/wp/2025/08/1755646222_126_Redmi-15-5G-السعر-والمواصفات.png" alt="" class="wp-image-223987"></figure>
 <figure class="wp-block-table">
 <table class="has-fixed-layout">
 <thead>

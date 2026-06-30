@@ -6,7 +6,7 @@ updatedDate: "2025-12-18T17:08:56"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/12/1766070535_475_phone-by-google.jpg"
+image: "/uploads/wp/2025/12/1766070535_475_phone-by-google.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-%d8%a7%d9%84%d9%87%d8%a7%d8%aa%d9%81-phone-by-google-%d9%8a%d8%ad%d8%b5%d9%84-%d8%b9%d9%84%d9%89-%d9%88%d8%a7%d8%ad%d8%af-%d9%85%d9%86-%d8%a3%d9%87%d9%85-%d8%a7%d9%84/"
 ---
@@ -35,7 +35,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-%d8%a7
 <li>يضمن عدم تفويت المكالمات المهمة، حتى لو كانت واردة من رقم غير متوقع في حالة الطوارئ.</li>
 <li>يقدم إشعارات واضحة للمستلم حول أهمية المكالمة.</li>
 </ul>
-<figure class="wp-block-image size-full"><img width="491" height="509" src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1766070535_475_phone-by-google.jpg" alt="الهاتف من جوجل" class="wp-image-227072"></figure>
+<figure class="wp-block-image size-full"><img width="491" height="509" src="/uploads/wp/2025/12/1766070535_475_phone-by-google.jpg" alt="الهاتف من جوجل" class="wp-image-227072"></figure>
 <h3><span class="ez-toc-section" id="%D8%A7%D9%84%D8%AA%D8%AD%D8%AF%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D9%85%D9%84%D8%A9"></span>التحديات المحتملة<span class="ez-toc-section-end"></span></h3>
 <ul class="wp-block-list">
 <li>هناك احتمالية لسوء استخدام العلامة العاجلة، مما قد يقلل من فعالية الميزة، لذا فهي لا تزال في مرحلة الاختبار التجريبي.</li>
@@ -57,7 +57,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-%d8%a7
 <ul class="posts-items posts-list-container">
 <li class="widget-single-post-item widget-post-list tie-standard">
 <div class="post-widget-thumbnail">
-<img width="220" height="150" src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/phone-by-google.png" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt=""></div>
+<img width="220" height="150" src="/uploads/wp/2025/12/phone-by-google.png" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt=""></div>
 </li>
 </ul>
 </div>

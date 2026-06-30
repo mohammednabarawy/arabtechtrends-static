@@ -6,7 +6,7 @@ updatedDate: "2025-09-05T19:31:19"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/09/1757089877_221_huawei-mate-xts.jpg"
+image: "/uploads/wp/2025/09/1757089877_221_huawei-mate-xts.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%87%d9%88%d8%a7%d9%88%d9%8a-%d8%ab%d9%84%d8%a7%d8%ab%d9%8a-%d8%a7%d9%84%d8%b7%d9%8a-huawei-mate-xts-%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af-%d8%b1%d8%b3%d9%85%d9%8a%d9%8b%d8%a7-%d8%a8%d9%85%d8%b2/"
 ---
@@ -41,7 +41,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d9%88%d8%a7%d9%88%d9%8a-%d8%ab
 <li><strong>طلب</strong>: Harmonyos 5.1</li>
 <li><strong>الألوان</strong>أسود ، أحمر ، أرجواني ، أبيض.</li>
 </ul>
-<figure class="wp-block-image size-full"><img width="708" height="480" src="https://www.arabtechtrends.com/wp-content/uploads/2025/09/1757089877_221_huawei-mate-xts.jpg" alt="Huawei ماتي XTS" class="wp-image-224393"></figure>
+<figure class="wp-block-image size-full"><img width="708" height="480" src="/uploads/wp/2025/09/1757089877_221_huawei-mate-xts.jpg" alt="Huawei ماتي XTS" class="wp-image-224393"></figure>
 <h2>ميزات Huawei Mate XTS Design Ultimate</h2>
 <ul class="wp-block-list">
 <li><strong>أداء أسرع</strong>يرفع معالج Kirin 9020 الأداء بنسبة تصل إلى 36 ٪ مقارنة بالإصدار السابق.</li>

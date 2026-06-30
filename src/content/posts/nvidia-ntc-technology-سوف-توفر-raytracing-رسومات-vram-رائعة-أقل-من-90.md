@@ -6,7 +6,7 @@ updatedDate: "2025-07-17T02:53:11"
 author: "Arab Tech Trends"
 category: "ألعاب"
 tags: []
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/07/NVIDIA-NTC-Technology-سوف-توفر-Raytracing-رسومات-VRAM-رائعة-أقل.png"
+image: "/uploads/wp/2025/07/NVIDIA-NTC-Technology-سوف-توفر-Raytracing-رسومات-VRAM-رائعة-أقل.png"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%25d8%25aa%25d9%2582%25d9%2586%25d9%258a%25d8%25a9-nvidia-ntc-%25d8%25aa%25d9%2582%25d9%2584%25d9%2584-%25d8%25a7%25d8%25b3%25d8%25aa%25d9%2587%25d9%2584%25/"
 ---
@@ -61,7 +61,7 @@ Transcoded: 2600 إطار في الثانية / 79.38 ميجابايت</p>
 <li><b>مرونة غير مسبوقة للمطورين:</b> تمنح NTC المطورين حرية أكبر في تصميم العوالم والهيئات الغنية بالتفاصيل دون الحاجة إلى التضحية بالأداء أو فرض متطلبات VRAM غير الواقعية على اللاعبين ، والتي تفتح الباب أمام مستوى جديد من الإبداع في تصميم الألعاب.</li>
 </ol>
 <p><b style="color: #2d2d2d; font-family: Roboto, sans-serif; font-size: 25px; text-transform: inherit;">متطلبات تقنية NTC: من المتاح حاليًا؟</b></p>
-<figure id="attachment_94941" aria-describedby="caption-attachment-94941" style="width: 1050px" class="wp-caption alignnone"><img class="size-full wp-image-94941" src="https://www.arabtechtrends.com/wp-content/uploads/2025/07/NVIDIA-NTC-Technology-سوف-توفر-Raytracing-رسومات-VRAM-رائعة-أقل.png" alt="RTX Neural Shader Rendting" width="1050" height="589"  ><figcaption id="caption-attachment-94941" class="wp-caption-text">IMG: nvidia</figcaption></figure>
+<figure id="attachment_94941" aria-describedby="caption-attachment-94941" style="width: 1050px" class="wp-caption alignnone"><img class="size-full wp-image-94941" src="/uploads/wp/2025/07/NVIDIA-NTC-Technology-سوف-توفر-Raytracing-رسومات-VRAM-رائعة-أقل.png" alt="RTX Neural Shader Rendting" width="1050" height="589"  ><figcaption id="caption-attachment-94941" class="wp-caption-text">IMG: nvidia</figcaption></figure>
 <p>حاليًا ، لا تزال تقنية NVIDIA NTC في مراحلها التجريبية وتظهر في "اختبارات استعداد التجريبية". هذا يعني أنه لم يكن متاحًا بعد للمستخدمين النهائيين كجزء من برامج تشغيل الألعاب العادية. يمكن الوصول إليها عبر اختبار السائق (NVIDIA 590.26) ، والتي تجلب أيضًا تقنية "Smooth Mootion" لسلسلة RTX 40 لمضاعفة الفيروسات!</p>
 <ul>
 <li><b>الأجهزة المدعومة:</b> تتطلب هذه التقنية بطاقات رسومات NVIDIA مجهزة بوحدات <b>توتر النوى</b> (مثل سلسلة RTX 20 و 30 و 40 و 50) بسبب اعتمادها الكبير على الذكاء الاصطناعي وشبكات الأعصاب.</li>

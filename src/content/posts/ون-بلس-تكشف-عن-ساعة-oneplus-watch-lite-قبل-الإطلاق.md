@@ -6,7 +6,7 @@ updatedDate: "2025-12-09T00:06:30"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["OnePlus","OnePlus Watch Lite","البطارية الفائقة","القدرات الذكية","تاريخ الإطلاق الرسمي"]
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/12/1765231589_131_oneplus-------oneplus-watch-lite.webp.webp"
+image: "/uploads/wp/2025/12/1765231589_131_oneplus-------oneplus-watch-lite.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%88%d9%86-%d8%a8%d9%84%d8%b3-%d8%aa%d9%83%d8%b4%d9%81-%d8%b9%d9%86-%d8%b3%d8%a7%d8%b9%d8%a9-oneplus-watch-lite-%d9%82%d8%a8%d9%84-%d8%a7%d9%84%d8%a5%d8%b7%d9%84%d8%a7%d9%82/"
 ---
@@ -45,7 +45,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d9%86-%d8%a8%d9%84%d8%b3-%d8%a
 <p>
 </ul>
 <p></p>
-<div align="center"><img src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1765231589_131_oneplus-------oneplus-watch-lite.webp.webp" class="img-responsive lazy" alt=""/></div>
+<div align="center"><img src="/uploads/wp/2025/12/1765231589_131_oneplus-------oneplus-watch-lite.webp.webp" class="img-responsive lazy" alt=""/></div>
 <p>
 <b>عمر بطارية يصل إلى 10 أيام ومنصة تتجاوز WearOS</b></p>
 <p>ومن أبرز مفاجآت الساعة إعلانها عن قدرتها على العمل لمدة 10 أيام بشحنة واحدة، وهو رقم يفوق ما تقدمه ساعات WearOS الحالية، مما يؤكد الشائعات حول اعتمادها على نظام تشغيل خاص غير WearOS لزيادة الكفاءة وتقليل استهلاك الطاقة.</p>

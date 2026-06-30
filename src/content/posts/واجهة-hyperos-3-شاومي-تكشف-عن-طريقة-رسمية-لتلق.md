@@ -6,7 +6,7 @@ updatedDate: "2025-11-02T03:52:49"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/11/1762048367_596_hyperos-3-xiaomi.jpg"
+image: "/uploads/wp/2025/11/1762048367_596_hyperos-3-xiaomi.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-hyperos-3-%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%aa%d9%83%d8%b4%d9%81-%d8%b9%d9%86-%d8%b7%d8%b1%d9%8a%d9%82%d8%a9-%d8%b1%d8%b3%d9%85%d9%8a%d8%a9-%d9%84%d8%aa%d9%84%d9%82/"
 ---
@@ -24,7 +24,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-hypero
 <h4><span class="ez-toc-section" id="%D9%85%D8%A7_%D9%87%D9%88_%D9%86%D8%B8%D8%A7%D9%85_OTA%D8%9F"></span>ما هو نظام OTA؟<span class="ez-toc-section-end"></span></h4>
 <p>تصل تحديثات Xiaomi عادةً عبر النظام المعروف باسم OTA (Over the Air)، حيث يتم إرسال التحديث إلى الأجهزة على مراحل دون الحاجة إلى توصيل الهاتف بأي كابل أو كمبيوتر. بمجرد توفر التحديث لجهازك، سيظهر إشعار يعلمك بوجود إصدار جديد يمكن تنزيله وتثبيته مباشرة.</p>
 <h4><span class="ez-toc-section" id="%D8%B7%D8%B1%D9%8A%D9%82%D8%A9_%D8%A7%D9%84%D8%AD%D8%B5%D9%88%D9%84_%D8%B9%D9%84%D9%89_HyperOS_3_%D9%85%D8%A8%D9%83%D8%B1%D9%8B%D8%A7"></span>طريقة الحصول على HyperOS 3 مبكرًا<span class="ez-toc-section-end"></span></h4>
-<figure class="wp-block-image size-full"><img width="700" height="485" src="https://www.arabtechtrends.com/wp-content/uploads/2025/11/1762048367_596_hyperos-3-xiaomi.jpg" alt="واجهة هايبر أو إس 3" class="wp-image-225972"></figure>
+<figure class="wp-block-image size-full"><img width="700" height="485" src="/uploads/wp/2025/11/1762048367_596_hyperos-3-xiaomi.jpg" alt="واجهة هايبر أو إس 3" class="wp-image-225972"></figure>
 <p>ووفقا لوانغ لي، مدير البرامج في شركة Xiaomi، فإن "أسرع المستخدمين يحصلون على التحديث أولا"، لأن الشركة ترسل التحديث على دفعات متتالية. ولكن يمكن لأي مستخدم "تسريع" عملية وصول التحديث يدويًا باتباع الخطوات التالية:</p>
 <ol class="wp-block-list">
 <li>افتح الإعدادات على هاتفك.</li>

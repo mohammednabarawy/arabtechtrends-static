@@ -6,7 +6,7 @@ updatedDate: "2025-11-03T07:57:27"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/11/1762149446_416_canva.jpg"
+image: "/uploads/wp/2025/11/1762149446_416_canva.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%83%d8%a7%d9%86%d9%81%d8%a7-canva-%d8%aa%d9%8f%d9%81%d8%a7%d8%ac%d8%a6-%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d8%b9-%d8%a8%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-%d8%aa%d8%b5%d9%85%d9%8a%d9%85-%d9%85%d8%ac%d8%a7/"
 ---
@@ -24,7 +24,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%83%d8%a7%d9%86%d9%81%d8%a7-canva-
 <p>تجدر الإشارة إلى أن الإصدارات القديمة المستقلة من Affinity ستستمر في العمل مع المستخدمين الذين اشتروها مسبقًا، ولن يضطروا إلى الانتقال إلى النظام الأساسي الجديد. ومع ذلك، تم سحب إصدارات V2 من Designer وPhoto وPublisher من موقع Affinity منذ عدة أسابيع، ولم تذكر Canva ما إذا كان المستخدمون الحاليون سيستمرون في تلقي تحديثات الدعم.</p>
 <p>كان نموذج الشراء لمرة واحدة الخاص بـ Affinity أحد أبرز ميزات إصداراتها السابقة، وهو ما يميزها عن مجموعة Adobe القائمة على الاشتراك، مما أثار مخاوف من أن Affinity ستتبع نهج Canva في الاشتراكات بعد الاستحواذ. يحاول Canva تهدئة هذه المخاوف من خلال التأكيد باستمرار على أن التطبيق الجديد مجاني، لكن عمليات تكامل الذكاء الاصطناعي قد تواجه بعض المقاومة من المصممين الذين يعارضون استخدام التكنولوجيا في العمليات الإبداعية.</p>
 <p><strong>فيما يلي أهم مميزات مجموعة برامج Affinity الجديدة من Canva:</strong></p>
-<figure class="wp-block-image size-full"><img width="708" height="463" src="https://www.arabtechtrends.com/wp-content/uploads/2025/11/1762149446_416_canva.jpg" alt="تقارب " class="wp-image-225941"></figure>
+<figure class="wp-block-image size-full"><img width="708" height="463" src="/uploads/wp/2025/11/1762149446_416_canva.jpg" alt="تقارب " class="wp-image-225941"></figure>
 <ul class="wp-block-list">
 <li><strong>تطبيق واحد متكامل</strong>: يجمع بين تحرير الصور وتصميم المتجهات وتخطيط الصفحة.</li>
 <li><strong>مجانا إلى الأبد</strong>: لا يتطلب أي اشتراك أو دفع مستمر.</li>

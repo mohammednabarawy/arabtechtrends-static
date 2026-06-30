@@ -6,7 +6,7 @@ updatedDate: "2025-09-02T21:20:18"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/09/1756837215_136_hyperos-3-------xiaomi---barrage.png"
+image: "/uploads/wp/2025/09/1756837215_136_hyperos-3-------xiaomi---barrage.png"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-hyperos-3-%d8%aa%d9%81%d8%aa%d8%ad-%d8%a3%d8%a8%d9%88%d8%a7%d8%a8-%d8%a7%d9%84%d8%aa%d9%83%d8%a7%d9%85%d9%84-%d8%a8%d9%8a%d9%86-%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d9%88/"
 ---
@@ -22,7 +22,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-hypero
 <h3>تكامل غير مسبوق مع أجهزة Apple</h3>
 <p>لا تقتصر الميزة الجديدة على مجرد مشاركة الشاشة أو الاتصال البسيط كما تم استخدامنا في السابق ، ولكنها تسمح بتشغيل تطبيقات Xiaomi مباشرة على أجهزة MacBook و IMAC ، بدعم من تخصيص حجم النوافذ واختصارات لوحة المفاتيح وحتى القدرة على فتح الهاتف عبر معرف اللمس.</p>
 <p>وينطبق الشيء نفسه على أجهزة iPad ، حيث يمكن أن تستفيد هواتف Xiaomi من ميزة تعدد المهام إلى جانب معرف الوجه لتأمين الوصول إلى التطبيقات والبيانات ، مما يوفر تجربة أكثر سلاسة وأكثر أمانًا.</p>
-<figure class="wp-block-image size-full"><img width="401" height="536" src="https://www.arabtechtrends.com/wp-content/uploads/2025/09/1756837215_136_hyperos-3-------xiaomi---barrage.png" alt="واجهة Hyperos 3" class="wp-image-224252"></figure>
+<figure class="wp-block-image size-full"><img width="401" height="536" src="/uploads/wp/2025/09/1756837215_136_hyperos-3-------xiaomi---barrage.png" alt="واجهة Hyperos 3" class="wp-image-224252"></figure>
 <h2>ما يميز التجربة الجديدة في واجهة Hyperos 3</h2>
 <p>ليس فقط <strong>شاشة عكس الشاشة</strong>بدلاً من ذلك ، نظام متكامل يقلل من الأخطاء ويجعل العمل أكثر سلاسة.</p>
 <p>القدرة على تشغيل تطبيقات Xiaomi بشكل طبيعي على أجهزة Apple دون إعدادات معقدة.</p>

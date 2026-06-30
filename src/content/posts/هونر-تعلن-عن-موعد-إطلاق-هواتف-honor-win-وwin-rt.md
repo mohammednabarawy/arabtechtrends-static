@@ -6,7 +6,7 @@ updatedDate: "2025-12-17T19:57:30"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["الكشف عن التصميم الرسمي","تاريخ الإطلاق","هاتف Honor Win","هاتف Honor Win RT","هواتف الألعاب","هونر"]
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/12/1765994248_261_honor-----------honor-win--win-rt.webp.webp"
+image: "/uploads/wp/2025/12/1765994248_261_honor-----------honor-win--win-rt.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%87%d9%88%d9%86%d8%b1-%d8%aa%d8%b9%d9%84%d9%86-%d8%b9%d9%86-%d9%85%d9%88%d8%b9%d8%af-%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d9%87%d9%88%d8%a7%d8%aa%d9%81-honor-win-%d9%88win-rt/"
 ---
@@ -20,10 +20,10 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d9%88%d9%86%d8%b1-%d8%aa%d8%b9
 <p></p>
 <p>وبالتزامن مع الإعلان عن موعد الإطلاق، كشفت Honor عن التصميم النهائي لكلا الهاتفين، موضحة الاختلافات الأساسية بينهما، حيث يأتي Honor Win مزودًا بوحدة كاميرا خلفية ثلاثية، بينما يعتمد Win RT على إعداد كاميرا مزدوجة، مما يدل على اختلاف المجموعة المستهدفة لكل جهاز ضمن السلسلة.</p>
 <p>وتعتمد الهواتف لغة تصميم قريبة من سلسلة Redmi K90، مع التركيز على الطبيعة العملية لهواتف الألعاب، حيث تضم مروحة تبريد داخلية مدمجة تهدف إلى الحفاظ على أداء مستقر أثناء جلسات الألعاب الطويلة وتقليل ارتفاع درجات الحرارة. وستكون الهواتف متاحة بثلاثة ألوان: الأسود والأزرق والأبيض.</p>
-<div align="center"><img src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1765994248_261_honor-----------honor-win--win-rt.webp.webp" title="الهاتف الذكي Honor Win RT" class="img-responsive lazy" alt="الهاتف الذكي Honor Win RT"/><span style="color:#d40a00;">الهاتف الذكي Honor Win RT</span></div>
+<div align="center"><img src="/uploads/wp/2025/12/1765994248_261_honor-----------honor-win--win-rt.webp.webp" title="الهاتف الذكي Honor Win RT" class="img-responsive lazy" alt="الهاتف الذكي Honor Win RT"/><span style="color:#d40a00;">الهاتف الذكي Honor Win RT</span></div>
 <p></p>
 <p>أما بالنسبة للمواصفات التقنية، فتشير المعلومات المتداولة إلى أن هاتف Honor Win يمثل الإصدار الأعلى في السلسلة، حيث من المتوقع أن يعمل بمعالج Snapdragon 8 Elite Gen 5 مع شاشة LTPS AMOLED بقياس 6.8 بوصات تدعم معدل تحديث عالي يصل إلى 165 هرتز، مما يوثق تجربة لعب سلسة. من جانب أخر من المتوقع أن يعتمد الهاتف Win RT على المعالج Snapdragon 8 Gen 5.</p>
-<div align="center"><img src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1765994248_184_honor-----------honor-win--win-rt.webp.webp" title="هاتف Honor Win باللون الأزرق" class="img-responsive lazy" alt="هاتف Honor Win باللون الأزرق"/></p>
+<div align="center"><img src="/uploads/wp/2025/12/1765994248_184_honor-----------honor-win--win-rt.webp.webp" title="هاتف Honor Win باللون الأزرق" class="img-responsive lazy" alt="هاتف Honor Win باللون الأزرق"/></p>
 <p>الهاتف الذكي Honor Win RT باللون الأزرق</p></div>
 <p></p>
 <p>أما بالنسبة للبطارية، فتشير الشائعات إلى أن أحد طرازي السلسلة سيأتي ببطارية ضخمة بسعة 10000 مللي أمبير، وهو ما يؤكد نية Honor تزويد الهواتف ببطارية عملاقة قادرة على الصمود لفترات طويلة من الاستخدام دون الحاجة للشحن المتكرر. ومع اقتراب موعد الإطلاق الرسمي، من المتوقع أن تكشف شركة Honor عن مزيد من التفاصيل بخصوص مواصفات وأسعار سلسلة Honor Win خلال الأيام المقبلة تمهيداً لإطلاقها في الأسواق.</p>

@@ -6,7 +6,7 @@ updatedDate: "2025-07-28T13:11:18"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/07/1753697475_592_Invinx-Smart-10-السعر-والمواصفات.jpg"
+image: "/uploads/wp/2025/07/1753697475_592_Invinx-Smart-10-السعر-والمواصفات.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a7%d9%86%d9%81%d9%86%d9%83%d8%b3-%d8%b3%d9%85%d8%a7%d8%b1%d8%aa-10-infinix-smart-10-%d8%b1%d8%b3%d9%85%d9%8a%d9%8b%d8%a7-%d8%a8%d8%b3%d8%b9%d8%b1-%d8%a3%d9%82%d9%84-%d9%85%d9%86-100-%d8%af%d9%88/"
 ---
@@ -26,7 +26,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a7%d9%86%d9%81%d9%86%d9%83%d8%b3-
 <p>تتميز Infinix Smart 10 بشاشة LCD 6.67 -inch مع HD +HD مع كاميرا أمامية ثقب ، وتدعم الشاشة تحديث 120 هرتز وتصل إلى 700 شمعة ، مما يوفر تجربة استخدام أكثر سلاسة ورائعة في فئة السعر هذه.</p>
 <h4><span class="ez-toc-section" id="%D9%83%D8%A7%D9%85%D9%8A%D8%B1%D8%A7%D8%AA_%D9%85%D9%82%D8%A8%D9%88%D9%84%D8%A9_%D9%85%D8%B9_%D8%AF%D8%B9%D9%85_%D8%A7%D9%84%D8%AA%D8%B5%D9%88%D9%8A%D8%B1_2K"></span>كاميرات مقبولة مع دعم التصوير 2K<span class="ez-toc-section-end"></span></h4>
 <p>في الخلف ، يأتي الهاتف مع كاميرا رئيسية ذات مهنة مهنية <strong>8 ميجابكسل</strong> مدعومة مع عمق مزدوج ومستشعر فلاش. أما بالنسبة للكاميرا الأمامية ، فإنها تصل إلى دقتها <strong>8 ميجابكسل</strong> كما يدعم تصوير الفيديو بدقة <strong>2K</strong>مع فلاش LED الأمامي لتحسين الإضاءة في صور شخصية.</p>
-<figure class="wp-block-image size-full"><img width="708" height="603" src="https://www.arabtechtrends.com/wp-content/uploads/2025/07/1753697475_592_Invinx-Smart-10-السعر-والمواصفات.jpg" alt="Infinix Smart 10" class="wp-image-223429"></figure>
+<figure class="wp-block-image size-full"><img width="708" height="603" src="/uploads/wp/2025/07/1753697475_592_Invinx-Smart-10-السعر-والمواصفات.jpg" alt="Infinix Smart 10" class="wp-image-223429"></figure>
 <h4><span class="ez-toc-section" id="%D9%85%D8%B9%D8%A7%D9%84%D8%AC_Unisoc_%D9%88%D8%A8%D8%B7%D8%A7%D8%B1%D9%8A%D8%A9_%D9%83%D8%A8%D9%8A%D8%B1%D8%A9"></span>معالج Unisoc وبطارية كبيرة<span class="ez-toc-section-end"></span></h4>
 <p>يعمل الهاتف مع معالج UNISOC T7250 ، مع 4 جيجابايت من ذاكرة الوصول العشوائي (قابلة للتوسيع 4 جيجابايت) ، وسعة تخزين داخلية تبلغ 64 جيجابايت قابلة للتوسيع حتى 2 تيرابايت عبر بطاقة microSD.</p>
 <p>يتضمن الهاتف بطارية 5000 مللي أمبير في الساعة تدعم شحن 15 -وات ، بالإضافة إلى دعم الشحن العكسي ، مما يسمح باستخدامه كبنوك للأجهزة الأخرى.</p>

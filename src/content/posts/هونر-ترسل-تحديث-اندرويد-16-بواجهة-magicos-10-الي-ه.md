@@ -6,7 +6,7 @@ updatedDate: "2025-11-29T12:56:39"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["تحديث اندرويد 16","هاتف Honor Magic V5","هونر","واجهة MagicOS 10"]
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/11/1764413797_700_honor-----android-16-----magicos-10.webp.webp"
+image: "/uploads/wp/2025/11/1764413797_700_honor-----android-16-----magicos-10.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%87%d9%88%d9%86%d8%b1-%d8%aa%d8%b1%d8%b3%d9%84-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d8%a7%d9%86%d8%af%d8%b1%d9%88%d9%8a%d8%af-16-%d8%a8%d9%88%d8%a7%d8%ac%d9%87%d8%a9-magicos-10-%d8%a7%d9%84%d9%8a-%d9%87/"
 ---
@@ -22,7 +22,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d9%88%d9%86%d8%b1-%d8%aa%d8%b1
 <p><b>الأداء والسلاسة</b></p>
 <p>يركز التحديث بشكل واضح على تجربة الاستخدام اليومي، حيث يقدم واجهة محسنة لـ Turbo. كما تم تحسين منحنيات الرسوم المتحركة عند فتح التطبيقات وإغلاقها، مما يوفر تجربة أكثر راحة وسلاسة بصريًا. </p>
 <p>أما بالنسبة للكاميرا، فقد حصلت أيضًا على تحسينات تعزز سرعة الاستجابة، بالإضافة إلى تحسينات على لوحة مفاتيح النظام لتعزيز الاستجابة أثناء الكتابة.</p>
-<div align="center"><img src="https://www.arabtechtrends.com/wp-content/uploads/2025/11/1764413797_700_honor-----android-16-----magicos-10.webp.webp" class="img-responsive lazy" alt=""/>
+<div align="center"><img src="/uploads/wp/2025/11/1764413797_700_honor-----android-16-----magicos-10.webp.webp" class="img-responsive lazy" alt=""/>
 </div>
 <p>
 <b>  أدوات الراحة والذكاء</b></p>
@@ -45,7 +45,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d9%88%d9%86%d8%b1-%d8%aa%d8%b1
 <p>
 </ul>
 <p></p>
-<div align="center"><img src="https://www.arabtechtrends.com/wp-content/uploads/2025/11/1764413797_698_honor-----android-16-----magicos-10.webp.webp" class="img-responsive lazy" alt=""/>
+<div align="center"><img src="/uploads/wp/2025/11/1764413797_698_honor-----android-16-----magicos-10.webp.webp" class="img-responsive lazy" alt=""/>
 </div>
 <p>
 <b>تطوير الشاشة الرئيسية ونظام الإشعارات</b></p>

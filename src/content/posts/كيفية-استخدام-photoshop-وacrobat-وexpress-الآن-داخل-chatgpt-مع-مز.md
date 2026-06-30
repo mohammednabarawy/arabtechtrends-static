@@ -6,7 +6,7 @@ updatedDate: "2025-12-14T14:46:43"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/12/1765716402_163_photoshop--acrobat--express-----chatgpt.jpg"
+image: "/uploads/wp/2025/12/1765716402_163_photoshop--acrobat--express-----chatgpt.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%83%d9%8a%d9%81%d9%8a%d8%a9-%d8%a7%d8%b3%d8%aa%d8%ae%d8%af%d8%a7%d9%85-photoshop-%d9%88acrobat-%d9%88express-%d8%a7%d9%84%d8%a2%d9%86-%d8%af%d8%a7%d8%ae%d9%84-chatgpt-%d9%85%d8%b9-%d9%85%d8%b2/"
 ---
@@ -30,7 +30,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%83%d9%8a%d9%81%d9%8a%d8%a9-%d8%a7
 <li>التصميم والتخصيص باستخدام Adobe Express: يمكنك الوصول إلى مكتبة واسعة من التصميمات الاحترافية، وتحرير النصوص والصور، وتحريك التصميمات، وإنشاء محتوى فريد لأي مناسبة مباشرة في الدردشة.</li>
 <li>إدارة المستندات باستخدام Acrobat: تحرير ملفات PDF، واستخراج النصوص والجداول، ودمج الملفات وتنظيمها، وضغطها وتحويلها إلى PDF مع الحفاظ على التنسيق والجودة، وحظر المعلومات الحساسة بسهولة.</li>
 </ul>
-<figure class="wp-block-image size-full"><img width="708" height="394" src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1765716402_163_photoshop--acrobat--express-----chatgpt.jpg" alt="" class="wp-image-226955"></figure>
+<figure class="wp-block-image size-full"><img width="708" height="394" src="/uploads/wp/2025/12/1765716402_163_photoshop--acrobat--express-----chatgpt.jpg" alt="" class="wp-image-226955"></figure>
 <h4><span class="ez-toc-section" id="%D8%B3%D9%87%D9%88%D9%84%D8%A9_%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85"></span>سهولة الاستخدام<span class="ez-toc-section-end"></span></h4>
 <p>يمكن الوصول إلى تطبيقات Adobe في ChatGPT بمجرد كتابة اسم التطبيق متبوعًا بالتعليمات المطلوبة. على سبيل المثال، لتعتيم خلفية الصورة في Photoshop، يمكن للمستخدم كتابة:<br /><em>"أدوبي فوتوشوب، ساعدني في طمس خلفية هذه الصورة."</em><em><br /></em>    يقوم ChatGPT بعد ذلك بتوجيه المستخدم خلال العملية باستخدام الفهم السياقي المطلوب.</p>
 <h4><span class="ez-toc-section" id="%D8%A7%D9%84%D8%AA%D9%88%D9%81%D8%B1_%D9%88%D8%A7%D9%84%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1"></span>التوفر والأسعار<span class="ez-toc-section-end"></span></h4>

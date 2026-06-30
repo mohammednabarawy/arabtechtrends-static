@@ -6,7 +6,7 @@ updatedDate: "2025-12-04T17:01:26"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["الساعة الذكية Realme Watch 5","بسعر 50 دولارًا","بطارية تدوم حتى 20 يومًا.","شاشة AMOLED"]
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/12/1764860483_914_50-----realme-watch-5---amoled.webp.webp"
+image: "/uploads/wp/2025/12/1764860483_914_50-----realme-watch-5---amoled.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d8%b3%d8%a7%d8%b9%d8%a9-realme-watch-5-%d8%a8%d8%b4%d8%a7%d8%b4%d8%a9-amoled/"
 ---
@@ -19,7 +19,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d8%b3
 <b>مكالمات بلوتوث وNFC وأكثر من 300 وجه للساعة</b></p>
 <p>تدعم Realme Watch 5 مكالمات Bluetooth عالية الوضوح وميزة NFC، بالإضافة إلى ميزة Always-on Display. كما توفر Realme مكتبة ضخمة تضم أكثر من 300 وجه ساعة قابل للتخصيص، لتناسب مختلف الأذواق.</p>
 <p><b>نظام تحديد المواقع GPS مستقل دون الاعتماد على الهاتف</b><br />ومن أبرز نقاط قوة الساعة هو دعمها لخاصية تحديد المواقع المستقلة (GPS) مع التوافق مع خمسة أنظمة GNSS، مما يتيح تتبعًا دقيقًا للمسارات دون الحاجة لوجود الهاتف أثناء الجري أو ركوب الدراجة.</p>
-<div align="center"><img src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1764860483_914_50-----realme-watch-5---amoled.webp.webp" class="img-responsive lazy" alt=""/></div>
+<div align="center"><img src="/uploads/wp/2025/12/1764860483_914_50-----realme-watch-5---amoled.webp.webp" class="img-responsive lazy" alt=""/></div>
 <p>
 <b>أوضاع رياضية متعددة ودعم التدريب</b></p>
 <p>تأتي الساعة مع 108 أوضاع رياضية، توفر تمارين موجهة وأدوات تمدد. تتم مزامنة بيانات اللياقة البدنية والنشاط عبر تطبيق Realme Link. تشمل ميزات البرنامج الإضافية ما يلي:</p>
@@ -50,7 +50,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d8%b3
 </ul>
 <p>كما توفر الساعة ثلاث جلسات تدريبية مختلفة على التنفس للمساعدة على الاسترخاء وتحسين نوعية الحياة اليومية.</p>
 <p><b>بطارية تصل إلى 20 يومًا وتصميم مقاوم للماء</b><br />يعد Realme بمدة استخدام تصل إلى 16 يومًا في الاستخدام التقليدي وما يصل إلى 20 يومًا في وضع الإضاءة. حصلت الساعة أيضًا على تصنيف IP68 لمقاومة الماء والغبار واجتازت أربعة اختبارات قاسية للتأكد من قدرتها على تحمل الاستخدام في مجموعة متنوعة من الظروف.</p>
-<div align="center"><img src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1764860483_348_50-----realme-watch-5---amoled.webp.webp" title="ألوان الساعة الذكية Realme Watch 5" class="img-responsive lazy" alt="ألوان الساعة الذكية Realme Watch 5"/></div>
+<div align="center"><img src="/uploads/wp/2025/12/1764860483_348_50-----realme-watch-5---amoled.webp.webp" title="ألوان الساعة الذكية Realme Watch 5" class="img-responsive lazy" alt="ألوان الساعة الذكية Realme Watch 5"/></div>
 <p>
 <b>السعر والتوافر</b></p>
 <p>وستتوفر الساعة الذكية بسعر 4,499 روبية، أي ما يعادل 50 دولارًا أمريكيًا تقريبًا، وسعرًا ترويجيًا في بداية إطلاقها في المتاجر بسعر 3,999 روبية، أي ما يعادل 44 دولارًا أمريكيًا تقريبًا، لفترة محدودة. يأتي بعدة ألوان مختلفة: فضي تيتانيوم، وأسود تيتانيوم، وبرتقالي نابض بالحياة، وأزرق نعناعي. وسيكون متاحًا للبيع مباشرةً للمستخدمين خلال أيام قليلة، بدءًا من 10 ديسمبر من الشهر الجاري، ومن المتوقع طرحه في الأسواق العالمية خلال الأسابيع القليلة المقبلة.</p>

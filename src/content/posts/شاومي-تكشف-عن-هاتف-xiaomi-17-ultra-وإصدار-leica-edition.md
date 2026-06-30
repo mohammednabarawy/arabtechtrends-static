@@ -6,7 +6,7 @@ updatedDate: "2025-12-25T15:25:47"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["نظام تصوير غير مسبوق","هاتف Xiaomi","هاتف Xiaomi 17 Ultra","هاتف Xiaomi 17 Ultra Leica Edition"]
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/12/1766669144_743_xiaomi-------xiaomi-17-ultra---leica-edition.webp.webp"
+image: "/uploads/wp/2025/12/1766669144_743_xiaomi-------xiaomi-17-ultra---leica-edition.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%aa%d9%83%d8%b4%d9%81-%d8%b9%d9%86-%d9%87%d8%a7%d8%aa%d9%81-xiaomi-17-ultra-%d9%88%d8%a5%d8%b5%d8%af%d8%a7%d8%b1-leica-edition/"
 ---
@@ -22,7 +22,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%aa
 <p>وإلى جانبها، هناك كاميرا تليفوتوغرافي بدقة 200 ميجابكسل قادرة على توفير تقريب بصري مستمر من 75 ملم إلى 100 ملم، مع وصول التقريب إلى 400 ملم، وهو رقم يؤكد طموح Xiaomi لمنافسة أفضل هواتف التصوير في السوق. بالإضافة إلى ذلك، هناك وضع تصوير جديد مخصص للألعاب النارية يعتمد على الذكاء الاصطناعي لضبط التعريض الضوئي بدقة إطارًا تلو الآخر.</p>
 <p><b>أداء فائق واتصال أوسع</b><br />ومن حيث الأداء، يأتي هاتف Xiaomi 17 Ultra مع أحدث معالج Snapdragon 8 Elite Gen 5 من شركة كوالكوم، مدعمًا بذاكرة وصول عشوائي تصل سعتها إلى 16 جيجابايت، وسعات تخزينية تصل إلى 1 تيرابايت. كما يضم بطارية ضخمة بسعة 6800 مللي أمبير تدعم الشحن السريع بقوة 90 وات والشحن اللاسلكي بقدرة 50 وات.</p>
 <p>واللافت هذا العام هو تركيز شركة Xiaomi على التكامل مع نظام Apple، حيث أصبح من الممكن عكس شاشة هاتف Xiaomi والتحكم بها من خلال هاتف iPhone، وكذلك التحكم في أجهزة Apple المختلفة مباشرة من هاتف Xiaomi في خطوة تعكس توجهاً غير مسبوق نحو كسر الحواجز بين الأنظمة.</p>
-<div align="center"><img src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1766669144_743_xiaomi-------xiaomi-17-ultra---leica-edition.webp.webp" title="ألوان الهاتف الذكي Xiaomi 17 Ultra" class="img-responsive lazy" alt="ألوان الهاتف الذكي Xiaomi 17 Ultra"/></div>
+<div align="center"><img src="/uploads/wp/2025/12/1766669144_743_xiaomi-------xiaomi-17-ultra---leica-edition.webp.webp" title="ألوان الهاتف الذكي Xiaomi 17 Ultra" class="img-responsive lazy" alt="ألوان الهاتف الذكي Xiaomi 17 Ultra"/></div>
 <p></p>
 <h3>مواصفات هاتف Xiaomi 17 Ultra</h3>
 <ul>
@@ -72,15 +72,15 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%aa
 <p>
 </ul>
 <p></p>
-<div align="center"><img src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1766669144_507_xiaomi-------xiaomi-17-ultra---leica-edition.webp.webp" title="هاتف Xiaomi 17 Ultra إصدار Leica" class="img-responsive lazy" alt="هاتف Xiaomi 17 Ultra إصدار Leica"/></div>
+<div align="center"><img src="/uploads/wp/2025/12/1766669144_507_xiaomi-------xiaomi-17-ultra---leica-edition.webp.webp" title="هاتف Xiaomi 17 Ultra إصدار Leica" class="img-responsive lazy" alt="هاتف Xiaomi 17 Ultra إصدار Leica"/></div>
 <p></p>
 <h3><b>Xiaomi 17 Ultra Leica Edition: هاتف بروح الكاميرا الاحترافية</b></h3>
 <p>وبالإضافة إلى النسخة القياسية، كشفت شركة Xiaomi عن هاتف Xiaomi 17 Ultra Leica Edition، وهو الإصدار المستوحى تصميمه من كاميرات Leica الكلاسيكية. يأتي الإصدار الخاص مزودًا بجسم ثنائي اللون وحلقة تكبير مادية تحاكي المظهر الميكانيكي لعدسات الكاميرا الاحترافية، بالإضافة إلى أوضاع التصوير الحصرية التي تحاكي التصوير الفوتوغرافي الكلاسيكي من Leica.</p>
-<div align="center"><img src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1766669145_467_xiaomi-------xiaomi-17-ultra---leica-edition.webp.webp" title="ألوان الهاتف الذكي Xiaomi 17 Ultra Leica Edition" class="img-responsive lazy" alt="ألوان الهاتف الذكي Xiaomi 17 Ultra Leica Edition"/></div>
+<div align="center"><img src="/uploads/wp/2025/12/1766669145_467_xiaomi-------xiaomi-17-ultra---leica-edition.webp.webp" title="ألوان الهاتف الذكي Xiaomi 17 Ultra Leica Edition" class="img-responsive lazy" alt="ألوان الهاتف الذكي Xiaomi 17 Ultra Leica Edition"/></div>
 <p></p>
 <p>وعلى مستوى التحكم، يقدم الهاتف حلقة تكبير فعلية مدمجة في الجسم، مصممة لمحاكاة الملمس الميكانيكي لعدسات الكاميرا التقليدية. تتيح هذه الحلقة للمستخدم إمكانية ضبط البعد البؤري وتعويض التعريض وتوازن اللون الأبيض بشكل مباشر، مما يحسن تجربة التصوير الفوتوغرافي ويجعلها أقرب إلى استخدام كاميرا احترافية حقيقية.</p>
 <p>يتضمن الإصدار مجموعة من أوضاع التصوير الحصرية تسمى Leica Moment المصممة لمحاكاة الطابع البصري لكاميرات Leica الكلاسيكية، بما في ذلك مظهر مستشعر Leica M9 CCD ونمط Leica M3 مع فيلم MONOPAN 50 بالأبيض والأسود، بالإضافة إلى اعتماد نسبة العرض إلى الارتفاع التقليدية 3:2 لعشاق تكوين الصورة الكلاسيكية.</p>
-<div align="center"><img src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1766669145_490_xiaomi-------xiaomi-17-ultra---leica-edition.webp.webp" title="صندوق الهاتف Xiaomi 17 Ultra Leica Edition" class="img-responsive lazy" alt="صندوق الهاتف Xiaomi 17 Ultra Leica Edition"/></div>
+<div align="center"><img src="/uploads/wp/2025/12/1766669145_490_xiaomi-------xiaomi-17-ultra---leica-edition.webp.webp" title="صندوق الهاتف Xiaomi 17 Ultra Leica Edition" class="img-responsive lazy" alt="صندوق الهاتف Xiaomi 17 Ultra Leica Edition"/></div>
 <p></p>
 <p>ولا تقتصر الخصوصية على الجانب البرمجي فقط، إذ يتميز هذا الإصدار أيضًا بمميزات حصرية للأجهزة، أبرزها شريحة مخصصة لأمن البيانات وتشفير الخصوصية، مع دعم الاتصال المزدوج عبر الأقمار الصناعية من خلال نظامي BeiDou وTianTong. كما يتم تقديم الهاتف في علبة فاخرة مخصصة تتضمن مجموعة من الملحقات المصممة خصيصًا للإصدار، بما في ذلك غطاء حماية مغناطيسي، وغطاء للعدسة، وحبل تعليق، وقطعة قماش للتنظيف.</p>
 <p><b>ويتوفر هاتف Xiaomi 17 Ultra Leica Edition بإصدارين من ذاكرة التخزين الداخلية بالأسعار:</b><br />

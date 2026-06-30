@@ -6,7 +6,7 @@ updatedDate: "2025-11-29T16:27:30"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/11/1764426447_100_poco-f8-ultra.jpg"
+image: "/uploads/wp/2025/11/1764426447_100_poco-f8-ultra.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a8%d9%88%d9%83%d9%88-%d8%a7%d9%81-8-%d8%a7%d9%84%d8%aa%d8%b1%d8%a7-poco-f8-ultra-%d8%b1%d8%b3%d9%85%d9%8a%d9%8b%d8%a7-%d8%a8%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-%d8%aa%d8%ac%d8%b9%d9%84/"
 ---
@@ -23,7 +23,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a8%d9%88%d9%83%d9%88-%d8%a7%d9%81
 
 <nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-1" href="https://www.arabtechtrends.com/%d8%a8%d9%88%d9%83%d9%88-%d8%a7%d9%81-8-%d8%a7%d9%84%d8%aa%d8%b1%d8%a7-poco-f8-ultra-%d8%b1%d8%b3%d9%85%d9%8a%d9%8b%d8%a7-%d8%a8%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-%d8%aa%d8%ac%d8%b9%d9%84/#%D8%B3%D8%B9%D8%B1_%D9%88%D9%85%D9%88%D8%A7%D8%B5%D9%81%D8%A7%D8%AA_%D9%88%D9%85%D9%85%D9%8A%D8%B2%D8%A7%D8%AA_POCO_F8_Ultra" >سعر ومواصفات ومميزات POCO F8 Ultra</a></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-2" href="https://www.arabtechtrends.com/%d8%a8%d9%88%d9%83%d9%88-%d8%a7%d9%81-8-%d8%a7%d9%84%d8%aa%d8%b1%d8%a7-poco-f8-ultra-%d8%b1%d8%b3%d9%85%d9%8a%d9%8b%d8%a7-%d8%a8%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-%d8%aa%d8%ac%d8%b9%d9%84/#%D8%A7%D9%84%D8%A8%D8%B7%D8%A7%D8%B1%D9%8A%D8%A9_%D9%88%D8%A7%D9%84%D8%B4%D8%AD%D9%86" >البطارية والشحن</a></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-3" href="https://www.arabtechtrends.com/%d8%a8%d9%88%d9%83%d9%88-%d8%a7%d9%81-8-%d8%a7%d9%84%d8%aa%d8%b1%d8%a7-poco-f8-ultra-%d8%b1%d8%b3%d9%85%d9%8a%d9%8b%d8%a7-%d8%a8%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-%d8%aa%d8%ac%d8%b9%d9%84/#%D9%85%D9%88%D8%A7%D8%B5%D9%81%D8%A7%D8%AA_%D8%A5%D8%B6%D8%A7%D9%81%D9%8A%D8%A9" >مواصفات إضافية</a></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-4" href="https://www.arabtechtrends.com/%d8%a8%d9%88%d9%83%d9%88-%d8%a7%d9%81-8-%d8%a7%d9%84%d8%aa%d8%b1%d8%a7-poco-f8-ultra-%d8%b1%d8%b3%d9%85%d9%8a%d9%8b%d8%a7-%d8%a8%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-%d8%aa%d8%ac%d8%b9%d9%84/#%D8%A7%D9%84%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1_%D9%88%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D9%81%D8%B1" >الأسعار والتوافر</a></li></ul></nav></div>
 <h2><span class="ez-toc-section" id="%D8%B3%D8%B9%D8%B1_%D9%88%D9%85%D9%88%D8%A7%D8%B5%D9%81%D8%A7%D8%AA_%D9%88%D9%85%D9%85%D9%8A%D8%B2%D8%A7%D8%AA_POCO_F8_Ultra"></span>سعر ومواصفات ومميزات POCO F8 Ultra <span class="ez-toc-section-end"></span></h2>
-<figure class="wp-block-image size-full"><img width="708" height="622" src="https://www.arabtechtrends.com/wp-content/uploads/2025/11/1764426447_100_poco-f8-ultra.jpg" alt="بوكو اف 8 الترا" class="wp-image-226613"></figure>
+<figure class="wp-block-image size-full"><img width="708" height="622" src="/uploads/wp/2025/11/1764426447_100_poco-f8-ultra.jpg" alt="بوكو اف 8 الترا" class="wp-image-226613"></figure>
 <p><strong>شاشة</strong></p>
 <ul class="wp-block-list">
 <li>الحجم: 6.9 بوصة</li>
@@ -48,7 +48,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a8%d9%88%d9%83%d9%88-%d8%a7%d9%81
 <ul class="posts-items posts-list-container">
 <li class="widget-single-post-item widget-post-list tie-standard">
 <div class="post-widget-thumbnail">
-<img width="220" height="150" src="https://www.arabtechtrends.com/wp-content/uploads/2025/11/1764426447_685_poco-f8-ultra.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="إطلاق POCO F8 Pro رسميًا بمميزات ومواصفات متقدمة!"></div>
+<img width="220" height="150" src="/uploads/wp/2025/11/1764426447_685_poco-f8-ultra.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="إطلاق POCO F8 Pro رسميًا بمميزات ومواصفات متقدمة!"></div>
 </li>
 </ul>
 </div>

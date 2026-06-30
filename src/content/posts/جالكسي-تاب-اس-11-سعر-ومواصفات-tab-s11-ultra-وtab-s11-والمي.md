@@ -6,7 +6,7 @@ updatedDate: "2025-09-06T02:31:53"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/09/1757115110_270_galaxy-tab-s11-----tab-s11-ultra---tab.jpg"
+image: "/uploads/wp/2025/09/1757115110_270_galaxy-tab-s11-----tab-s11-ultra---tab.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-%d8%aa%d8%a7%d8%a8-%d8%a7%d8%b3-11-%d8%b3%d8%b9%d8%b1-%d9%88%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-tab-s11-ultra-%d9%88tab-s11-%d9%88%d8%a7%d9%84%d9%85%d9%8a/"
 ---
@@ -25,7 +25,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-
 <ul class="posts-items posts-list-container">
 <li class="widget-single-post-item widget-post-list tie-standard">
 <div class="post-widget-thumbnail">
-<img width="220" height="150" src="https://www.arabtechtrends.com/wp-content/uploads/2025/09/1757115110_270_galaxy-tab-s11-----tab-s11-ultra---tab.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt=""></div>
+<img width="220" height="150" src="/uploads/wp/2025/09/1757115110_270_galaxy-tab-s11-----tab-s11-ultra---tab.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt=""></div>
 </li>
 </ul>
 </div>
@@ -35,7 +35,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-
 <p>فيما يتعلق بالتصميم ، يتميز الجهازان بهيكل الألومنيوم وجزء أمامي من الزجاج ، ويحصلان على تصنيف IP68 لمقاومة الغبار والماء. يبلغ سمك "Tab S11" 5.5 مم ويزن 496 جرامًا ، في حين يبلغ سمك "TAB S11 Ultra" 5.1 مم ويزن 692 جرامًا.</p>
 <p><strong>الكاميرات:</strong></p>
 <p>على مستوى الكاميرا ، يحتوي "Tab S11" على كاميرا خلفية مكونة من 13 عامًا ، بينما يأتي "Ultra" مع نظام كاميرا مزدوج يتكون من جهاز استشعار رئيسي من 13 -Megapixel ومستشعر Megapixel 8. تشترك الأجهزة في كاميرا أمامية 12 -megapixel.</p>
-<figure class="wp-block-image size-full"><img loading="lazy" width="708" height="473" src="https://www.arabtechtrends.com/wp-content/uploads/2025/09/1757115110_210_galaxy-tab-s11-----tab-s11-ultra---tab.jpg" alt="Galaxy Tab S11 Ultra" class="wp-image-224388"><figcaption class="wp-element-caption">Tab S11 Ultra</figcaption></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="708" height="473" src="/uploads/wp/2025/09/1757115110_210_galaxy-tab-s11-----tab-s11-ultra---tab.jpg" alt="Galaxy Tab S11 Ultra" class="wp-image-224388"><figcaption class="wp-element-caption">Tab S11 Ultra</figcaption></figure>
 <p><strong>البطارية والاتصالات والميزات الجديدة</strong></p>
 <p>تحتوي "Tab S11" على بطارية بسعة 8400 مللي أمبير في الساعة ، في حين أن "Ultra" عبارة عن بطارية أكبر بسعة 11600 مللي أمبير في الساعة. يدعم كلا الجهازين شحن الأسلاك 45 -watt ، ويتم تجهيزهما أيضًا بمستشعر بصمات الأصابع المدمج ، وأربعة مكبرات صوت ، وبلوتوث 5.4. يدعم "Tab S11" اتصال Wi-Fi 6E ، بينما يتجاوز "Tab S11 Ultra" دعمه لآخر تقنية Wi-Fi 7. يعمل كلا الجهازين Android 16 مع واجهة One UI 8.</p>
 <p><strong>الذكاء الاصطناعي وقلم القلم S</strong></p>

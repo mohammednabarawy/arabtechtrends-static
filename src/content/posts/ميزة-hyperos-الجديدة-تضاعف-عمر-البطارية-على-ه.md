@@ -6,7 +6,7 @@ updatedDate: "2025-12-09T01:16:30"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/12/1765235789_916_hyperos.jpg"
+image: "/uploads/wp/2025/12/1765235789_916_hyperos.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%85%d9%8a%d8%b2%d8%a9-hyperos-%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%aa%d8%b6%d8%a7%d8%b9%d9%81-%d8%b9%d9%85%d8%b1-%d8%a7%d9%84%d8%a8%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%b9%d9%84%d9%89-%d9%87/"
 ---
@@ -32,7 +32,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%85%d9%8a%d8%b2%d8%a9-hyperos-%d8%
 <li>عند تفعيله، ستلاحظ أن عمر الهاتف قد امتد بشكل كبير، مع واجهة أساسية وبسيطة مطبقة على الشاشة.</li>
 <li>للخروج من الوضع، اضغط على أيقونة X في الزاوية العلوية اليسرى.</li>
 </ol>
-<figure class="wp-block-image size-full"><img width="700" height="648" src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1765235789_916_hyperos.jpg" alt="هايبر أو إس " class="wp-image-226856"></figure>
+<figure class="wp-block-image size-full"><img width="700" height="648" src="/uploads/wp/2025/12/1765235789_916_hyperos.jpg" alt="هايبر أو إس " class="wp-image-226856"></figure>
 <h3><span class="ez-toc-section" id="%D9%83%D9%8A%D9%81_%D9%8A%D8%B9%D9%85%D9%84_%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC_%D8%AA%D9%88%D9%81%D9%8A%D8%B1_%D8%A7%D9%84%D8%A8%D8%B7%D8%A7%D8%B1%D9%8A%D8%A9_%D8%A7%D9%84%D9%81%D8%A7%D8%A6%D9%82%D8%9F"></span>كيف يعمل برنامج توفير البطارية الفائق؟<span class="ez-toc-section-end"></span></h3>
 <ul class="wp-block-list">
 <li>تقتصر الوظائف على الأساسيات فقط: المكالمات والرسائل النصية والاتصال الأساسي بالشبكة.</li>
@@ -46,7 +46,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%85%d9%8a%d8%b2%d8%a9-hyperos-%d8%
 <li>عند تنشيط الوضع الأقصى، يمكن أن يصل الاستخدام إلى 52 ساعة تقريبًا بنفس النسبة المئوية للبطارية.</li>
 </ul>
 <p>بهذه الطريقة، يمكن أن يظل الهاتف قيد التشغيل لفترة طويلة جدًا في حالات الطوارئ، مما يسمح فقط بالوظائف الأساسية مثل المكالمات والرسائل.</p>
-<figure class="wp-block-image size-full"><img loading="lazy" width="700" height="490" src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1765235789_507_hyperos.jpg" alt="هايبر أو إس " class="wp-image-226857"></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="700" height="490" src="/uploads/wp/2025/12/1765235789_507_hyperos.jpg" alt="هايبر أو إس " class="wp-image-226857"></figure>
 <h3><span class="ez-toc-section" id="%D9%85%D9%84%D8%A7%D8%AD%D8%B8%D8%A7%D8%AA_%D9%85%D9%87%D9%85%D8%A9"></span>ملاحظات مهمة<span class="ez-toc-section-end"></span></h3>
 <ul class="wp-block-list">
 <li>تعتبر هذه الميزة مثالية عندما ينخفض ​​مستوى البطارية إلى أقل من 5%.</li>

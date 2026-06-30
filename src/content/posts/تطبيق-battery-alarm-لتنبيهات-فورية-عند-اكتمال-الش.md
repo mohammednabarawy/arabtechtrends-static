@@ -6,7 +6,7 @@ updatedDate: "2025-11-09T18:39:29"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/11/1762706367_65_battery-alarm.jpg"
+image: "/uploads/wp/2025/11/1762706367_65_battery-alarm.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-battery-alarm-%d9%84%d8%aa%d9%86%d8%a8%d9%8a%d9%87%d8%a7%d8%aa-%d9%81%d9%88%d8%b1%d9%8a%d8%a9-%d8%b9%d9%86%d8%af-%d8%a7%d9%83%d8%aa%d9%85%d8%a7%d9%84-%d8%a7%d9%84%d8%b4/"
 ---
@@ -24,7 +24,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-batter
 <h3><span class="ez-toc-section" id="%D9%85%D8%A7_%D9%87%D9%88_%D8%AA%D8%B7%D8%A8%D9%8A%D9%82_%D8%A5%D9%86%D8%B0%D8%A7%D8%B1_%D8%A7%D9%84%D8%A8%D8%B7%D8%A7%D8%B1%D9%8A%D8%A9_%D8%A7%D9%84%D9%83%D8%A7%D9%85%D9%84%D8%9F"></span>ما هو تطبيق إنذار البطارية الكامل؟<span class="ez-toc-section-end"></span></h3>
 <p>Full Battery Alarm عبارة عن أداة ذكية تنبهك عندما تكون البطارية مشحونة بالكامل أو عندما تنخفض إلى المستوى الذي تحدده. ورغم أن معظم الهواتف الحديثة تحتوي على خاصية إيقاف الشحن تلقائيا عند امتلاء البطارية، إلا أن هذا التطبيق يوفر تنبيهات إضافية وفورية لتتمكن من استخدام الهاتف مباشرة بعد اكتمال الشحن دون الحاجة إلى الانتظار، مما يحمي البطارية من الاستهلاك المفرط ويحافظ على كفاءتها على المدى الطويل.</p>
 <h3><span class="ez-toc-section" id="%D8%A7%D9%84%D9%85%D9%8A%D8%B2%D8%A7%D8%AA_%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9_%D9%84%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D9%82"></span>الميزات الرئيسية للتطبيق:<span class="ez-toc-section-end"></span></h3>
-<figure class="wp-block-image size-full"><img width="708" height="311" src="https://www.arabtechtrends.com/wp-content/uploads/2025/11/1762706367_65_battery-alarm.jpg" alt="تطبيق إنذار البطارية" class="wp-image-226135"></figure>
+<figure class="wp-block-image size-full"><img width="708" height="311" src="/uploads/wp/2025/11/1762706367_65_battery-alarm.jpg" alt="تطبيق إنذار البطارية" class="wp-image-226135"></figure>
 <ol class="wp-block-list">
 <li><strong>تنبيهات عند اكتمال الشحن</strong>: يساعدك التطبيق على معرفة الوقت المثالي لفصل الشاحن بعد وصول البطارية إلى 100%، لتجنب الشحن الزائد الذي قد يقلل من عمر البطارية.</li>
 <li><strong>تنبيهات انخفاض البطارية</strong>: يمكنك ضبط مستويات التنبيه وفقًا لاحتياجاتك، سواء كانت البطارية منخفضة جدًا أو وصلت إلى مستوى معين تحتاج إلى شحنه.</li>

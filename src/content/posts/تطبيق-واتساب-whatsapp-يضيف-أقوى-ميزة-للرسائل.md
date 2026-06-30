@@ -6,7 +6,7 @@ updatedDate: "2025-10-25T21:16:06"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/10/2025-10-21_15-43-32.jpg"
+image: "/uploads/wp/2025/10/2025-10-21_15-43-32.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-%d9%88%d8%a7%d8%aa%d8%b3%d8%a7%d8%a8-whatsapp-%d9%8a%d8%b6%d9%8a%d9%81-%d8%a3%d9%82%d9%88%d9%89-%d9%85%d9%8a%d8%b2%d8%a9-%d9%84%d9%84%d8%b1%d8%b3%d8%a7%d8%a6%d9%84/"
 ---
@@ -23,7 +23,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-%d9%88
 <p>وبحسب التفاصيل التي نشرها موقع TudoCelular، فإن الميزة الجديدة تحدد حدا شهريا لإرسال الرسائل إلى جهة الاتصال نفسها، بحيث يتم تفعيل هذا الحد عندما لا يتلقى المستخدم أي رد بعد عدة محاولات.</p>
 <p>بمعنى آخر، إذا استمر شخص ما في إرسال الرسائل دون الحصول على رد، فسيتم حظره مؤقتًا من الاستمرار في الإرسال إلى هذا المستخدم.</p>
 <p> <strong>الاستثناءات:</strong></p>
-<figure class="wp-block-image size-full"><img width="707" height="559" src="https://www.arabtechtrends.com/wp-content/uploads/2025/10/2025-10-21_15-43-32.jpg" alt="تطبيق واتس اب" class="wp-image-225634"></figure>
+<figure class="wp-block-image size-full"><img width="707" height="559" src="/uploads/wp/2025/10/2025-10-21_15-43-32.jpg" alt="تطبيق واتس اب" class="wp-image-225634"></figure>
 <ul class="wp-block-list">
 <li>لن يتم تطبيق الحد على المحادثات العادية التي تتضمن ردودًا متبادلة.</li>
 <li>سيكون للحسابات التجارية حد أعلى للرسائل ويمكنها تقديم طلب استثناء يدوي من داخل التطبيق.</li>

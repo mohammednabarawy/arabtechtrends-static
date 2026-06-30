@@ -6,7 +6,7 @@ updatedDate: "2025-11-16T13:14:36"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["مواصفات هاتف أوبو Find X9s الإطلاق القادم مارس 2026 مواصفات"]
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/11/1763291673_431_find-x9s--oneplus-15t.jpg"
+image: "/uploads/wp/2025/11/1763291673_431_find-x9s--oneplus-15t.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-oppo-find-x9s-%d9%88-oneplus-15t-%d8%aa%d8%b8%d9%87%d8%b1-%d9%82%d8%a8%d9%84-%d8%a7%d9%84%d8%a5%d8%b7%d9%84%d8%a7%d9%82/"
 ---
@@ -21,7 +21,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%
 </div>
 <p>وأضاف المسرب أيضًا أن هذه الهواتف المدمجة ستحظى بعدد من التحسينات الملحوظة، بما في ذلك اعتماد مستشعر بصمات الأصابع بالموجات فوق الصوتية المدمج أسفل الشاشة، وهيكل معدني في المنتصف، بالإضافة إلى تصميم جديد بزوايا أكبر وأكثر انحناءً. وتشير المعلومات أيضاً إلى أنه تم إجراء اختبارات على بطاريات ضخمة قد تبلغ سعتها حوالي 7000 مللي أمبير، وهو ما قد يمنح هذه الفئة المدمجة ميزة ملحوظة على مستوى عمر البطارية.</p>
 <div>وفي إطار أسئلة المستخدمين، استفسر أحدهم عن أداء الكاميرات في هاتف OnePlus 15T، لكن المسرب أوضح أن الهاتف يركز بشكل أساسي على القوة والأداء. إلا أن تقارير أخرى تشير إلى أن الجيل الجديد سيحصل أخيراً على عدسة فائقة الاتساع، بعد غيابها عن الإصدار السابق.</p>
-<p><img src="https://www.arabtechtrends.com/wp-content/uploads/2025/11/1763291673_431_find-x9s--oneplus-15t.jpg" width="1179" height="194" title="تعليقات المستخدم" class="img-responsive lazy" alt="تعليقات المستخدم"/></p>
+<p><img src="/uploads/wp/2025/11/1763291673_431_find-x9s--oneplus-15t.jpg" width="1179" height="194" title="تعليقات المستخدم" class="img-responsive lazy" alt="تعليقات المستخدم"/></p>
 </div>
 <div>
 <p><span style="font-size:12px;">تعليقات المستخدم</span></p>

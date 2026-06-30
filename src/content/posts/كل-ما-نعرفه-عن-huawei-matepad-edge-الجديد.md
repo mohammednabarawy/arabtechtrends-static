@@ -6,7 +6,7 @@ updatedDate: "2025-11-16T19:24:19"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["جهاز MatePad Edge الجديد من هواوي","قبل إطلاقه"]
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/11/1763313856_666_huawei-matepad.jpg"
+image: "/uploads/wp/2025/11/1763313856_666_huawei-matepad.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%83%d9%84-%d9%85%d8%a7-%d9%86%d8%b9%d8%b1%d9%81%d9%87-%d8%b9%d9%86-huawei-matepad-edge-%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af/"
 ---
@@ -22,7 +22,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%83%d9%84-%d9%85%d8%a7-%d9%86%d8%b
 <p>وأكد UncleShan، أحد المسربين الموثوقين، أن جهاز MatePad Edge 14.2 هو نسخة مطورة من جهاز MateBook E الأصلي، ولكنه يأتي بشكل جديد تمامًا ليجمع بين بيئة الجهاز اللوحي وبيئة الكمبيوتر.</p>
 <p>وأشار أيضًا إلى أن الجهاز سيأتي بنظام تبريد مزدوج المروحة، وهي إضافة غير عادية في الأجهزة اللوحية التقليدية، مما يعني أن هواوي تستهدف الأداء العالي مع الحفاظ على استقرار درجة الحرارة، خاصة مع معالج Kirin القوي وشاشة كبيرة ذات دقة عالية.</p>
 <div></p>
-<div style="text-align:center;"><img src="https://www.arabtechtrends.com/wp-content/uploads/2025/11/1763313856_666_huawei-matepad.jpg" class="img-responsive lazy" alt=""/>
+<div style="text-align:center;"><img src="/uploads/wp/2025/11/1763313856_666_huawei-matepad.jpg" class="img-responsive lazy" alt=""/>
 </div>
 <p>
 </div>

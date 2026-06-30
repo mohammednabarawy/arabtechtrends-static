@@ -6,7 +6,7 @@ updatedDate: "2025-07-14T04:44:51"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/07/1752457488_303_Huawei-Piura-80-السعر-والمواصفات.jpg"
+image: "/uploads/wp/2025/07/1752457488_303_Huawei-Piura-80-السعر-والمواصفات.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%87%d9%88%d8%a7%d9%88%d9%8a-%d8%a8%d9%8a%d9%88%d8%b1%d8%a7-80-huawei-pura-80-%d8%a7%d9%84%d8%b3%d9%84%d8%b3%d9%84%d8%a9-%d8%aa%d9%86%d8%b7%d9%84%d9%82-%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d9%8b%d8%a7/"
 ---
@@ -27,11 +27,11 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d9%88%d8%a7%d9%88%d9%8a-%d8%a8
 <p>أضافت Huawei أيضًا محركًا مجهريًا يتحول بين عدستي التكبير ، ويتألف هذا الإعداد من أكثر من 140 مكونًا ، مما يعكس التعقيد الهندسي والابتكار.</p>
 <p>أما بالنسبة للكاميرا الرئيسية البالغة 50 ميجابكسل ، فهي بحد ذاتها وحش في التصوير الفوتوغرافي ، حيث أنها تأتي مع مستشعر Ryb 1 في ، وفتحة متغيرة ، وحقل ديناميكي قياسي يصل إلى 16 درجة.</p>
 <p>بينما يكون المستشعر الآخر في الخلف ، فهو عدسة 40 -megapixel ، أي ما يعادل 13 ملم.</p>
-<figure class="wp-block-image size-full"><img loading="lazy" width="602" height="635" src="https://www.arabtechtrends.com/wp-content/uploads/2025/07/1752457488_303_Huawei-Piura-80-السعر-والمواصفات.jpg" alt="هواوي بورا 80" class="wp-image-223109"></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="602" height="635" src="/uploads/wp/2025/07/1752457488_303_Huawei-Piura-80-السعر-والمواصفات.jpg" alt="هواوي بورا 80" class="wp-image-223109"></figure>
 <h3><span class="ez-toc-section" id="Pura_80_Ultra_%D9%88%D9%86%D8%B3%D8%AE_%D8%A3%D8%AE%D8%B1%D9%89"></span>Pura 80 Ultra ونسخ أخرى<span class="ez-toc-section-end"></span></h3>
 <p>بالإضافة إلى قدراتها الرسومية المتفوقة ، يأتي Pura 80 Ultra مع شاشة FHD+ FHD+ 6.8 بوصة وتحديث 120 هرتز. يعمل الجهاز مع معالج Huawei Kirin 9020 ، المرتبط بذاكرة وصول عشوائية (RAM) تصل إلى 16 جيجابايت وسعة تخزين داخلية تبلغ 1 تيرابايت.</p>
 <p>أنه يحتوي على بطارية ضخمة بسعة 5700 مللي أمبير في الساعة ، والتي تدعم شحن سلكي 100W وشحن لاسلكي 80W.</p>
-<figure class="wp-block-image size-full"><img loading="lazy" width="470" height="610" src="https://www.arabtechtrends.com/wp-content/uploads/2025/07/1752457488_51_Huawei-Piura-80-السعر-والمواصفات.jpg" alt="" class="wp-image-223110"></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="470" height="610" src="/uploads/wp/2025/07/1752457488_51_Huawei-Piura-80-السعر-والمواصفات.jpg" alt="" class="wp-image-223110"></figure>
 <p>أما بالنسبة إلى إصدار Pura 80 و Pura 80 Pro العاديين ، فإنها تأتي مع شاشات LTPO OLED 6.6 -inch و 6.8 -inch (في جودة FHD+ وتحديث 120 هرتز) ، وأقل كاميرات متطورة مقارنةً بالنسخة الفائقة.</p>
 <p>PURA 80 الإصدار: كاميرا رئيسية 50 ميجابكسل مع عدسة F/1.4-4.0 متغيرة ، بالإضافة إلى عدسة Periscope 12 ميجابكسل ، حوالي 5x ، وعدسة 13 ميجابكسل.</p>
 <p>يأتي إصدار Pura 80 Pro مع نفس الكاميرا الرئيسية بدقة مقاس 50 ميجابكسل 1 بوصة مع فتحة F/1.6-F/4.0 متغيرة في Pura 80 Ultra ، المرتبطة بعدسة تقريب يعادل 93 ملم مع تقريبي بصري 4x وعدسة F/2.1 أوسع ، بالإضافة إلى 40 ميجا بوسنت.</p>

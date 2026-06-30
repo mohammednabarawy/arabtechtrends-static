@@ -6,7 +6,7 @@ updatedDate: "2025-11-16T16:17:07"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["Asus ROG NUC","Thunderobot Mix G2","أفضل أداء وتبريد","أقوى جهاز كمبيوتر صغير جديد"]
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/11/1763302624_112_thunderobot-mix-g2-asus-rog-nuc.jpg"
+image: "/uploads/wp/2025/11/1763302624_112_thunderobot-mix-g2-asus-rog-nuc.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d9%87%d8%a7%d8%b2-thunderobot-mix-g2-%d9%8a%d8%aa%d8%ad%d8%af%d9%89-asus-rog-nuc-%d8%a3%d9%82%d9%88%d9%89-mini-pc-%d8%ac%d8%af%d9%8a%d8%af/"
 ---
@@ -20,7 +20,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d9%87%d8%a7%d8%b2-thunderobot-
 <p></p>
 <h3><b>منافذ حديثة ومرونة عالية في الترقية</b></h3>
 <p>كما نرى من الداخل أن جهاز Mix G2 يدعم شريحتين DDR5 SO-DIMM، بالإضافة إلى منفذي تخزين M.2، الأول PCIe 5.0 والثاني PCIe 4.0، بالإضافة إلى خيارات الاتصال اللاسلكي التي تشمل اتصالات Wi-Fi 6E وBluetooth الإصدار 5.3، بينما توفر الواجهة الأمامية منافذ USB-A وUSB-C ومنفذ سماعات 3.5 ملم، بينما يضم الجزء الخلفي منفذ RJ45 Ethernet وHDMI 2.1 ومنفذًا. ميناء. USB-A بسرعة 10 جيجابت في الثانية، إلى جانب دعم Thunderbolt 5. وبهذه المواصفات يمكن للجهاز أن يعمل كمحطة عمل صغيرة مناسبة للألعاب وبرامج المونتاج والتصميم، أو حتى الاستخدام المهني اليومي.</p>
-<div align="center"><img src="https://www.arabtechtrends.com/wp-content/uploads/2025/11/1763302624_112_thunderobot-mix-g2-asus-rog-nuc.jpg" class="img-responsive lazy" alt=""/></div>
+<div align="center"><img src="/uploads/wp/2025/11/1763302624_112_thunderobot-mix-g2-asus-rog-nuc.jpg" class="img-responsive lazy" alt=""/></div>
 <p>
 <b>ومن المقرر إطلاق ثلاثة إصدارات من جهاز Thunderobot Mix G2 في الصين يوم 20 نوفمبر، بأسعار تبدأ من:</b></p>
 <ul>

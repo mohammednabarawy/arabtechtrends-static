@@ -6,7 +6,7 @@ updatedDate: "2025-11-18T13:38:23"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/11/1763465902_818_oppo-reno15-pro.jpg"
+image: "/uploads/wp/2025/11/1763465902_818_oppo-reno15-pro.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a7%d9%88%d8%a8%d9%88-%d8%b1%d9%8a%d9%86%d9%88-15-%d8%a8%d8%b1%d9%88-reno15-pro-%d8%b1%d8%b3%d9%85%d9%8a%d9%8b%d8%a7-%d8%a8%d9%85%d8%b2%d8%a7%d9%8a%d8%a7-%d8%aa%d8%ac%d8%b9%d9%84%d9%87-%d9%85%d9%86/"
 ---
@@ -38,7 +38,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a7%d9%88%d8%a8%d9%88-%d8%b1%d9%8a
 <li>سعة تخزينية تصل إلى <strong>1 تيرابايت يو اف اس 3.1</strong></li>
 <li>نظام <strong>أندرويد 16</strong> والواجهة <strong>كولور أو إس 16</strong></li>
 </ul>
-<figure class="wp-block-image size-full"><img width="708" height="529" src="https://www.arabtechtrends.com/wp-content/uploads/2025/11/1763465902_818_oppo-reno15-pro.jpg" alt="اوبو رينو 15 برو" class="wp-image-226385"></figure>
+<figure class="wp-block-image size-full"><img width="708" height="529" src="/uploads/wp/2025/11/1763465902_818_oppo-reno15-pro.jpg" alt="اوبو رينو 15 برو" class="wp-image-226385"></figure>
 <h3><span class="ez-toc-section" id="%D8%A2%D9%84%D8%A9_%D8%AA%D8%B5%D9%88%D9%8A%D8%B1"></span><strong>آلة تصوير</strong><span class="ez-toc-section-end"></span></h3>
 <p>وعلى غرار النسخة العادية، تأتي النسخة الاحترافية بنظام تصوير احترافي:</p>
 <ul class="wp-block-list">
@@ -55,7 +55,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a7%d9%88%d8%a8%d9%88-%d8%b1%d9%8a
 <ul class="posts-items posts-list-container">
 <li class="widget-single-post-item widget-post-list tie-standard">
 <div class="post-widget-thumbnail">
-<img width="220" height="150" src="https://www.arabtechtrends.com/wp-content/uploads/2025/11/1763465902_825_oppo-reno15-pro.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="اوبو رينو 15"></div>
+<img width="220" height="150" src="/uploads/wp/2025/11/1763465902_825_oppo-reno15-pro.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="اوبو رينو 15"></div>
 </li>
 </ul>
 </div>

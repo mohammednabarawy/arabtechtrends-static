@@ -6,7 +6,7 @@ updatedDate: "2025-12-18T01:59:43"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["تسريبات هاتف Realme Realme 16 Pro تصميم صديق للبيئة كاميرات متطورة سلسلة Realme 16 Pro"]
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/12/1766015982_628_realme-16-pro.webp.webp"
+image: "/uploads/wp/2025/12/1766015982_628_realme-16-pro.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8%d8%a7%d8%aa-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%ad%d9%88%d9%84-%d9%87%d8%a7%d8%aa%d9%81-realme-16-pro-%d9%82%d8%a7%d8%af%d9%85-%d8%a8%d8%aa%d8%b5%d9%85%d9%8a%d9%85-%d8%b5/"
 ---
@@ -20,7 +20,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8%d8%a7%
 <p></p>
 <p>ومن أبرز عناصر التصميم في سلسلة 16 Pro هو الغطاء الخلفي المصنوع من مادة السيليكون العضوية الحيوية والمعتمدة على مواد نباتية مستخرجة من القش، وهي خطوة تسلط الضوء على توجه Realme نحو استخدام مواد صديقة للبيئة. بينما ستأتي وحدة الكاميرا الخلفية بتصميم مستوحى من هاتف OnePlus 15، مع تدوير الوحدة بزاوية 90 درجة لتمنح الهاتف هوية بصرية مختلفة.</p>
 <p>وعلى مستوى التصوير، تشير المعلومات المتوفرة إلى أن السلسلة تعتمد على إعداد كاميرا خلفية ثلاثية يتقدمها مستشعر رئيسي بدقة 200 ميجابكسل، إلى جانب كاميرا واسعة الزاوية بدقة 8 ميجابكسل وعدسة بيريسكوب مخصصة للتكبير البصري حتى 3.5 مرة، مما يعزز قدرات التصوير بعيد المدى، بالإضافة إلى كاميرا أمامية بدقة 50 ميجابكسل.</p>
-<div align="center"><img src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1766015982_628_realme-16-pro.webp.webp" class="img-responsive lazy" alt=""/></div>
+<div align="center"><img src="/uploads/wp/2025/12/1766015982_628_realme-16-pro.webp.webp" class="img-responsive lazy" alt=""/></div>
 <p></p>
 <p>أما بالنسبة للبطارية والمواصفات التقنية، فتنتشر شائعات مفادها أن كلا الطرازين سيأتيان ببطارية ضخمة تبلغ سعتها 7000 مللي أمبير مع دعم الشحن السريع بقدرة 80 وات. ومن المتوقع أن يعمل الهاتفان بواجهة Realme UI 7.0 المبنية على نظام التشغيل Android 16 فور خروجهما من العلبة، ومع اقتراب موعد الإطلاق، يبدو من المرجح أن تقدم سلسلة Realme 16 Pro مزيجًا متوازنًا من التصميم المذهل والمواصفات القوية في محاولة من Realme لإبراز تواجدها في الطبقة المتوسطة العليا خلال العام. جديد.</p>
 <p><a href="https://www.gsmarena.com/heres_our_first_look_at_the_upcoming_realme_16_pro_series_-news-70735.php" target="_blank" rel="nofollow">مصدر</a></p>

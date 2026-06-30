@@ -6,7 +6,7 @@ updatedDate: "2025-10-15T22:23:30"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/10/1760556209_110_hyperos-3.jpg"
+image: "/uploads/wp/2025/10/1760556209_110_hyperos-3.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d9%88%d8%a7%d8%ac%d9%87%d8%a9-hyperos-3-%d9%8a%d8%b5%d9%84-%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d9%8b%d8%a7-%d9%84%d9%87%d8%b0%d9%87-%d8%a7%d9%84%d9%87%d9%88%d8%a7%d8%aa/"
 ---
@@ -29,7 +29,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d9%88
 <li><strong>شياومي باد 7 برو</strong> – نسختين: OS3.0.1.0.WOYMIXM وOS3.0.1.0.WOYEUXM</li>
 </ul>
 <p>ومن المتوقع أن يبدأ الإطلاق الرسمي خلال الأيام القليلة المقبلة، مع توسيع البرنامج التجريبي تدريجيًا ليشمل المزيد من الأجهزة.</p>
-<figure class="wp-block-image size-full"><img width="708" height="392" src="https://www.arabtechtrends.com/wp-content/uploads/2025/10/1760556209_110_hyperos-3.jpg" alt="تحديث واجهة HyperOS 3" class="wp-image-225339"></figure>
+<figure class="wp-block-image size-full"><img width="708" height="392" src="/uploads/wp/2025/10/1760556209_110_hyperos-3.jpg" alt="تحديث واجهة HyperOS 3" class="wp-image-225339"></figure>
 <h3><span class="ez-toc-section" id="%D8%B3%D8%AA%D8%AA%D9%84%D9%82%D9%89_%D8%A7%D9%84%D9%87%D9%88%D8%A7%D8%AA%D9%81_%D8%A7%D9%84%D8%AA%D8%A7%D9%84%D9%8A%D8%A9_%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB_%D9%88%D8%A7%D8%AC%D9%87%D8%A9_HyperOS_3_%D8%AE%D9%84%D8%A7%D9%84_%D8%B4%D9%87%D8%B1%D9%8A_%D8%A3%D9%83%D8%AA%D9%88%D8%A8%D8%B1_%D9%88%D9%86%D9%88%D9%81%D9%85%D8%A8%D8%B1"></span>ستتلقى الهواتف التالية تحديث واجهة HyperOS 3 خلال شهري أكتوبر ونوفمبر<span class="ez-toc-section-end"></span></h3>
 <ul class="wp-block-list">
 <li>شاومى 15T برو</li>

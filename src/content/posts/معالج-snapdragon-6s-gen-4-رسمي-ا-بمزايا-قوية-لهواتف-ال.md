@@ -6,7 +6,7 @@ updatedDate: "2025-10-29T02:26:19"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/10/1761693978_480_snapdragon-6s-gen-4.jpg"
+image: "/uploads/wp/2025/10/1761693978_480_snapdragon-6s-gen-4.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%85%d8%b9%d8%a7%d9%84%d8%ac-snapdragon-6s-gen-4-%d8%b1%d8%b3%d9%85%d9%8a%d9%8b%d8%a7-%d8%a8%d9%85%d8%b2%d8%a7%d9%8a%d8%a7-%d9%82%d9%88%d9%8a%d8%a9-%d9%84%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d8%a7%d9%84/"
 ---
@@ -22,7 +22,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%85%d8%b9%d8%a7%d9%84%d8%ac-snapdr
 <p>ويتم تصنيع المعالج الجديد (SM6435-AA) باستخدام تقنية سامسونج 4 نانومتر، ويعد بتحسين أداء المعالج بنسبة 36% وأداء الرسوميات بنسبة 59% مقارنة بالجيل السابق. يتضمن ثمانية أنوية Kryo مقسمة إلى 4 نوى أداء بسرعة تصل إلى 2.4 جيجا هرتز و4 نوى كفاءة بسرعة 1.8 جيجا هرتز.</p>
 <p>ويدعم معالج الرسوميات تقنيات الألعاب المتقدمة مثل واجهات HDR Gaming وOpenGL ES 3.2 وVulkan 1.1، بالإضافة إلى ميزات من Snapdragon Elite Gaming مثل Variable Rate Shading (VRS) وGame Quick Touch لتحسين الاستجابة في الألعاب.</p>
 <h2>مواصفات ومميزات معالج Snapdragon 6s Gen 4</h2>
-<figure class="wp-block-image size-full"><img width="708" height="392" src="https://www.arabtechtrends.com/wp-content/uploads/2025/10/1761693978_480_snapdragon-6s-gen-4.jpg" alt="سناب دراجون 6s الجيل الرابع" class="wp-image-225747"></figure>
+<figure class="wp-block-image size-full"><img width="708" height="392" src="/uploads/wp/2025/10/1761693978_480_snapdragon-6s-gen-4.jpg" alt="سناب دراجون 6s الجيل الرابع" class="wp-image-225747"></figure>
 <figure class="wp-block-table">
 <table class="has-fixed-layout">
 <thead>

@@ -6,7 +6,7 @@ updatedDate: "2025-08-26T13:21:43"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/08/1756203700_308_يوفر-تطبيق-Google-Messenger-ميزة-ثورية-مهمة-ومطلوبة-للغاية.jpg"
+image: "/uploads/wp/2025/08/1756203700_308_يوفر-تطبيق-Google-Messenger-ميزة-ثورية-مهمة-ومطلوبة-للغاية.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-google-messages-%d9%8a%d9%82%d8%af%d9%85-%d9%85%d9%8a%d8%b2%d8%a9-%d8%ab%d9%88%d8%b1%d9%8a%d8%a9-%d9%87%d8%a7%d9%85%d8%a9-%d9%88%d9%85%d8%b7%d9%84%d9%88%d8%a8%d8%a9/"
 ---
@@ -30,7 +30,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-google
 <li>شارك رمز الاستجابة السريعة لمسح الطرف الآخر.</li>
 <li>متابعة حالة التحقق من خلال التطبيق <strong>جهات اتصال Google</strong> (يتم تنشيط الميزة حاليًا).</li>
 </ul>
-<figure class="wp-block-image size-full"><img width="708" height="521" src="https://www.arabtechtrends.com/wp-content/uploads/2025/08/1756203700_308_يوفر-تطبيق-Google-Messenger-ميزة-ثورية-مهمة-ومطلوبة-للغاية.jpg" alt="رسائل Google" class="wp-image-224141"></figure>
+<figure class="wp-block-image size-full"><img width="708" height="521" src="/uploads/wp/2025/08/1756203700_308_يوفر-تطبيق-Google-Messenger-ميزة-ثورية-مهمة-ومطلوبة-للغاية.jpg" alt="رسائل Google" class="wp-image-224141"></figure>
 <h3><span class="ez-toc-section" id="%D9%85%D8%B2%D8%A7%D9%8A%D8%A7_%D9%84%D9%84%D8%AA%D8%AD%D9%82%D9%82_%D9%85%D9%86_QR"></span>مزايا للتحقق من QR<span class="ez-toc-section-end"></span></h3>
 <p>حسب جوجل:</p>
 <ul class="wp-block-list">

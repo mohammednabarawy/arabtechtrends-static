@@ -6,7 +6,7 @@ updatedDate: "2025-12-23T02:29:49"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/12/1766449788_665_xiaomi-redmi-note-15-pro---redmi-note-15-pro.jpg"
+image: "/uploads/wp/2025/12/1766449788_665_xiaomi-redmi-note-15-pro---redmi-note-15-pro.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%b1%d9%8a%d8%af%d9%85%d9%8a-%d9%86%d9%88%d8%aa-15-%d8%a8%d8%b1%d9%88-redmi-note-15-pro-%d9%8a%d8%b5%d9%84-%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d9%8b%d8%a7-%d8%a8%d8%ae/"
 ---
@@ -39,7 +39,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%b1
 </ul>
 </li>
 </ul>
-<figure class="wp-block-image size-large"><img width="708" height="353" src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1766449788_665_xiaomi-redmi-note-15-pro---redmi-note-15-pro.jpg" alt="" class="wp-image-227159"></figure>
+<figure class="wp-block-image size-large"><img width="708" height="353" src="/uploads/wp/2025/12/1766449788_665_xiaomi-redmi-note-15-pro---redmi-note-15-pro.jpg" alt="" class="wp-image-227159"></figure>
 <h3><span class="ez-toc-section" id="%D8%B4%D8%A7%D8%B4%D8%A9_AMOLED_%D9%85%D8%B3%D8%B7%D8%AD%D8%A9_%D8%B0%D8%A7%D8%AA_%D8%B3%D8%B7%D9%88%D8%B9_%D8%B9%D8%A7%D9%84%D9%8A"></span>شاشة AMOLED مسطحة ذات سطوع عالي<span class="ez-toc-section-end"></span></h3>
 <p>اعتمدت شركة Redmi هذا العام على الشاشات المسطحة لكلا الهاتفين، مع اختلاف في الحجم والدقة:</p>
 <ul class="wp-block-list">
@@ -74,7 +74,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%b1
 <ul class="posts-items posts-list-container">
 <li class="widget-single-post-item widget-post-list tie-standard">
 <div class="post-widget-thumbnail">
-<img width="220" height="150" src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1766449788_318_xiaomi-redmi-note-15-pro---redmi-note-15-pro.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="ريدمي نوت 15"></div>
+<img width="220" height="150" src="/uploads/wp/2025/12/1766449788_318_xiaomi-redmi-note-15-pro---redmi-note-15-pro.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="ريدمي نوت 15"></div>
 </li>
 </ul>
 </div>
@@ -93,7 +93,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%b1
 </ul>
 </li>
 </ul>
-<figure class="wp-block-image size-full"><img loading="lazy" width="708" height="354" src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1766449788_943_xiaomi-redmi-note-15-pro---redmi-note-15-pro.jpg" alt="" class="wp-image-227158"></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="708" height="354" src="/uploads/wp/2025/12/1766449788_943_xiaomi-redmi-note-15-pro---redmi-note-15-pro.jpg" alt="" class="wp-image-227158"></figure>
 <h3><span class="ez-toc-section" id="%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB_%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D9%84%D8%AC%D8%A7%D8%AA_%D9%88%D8%AA%D8%AD%D8%B3%D9%8A%D9%86_%D8%A7%D9%84%D8%A3%D8%AF%D8%A7%D8%A1"></span>تحديث المعالجات وتحسين الأداء<span class="ez-toc-section-end"></span></h3>
 <p>ويحصل الهاتفان على معالجات MediaTek المحدثة مع تحسينات في الأداء والذكاء الاصطناعي:</p>
 <ul class="wp-block-list">

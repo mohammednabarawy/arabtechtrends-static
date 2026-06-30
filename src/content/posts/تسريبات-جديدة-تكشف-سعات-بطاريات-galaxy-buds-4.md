@@ -6,7 +6,7 @@ updatedDate: "2025-12-04T23:04:26"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["تسريبات","سعات البطارية","سلسلة Galaxy Buds 4","وBuds 4 Pro","وGalaxy Buds 4"]
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/12/1764882265_527_galaxy-buds-4.webp.webp"
+image: "/uploads/wp/2025/12/1764882265_527_galaxy-buds-4.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8%d8%a7%d8%aa-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%aa%d9%83%d8%b4%d9%81-%d8%b3%d8%b9%d8%a7%d8%aa-%d8%a8%d8%b7%d8%a7%d8%b1%d9%8a%d8%a7%d8%aa-galaxy-buds-4/"
 ---
@@ -31,7 +31,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8%d8%a7%
 <p>
 </ul>
 <p>وعلى الرغم من التراجع الملحوظ بين الجيلين 2 و3، إلا أن الاختبارات أظهرت أن الأداء الفعلي كان متشابها للغاية بينهما، حيث يبلغ وقت التشغيل ما يقرب من 5 ساعات لكل شحنة.</p>
-<div align="center"><img src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1764882265_527_galaxy-buds-4.webp.webp" class="img-responsive lazy" alt=""/></div>
+<div align="center"><img src="/uploads/wp/2025/12/1764882265_527_galaxy-buds-4.webp.webp" class="img-responsive lazy" alt=""/></div>
 <p>
 <b>الجيل الجديد: اختلافات واضحة في قدرات Buds 4 وBuds 4 Pro</b></p>
 <p>ومع التسريبات الأخيرة المبنية على الأكواد الموجودة ضمن تحديثات واجهة One UI 8.5، ظهرت قدرات جديدة:</p>

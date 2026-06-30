@@ -6,7 +6,7 @@ updatedDate: "2025-09-16T15:29:25"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/09/1758025763_519_gmail-update.jpg"
+image: "/uploads/wp/2025/09/1758025763_519_gmail-update.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d8%ac%d9%8a%d9%85%d9%8a%d9%84-gmail-%d9%8a%d8%ac%d9%84%d8%a8-%d9%85%d9%8a%d8%b2%d8%a9-%d9%87%d8%a7%d9%85%d8%a9-%d8%aa%d8%ba%d9%8a%d9%91%d8%b1-%d8%aa%d8%ac%d8%b1%d8%a8/"
 ---
@@ -30,7 +30,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d8%ac
 <li>إيصالات الدفع والفواتير</li>
 <li>تفاصيل الطلبات السابقة والحالية</li>
 </ul>
-<figure class="wp-block-image size-full"><img width="708" height="595" src="https://www.arabtechtrends.com/wp-content/uploads/2025/09/1758025763_519_gmail-update.jpg" alt="Gmail" class="wp-image-224632"  /></figure>
+<figure class="wp-block-image size-full"><img width="708" height="595" src="/uploads/wp/2025/09/1758025763_519_gmail-update.jpg" alt="Gmail" class="wp-image-224632"  /></figure>
 <p>يعرضها في واجهة مبسطة تمنح المستخدم رؤية شاملة للطرد التالي ، مع تسليط الضوء على الطرود المتوقع أن تصل خلال 24 ساعة في الجزء العلوي من البريد المدرج. يواصل Gmail أيضًا عرض بطاقات موجزة ضمن رسائل الشراء نفسها لسهولة الوصول إلى المعلومات.</p>
 <h3><span class="ez-toc-section" id="%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9_%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9_%D9%85%D9%86_Gmail_%D8%AA%D8%B4%D8%A8%D9%87_%E2%80%9C%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA_Apple%E2%80%9D"></span>تجربة جديدة من Gmail تشبه "معاملات Apple"<span class="ez-toc-section-end"></span></h3>
 <p>تبدو الميزة الجديدة مشابهة لفئة "المعاملات" التي أضافتها Apple في تطبيق البريد الأخير ، حيث تظهر علامة التبويب "الشراء" على الجانب الأيسر من واجهة Gmail إلى جانب علامات تبويب أخرى مثل: مهمة ، تتميز بنجمة ، واشتراكات ، وجدولة.</p>

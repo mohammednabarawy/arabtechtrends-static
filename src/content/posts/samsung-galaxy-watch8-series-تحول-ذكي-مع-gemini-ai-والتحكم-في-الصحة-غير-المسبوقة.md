@@ -6,7 +6,7 @@ updatedDate: "2025-07-21T15:23:34"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/07/1753100610_923_Samsung-Galaxy-Watch8-Series-تحول-ذكي-مع-Gemini-AI-والتحكم.jpg"
+image: "/uploads/wp/2025/07/1753100610_923_Samsung-Galaxy-Watch8-Series-تحول-ذكي-مع-Gemini-AI-والتحكم.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%25d8%25b3%25d8%25a7%25d9%2585%25d8%25b3%25d9%2588%25d9%2586%25d8%25ac-galaxy-watch8-series-%25d8%25aa%25d8%25ad%25d9%2588%25d9%2584-%25d8%25b0%25d9%2583%25/"
 ---
@@ -34,7 +34,7 @@ sourceUrl: "https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaig
 <p>Galaxy Watch 8 Classic</figcaption></figure>
 <figure class="gallery-item">
 <div class="gallery-icon landscape">
-<img width="300" height="225" src="https://www.arabtechtrends.com/wp-content/uploads/2025/07/1753100610_923_Samsung-Galaxy-Watch8-Series-تحول-ذكي-مع-Gemini-AI-والتحكم.jpg" class="attachment-medium size-medium" alt="Galaxy Watch8 Watch" aria-describedby="gallery-1-94978"></div><figcaption class="wp-caption-text gallery-caption" id="gallery-1-94978">
+<img width="300" height="225" src="/uploads/wp/2025/07/1753100610_923_Samsung-Galaxy-Watch8-Series-تحول-ذكي-مع-Gemini-AI-والتحكم.jpg" class="attachment-medium size-medium" alt="Galaxy Watch8 Watch" aria-describedby="gallery-1-94978"></div><figcaption class="wp-caption-text gallery-caption" id="gallery-1-94978">
 <p>Galaxy Watch 8</figcaption></figure>
 </div>
 <h3><span class="ez-toc-section" id="Gemini_AI_%D9%8A%D9%82%D9%88%D8%AF_%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9_Galaxy_Watch8"></span><span id="nzam_altshghyl_waldhka_alastnay_Gemini_AI_yqwd_tjrbt_Galaxy_Watch8"><b>Gemini AI يقود تجربة Galaxy Watch8</b></span><span class="ez-toc-section-end"></span></h3>
@@ -42,11 +42,11 @@ sourceUrl: "https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaig
 <div id="gallery-2" class="gallery galleryid-94915 gallery-columns-3 gallery-size-medium">
 <figure class="gallery-item">
 <div class="gallery-icon landscape">
-<img loading="lazy" width="300" height="225" src="https://www.arabtechtrends.com/wp-content/uploads/2025/07/1753100610_612_Samsung-Galaxy-Watch8-Series-تحول-ذكي-مع-Gemini-AI-والتحكم.jpg" class="attachment-medium size-medium" alt="Galaxy Watch8 مع مساعد الجوزاء"></div>
+<img loading="lazy" width="300" height="225" src="/uploads/wp/2025/07/1753100610_612_Samsung-Galaxy-Watch8-Series-تحول-ذكي-مع-Gemini-AI-والتحكم.jpg" class="attachment-medium size-medium" alt="Galaxy Watch8 مع مساعد الجوزاء"></div>
 </figure>
 <figure class="gallery-item">
 <div class="gallery-icon landscape">
-<img loading="lazy" width="300" height="225" src="https://www.arabtechtrends.com/wp-content/uploads/2025/07/1753100610_357_Samsung-Galaxy-Watch8-Series-تحول-ذكي-مع-Gemini-AI-والتحكم.jpg" class="attachment-medium size-medium" alt="Galaxy Watch8 Classic مع مساعد الجوزاء"></div>
+<img loading="lazy" width="300" height="225" src="/uploads/wp/2025/07/1753100610_357_Samsung-Galaxy-Watch8-Series-تحول-ذكي-مع-Gemini-AI-والتحكم.jpg" class="attachment-medium size-medium" alt="Galaxy Watch8 Classic مع مساعد الجوزاء"></div>
 </figure>
 </div>
 <p><span style="font-weight: 400;">واحدة من أبرز التغييرات والتحسينات هو التكامل الرسمي للمساعد </span>الجوزاء الذكاء الاصطناعي<span style="font-weight: 400;">أيّ </span><b>مساعد Google استبدال</b><span style="font-weight: 400;">    كما الافتراضية لمدة ساعة للساعة. هذا يعني تجربة ذكاء صناعي أكثر تطوراً على معصمك ، حيث ستتمكن من استخدامها </span><b>أوامر الصوت الطبيعية</b><span style="font-weight: 400;">    والتفاعل بسلاسة مع الساعة. يسمح Geini AI بمهام متعددة أسهل وأعمق مع تطبيقات Google و Samsung. على سبيل المثال ، يمكنك النظرية مع طلب صوت واحد "العثور على مقهى قريب وإرسال رسالة نصية إلى صديق لمقابلتك هناك" ، وتقصير الكثير من الخطوات اليدوية ويزيد من كفاءة الاستخدام اليومي.</span></p>
@@ -59,11 +59,11 @@ sourceUrl: "https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaig
 <div id="gallery-3" class="gallery galleryid-94915 gallery-columns-3 gallery-size-medium">
 <figure class="gallery-item">
 <div class="gallery-icon landscape">
-<img loading="lazy" width="300" height="225" src="https://www.arabtechtrends.com/wp-content/uploads/2025/07/1753100611_139_Samsung-Galaxy-Watch8-Series-تحول-ذكي-مع-Gemini-AI-والتحكم.jpg" class="attachment-medium size-medium" alt="مدرب النوم في Watch8 Watch" aria-describedby="gallery-3-94983"></div><figcaption class="wp-caption-text gallery-caption" id="gallery-3-94983">
+<img loading="lazy" width="300" height="225" src="/uploads/wp/2025/07/1753100611_139_Samsung-Galaxy-Watch8-Series-تحول-ذكي-مع-Gemini-AI-والتحكم.jpg" class="attachment-medium size-medium" alt="مدرب النوم في Watch8 Watch" aria-describedby="gallery-3-94983"></div><figcaption class="wp-caption-text gallery-caption" id="gallery-3-94983">
 <p>مدرب النوم في Watch8 Watch</figcaption></figure>
 <figure class="gallery-item">
 <div class="gallery-icon landscape">
-<img loading="lazy" width="300" height="225" src="https://www.arabtechtrends.com/wp-content/uploads/2025/07/1753100611_989_Samsung-Galaxy-Watch8-Series-تحول-ذكي-مع-Gemini-AI-والتحكم.jpg" class="attachment-medium size-medium" alt="الجري واللياقة مدرب في Watch8 Watch" aria-describedby="gallery-3-94984"></div><figcaption class="wp-caption-text gallery-caption" id="gallery-3-94984">
+<img loading="lazy" width="300" height="225" src="/uploads/wp/2025/07/1753100611_989_Samsung-Galaxy-Watch8-Series-تحول-ذكي-مع-Gemini-AI-والتحكم.jpg" class="attachment-medium size-medium" alt="الجري واللياقة مدرب في Watch8 Watch" aria-describedby="gallery-3-94984"></div><figcaption class="wp-caption-text gallery-caption" id="gallery-3-94984">
 <p>الجري واللياقة مدرب في Watch8 Watch</figcaption></figure>
 </div>
 <p><span style="font-weight: 400;">تعتبر ميزات الصحة واللياقة البدنية النقطة المركزية في سلسلة Galaxy Watch8 ، وقد تم تعزيزها بشكل كبير مع رؤى مدعومة بالذكاء الاصطناعي لتوفير صورة أكثر تفصيلاً ودقيقة للحالة الصحية للمستخدم ، وتجاوز مجرد تتبع أرقام لفهم أعمق للرفاهية:</span></p>
@@ -85,7 +85,7 @@ sourceUrl: "https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaig
 <li style="font-weight: 400;" aria-level="1"><b>اتصال:</b><span style="font-weight: 400;">    الدعم الكامل لـ Bluetooth V5.3 ، Wi-Fi 2.4Ghz و 5Ghz ، NFC ، GPS ، بالإضافة إلى خيارات LTE في بعض النماذج ، مما يسمح بالإنترنت والمكالمات والرسائل المستقلة.</span></li>
 </ul>
 <h3><span class="ez-toc-section" id="%D8%AA%D9%83%D8%A7%D9%85%D9%84_%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D8%A9_Samsung_%D9%88%D9%88%D8%A7%D8%AC%D9%87%D8%A7%D8%AA_%D8%A7%D9%84%D8%B3%D8%A7%D8%B9%D8%A9_%D8%A7%D9%84%D9%82%D8%A7%D8%A8%D9%84%D8%A9_%D9%84%D9%84%D8%AA%D8%AE%D8%B5%D9%8A%D8%B5_%D9%85%D9%8A%D8%B2%D8%A7%D8%AA_%D9%84%D9%86%D8%B3%D8%AE"></span><span id="tkaml_samswnj_albyyy_wwajhat_alsat_alqablt_lltkhsys_myzat_yjb_nskhha"><b>تكامل البيئة Samsung وواجهات الساعة القابلة للتخصيص: ميزات لنسخ!</b></span><span class="ez-toc-section-end"></span></h3>
-<p><img loading="lazy" class="alignnone size-full wp-image-94982" src="https://www.arabtechtrends.com/wp-content/uploads/2025/07/1753100611_512_Samsung-Galaxy-Watch8-Series-تحول-ذكي-مع-Gemini-AI-والتحكم.jpg" alt="Galaxy Watch 8" width="1440" height="550"  ></p>
+<p><img loading="lazy" class="alignnone size-full wp-image-94982" src="/uploads/wp/2025/07/1753100611_512_Samsung-Galaxy-Watch8-Series-تحول-ذكي-مع-Gemini-AI-والتحكم.jpg" alt="Galaxy Watch 8" width="1440" height="550"  ></p>
 <p><span style="font-weight: 400;">لا تكتمل تجربة Galaxy Watch8 دون الإشارة إلى ميزتين بارزتين. يعتبران مصدرين للمراجعة الأساسية التي يجب أن تتبع جميع الساعات الذكية التي تعمل في نظام Android:</span></p>
 <ol>
 <li style="font-weight: 400;" aria-level="1"><b>التكامل السلس مع نظام Samsung البيئي:</b><span style="font-weight: 400;">    يوفر Galaxy Watch8 تكاملًا عميقًا ومثاليًا مع هواتف Samsung ، وتطبيق Samsung Health الشامل ، ومنصة SmartThings للمنزل الذكي. يضمن هذا التكامل مزامنة البيانات بسلاسة ، وسهولة الوصول إلى الإعدادات ، وتجربة موحدة في جميع أجهزة Samsung الخاصة بك ، مما يعزز فائدة الساعة كجزء من نظام بيئي متكامل.</span></li>

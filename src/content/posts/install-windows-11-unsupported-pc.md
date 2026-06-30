@@ -6,7 +6,7 @@ updatedDate: "2025-12-18T05:09:36"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/12/1766027367_24_windows-11-----------tpm.jpg"
+image: "/uploads/wp/2025/12/1766027367_24_windows-11-----------tpm.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/install-windows-11-unsupported-pc/"
 ---
@@ -70,7 +70,7 @@ sourceUrl: "https://www.arabtechtrends.com/install-windows-11-unsupported-pc/"
 </li>
 <li style="font-weight: 400;" aria-level="1"><b>حرق:</b><span style="font-weight: 400;">    يضعط </span><b>نعم</b><span style="font-weight: 400;">. سيبدأ البرنامج في تحضير الفلاش.</span></li>
 </ol>
-<p><img class="alignnone size-full wp-image-95950" src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1766027367_24_windows-11-----------tpm.jpg" alt="قم بإزالة متطلبات ذاكرة الوصول العشوائي (RAM) التي تبلغ سعتها 4 جيجابايت+ والتمهيد الآمن وTPM 2.0" width="1043" height="862"  ></p>
+<p><img class="alignnone size-full wp-image-95950" src="/uploads/wp/2025/12/1766027367_24_windows-11-----------tpm.jpg" alt="قم بإزالة متطلبات ذاكرة الوصول العشوائي (RAM) التي تبلغ سعتها 4 جيجابايت+ والتمهيد الآمن وTPM 2.0" width="1043" height="862"  ></p>
 <p><span style="font-weight: 400;">عند الانتهاء، سيكون لديك محرك أقراص فلاش "Joker" يمكنه تثبيت Windows 11 على أي جهاز، بغض النظر عن نوعه. قم بتشغيله وابدأ التثبيت كالمعتاد.</span></p>
 <h2><span class="ez-toc-section" id="%D8%A7%D9%84%D8%B7%D8%B1%D9%8A%D9%82%D8%A9_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9_%D8%AA%D8%B9%D8%AF%D9%8A%D9%84_%D8%A7%D9%84%D8%B3%D8%AC%D9%84_%E2%80%93_%D8%A7%D9%84%D8%AD%D9%84_%D8%A7%D9%84%D8%A3%D9%85%D8%AB%D9%84_%D9%84%D9%84%D8%AA%D8%B1%D9%82%D9%8A%D8%A9_%D8%A8%D8%AF%D9%88%D9%86_%D8%AA%D9%86%D8%B3%D9%8A%D9%82"></span><span id="altryqt_althanyt_tdyl_alryjstry_Registry_-_alhl_alamthl_lltrqyt_dwn_fwrmat"><b>الطريقة الثانية: تعديل السجل – الحل الأمثل للترقية بدون تنسيق</b></span><span class="ez-toc-section-end"></span></h2>
 <p><span style="font-weight: 400;">هذه الطريقة مناسبة لأي شخص يريد الانتقال من Windows 10 إلى 11 </span><b>دون فقدان البرامج والملفات</b><span style="font-weight: 400;">    (الترقية في المكان). والفكرة هي "خداع" برنامج التثبيت ليغض الطرف عن المعالج وTPM.</span></p>
@@ -80,7 +80,7 @@ sourceUrl: "https://www.arabtechtrends.com/install-windows-11-unsupported-pc/"
 <li style="font-weight: 400;" aria-level="1"><b>افتح المحرر:</b><span style="font-weight: 400;">    اضغط على زر على لوحة المفاتيح </span><span style="font-weight: 400;">ويندوز + ر</span><span style="font-weight: 400;">اكتب كلمة </span><span style="font-weight: 400;">رجديت</span><span style="font-weight: 400;">    واضغط على Enter.</span></li>
 <li style="font-weight: 400;" aria-level="1"><b>المسار الصحيح:</b><span style="font-weight: 400;">    اتبع بعناية المسار التالي في القائمة اليسرى:</span><span style="font-weight: 400;"><br />
 </span> <span style="font-weight: 400;">HKEY_LOCAL_MACHINESYSTEMSetupMoSetup</span><span style="font-weight: 400;">. </span><i><span style="font-weight: 400;">(إذا لم تجد مجلد MoSetup، فيمكنك إنشائه بالنقر بزر الماوس الأيمن على الإعداد، واختيار جديد > مفتاح، وتسميته MoSetup)</span></i><span style="font-weight: 400;">.<br />
-<img loading="lazy" class="alignnone size-full wp-image-95951" src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1766027368_783_windows-11-----------tpm.jpg" alt="قم بإنشاء مفتاح MoSetup في سجل Windows" width="1540" height="1016"  ><br />
+<img loading="lazy" class="alignnone size-full wp-image-95951" src="/uploads/wp/2025/12/1766027368_783_windows-11-----------tpm.jpg" alt="قم بإنشاء مفتاح MoSetup في سجل Windows" width="1540" height="1016"  ><br />
 </span></li>
 <li style="font-weight: 400;" aria-level="1"><b>إنشاء القيمة السحرية:</b>
 <ul>
@@ -88,7 +88,7 @@ sourceUrl: "https://www.arabtechtrends.com/install-windows-11-unsupported-pc/"
 <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">يختار </span><b>جديد</b><span style="font-weight: 400;">    > </span><b>قيمة DWORD (32 بت).</b><span style="font-weight: 400;">.</span></li>
 <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">الآن، قم بتسمية هذا الملف حرفيًا (نسخ ولصق):</span><span style="font-weight: 400;"><br />
 </span> <span style="font-weight: 400;">السماح بالترقيات مع عدم دعم TPM أو وحدة المعالجة المركزية (CPU).</span><span style="font-weight: 400;">.<br />
-<img loading="lazy" class="alignnone size-full wp-image-95952" src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1766027369_649_windows-11-----------tpm.jpg" alt="mosetup إنشاء سجل ويندوز dword 2" width="1079" height="808"  ><br />
+<img loading="lazy" class="alignnone size-full wp-image-95952" src="/uploads/wp/2025/12/1766027369_649_windows-11-----------tpm.jpg" alt="mosetup إنشاء سجل ويندوز dword 2" width="1079" height="808"  ><br />
 </span></li>
 </ul>
 </li>
@@ -96,7 +96,7 @@ sourceUrl: "https://www.arabtechtrends.com/install-windows-11-unsupported-pc/"
 <ul>
 <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">انقر مرتين على الملف الجديد الذي قمت بإنشائه.</span></li>
 <li style="font-weight: 400;" aria-level="2"><span style="font-weight: 400;">قم بتغيير الرقم في حقل بيانات القيمة من </span><span style="font-weight: 400;">0</span><span style="font-weight: 400;">    ل </span><span style="font-weight: 400;">1</span><span style="font-weight: 400;">    واضغط على موافق.<br />
-<img loading="lazy" class="alignnone size-full wp-image-95953" src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1766027371_429_windows-11-----------tpm.jpg" alt="السماح بالترقيات مع TPMO أو وحدة المعالجة المركزية غير المدعومة 4" width="1000" height="654"  ><br />
+<img loading="lazy" class="alignnone size-full wp-image-95953" src="/uploads/wp/2025/12/1766027371_429_windows-11-----------tpm.jpg" alt="السماح بالترقيات مع TPMO أو وحدة المعالجة المركزية غير المدعومة 4" width="1000" height="654"  ><br />
 </span></li>
 </ul>
 </li>
@@ -104,7 +104,7 @@ sourceUrl: "https://www.arabtechtrends.com/install-windows-11-unsupported-pc/"
 </ol>
 <h2><span class="ez-toc-section" id="%D8%A7%D9%84%D8%B7%D8%B1%D9%8A%D9%82%D8%A9_%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%D8%A9_%D8%A3%D8%AF%D8%A7%D8%A9_Ventoy_%E2%80%93_%D8%B3%D9%83%D9%8A%D9%86_%D8%A7%D9%84%D8%AC%D9%8A%D8%B4_%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%B3%D8%B1%D9%8A_%D9%84%D9%84%D9%81%D9%86%D9%8A%D9%8A%D9%86"></span><span id="altryqt_althaltht_adat_Ventoy_-_skyn_aljysh_alswysry_llfnyyn"><b>الطريقة الثالثة: أداة Ventoy – سكين الجيش السويسري للفنيين</b></span><span class="ez-toc-section-end"></span></h2>
 <p><span style="font-weight: 400;">إذا كنت فني صيانة، أو شخصًا يحب تجربة أنظمة متعددة على محرك أقراص فلاش واحد، فإن حرق محرك الأقراص المحمول في كل مرة باستخدام Rufus أمر ممل. هذا هو المكان الذي يأتي فيه اللعب </span><b>فينتوي</b><span style="font-weight: 400;">.</span></p>
-<p><img loading="lazy" class="alignnone wp-image-95955 size-full" src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1766027371_953_windows-11-----------tpm.jpg" alt="أداة Venyoy لحرق أنظمة التشغيل المتعددة" width="550" height="440"  ></p>
+<p><img loading="lazy" class="alignnone wp-image-95955 size-full" src="/uploads/wp/2025/12/1766027371_953_windows-11-----------tpm.jpg" alt="أداة Venyoy لحرق أنظمة التشغيل المتعددة" width="550" height="440"  ></p>
 <h3><span class="ez-toc-section" id="%D9%81%D9%83%D8%B1%D8%A9_%D8%A7%D9%84%D8%A3%D8%AF%D8%A7%D8%A9_%D8%A7%D9%84%D8%B9%D8%A8%D9%82%D8%B1%D9%8A%D8%A9"></span><span id="fkrt_aladat_albqryt"><b>فكرة الأداة العبقرية:</b></span><span class="ez-toc-section-end"></span></h3>
 <p><span style="font-weight: 400;">بدلاً من نسخ النظام، يمكنك تثبيت Ventoy مرة واحدة على محرك الأقراص، وبعد ذلك يمكنك ببساطة "نسخ ولصق" ملفات ISO (Windows 10 و11 وLinux) في محرك الأقراص كمجلد عادي. عند التشغيل، ستظهر لك قائمة يمكنك من خلالها اختيار النظام الذي تريد تثبيته.</span></p>
 <h3><span class="ez-toc-section" id="%D9%83%D9%8A%D9%81_%D9%8A%D9%85%D9%83%D9%86%D9%83_%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85%D9%87_%D9%84%D8%AA%D8%AC%D8%A7%D9%88%D8%B2_%D8%A7%D9%84%D9%85%D8%AA%D8%B7%D9%84%D8%A8%D8%A7%D8%AA%D8%9F"></span><span id="kyf_tstkhdmha_ltkhty_almttlbat"><b>كيف يمكنك استخدامه لتجاوز المتطلبات؟</b></span><span class="ez-toc-section-end"></span></h3>
@@ -114,7 +114,7 @@ sourceUrl: "https://www.arabtechtrends.com/install-windows-11-unsupported-pc/"
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">انسخ ملف Windows 11 ISO إلى الفلاش.</span></li>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">في إعدادات Ventoy (أحيانًا تحتاج إلى ملف json إضافي أو تنشيط خيار Bypass Check من القائمة أثناء التمهيد)، سيقوم البرنامج تلقائيًا بمحاكاة التجاوز وتثبيت النظام.</span></li>
 </ol>
-<figure id="attachment_95954" aria-describedby="caption-attachment-95954" style="width: 947px" class="wp-caption alignnone"><img loading="lazy" class="wp-image-95954 size-full" src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1766027373_64_windows-11-----------tpm.jpg" alt="نقل ملفات ISO متعددة لنظام التشغيل إلى Ventoy" width="947" height="625"  ><figcaption id="caption-attachment-95954" class="wp-caption-text">نقل ملفات ISO متعددة لنظام التشغيل إلى Ventoy</figcaption></figure>
+<figure id="attachment_95954" aria-describedby="caption-attachment-95954" style="width: 947px" class="wp-caption alignnone"><img loading="lazy" class="wp-image-95954 size-full" src="/uploads/wp/2025/12/1766027373_64_windows-11-----------tpm.jpg" alt="نقل ملفات ISO متعددة لنظام التشغيل إلى Ventoy" width="947" height="625"  ><figcaption id="caption-attachment-95954" class="wp-caption-text">نقل ملفات ISO متعددة لنظام التشغيل إلى Ventoy</figcaption></figure>
 <h2><span class="ez-toc-section" id="%D8%A7%D9%84%D8%AE%D9%84%D8%A7%D8%B5%D8%A9_%D9%85%D8%A7_%D9%87%D9%8A_%D8%A7%D9%84%D8%B7%D8%B1%D9%8A%D9%82%D8%A9_%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B3%D8%A8%D8%A9_%D9%84%D9%83%D8%9F"></span><span id="alkhlast_ay_altrq_tnasbk"><b>الخلاصة: ما هي الطريقة المناسبة لك؟</b></span><span class="ez-toc-section-end"></span></h2>
 <p><span style="font-weight: 400;">لقد استعرضنا 3 طرق، وإليكم ملخص تجربتنا في “مادون للكمبيوتر”:</span></p>
 <ul>

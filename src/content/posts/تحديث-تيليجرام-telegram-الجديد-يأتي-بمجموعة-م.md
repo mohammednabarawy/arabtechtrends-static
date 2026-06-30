@@ -6,7 +6,7 @@ updatedDate: "2025-10-13T14:15:22"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/10/1760354121_586_telegram.jpg"
+image: "/uploads/wp/2025/10/1760354121_586_telegram.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d8%aa%d9%8a%d9%84%d9%8a%d8%ac%d8%b1%d8%a7%d9%85-telegram-%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af-%d9%8a%d8%a3%d8%aa%d9%8a-%d8%a8%d9%85%d8%ac%d9%85%d9%88%d8%b9%d8%a9-%d9%85/"
 ---
@@ -26,7 +26,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d8%aa
 <p>ومن أبرز الإضافات في تحديث تيليجرام الجديد، ميزة “التعليقات المباشرة”، التي تتيح للمستخدمين إرسال ردود أفعال أو رموز تعبيرية أثناء المكالمة، لتظهر على الشاشة في الوقت الفعلي. وتهدف هذه الميزة إلى جعل الاجتماعات الجماعية وعمليات البث أكثر تفاعلية، حيث يمكن للمشاركين التعبير عن آرائهم أو التفاعل دون مقاطعة تدفق المحادثة.</p>
 <h3><span class="ez-toc-section" id="%D9%85%D9%84%D8%A7%D8%AD%D8%B8%D8%A7%D8%AA_%D9%85%D8%AE%D8%B5%D8%B5%D8%A9_%D9%84%D8%AC%D9%87%D8%A7%D8%AA_%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84"></span>ملاحظات مخصصة لجهات الاتصال<span class="ez-toc-section-end"></span></h3>
 <p>وبالإضافة إلى ذلك، قدم تحديث تيليجرام الجديد ميزة جديدة تسمى "ملاحظات جهة الاتصال"، والتي تتيح للمستخدمين كتابة ملاحظات أو تفاصيل إضافية لكل جهة اتصال في التطبيق، مثل معلومات حول مكان المواعدة أو المهام المتعلقة بالشخص، مما يساعد في تنظيم العلاقات الشخصية والمهنية بشكل أفضل.</p>
-<figure class="wp-block-image size-full"><img width="707" height="471" src="https://www.arabtechtrends.com/wp-content/uploads/2025/10/1760354121_586_telegram.jpg" alt="" class="wp-image-225359"></figure>
+<figure class="wp-block-image size-full"><img width="707" height="471" src="/uploads/wp/2025/10/1760354121_586_telegram.jpg" alt="" class="wp-image-225359"></figure>
 <h3><span class="ez-toc-section" id="%D8%AA%D8%AD%D8%B3%D9%8A%D9%86%D8%A7%D8%AA_%D9%81%D9%8A_%D8%A7%D9%84%D8%B1%D9%88%D8%A8%D9%88%D8%AA%D8%A7%D8%AA_%D9%88%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1_%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A"></span>تحسينات في الروبوتات والذكاء الاصطناعي<span class="ez-toc-section-end"></span></h3>
 <p>ولم يقتصر تحديث تيليجرام الجديد على الميزات التفاعلية فقط، بل شمل أيضًا تحسينات على أداء الروبوتات المدعومة بالذكاء الاصطناعي. قامت Telegram بتطوير البنية التحتية للروبوتات الخاصة بها لجعلها أكثر ذكاءً واستجابة، مع فهم أعمق لسياق المحادثة، مما يسمح للمطورين بإنشاء روبوتات أكثر مرونة وتكاملاً مع تجربة المستخدم.</p>
 <p>كما تم تحديث واجهة AI Bots لتصبح أكثر وضوحًا وأسهل في الاستخدام، مع دعم الأدوات الجديدة التي تمكن المستخدمين من الوصول إلى الإجابات والمحتوى بشكل أكثر دقة وسلاسة.</p>

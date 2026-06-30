@@ -6,7 +6,7 @@ updatedDate: "2025-11-15T01:07:31"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/11/1763161650_742_one-ui-85.jpg"
+image: "/uploads/wp/2025/11/1763161650_742_one-ui-85.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui-8-5-%d9%82%d8%a7%d8%af%d9%85-%d9%85%d8%b9-%d8%a3%d9%81%d8%b6%d9%84-%d9%85%d8%b2%d8%a7%d9%8a%d8%a7-%d9%82%d8%af%d9%85%d8%aa%d9%87%d8%a7-%d8%b3%d8%a7%d9%85%d8%b3/"
 ---
@@ -28,7 +28,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui
 <li><strong>القياسات الحيوية (الوجه وبصمة الإصبع).</strong></li>
 </ul>
 <p>يعد هذا التضمين خطوة مهمة لتعزيز الخصوصية والأمان دون الحاجة إلى تطبيقات الطرف الثالث.</p>
-<figure class="wp-block-image size-full"><img width="708" height="396" src="https://www.arabtechtrends.com/wp-content/uploads/2025/11/1763161650_742_one-ui-85.jpg" alt="تحديث واجهة One 8.5" class="wp-image-226355"></figure>
+<figure class="wp-block-image size-full"><img width="708" height="396" src="/uploads/wp/2025/11/1763161650_742_one-ui-85.jpg" alt="تحديث واجهة One 8.5" class="wp-image-226355"></figure>
 <h3><span class="ez-toc-section" id="%D8%AA%D8%AD%D8%B3%D9%8A%D9%86_%D8%B9%D9%88%D8%AF%D8%A9_%E2%80%9C%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D8%B1_%D8%A7%D9%84%D8%B0%D9%83%D9%8A%E2%80%9D"></span>تحسين عودة "المدير الذكي"<span class="ez-toc-section-end"></span></h3>
 <p>سيصبح "Smart Manager" مركزًا مخصصًا يحتوي على أدوات إضافية شاملة لتحسين استخدام أجهزة Galaxy. المكونات الرئيسية المسربة تشمل:</p>
 <h4><span class="ez-toc-section" id="1_%D8%AD%D8%A7%D9%84%D8%A9_%D8%A7%D9%84%D9%87%D8%A7%D8%AA%D9%81"></span><strong>1. حالة الهاتف</strong><span class="ez-toc-section-end"></span></h4>

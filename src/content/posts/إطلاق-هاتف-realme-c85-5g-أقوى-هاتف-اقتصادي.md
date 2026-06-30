@@ -6,7 +6,7 @@ updatedDate: "2025-11-29T22:01:09"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["Realme C85 5G","أقوى هاتف اقتصادي","سعر أقل من 173 دولارًا","متانة عسكرية"]
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/11/1764446468_760_173-------realme-c85-5g.webp.webp"
+image: "/uploads/wp/2025/11/1764446468_760_173-------realme-c85-5g.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d9%87%d8%a7%d8%aa%d9%81-realme-c85-5g-%d8%a3%d9%82%d9%88%d9%89-%d9%87%d8%a7%d8%aa%d9%81-%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af%d9%8a/"
 ---
@@ -34,7 +34,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d9%87
 </ul>
 <p>ولتسليط الضوء على هذه الموثوقية، شارك هاتف Realme في حدث جماعي حصل من خلاله على لقب غينيس للأرقام القياسية عن: “أكبر عدد من الأشخاص يقومون بإجراء اختبار مقاومة الماء لهاتف محمول”.</p>
 <p><b>بطارية عملاقة…استخدام يومين</b><br />يأتي الهاتف ببطارية بسعة 7000 مللي أمبير، وهي من الأكبر في السوق، وتدعي الشركة أنها توفر يومين كاملين من الاستخدام العادي. كما يدعم الهاتف الشحن السريع بقدرة 45 وات بالإضافة إلى الشحن العكسي السلكي بقدرة 6.5 وات، مما يسمح بتحويل الهاتف إلى بنك طاقة لشحن الأجهزة الأخرى.</p>
-<div align="center"><img src="https://www.arabtechtrends.com/wp-content/uploads/2025/11/1764446468_760_173-------realme-c85-5g.webp.webp" class="img-responsive lazy" alt=""/></div>
+<div align="center"><img src="/uploads/wp/2025/11/1764446468_760_173-------realme-c85-5g.webp.webp" class="img-responsive lazy" alt=""/></div>
 <p>
 <b>تجربة صوتية قوية بالرغم من وجود مكبر صوت واحد</b></p>
 <p>ورغم أن الهاتف يستخدم مكبر صوت واحدا في الجزء السفلي من الجهاز، إلا أن Realme توفر ما تسميه 400% Ultra Volume، وهي تقنية تضخيم الصوت التي تمنح الهاتف مستوى صوت أعلى من المعتاد في فئته.</p>

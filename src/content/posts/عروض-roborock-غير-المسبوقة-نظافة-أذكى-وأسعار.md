@@ -6,7 +6,7 @@ updatedDate: "2025-11-22T23:00:05"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/11/1763845201_941_roborock.jpg"
+image: "/uploads/wp/2025/11/1763845201_941_roborock.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b9%d8%b1%d9%88%d8%b6-roborock-%d8%ba%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d8%b3%d8%a8%d9%88%d9%82%d8%a9-%d9%86%d8%b8%d8%a7%d9%81%d8%a9-%d8%a3%d8%b0%d9%83%d9%89-%d9%88%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1/"
 ---
@@ -31,7 +31,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b9%d8%b1%d9%88%d8%b6-roborock-%d8
 <li><strong>نسبة الخصم:</strong> 28%</li>
 </ul>
 <p><a href="https://bit.ly/4855P7f"><strong>احصل عليه الآن بسعر مخفض هنا</strong></a></p>
-<figure class="wp-block-image size-full"><img loading="lazy" width="600" height="583" src="https://www.arabtechtrends.com/wp-content/uploads/2025/11/1763845201_941_roborock.jpg" alt="روبوروك " class="wp-image-226437"></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="600" height="583" src="/uploads/wp/2025/11/1763845201_941_roborock.jpg" alt="روبوروك " class="wp-image-226437"></figure>
 <h3><span class="ez-toc-section" id="2_%D8%B1%D9%88%D8%A8%D9%88%D8%B1%D9%88%D9%83_Q10_VF"></span><strong>2. روبوروك Q10 VF+</strong><span class="ez-toc-section-end"></span></h3>
 <p><strong>قوة شفط قوية (10,000Pa) مع تفريغ ذاتي</strong></p>
 <p>لأولئك الذين يبحثون عن تنظيف عميق للسجاد والأرضيات الصلبة، تعالوا <a href="https://www.amazon.sa/dp/B0F38B8P5Z">مسلسل <strong>Q10 VF+</strong></a>    لتقدم أداء مذهل مع قوة شفط تصل إلى 10,000 باسكال. الميزة الأهم هي قاعدة التفريغ الذاتي، والتي توفر عليك تفريغ الغبار لأسابيع طويلة.</p>
@@ -60,7 +60,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b9%d8%b1%d9%88%d8%b6-roborock-%d8
 <li><strong>نسبة الخصم:</strong> 37%</li>
 </ul>
 <p><a href="https://www.amazon.sa/dp/B0F38BGFV2?th=1"><strong>اغتنم الفرصة واحصل عليها من هنا</strong></a></p>
-<figure class="wp-block-image size-full"><img loading="lazy" width="700" height="348" src="https://www.arabtechtrends.com/wp-content/uploads/2025/11/1763845202_824_roborock.jpg" alt="روبوروك " class="wp-image-226438"></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="700" height="348" src="/uploads/wp/2025/11/1763845202_824_roborock.jpg" alt="روبوروك " class="wp-image-226438"></figure>
 <h3><span class="ez-toc-section" id="5_%D8%A7%D9%84%D9%85%D9%83%D9%86%D8%B3%D8%A9_%D8%A7%D9%84%D9%8A%D8%AF%D9%88%D9%8A%D8%A9_Roborock_F25_RT"></span><strong>5. المكنسة اليدوية Roborock F25 RT</strong><span class="ez-toc-section-end"></span></h3>
 <p><strong>للتنظيف الرطب والجاف في نفس الوقت</strong></p>
 <p>إنها ليست مجرد مكنسة، إنها أداة تنظيف الكل في واحد (مكنسة كهربائية رطبة/جافة). استيقظت <strong>F25 آر تي</strong> تعمل على تنظيف الأوساخ وغسل الأرضيات في وقت واحد، فهي مثالية لتنظيف انسكابات السوائل والفوضى اليومية بسرعة وسهولة.</p>
@@ -70,7 +70,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b9%d8%b1%d9%88%d8%b6-roborock-%d8
 <li><strong>نسبة الخصم:</strong> 31%</li>
 </ul>
 <p><a href="https://www.amazon.sa/dp/B0F389NSB2?th=1"><strong>  نظف منزلك بذكاء واطلبه من هنا</strong></a></p>
-<figure class="wp-block-image size-full"><img loading="lazy" width="515" height="873" src="https://www.arabtechtrends.com/wp-content/uploads/2025/11/1763845202_555_roborock.jpg" alt="روبوروك " class="wp-image-226439"></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="515" height="873" src="/uploads/wp/2025/11/1763845202_555_roborock.jpg" alt="روبوروك " class="wp-image-226439"></figure>
 <h3><span class="ez-toc-section" id="%D8%AE%D8%A7%D8%AA%D9%85%D8%A9"></span><strong>خاتمة</strong><span class="ez-toc-section-end"></span></h3>
 <p>يعد بيع Roborock's Black Friday على Amazon فرصة مثالية لترقية منزلك بأحدث تقنيات التنظيف بأسعار اقتصادية للغاية. قد تكون الكميات محدودة، فسارع باختيار الموديل الذي يناسبك قبل انتهاء العروض.</p>
 <p><a href="https://bit.ly/49YU44Y"><strong>تصفح جميع عروض Roborock على أمازون هنا</strong></a></p>

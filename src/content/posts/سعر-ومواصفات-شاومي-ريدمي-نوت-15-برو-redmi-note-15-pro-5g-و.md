@@ -6,7 +6,7 @@ updatedDate: "2025-08-25T16:09:37"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/08/1756127369_244_سعر-ومواصفات-Xiaomi-Redmi-Note-15-Pro-5g-والميزات.png"
+image: "/uploads/wp/2025/08/1756127369_244_سعر-ومواصفات-Xiaomi-Redmi-Note-15-Pro-5g-والميزات.png"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%b9%d8%b1-%d9%88%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%b1%d9%8a%d8%af%d9%85%d9%8a-%d9%86%d9%88%d8%aa-15-%d8%a8%d8%b1%d9%88-redmi-note-15-pro-5g-%d9%88/"
 ---
@@ -23,11 +23,11 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%b9%d8%b1-%d9%88%d9%85%d9%88
 <h3><span class="ez-toc-section" id="%D8%A3%D8%AF%D8%A7%D8%A1_%D9%82%D9%88%D9%8A_%D9%88%D8%A8%D8%B7%D8%A7%D8%B1%D9%8A%D8%A9_%D8%B6%D8%AE%D9%85%D8%A9"></span><strong>أداء قوي وبطارية ضخمة</strong><span class="ez-toc-section-end"></span></h3>
 <p>يعتمد الهاتف على معالج Mediatatek Dimensity 7400-Ultra ، المصنوع من تقنية 4 نانومتر ، لتوفير أداء عالي وسلس. يتوفر الهاتف في خيارات RAM (RAM) البالغة 12 جيجابايت LPDDR4X ، وسعة تخزين داخلية تبلغ 512 جيجابايت UFS 2.2 ، مما يوفر مساحة كافية للتطبيقات والملفات.</p>
 <p>لضمان الاستخدام على مدار اليوم ، تم تزويد الهاتف ببطارية ضخمة بسعة 7000 مللي أمبير في الساعة ، ويدعم الشحن السريع مع قوة 45 واط ، بالإضافة إلى ميزة شحن 32.5 ، ، مما يسمح باستخدامه كشاحن للأجهزة الأخرى.</p>
-<figure class="wp-block-image size-full"><img loading="lazy" width="708" height="465" src="https://www.arabtechtrends.com/wp-content/uploads/2025/08/1756127369_244_سعر-ومواصفات-Xiaomi-Redmi-Note-15-Pro-5g-والميزات.png" alt="Redmi Note 15 Pro 5g" class="wp-image-224039"></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="708" height="465" src="/uploads/wp/2025/08/1756127369_244_سعر-ومواصفات-Xiaomi-Redmi-Note-15-Pro-5g-والميزات.png" alt="Redmi Note 15 Pro 5g" class="wp-image-224039"></figure>
 <h3><span class="ez-toc-section" id="%D9%86%D8%B8%D8%A7%D9%85_%D8%A7%D9%84%D9%83%D8%A7%D9%85%D9%8A%D8%B1%D8%A7_%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%B1%D8%A7%D9%81%D9%8A"></span><strong>نظام الكاميرا الاحترافي</strong><span class="ez-toc-section-end"></span></h3>
 <p>واحدة من أبرز مزاياها. يتضمن الهاتف كاميرا رئيسية بدقة <strong>50 ميكرون</strong> مجهزة بمستشعر <strong>Sony Lyt-600</strong>ولم يظهر ذلك في السابق إلا في أغلى الهواتف الذكية. تدعم هذه الكاميرا ميزة التثبيت البصرية (OIS) وفتحة عريضة F/1.5 ، مع القدرة على تسجيل مقاطع فيديو 4K بمعدل 30 إطارًا في الثانية.</p>
 <p>تكمل الكاميرا الرئيسية عدسة عريضة ذات دقة 8 -megapixel ، وكاميرا أمامية من 20 ميجابكسل ، والتي يمكنها تسجيل الفيديو 1080 بكسل بمعدل 60 إطارًا في الثانية ، والتي تلبي احتياجات عشاق التصوير الفوتوغرافي والفيديو.</p>
-<figure class="wp-block-image size-full"><img loading="lazy" width="708" height="344" src="https://www.arabtechtrends.com/wp-content/uploads/2025/08/1756127369_333_سعر-ومواصفات-Xiaomi-Redmi-Note-15-Pro-5g-والميزات.png" alt="Redmi Note 15 Pro 5g" class="wp-image-224038"></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="708" height="344" src="/uploads/wp/2025/08/1756127369_333_سعر-ومواصفات-Xiaomi-Redmi-Note-15-Pro-5g-والميزات.png" alt="Redmi Note 15 Pro 5g" class="wp-image-224038"></figure>
 <h3><span class="ez-toc-section" id="%D9%85%D9%8A%D8%B2%D8%A7%D8%AA_%D8%A5%D8%B6%D8%A7%D9%81%D9%8A%D8%A9_%D9%88%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84_%D9%85%D9%87%D9%85%D8%A9"></span><strong>ميزات إضافية وتفاصيل مهمة</strong><span class="ez-toc-section-end"></span></h3>
 <p>يأتي الهاتف مع مجموعة واسعة من الميزات الأخرى التي تعزز قيمتها ، مثل:</p>
 <ul class="wp-block-list">

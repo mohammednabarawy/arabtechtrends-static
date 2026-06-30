@@ -6,7 +6,7 @@ updatedDate: "2025-12-09T15:21:11"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/12/1765286470_118_galaxy-s26-galaxy-s26.jpg"
+image: "/uploads/wp/2025/12/1765286470_118_galaxy-s26-galaxy-s26.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-%d8%a7%d8%b3-26-galaxy-s26-%d8%a7%d9%84%d8%b3%d9%84%d8%b3%d9%84%d8%a9-%d8%a7%d9%84%d9%82%d8%a7%d8%af%d9%85%d8%a9-%d8%b3%d8%aa%d9%81%d8%a7%d8%ac%d8%a6-%d8%a7/"
 ---
@@ -24,7 +24,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-
 <h3><span class="ez-toc-section" id="%D8%B4%D8%A7%D8%AD%D9%86_%D9%84%D8%A7%D8%B3%D9%84%D9%83%D9%8A_%D9%85%D8%BA%D9%86%D8%A7%D8%B7%D9%8A%D8%B3%D9%8A_%D8%A8%D9%82%D9%88%D8%A9_25_%D9%88%D8%A7%D8%B7"></span>شاحن لاسلكي مغناطيسي بقوة 25 واط<span class="ez-toc-section-end"></span></h3>
 <p>ستكون هواتف سامسونج حاليًا قادرة على الشحن عبر Qi2 بسرعة تصل إلى 15 واط، بينما من المتوقع أن ترفع سلسلة S26 هذا الحد. الشاحن الجديد EP-P2900 بقدرة 25 واط ويتميز بهيكل مغناطيسي لحمل الأجهزة المتوافقة أثناء الشحن.</p>
 <p>التوافق والتصميم:<br />الشاحن متوفر باللون الرمادي الداكن وهو متوافق مع هواتف Galaxy S وGalaxy Z وGalaxy Buds. ومن المتوقع أن يكون دائري الشكل، على عكس الشاحن المربع السابق EP-P2400، حيث تتطلب مواصفات Qi2 2.2 حلقات محاذاة مغناطيسية للوصول إلى سرعة الشحن القصوى البالغة 25 واط.</p>
-<figure class="wp-block-image size-full"><img width="700" height="360" src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1765286470_118_galaxy-s26-galaxy-s26.jpg" alt="جالاكسي اس26" class="wp-image-226848"></figure>
+<figure class="wp-block-image size-full"><img width="700" height="360" src="/uploads/wp/2025/12/1765286470_118_galaxy-s26-galaxy-s26.jpg" alt="جالاكسي اس26" class="wp-image-226848"></figure>
 <h3><span class="ez-toc-section" id="%D8%B3%D8%B1%D8%B9%D8%A7%D8%AA_%D8%A7%D9%84%D8%B4%D8%AD%D9%86_%D9%88%D8%A7%D9%84%D8%B7%D8%A8%D9%82%D8%A7%D8%AA"></span>سرعات الشحن والطبقات<span class="ez-toc-section-end"></span></h3>
 <p>ليس من الواضح بعد ما إذا كانت جميع طرازات Galaxy S26 ستدعم الشحن الكامل بقدرة 25 واط عبر Qi2، حيث قد يقتصر ذلك على S26 Ultra، بينما قد يقتصر S26 وS26+ على 20 واط. ومن المتوقع أيضًا أن يكون الشحن السلكي وفق تقسيم مماثل:</p>
 <ul class="wp-block-list">

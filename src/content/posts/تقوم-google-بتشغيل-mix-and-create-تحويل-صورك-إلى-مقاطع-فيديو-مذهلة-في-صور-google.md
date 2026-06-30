@@ -6,7 +6,7 @@ updatedDate: "2025-07-25T04:05:16"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/07/1753405513_106_تقوم-Google-بتشغيل-Mix-and-Create-تحويل-صورك-إلى-مقاطع.jpg"
+image: "/uploads/wp/2025/07/1753405513_106_تقوم-Google-بتشغيل-Mix-and-Create-تحويل-صورك-إلى-مقاطع.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%25d8%25ac%25d9%2588%25d8%25ac%25d9%2584-%25d8%25aa%25d8%25b7%25d9%2584%25d9%2582-mix-and-create-%25d8%25ad%25d9%2588%25d9%2591%25d9%2584-%25d8%25b5%25d9%25/"
 ---
@@ -36,7 +36,7 @@ sourceUrl: "https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaig
 </ul>
 </li>
 </ol>
-<p><img class="alignnone size-full wp-image-95078" src="https://www.arabtechtrends.com/wp-content/uploads/2025/07/1753405513_106_تقوم-Google-بتشغيل-Mix-and-Create-تحويل-صورك-إلى-مقاطع.jpg" alt="ميزة ريمكس في جوجل بيكتشرز" width="1086" height="630"  ></p>
+<p><img class="alignnone size-full wp-image-95078" src="/uploads/wp/2025/07/1753405513_106_تقوم-Google-بتشغيل-Mix-and-Create-تحويل-صورك-إلى-مقاطع.jpg" alt="ميزة ريمكس في جوجل بيكتشرز" width="1086" height="630"  ></p>
 <h3><span class="ez-toc-section" id="%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1_%D8%A7%D9%84%D9%86%D8%B2%D9%88%D9%8A_%D8%A7%D9%84%D8%AC%D9%88%D8%B2%D8%A7%D8%A1_%D9%88_Veo_%D9%8A%D9%82%D9%88%D8%AF%D9%88%D9%86_%D8%A7%D9%84%D8%AB%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D9%8A%D8%A9"></span><span id="aldhka_alkamn_Gemini_w_VEO_yqwdan_althwrt_almryyt"><b>الذكاء النزوي: الجوزاء و Veo يقودون الثورة البصرية</b></span><span class="ez-toc-section-end"></span></h3>
 <p>القلب النابض وراء هذه الميزات الثورية هو التكامل العميق لنماذج الذكاء الاصطناعي الأكثر تقدمًا من Google:</p>
 <ul>

@@ -6,7 +6,7 @@ updatedDate: "2025-08-13T15:53:41"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/08/1755089619_352_يظهر-Galaxy-S26-Edge-على-Geekbench-مع-أداء-فائق.jpg"
+image: "/uploads/wp/2025/08/1755089619_352_يظهر-Galaxy-S26-Edge-على-Geekbench-مع-أداء-فائق.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-%d8%a7%d8%b3-26-%d8%a7%d9%8a%d8%af%d8%ac-galaxy-s26-edge-%d9%8a%d8%b8%d9%87%d8%b1-%d8%b9%d9%84%d9%89-geekbench-%d8%a8%d8%a3%d8%af%d8%a7%d8%a1-%d8%ae%d8%a7%d8%b1/"
 ---
@@ -28,7 +28,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-
 <li>هذه الترددات أعلى من الجيل السابق Snapdragon Elite ، والتي جاءت عند 4.32 و 3.53 GHz.</li>
 <li>أشارت التقارير السابقة إلى أن Qualcomm تختبر المعالج بسرعات تصل إلى 4.6 جيجا هرتز في الإصدار العادي ، و 4.74 جيجا هرتز في نسخة Galaxy من Samsung.</li>
 </ul>
-<figure class="wp-block-image size-full"><img width="708" height="333" src="https://www.arabtechtrends.com/wp-content/uploads/2025/08/1755089619_352_يظهر-Galaxy-S26-Edge-على-Geekbench-مع-أداء-فائق.jpg" alt="Galaxy S26 Edge" class="wp-image-223797"></figure>
+<figure class="wp-block-image size-full"><img width="708" height="333" src="/uploads/wp/2025/08/1755089619_352_يظهر-Galaxy-S26-Edge-على-Geekbench-مع-أداء-فائق.jpg" alt="Galaxy S26 Edge" class="wp-image-223797"></figure>
 <h3><strong>نتائج الاختبار على منصة Geekbench</strong></h3>
 <p>3393 نقطة في الاختبار أحادي النواة ، وهو أعلى بنسبة 8 ٪ مقارنة بحافة Galaxy S25 ، والتي سجلت 3131 نقطة.</p>
 <p>11515 نقطة في متعددة النواة ، بزيادة قدرها 22 ٪ عن نتائج الجيل السابق من 9391 نقطة.</p>

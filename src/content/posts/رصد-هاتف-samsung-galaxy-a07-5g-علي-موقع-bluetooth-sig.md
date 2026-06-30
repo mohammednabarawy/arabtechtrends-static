@@ -6,7 +6,7 @@ updatedDate: "2025-12-12T21:57:54"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["تسريبات تكشف تحركات سامسونج","صفحات دعم خاصة","موقع Bluetooth SIG","هاتف Samsung Galaxy A07 5G"]
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/12/1765569467_592_samsung-galaxy-a07-5g-----bluetooth.webp.webp"
+image: "/uploads/wp/2025/12/1765569467_592_samsung-galaxy-a07-5g-----bluetooth.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b1%d8%b5%d8%af-%d9%87%d8%a7%d8%aa%d9%81-samsung-galaxy-a07-5g-%d8%b9%d9%84%d9%8a-%d9%85%d9%88%d9%82%d8%b9-bluetooth-sig/"
 ---
@@ -21,7 +21,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b1%d8%b5%d8%af-%d9%87%d8%a7%d8%aa
 <b>صفحات الدعم نحن على بعد خطوات قليلة من الإطلاق</b></p>
 <p>ويؤكد تفعيل صفحات دعم الهاتف في الولايات المتحدة وإسبانيا ونيوزيلندا أن الإعلان الرسمي قريب، وعادةً ما تبدأ سامسونج بفتح صفحات الدعم قبل أيام أو أسابيع قليلة من إطلاق الهاتف، مما يجعل ظهور الهاتف في الأسواق مسألة وقت فقط. وبحسب التسريبات الأخيرة، فمن الممكن أن يصل هاتف Galaxy A07 5G نهاية الشهر الجاري، ديسمبر، أو بداية العام الجديد، خلال شهر يناير المقبل، وذلك قبل حدث Galaxy Unpacked 2026 السنوي.</p>
 <p><b>نظرة سريعة على مواصفات هاتف Galaxy A07 4G للمقارنة</b><br />وكانت سامسونج قد أطلقت نسخة 4G من هاتف Galaxy A07 في الهند، بسعر يبدأ من 8999 روبية لنسخة 4 جيجا بايت مع مساحة تخزين داخلية 64 جيجا بايت، وبالألوان الأسود والأخضر والبنفسجي الفاتح.</p>
-<div align="center"><img src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1765569467_592_samsung-galaxy-a07-5g-----bluetooth.webp.webp" title="هاتف سامسونج جالاكسي A07 4G الذكي" class="img-responsive lazy" alt="هاتف سامسونج جالاكسي A07 4G الذكي"/></div>
+<div align="center"><img src="/uploads/wp/2025/12/1765569467_592_samsung-galaxy-a07-5g-----bluetooth.webp.webp" title="هاتف سامسونج جالاكسي A07 4G الذكي" class="img-responsive lazy" alt="هاتف سامسونج جالاكسي A07 4G الذكي"/></div>
 <p>
 <b>جاء هاتف Samsung Galaxy A07 4G بالمواصفات التالية:</b></p>
 <ul>

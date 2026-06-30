@@ -6,7 +6,7 @@ updatedDate: "2025-07-16T05:58:50"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/07/1752634727_211_Xiaom-16-Xiaomi-16-تخطط-الشركة-لإطلاق-هاتف-جديد.jpg"
+image: "/uploads/wp/2025/07/1752634727_211_Xiaom-16-Xiaomi-16-تخطط-الشركة-لإطلاق-هاتف-جديد.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-16-xiaomi-16-%d8%a7%d9%84%d8%b4%d8%b1%d9%83%d8%a9-%d8%aa%d8%ae%d8%b7%d8%b7-%d9%84%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d9%87%d8%a7%d8%aa%d9%81-%d8%ac%d8%af%d9%8a%d8%af/"
 ---
@@ -31,7 +31,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-16-xia
 <ul class="posts-items posts-list-container">
 <li class="widget-single-post-item widget-post-list tie-standard">
 <div class="post-widget-thumbnail">
-<img width="220" height="150" src="https://www.arabtechtrends.com/wp-content/uploads/2025/07/1752634727_211_Xiaom-16-Xiaomi-16-تخطط-الشركة-لإطلاق-هاتف-جديد.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="Xiaomi 16 Pro Max"></div>
+<img width="220" height="150" src="/uploads/wp/2025/07/1752634727_211_Xiaom-16-Xiaomi-16-تخطط-الشركة-لإطلاق-هاتف-جديد.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="Xiaomi 16 Pro Max"></div>
 </li>
 </ul>
 </div>

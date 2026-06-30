@@ -6,7 +6,7 @@ updatedDate: "2025-12-19T11:13:59"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["ون بلس هاتف OnePlus 15R معالج Snapdragon 8 Gen 5 سعر تنافسي تجربة ذكاء صناعي متطورة أحدث معالج من كوالكوم"]
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/12/1766135637_132_oneplus-15r.webp.webp"
+image: "/uploads/wp/2025/12/1766135637_132_oneplus-15r.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%88%d9%86-%d8%a8%d9%84%d8%b3-%d8%aa%d9%83%d8%b4%d9%81-%d8%b9%d9%86-oneplus-15r/"
 ---
@@ -20,7 +20,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d9%86-%d8%a8%d9%84%d8%b3-%d8%a
 <b>شاشة موجهة للألعاب وتجربة مشاهدة رائدة</b></p>
 <p>ويأتي هاتف OnePlus 15R بشاشة AMOLED بقياس 6.83 بوصات ودقة 1.5K، مع معدل تحديث متكيف يتراوح بين 60 و165 هرتز، مع دعم خاص لـ 144 هرتز و165 هرتز أثناء اللعب. وتعتمد الشاشة أيضًا على شريحة استجابة لمس مستقلة ترفع معدل أخذ عينات اللمس إلى 3200 هرتز لتوفير استجابة فورية ودقة عالية في الألعاب التنافسية.</p>
 <p>أما أبرز مميزات الشاشة فهي تتميز بكثافة بكسلات تبلغ 450 بكسل لكل بوصة مع أقصى سطوع يصل إلى 1800 شمعة، بالإضافة إلى إمكانية تقليل السطوع حتى 2 شمعة أو 1 شمعة عند تفعيل تقليل النقطة البيضاء. حصل الهاتف على شهادة TÜV Rheinland Intelligent Eye Care 5.0 لحماية العين.</p>
-<div align="center"><img src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1766135637_132_oneplus-15r.webp.webp" class="img-responsive lazy" alt=""/></div>
+<div align="center"><img src="/uploads/wp/2025/12/1766135637_132_oneplus-15r.webp.webp" class="img-responsive lazy" alt=""/></div>
 <p>
 <b>أول هاتف في السوق بمعالج Snapdragon 8 Gen 5</b></p>
 <p>يعد هاتف OnePlus 15R أول هاتف ذكي في العالم يعمل بأحدث شرائح العملاق الأمريكي كوالكوم، حيث يأتي بمعالج Snapdragon 8 Gen 5، مما يمنحه أداء فائق وكفاءة محسنة للطاقة، بالإضافة إلى معالج رسوميات Adreno 840. يأتي الهاتف بخيارات ذاكرة الوصول العشوائي بسعة 12 جيجا بايت من نوع LPDDR5X Ultra مع خيارين لسعة التخزين الداخلية 256/512 جيجا بايت من نوع UFS 4.1 فائق السرعة.</p>
@@ -34,7 +34,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d9%86-%d8%a8%d9%84%d8%b3-%d8%a
 <p>
 </ul>
 <p></p>
-<div align="center"><img src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1766135637_262_oneplus-15r.webp.webp" class="img-responsive lazy" alt=""/></div>
+<div align="center"><img src="/uploads/wp/2025/12/1766135637_262_oneplus-15r.webp.webp" class="img-responsive lazy" alt=""/></div>
 <p>
 <b>اتصال لاسلكي أكثر ذكاءً</b></p>
 <p>يحتوي الهاتف على شريحة Wi-Fi مخصصة لتحسين استقرار الاتصال حتى لو كان هناك جدران أو أرضيات تفصل المستخدم عن الراوتر. كما تعاونت OnePlus مع عملاق الاتصالات TP-LINK في الأسواق الهندية لتقليل ازدحام الشبكات اللاسلكية وتحسين وقت الاستجابة في الألعاب، مما يضمن تجربة لعب أكثر سلاسة على شبكات Wi-Fi المزدحمة.</p>
@@ -50,12 +50,12 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d9%86-%d8%a8%d9%84%d8%b3-%d8%a
 <p>
 </ul>
 <p></p>
-<div align="center"><img src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1766135637_707_oneplus-15r.webp.webp" class="img-responsive lazy" alt=""/></div>
+<div align="center"><img src="/uploads/wp/2025/12/1766135637_707_oneplus-15r.webp.webp" class="img-responsive lazy" alt=""/></div>
 <p>
 <b>بطارية ضخمة وشحن سريع</b></p>
 <p>ويأتي هاتف OnePlus 15R ببطارية كبيرة بسعة 7400 مللي أمبير، وتؤكد الشركة أنها مصممة لتحافظ على ما لا يقل عن 80% من سعتها بعد 4 سنوات من الاستخدام. كما يدعم الهاتف الشحن السريع بقدرة 80 وات مع تقنية الشحن SUPERVOOC مع اعتماد تقنية Silicon Nanostack بنسبة 15% لرفع كثافة الطاقة.</p>
 <p><b>تصميم أنيق ومتانة عالية</b><br />ويتوفر هاتف OnePlus 15R بثلاثة ألوان مميزة: الأسود الفحمي مع ظهر زجاجي ولمسة كلاسيكية، والأخضر النعناعي، والنسيم النعناعي، والبنفسجي الكهربائي، حصريًا للسوق الهندي. وهي مصنوعة من الألياف الزجاجية لمزيد من المتانة. كما يأتي الهاتف بإطار معدني مع دعم معايير الحماية IP66 وIP68 وIP69 وIP69K، مما يجعله مقاومًا للغمر في الماء حتى عمق مترين لمدة 30 دقيقة، بالإضافة إلى مقاومة رذاذ الماء عالي الضغط ودرجات حرارة تصل إلى 80 درجة مئوية.</p>
-<div align="center"><img src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1766135638_364_oneplus-15r.webp.webp" title="ألوان الهاتف الذكي OnePlus 15R" class="img-responsive lazy" alt="ألوان الهاتف الذكي OnePlus 15R"/></div>
+<div align="center"><img src="/uploads/wp/2025/12/1766135638_364_oneplus-15r.webp.webp" title="ألوان الهاتف الذكي OnePlus 15R" class="img-responsive lazy" alt="ألوان الهاتف الذكي OnePlus 15R"/></div>
 <p></p>
 <h3><b>مواصفات هاتف ون بلس 15R</b></h3>
 <ul>

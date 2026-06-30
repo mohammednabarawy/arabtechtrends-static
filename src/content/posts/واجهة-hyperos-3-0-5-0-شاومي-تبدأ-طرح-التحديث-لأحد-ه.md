@@ -6,7 +6,7 @@ updatedDate: "2025-12-19T14:12:39"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/12/1766146358_838_xiaomi.jpg"
+image: "/uploads/wp/2025/12/1766146358_838_xiaomi.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-hyperos-3-0-5-0-%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%aa%d8%a8%d8%af%d8%a3-%d8%b7%d8%b1%d8%ad-%d8%a7%d9%84%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d9%84%d8%a3%d8%ad%d8%af-%d9%87/"
 ---
@@ -25,7 +25,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-hypero
 <li>حل مشكلة واجهة المستخدم داخل تطبيق الكاميرا وتحديداً الأسهم الموجودة داخل القوائم والتي لم يتم إعادة ضبط اتجاهها حسب وضع الهاتف بعد الخروج من الإعدادات.</li>
 <li>تحسين ثبات تجربة التصوير بشكل عام، وهو ما ينعكس على سهولة الاستخدام أثناء التنقل بين أوضاع التصوير المختلفة.</li>
 </ul>
-<figure class="wp-block-image size-full"><img width="708" height="369" src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1766146358_838_xiaomi.jpg" alt="هايبر أو إس 3.0.5.0" class="wp-image-227046"></figure>
+<figure class="wp-block-image size-full"><img width="708" height="369" src="/uploads/wp/2025/12/1766146358_838_xiaomi.jpg" alt="هايبر أو إس 3.0.5.0" class="wp-image-227046"></figure>
 <h3>إصلاحات النظام والتطبيق</h3>
 <p>وإلى جانب الكاميرا، يتضمن تحديث HyperOS 3.0.5.0 عددًا من الإصلاحات البرمجية الأخرى أبرزها:</p>
 <ul class="wp-block-list">

@@ -6,7 +6,7 @@ updatedDate: "2025-08-17T21:52:45"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/08/1755456761_284_لماذا-يجب-أن-تغلق-SIM-مع-دبوس-وكيف-تفعل-ذلك؟.jpg"
+image: "/uploads/wp/2025/08/1755456761_284_لماذا-يجب-أن-تغلق-SIM-مع-دبوس-وكيف-تفعل-ذلك؟.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%25d9%2582%25d9%2581%25d9%2584-%25d8%25b4%25d8%25b1%25d9%258a%25d8%25ad%25d8%25a9-sim-%25d8%25a8%25d8%25b1%25d9%2582%25d9%2585-pin/"
 ---
@@ -60,7 +60,7 @@ sourceUrl: "https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaig
 </li>
 </ul>
 <h3><span class="ez-toc-section" id="%D9%84_%D8%B9%D9%84%D9%89_%D8%A3%D8%AC%D9%87%D8%B2%D8%A9_iPhone"></span><span id="b_ly_ajhzt_ayfwn"><b>ل. على أجهزة iPhone:</b></span><span class="ez-toc-section-end"></span></h3>
-<p><img class="alignnone size-full wp-image-95392" src="https://www.arabtechtrends.com/wp-content/uploads/2025/08/1755456761_284_لماذا-يجب-أن-تغلق-SIM-مع-دبوس-وكيف-تفعل-ذلك؟.jpg" alt="قم بإعداد كلمة المرور لشريحة SIM على iOS" width="924" height="547"  ></p>
+<p><img class="alignnone size-full wp-image-95392" src="/uploads/wp/2025/08/1755456761_284_لماذا-يجب-أن-تغلق-SIM-مع-دبوس-وكيف-تفعل-ذلك؟.jpg" alt="قم بإعداد كلمة المرور لشريحة SIM على iOS" width="924" height="547"  ></p>
 <ul>
 <li style="list-style-type: none;">
 <ul>
@@ -93,7 +93,7 @@ sourceUrl: "https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaig
 </li>
 <li style="font-weight: 400;" aria-level="1"><b>يُحذًِر:</b> <b>لا تحاول أبدًا تخمين رمز PUK!</b><span style="font-weight: 400;">    إذا قمت بإدخال رمز PUK الخاطئ 10 مرات ، فسيؤدي ذلك إلى إلحاق الضرر بشكل دائم بالشريحة وستحتاج إلى استبداله.</span></li>
 </ul>
-<figure id="attachment_95390" aria-describedby="caption-attachment-95390" style="width: 384px" class="wp-caption alignnone"><img loading="lazy" class="wp-image-95390 size-full" src="https://www.arabtechtrends.com/wp-content/uploads/2025/08/1755456762_960_لماذا-يجب-أن-تغلق-SIM-مع-دبوس-وكيف-تفعل-ذلك؟.jpg" alt="مثال على رمز PUK على بطاقة SIM Orange SIM" width="384" height="186"  ><figcaption id="caption-attachment-95390" class="wp-caption-text">مثال على رمز PUK على بطاقة SIM Orange SIM</figcaption></figure>
+<figure id="attachment_95390" aria-describedby="caption-attachment-95390" style="width: 384px" class="wp-caption alignnone"><img loading="lazy" class="wp-image-95390 size-full" src="/uploads/wp/2025/08/1755456762_960_لماذا-يجب-أن-تغلق-SIM-مع-دبوس-وكيف-تفعل-ذلك؟.jpg" alt="مثال على رمز PUK على بطاقة SIM Orange SIM" width="384" height="186"  ><figcaption id="caption-attachment-95390" class="wp-caption-text">مثال على رمز PUK على بطاقة SIM Orange SIM</figcaption></figure>
 <h3><span class="ez-toc-section" id="%D8%A7%D8%B3%D8%AA%D9%86%D8%AA%D8%A7%D8%AC_%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%84%D8%A9"></span><span id="khatmt_almqal"><b>استنتاج المقالة</b></span><span class="ez-toc-section-end"></span></h3>
 <p><span style="font-weight: 400;">بعد رحلتنا في هذا الدليل ، يتم تلخيص أهمية رقم SIM SIM في كونها أداة حماية لا غنى عنها. إن معرفته وتفعيله هو خط الدفاع الأول ، والذي يمكن أن يساعدك في مواجهة سيناريو سرقة الهاتف.</span></p>
 <p><span style="font-weight: 400;">توصيتنا النهائية هي التأكيد على الحاجة إلى تنشيط كلمة مرور شريحة SIM وحفظها في مكان آمن قبل أي حادث. من خلاله ، يمكنك منع اللص من وضع شريحةك على هاتف آخر واستغلاله.</span></p>

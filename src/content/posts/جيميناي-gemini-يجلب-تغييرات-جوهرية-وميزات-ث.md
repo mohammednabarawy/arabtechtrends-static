@@ -6,7 +6,7 @@ updatedDate: "2025-07-30T00:16:42"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/07/1753823800_2_يجلب-Gemini-التغييرات-الأساسية-والميزات-الثورية-لإصدار-الويب.jpg"
+image: "/uploads/wp/2025/07/1753823800_2_يجلب-Gemini-التغييرات-الأساسية-والميزات-الثورية-لإصدار-الويب.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d9%8a%d9%85%d9%8a%d9%86%d8%a7%d9%8a-gemini-%d9%8a%d8%ac%d9%84%d8%a8-%d8%aa%d8%ba%d9%8a%d9%8a%d8%b1%d8%a7%d8%aa-%d8%ac%d9%88%d9%87%d8%b1%d9%8a%d8%a9-%d9%88%d9%85%d9%8a%d8%b2%d8%a7%d8%aa-%d8%ab/"
 ---
@@ -25,7 +25,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d9%8a%d9%85%d9%8a%d9%86%d8%a7%
 <p>في هذا التصميم الجديد ، استبدلت شرق Google التحية الشخصية ، "مرحبًا ، [الاسم]"في عبارة أكثر عمومية:" كيف يمكنني مساعدتك؟ "، الذي يعطي انطباعًا بأن الجوزاء لم يعد مجرد مساعد شخصي ، بل هو منصة شاملة للأدوات الذكية.</p>
 <p>التغيير الأبرز هو نقل شريط الأوامر من أسفل الشاشة إلى الوسط ، في محاولة واضحة لتحسين تجربة الاستخدام البصري ، مع الحفاظ على شكل حقل "الجوزاء" والتصميم الجانبي الذي يتضمن زر الميكروفون وأيقونة الإضافة (+).</p>
 <h3><span class="ez-toc-section" id="%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%E2%80%9C%D8%A3%D8%AF%D9%88%D8%A7%D8%AA%E2%80%9D_%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9"></span>قائمة "أدوات" جديدة<span class="ez-toc-section-end"></span></h3>
-<figure class="wp-block-image size-full"><img width="708" height="367" src="https://www.arabtechtrends.com/wp-content/uploads/2025/07/1753823800_2_يجلب-Gemini-التغييرات-الأساسية-والميزات-الثورية-لإصدار-الويب.jpg" alt="" class="wp-image-223387"></figure>
+<figure class="wp-block-image size-full"><img width="708" height="367" src="/uploads/wp/2025/07/1753823800_2_يجلب-Gemini-التغييرات-الأساسية-والميزات-الثورية-لإصدار-الويب.jpg" alt="" class="wp-image-223387"></figure>
 <p>بدلاً من عرض الاقتراحات الاستخدام في شكل شرائح جانبية ، أضافت Google قائمة منسقات جديدة تسمى "الأدوات" ، بما في ذلك الخيارات الرئيسية مثل:</p>
 <ul class="wp-block-list">
 <li><strong>بحث عميق</strong></li>

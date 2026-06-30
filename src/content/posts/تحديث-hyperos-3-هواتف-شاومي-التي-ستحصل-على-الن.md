@@ -6,7 +6,7 @@ updatedDate: "2025-08-30T23:04:16"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/08/تحديث-Hyperos-3-هواتف-Xiaomi-التي-ستحصل-على-النسخة-الرسمية.jpg"
+image: "/uploads/wp/2025/08/تحديث-Hyperos-3-هواتف-Xiaomi-التي-ستحصل-على-النسخة-الرسمية.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-hyperos-3-%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%a7%d9%84%d8%aa%d9%8a-%d8%b3%d8%aa%d8%ad%d8%b5%d9%84-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d9%86/"
 ---
@@ -35,7 +35,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-hypero
 </ul>
 <p>إذا كان جهازك مدرجًا في هذه القائمة ويعيش في الصين ، فيمكنك التسجيل فورًا للإصدار التجريبي واستلام التحديث بعد انتهاء الحدث.</p>
 <h3><span class="ez-toc-section" id="%D8%AE%D8%B7%D8%A9_%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9_Hyperos_3_%D9%85%D9%85%D8%AA%D9%84%D9%89%D8%A1"></span><strong><strong>خطة تجربة Hyperos 3 </strong></strong>ممتلىء<span class="ez-toc-section-end"></span></h3>
-<figure class="wp-block-image size-large"><img width="708" height="398" src="https://www.arabtechtrends.com/wp-content/uploads/2025/08/تحديث-Hyperos-3-هواتف-Xiaomi-التي-ستحصل-على-النسخة-الرسمية.jpg" alt="Hyperos 3" class="wp-image-224199"></figure>
+<figure class="wp-block-image size-large"><img width="708" height="398" src="/uploads/wp/2025/08/تحديث-Hyperos-3-هواتف-Xiaomi-التي-ستحصل-على-النسخة-الرسمية.jpg" alt="Hyperos 3" class="wp-image-224199"></figure>
 <p><strong>29 أغسطس: بداية الدفعة الأولى من التحديثات</strong></p>
 <ul class="wp-block-list">
 <li><strong>الهواتف:</strong>

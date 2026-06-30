@@ -6,7 +6,7 @@ updatedDate: "2025-11-10T15:42:27"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/11/1762782146_732_galaxy-s26-ultra.jpg"
+image: "/uploads/wp/2025/11/1762782146_732_galaxy-s26-ultra.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-%d8%a7%d8%b3-26-%d8%a7%d9%84%d8%aa%d8%b1%d8%a7-galaxy-s26-ultra-%d8%b3%d9%8a%d8%a3%d8%aa%d9%8a-%d9%85%d8%b9-%d8%b4%d8%ad%d9%86-%d9%81%d8%a7%d8%a6%d9%82-%d8%a7/"
 ---
@@ -23,7 +23,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-
 <p>وبحسب المسرب المعروف @chunvn8888، فإن الهاتف سيعمل بقدرة 55 واطًا عند شحن أول 15% من البطارية، ثم تنخفض إلى 45 واطًا حتى تصل إلى 70%، قبل أن تنخفض السرعة تدريجيًا حفاظًا على عمر البطارية. ورغم أن القوة لا تبقى عند 60 واطًا طوال الوقت، إلا أنها تمثل تحسنًا كبيرًا مقارنة بالأجيال السابقة التي نادرًا ما تجاوزت 45 واطًا.</p>
 <p>ومن المتوقع أن يأتي هاتف Galaxy S26 Ultra بمعالج Snapdragon 8 Elite لهاتف Galaxy، ونظام تشغيل Android 16 مع واجهة One UI 8.5، إلى جانب تصميم أنحف بسمك 7 ملم تقريبًا، وكاميرا رئيسية ISOCELL HP2 بدقة 200 ميجابكسل، وشاشة Super AMOLED 2X بقياس 6.9 بوصات مع طبقة مضادة للانعكاس.</p>
 <h2>مواصفات هاتف Galaxy S26 Ultra المتوقعة</h2>
-<figure class="wp-block-image size-full"><img width="496" height="642" src="https://www.arabtechtrends.com/wp-content/uploads/2025/11/1762782146_732_galaxy-s26-ultra.jpg" alt="جالكسي اس 26 الترا" class="wp-image-226113"></figure>
+<figure class="wp-block-image size-full"><img width="496" height="642" src="/uploads/wp/2025/11/1762782146_732_galaxy-s26-ultra.jpg" alt="جالكسي اس 26 الترا" class="wp-image-226113"></figure>
 <ul class="wp-block-list">
 <li>الشاشة: Dynamic AMOLED 2X، بقياس 6.9 بوصة، تردد متغير 1 – 120 هرتز</li>
 <li>المعالج: Snapdragon 8 Elite Gen 2 لجالاكسي</li>

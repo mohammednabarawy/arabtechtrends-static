@@ -6,7 +6,7 @@ updatedDate: "2025-12-12T15:55:35"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["الجهاز اللوحي Xiaomi Pad 8","شركة Xiaomi","لجنة الاتصالات الفيدرالية الأمريكية (FCC).","منصة لجنة الاتصالات الفيدرالية (FCC)","هاتف POCO M8 Pro"]
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/12/1765547732_519_poco-m8-pro--xiaomi-pad-8.webp.webp"
+image: "/uploads/wp/2025/12/1765547732_519_poco-m8-pro--xiaomi-pad-8.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b1%d8%b5%d8%af-%d9%87%d8%a7%d8%aa%d9%81-poco-m8-pro-%d9%88-xiaomi-pad-8-%d8%b9%d9%84%d9%8a-%d9%85%d9%86%d8%b5%d8%a9-fcc/"
 ---
@@ -45,7 +45,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b1%d8%b5%d8%af-%d9%87%d8%a7%d8%aa
 </ul>
 <p></p>
 <p>كما أظهرت الوثائق وجود شاحن رقم MDY-19-EX بقدرة 100 واط، مما يؤكد التوقعات بأن الهاتف سيدعم الشحن السريع بنفس القدرة.</p>
-<div align="center"><img src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1765547732_519_poco-m8-pro--xiaomi-pad-8.webp.webp" class="img-responsive lazy" alt=""/></div>
+<div align="center"><img src="/uploads/wp/2025/12/1765547732_519_poco-m8-pro--xiaomi-pad-8.webp.webp" class="img-responsive lazy" alt=""/></div>
 <p></p>
 <p>ومن المتوقع أن يتوفر الهاتف بثلاثة إصدارات من الذاكرة:</p>
 <ul>

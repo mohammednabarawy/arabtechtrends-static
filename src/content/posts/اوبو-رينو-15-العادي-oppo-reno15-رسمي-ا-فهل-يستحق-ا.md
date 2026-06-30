@@ -6,7 +6,7 @@ updatedDate: "2025-11-18T06:30:33"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/11/1763440231_108_oppo-reno15.jpg"
+image: "/uploads/wp/2025/11/1763440231_108_oppo-reno15.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a7%d9%88%d8%a8%d9%88-%d8%b1%d9%8a%d9%86%d9%88-15-%d8%a7%d9%84%d8%b9%d8%a7%d8%af%d9%8a-oppo-reno15-%d8%b1%d8%b3%d9%85%d9%8a%d9%8b%d8%a7-%d9%81%d9%87%d9%84-%d9%8a%d8%b3%d8%aa%d8%ad%d9%82-%d8%a7/"
 ---
@@ -39,7 +39,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a7%d9%88%d8%a8%d9%88-%d8%b1%d9%8a
 <ul class="posts-items posts-list-container">
 <li class="widget-single-post-item widget-post-list tie-standard">
 <div class="post-widget-thumbnail">
-<img width="220" height="150" src="https://www.arabtechtrends.com/wp-content/uploads/2025/11/1763440231_108_oppo-reno15.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="اوبو رينو 15 برو"></div>
+<img width="220" height="150" src="/uploads/wp/2025/11/1763440231_108_oppo-reno15.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="اوبو رينو 15 برو"></div>
 </li>
 </ul>
 </div>

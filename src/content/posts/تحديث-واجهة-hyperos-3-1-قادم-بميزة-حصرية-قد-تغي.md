@@ -6,7 +6,7 @@ updatedDate: "2025-09-15T11:21:18"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/09/1757924476_967_hyperos-31.jpg"
+image: "/uploads/wp/2025/09/1757924476_967_hyperos-31.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d9%88%d8%a7%d8%ac%d9%87%d8%a9-hyperos-3-1-%d9%82%d8%a7%d8%af%d9%85-%d8%a8%d9%85%d9%8a%d8%b2%d8%a9-%d8%ad%d8%b5%d8%b1%d9%8a%d8%a9-%d9%82%d8%af-%d8%aa%d8%ba%d9%8a%d9%91/"
 ---
@@ -30,7 +30,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d9%88
 <h4><span class="ez-toc-section" id="%D9%85%D8%A7_%D9%87%D9%88_%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85_%D8%B0%D9%84%D9%83%D8%9F"></span>ما هو استخدام ذلك؟<span class="ez-toc-section-end"></span></h4>
 <p>قد تبدو الميزة بسيطة للوهلة الأولى ، لكنها تحمل قيمة كبيرة في الاستخدام اليومي. على سبيل المثال ، يمكن تقليل الأدوات المنخفضة الاستخدام مثل خدمات الموقع ، مع تسليط الضوء على الأدوات المهمة مثل المصباح أو نقطة الاتصال. أيضًا ، يمكن للمستخدمين إنشاء تخطيطات مخصصة تناسب احتياجاتهم: قد يضع المسافرون أدوات الرحلات في المقدمة ، بينما يركز اللاعبون على ظروف الأداء.</p>
 <p>بالإضافة إلى ذلك ، من المتوقع أن يقوم Xiaomi بإصلاح مشكلة تجميد "مركز التحكم" الذي اشتكى فيه بعض مستخدمي Hyperos 3.0 ، مما يعني أن الإصدار الجديد سيجمع بين الأداء السلس والقدرة على التخصيص.</p>
-<figure class="wp-block-image size-full"><img width="708" height="405" src="https://www.arabtechtrends.com/wp-content/uploads/2025/09/1757924476_967_hyperos-31.jpg" alt="" class="wp-image-224622"  /></figure>
+<figure class="wp-block-image size-full"><img width="708" height="405" src="/uploads/wp/2025/09/1757924476_967_hyperos-31.jpg" alt="" class="wp-image-224622"  /></figure>
 <h4><span class="ez-toc-section" id="Hyperos_31_%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE_%D8%A5%D8%B7%D9%84%D8%A7%D9%82_%D9%88%D8%A7%D8%AC%D9%87%D8%A9%D8%9F"></span>Hyperos 3.1 تاريخ إطلاق واجهة؟<span class="ez-toc-section-end"></span></h4>
 <p>حتى الآن ، لم تعلن Xiaomi عن موعد رسمي لـ Hyperos 3.1 ، ولكن بالنظر إلى أنماط الإصدارات السابقة ، فمن المحتمل أن يصل في أكتوبر 2025 في السوق الصينية أولاً ، للتوسع على مستوى العالم بعد بضعة أسابيع. من المتوقع أن تكون لوحة الإعدادات السريعة المخصصة واحدة من أبرز المزايا في التحديث.</p>
 <p>الآن ، شارك رأيك في قسم التعليقات أدناه حول أهم الميزة التي يجب أن تصل إليها واجهة HyperOS 3.1 …</p>

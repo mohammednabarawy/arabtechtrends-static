@@ -6,7 +6,7 @@ updatedDate: "2025-11-02T10:53:24"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/11/1762073602_732_iphone-18-pro---iphone-18-pro.jpg"
+image: "/uploads/wp/2025/11/1762073602_732_iphone-18-pro---iphone-18-pro.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a7%d9%8a%d9%81%d9%88%d9%86-18-%d8%a8%d8%b1%d9%88-iphone-18-pro-%d9%83%d8%b4%d9%81-%d8%ae%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a3%d9%84%d9%88%d8%a7%d9%86-%d8%ba%d9%8a%d8%b1-%d9%85%d8%aa%d9%88%d9%82/"
 ---
@@ -22,7 +22,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a7%d9%8a%d9%81%d9%88%d9%86-18-%d8
 <h2>تفاصيل تصميم آيفون 18 برو</h2>
 <p>وبحسب المسرب الشهير Instant Digital على منصة Weibo الصينية، تخطط شركة آبل لتقديم نطاق ألوان جديد تمامًا لهاتفها iPhone 18 Pro، والذي يتضمن ظلال القهوة (البني الداكن)، والبورجوندي (العنابي)، والأرجواني (الأرجواني)، وهي ألوان لم يتم استخدامها من قبل في هواتف سلسلة Pro.</p>
 <p>ويبدو أن الشركة لا تزال تراهن على الألوان النابضة بالحياة بعد الجدل الذي أثارته النسخة البرتقالية من هاتف iPhone 17 Pro، والتي اشتكى بعض المستخدمين من تغير لونها مع مرور الوقت. وعلى الرغم من ذلك، فإن شركة آبل لم تتراجع عن نهجها الجريء، بل يبدو أنها تخطط لتوسيع هذا الأسلوب في الجيل الجديد.</p>
-<figure class="wp-block-image size-full"><img width="708" height="399" src="https://www.arabtechtrends.com/wp-content/uploads/2025/11/1762073602_732_iphone-18-pro---iphone-18-pro.jpg" alt="" class="wp-image-225961"></figure>
+<figure class="wp-block-image size-full"><img width="708" height="399" src="/uploads/wp/2025/11/1762073602_732_iphone-18-pro---iphone-18-pro.jpg" alt="" class="wp-image-225961"></figure>
 <ul class="wp-block-list">
 <li><strong>لون القهوة</strong>: ومن المتوقع أن يكون استمرارًا للون الذهبي القديم أو تدرج “صحراء التيتانيوم” الموجود في هاتف iPhone 16 Pro، مع مظهر فاخر ولمسة معدنية عميقة.</li>
 <li><strong>لون بورجوندي</strong>: مزيج من اللون الأحمر الداكن مع لمسة من اللون البنفسجي يمنحه مظهراً أنيقاً ومختلفاً عن أي لون سابق.</li>

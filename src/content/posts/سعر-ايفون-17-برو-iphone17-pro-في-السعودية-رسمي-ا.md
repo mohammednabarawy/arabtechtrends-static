@@ -6,7 +6,7 @@ updatedDate: "2025-09-12T13:05:58"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/09/1757671556_698_iphone-17-pro-iphone17-pro.jpg"
+image: "/uploads/wp/2025/09/1757671556_698_iphone-17-pro-iphone17-pro.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%b9%d8%b1-%d8%a7%d9%8a%d9%81%d9%88%d9%86-17-%d8%a8%d8%b1%d9%88-iphone17-pro-%d9%81%d9%8a-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9-%d8%b1%d8%b3%d9%85%d9%8a%d9%8b%d8%a7/"
 ---
@@ -31,7 +31,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%b9%d8%b1-%d8%a7%d9%8a%d9%81
 <p><strong>الكاميرا الأمامية</strong> في 18 ميجابكسل بدقة مع تقنية مرحلة مركز ، فإنه يدعم صورًا مربعة 1: 1 ويعدل تلقائيًا زاوية التصوير لالتقاط صور جماعية أفضل.</p>
 <p>يدعم iPhone 17 Pro الفيديو الاحترافي بميزات مثل: Brories Raw و Log 2 و Genlock لمزامنة الكاميرات ، بالإضافة إلى الكاميرا النهائية 2.0 وكاميرا Blackmagic المدعومة إلى جانب Dolby Vision HDR و 4K دقة إلى 120 إطارًا في الثانية.</p>
 <p>يعتمد iPhone 17 Pro على معالج A19 Pro الجديد المصمم بـ 3 نانومتر ، مع وحدة معالجة مركزية سداسية (2 نوى الأداء + 4 من أجل الكفاءة) ، ومعالج رسومات سداسي يدعم تتبع تجارة الأشعة مع الأجهزة. كما أنه يحتوي على 16 نواة لتسريع أداء ذكاء Apple.</p>
-<figure class="wp-block-image size-full"><img loading="lazy" width="708" height="467" src="https://www.arabtechtrends.com/wp-content/uploads/2025/09/1757671556_698_iphone-17-pro-iphone17-pro.jpg" alt="" class="wp-image-224563"  /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="708" height="467" src="/uploads/wp/2025/09/1757671556_698_iphone-17-pro-iphone17-pro.jpg" alt="" class="wp-image-224563"  /></figure>
 <p>لأول مرة ، أضافت Apple غرفة تبريد بخار لتحسين استقرار الأداء. تؤكد الشركة أن iPhone 17 Pro يقدم أداءً مستدامًا بنسبة 40 ٪ مقارنة بالجيل السابق.</p>
 <p>بفضل التصميم الجديد ، حصل الهاتف على بطارية أكبر ، ووعد Apple بمنح "أفضل عمر بطارية في iPhone" مع ساعتين إضافيتين في الفيديو للوصول إلى 39 ساعة.</p>
 <p>يدعم الهاتف شبكة N1 مع Wi-Fi 7 و Bluetooth 6 ، بالإضافة إلى توسيع نطاق توفير ESIM فقط لتشمل أسواق جديدة مثل المملكة العربية السعودية والإمارات وقطر والكويت واليابان وغيرها.</p>

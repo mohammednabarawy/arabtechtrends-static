@@ -6,7 +6,7 @@ updatedDate: "2025-08-18T15:25:41"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/08/يتلقى-تطبيق-صور-Google-تحديثًا-ضخمًا-بميزات-رهيبة.jpg"
+image: "/uploads/wp/2025/08/يتلقى-تطبيق-صور-Google-تحديثًا-ضخمًا-بميزات-رهيبة.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-%d8%b5%d9%88%d8%b1-%d8%ac%d9%88%d8%ac%d9%84-google-photos-%d9%8a%d8%aa%d9%84%d9%82%d9%89-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab%d9%8b%d8%a7-%d8%b6%d8%ae%d9%85%d9%8b%d8%a7-%d8%a8/"
 ---
@@ -30,7 +30,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-%d8%b5
 <li><strong>رسم الرسومات</strong></li>
 </ol>
 <p>تتيح لك هذه الأداة البسيطة إطلاق خيالك ، حيث يمكنك تحويل صورك الشخصية أو صورك العائلية أو حتى حيواناتك الأليفة إلى عمل فني فريد بنقرة واحدة. وإذا كنت لا تحب النتيجة الأولى ، يمكنك الضغط على الزر <strong>"إعادة إنشاء" </strong> للحصول على إصدار جديد من نفس الصورة بنفس الطريقة.</p>
-<figure class="wp-block-image size-full"><img width="708" height="400" src="https://www.arabtechtrends.com/wp-content/uploads/2025/08/يتلقى-تطبيق-صور-Google-تحديثًا-ضخمًا-بميزات-رهيبة.jpg" alt="" class="wp-image-223864"></figure>
+<figure class="wp-block-image size-full"><img width="708" height="400" src="/uploads/wp/2025/08/يتلقى-تطبيق-صور-Google-تحديثًا-ضخمًا-بميزات-رهيبة.jpg" alt="" class="wp-image-223864"></figure>
 <h3><span class="ez-toc-section" id="%D9%85%D8%A7_%D9%87%D8%B0%D8%A7_%D9%85%D9%8A%D8%B2%D8%A9_%E2%80%9C%D8%B5%D9%88%D8%B1%D8%A9_%D8%A5%D9%84%D9%89_%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88%E2%80%9D%D8%9F"></span>ما هذا <strong>ميزة "صورة إلى الفيديو"؟</strong><span class="ez-toc-section-end"></span></h3>
 <p>إنها ميزة <strong>صورة للفيديو</strong> واحدة من أكثر الميزات إثارة للإعجاب ، حيث يتم استخدام الذكاء الاصطناعي لتحويل صورة ثابتة إلى مقطع فيديو قصير الأجل. تعمل هذه الميزة بشكل أفضل مع صور الأشخاص والحيوانات الأليفة ، وتضيف حركات دقيقة وواقعية ، مما يجعلها تبدو وكأنها مقاطع فيديو أصلية.</p>
 <h3><span class="ez-toc-section" id="%D9%83%D9%8A%D9%81_%D8%AA%D8%B5%D9%84_%D8%A5%D9%84%D9%89_%D8%A7%D9%84%D9%85%D9%8A%D8%B2%D8%A7%D8%AA%D8%9F"></span><strong>كيف تصل إلى الميزات؟</strong><span class="ez-toc-section-end"></span></h3>

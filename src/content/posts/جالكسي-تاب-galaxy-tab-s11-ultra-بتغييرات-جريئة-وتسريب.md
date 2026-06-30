@@ -6,7 +6,7 @@ updatedDate: "2025-07-20T22:29:00"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/07/1753039738_913_Galaxy-Tab-S11-Ultra-مع-تغييرات-جريئة-وتسربات-مثيرة-حول.jpg"
+image: "/uploads/wp/2025/07/1753039738_913_Galaxy-Tab-S11-Ultra-مع-تغييرات-جريئة-وتسربات-مثيرة-حول.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-%d8%aa%d8%a7%d8%a8-galaxy-tab-s11-ultra-%d8%a8%d8%aa%d8%ba%d9%8a%d9%8a%d8%b1%d8%a7%d8%aa-%d8%ac%d8%b1%d9%8a%d8%a6%d8%a9-%d9%88%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8/"
 ---
@@ -35,7 +35,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-
 </div>
 <p>من المحتمل أن هذا التغيير يعني أن Samsung تتخلص من الكاميرات الأمامية المزدوجة وهي راضية عن عدسة واحدة ، وغالبًا ما تكون العدسة واسعة للغاية. </p>
 <p>على الرغم من أن الحواف تبدو نحيفة ، إلا أن تصميم الشق الجديد قد يثير بعض الجدل ، كما يرى البعض أنها تذكر المجرة سلسلة اقتصادية ، على الرغم من أن سعر الجهاز اللوحي يتجاوز 1000 دولار.</p>
-<figure class="wp-block-image size-full"><img width="708" height="353" src="https://www.arabtechtrends.com/wp-content/uploads/2025/07/1753039738_913_Galaxy-Tab-S11-Ultra-مع-تغييرات-جريئة-وتسربات-مثيرة-حول.jpg" alt="Galaxy Tab S11 Ultra" class="wp-image-223235"></figure>
+<figure class="wp-block-image size-full"><img width="708" height="353" src="/uploads/wp/2025/07/1753039738_913_Galaxy-Tab-S11-Ultra-مع-تغييرات-جريئة-وتسربات-مثيرة-حول.jpg" alt="Galaxy Tab S11 Ultra" class="wp-image-223235"></figure>
 <h3><span class="ez-toc-section" id="%D9%82%D9%85_%D8%A8%D8%A5%D8%B2%D8%A7%D9%84%D8%A9_%D8%A7%D9%84%D9%82%D9%84%D9%85_%D8%A7%D9%84%D9%85%D8%AE%D8%B5%D8%B5"></span><strong>قم بإزالة القلم المخصص</strong>: <span class="ez-toc-section-end"></span></h3>
 <p>ويلاحظ غياب المساحة المخصصة لتخزين القلم المغناطيسي S -pen في الخلف. على الرغم من أن القلم لا يزال يظهر في الصورة ، مما يؤكد دعمه ، فإن إزالة هذه المساحة قد تشير إلى عدة إمكانيات:</p>
 <ul class="wp-block-list">

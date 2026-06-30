@@ -6,7 +6,7 @@ updatedDate: "2025-12-25T10:39:22"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/12/1766651961_176_xiaomi-17-ultra-xiaomi-17-ultra.jpg"
+image: "/uploads/wp/2025/12/1766651961_176_xiaomi-17-ultra-xiaomi-17-ultra.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-17-%d8%a7%d9%84%d8%aa%d8%b1%d8%a7-xiaomi-17-ultra-%d9%83%d8%b4%d9%81-%d9%83%d8%a7%d9%85%d9%84-%d8%a3%d8%b3%d8%b1%d8%a7%d8%b1-%d8%a7%d9%84%d9%87%d8%a7%d8%aa%d9%81-%d9%82/"
 ---
@@ -44,14 +44,14 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-17-%d8
 </li>
 </ol>
 <p>وتشير التوقعات إلى أن الكاميرات ستكون قادرة على منافسة أفضل هواتف التصوير في السوق.</p>
-<figure class="wp-block-image size-full"><img width="700" height="425" src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1766651961_176_xiaomi-17-ultra-xiaomi-17-ultra.jpg" alt="شاومى 17 الترا" class="wp-image-227270"></figure>
+<figure class="wp-block-image size-full"><img width="700" height="425" src="/uploads/wp/2025/12/1766651961_176_xiaomi-17-ultra-xiaomi-17-ultra.jpg" alt="شاومى 17 الترا" class="wp-image-227270"></figure>
 <h3><span class="ez-toc-section" id="%D8%A7%D9%84%D8%A3%D8%AF%D8%A7%D8%A1_%D9%88%D8%A7%D9%84%D8%AA%D9%82%D9%86%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9"></span><strong>الأداء والتقنيات الداخلية</strong><span class="ez-toc-section-end"></span></h3>
 <ul class="wp-block-list">
 <li>سيأتي الهاتف مزودًا بأحدث المعالجات لدعم الأداء العالي والتجربة السلسة.</li>
 <li>التكامل التام مع <strong>هايبر أو إس 3</strong>توفير تجربة محسنة وذكاء اصطناعي متقدم.</li>
 <li>يعد الهاتف بتحسينات في استقرار النظام وسرعة التطبيقات، مع دعمه <strong>هايبر كونيكت</strong> للاتصال السلس بين أجهزة Xiaomi المختلفة.</li>
 </ul>
-<figure class="wp-block-image size-large"><img loading="lazy" width="708" height="708" src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1766651962_87_xiaomi-17-ultra-xiaomi-17-ultra.jpg" alt="شاومى 17 الترا" class="wp-image-227271"></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="708" height="708" src="/uploads/wp/2025/12/1766651962_87_xiaomi-17-ultra-xiaomi-17-ultra.jpg" alt="شاومى 17 الترا" class="wp-image-227271"></figure>
 <h3><span class="ez-toc-section" id="%D8%AA%D9%88%D9%82%D8%B9%D8%A7%D8%AA_%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85"></span><strong>توقعات المستخدم</strong><span class="ez-toc-section-end"></span></h3>
 <ul class="wp-block-list">
 <li>التصميم الجديد والكاميرات المتقدمة تجعلها كذلك <strong>شاومى 17 الترا</strong> هاتف مثالي لعشاق التصوير الفوتوغرافي.</li>

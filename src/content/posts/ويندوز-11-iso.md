@@ -6,7 +6,7 @@ updatedDate: "2025-12-27T03:43:41"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/12/1766799813_920_windows-11-iso-25h224h2---------2025.jpg"
+image: "/uploads/wp/2025/12/1766799813_920_windows-11-iso-25h224h2---------2025.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%88%d9%8a%d9%86%d8%af%d9%88%d8%b2-11-iso/"
 ---
@@ -83,7 +83,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d9%8a%d9%86%d8%af%d9%88%d8%b2-
 </li>
 <li>
 <p data-path-to-node="21,2,0">ستقوم الأداة تلقائيًا بفحص جهازك للتأكد من توافق الأجهزة (فحص صحة الكمبيوتر).<br />
-<img class="alignnone size-full wp-image-96008" src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1766799813_920_windows-11-iso-25h224h2---------2025.jpg" alt="تحقق من حالة الكمبيوتر عبر مساعد تثبيت Windows 11" width="890" height="885"  ></p>
+<img class="alignnone size-full wp-image-96008" src="/uploads/wp/2025/12/1766799813_920_windows-11-iso-25h224h2---------2025.jpg" alt="تحقق من حالة الكمبيوتر عبر مساعد تثبيت Windows 11" width="890" height="885"  ></p>
 </li>
 <li>
 <p data-path-to-node="21,3,0">إذا أعطتك "الضوء الأخضر"، فستبدأ الأداة في تنزيل Windows 11 وتثبيته في الخلفية أثناء متابعة العمل على الجهاز.</p>
@@ -100,7 +100,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d9%8a%d9%86%d8%af%d9%88%d8%b2-
 <ol start="1" data-path-to-node="27">
 <li>
 <p data-path-to-node="27,0,0">قم بتنزيل الأداة من القسم <b>إنشاء وسائط تثبيت Windows 11</b>.<br />
-<img loading="lazy" class="alignnone size-full wp-image-96009" src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1766799815_968_windows-11-iso-25h224h2---------2025.jpg" alt="صفحة تنزيل أداة إنشاء الوسائط" width="1000" height="467"  ></p>
+<img loading="lazy" class="alignnone size-full wp-image-96009" src="/uploads/wp/2025/12/1766799815_968_windows-11-iso-25h224h2---------2025.jpg" alt="صفحة تنزيل أداة إنشاء الوسائط" width="1000" height="467"  ></p>
 </li>
 <li>
 <p data-path-to-node="27,1,0">قم بتوصيل محرك أقراص USB محمول (على الأقل 8 جيجابايت) وتأكد من أنه لا يحتوي على ملفات مهمة (سيتم مسحها).</p>
@@ -113,7 +113,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d9%8a%d9%86%d8%af%d9%88%d8%b2-
 </li>
 <li>
 <p data-path-to-node="27,4,0">في نافذة "اختيار الوسائط المراد استخدامها"، اختر <b>محرك أقراص فلاش USB</b> واضغط على التالي.<br />
-<img loading="lazy" class="alignnone size-full wp-image-96010" src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1766799816_134_windows-11-iso-25h224h2---------2025.jpg" alt="اختر محرك أقراص فلاش USB لنسخ Windows 11 على محرك أقراص فلاش" width="837" height="737"  ></p>
+<img loading="lazy" class="alignnone size-full wp-image-96010" src="/uploads/wp/2025/12/1766799816_134_windows-11-iso-25h224h2---------2025.jpg" alt="اختر محرك أقراص فلاش USB لنسخ Windows 11 على محرك أقراص فلاش" width="837" height="737"  ></p>
 </li>
 <li>
 <p data-path-to-node="27,5,0">انتظر حتى تنتهي الأداة من التنزيل والحرق. الفلاش الآن جاهز للإقلاع.</p>
@@ -145,7 +145,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d9%8a%d9%86%d8%af%d9%88%d8%b2-
 </ul>
 </li>
 </ul>
-<p><img loading="lazy" class="alignnone size-full wp-image-96018" src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1766799817_672_windows-11-iso-25h224h2---------2025.jpg" alt="حرق ويندوز 11 لمدة 25 ساعة على محرك أقراص فلاش بواسطة Rufus" width="983" height="860"  ></p>
+<p><img loading="lazy" class="alignnone size-full wp-image-96018" src="/uploads/wp/2025/12/1766799817_672_windows-11-iso-25h224h2---------2025.jpg" alt="حرق ويندوز 11 لمدة 25 ساعة على محرك أقراص فلاش بواسطة Rufus" width="983" height="860"  ></p>
 <p><strong>اقرأ بالتفصيل</strong>: دليلك الشامل لإنشاء فلاشة تثبيت ويندوز 10/11 وشرح مناسب لكل جهاز كمبيوتر قديم أو حديث.</p>
 <h2 data-path-to-node="3"><span class="ez-toc-section" id="%D9%85%D8%A7%D8%B0%D8%A7_%D8%A8%D8%B9%D8%AF_%D8%AA%D9%86%D8%B2%D9%8A%D9%84_%D9%85%D8%AD%D8%B1%D9%83_%D8%A7%D9%84%D8%A3%D9%82%D8%B1%D8%A7%D8%B5_%D8%A7%D9%84%D9%85%D8%AD%D9%85%D9%88%D9%84_%D9%88%D8%AD%D8%B1%D9%82%D9%87%D8%9F_%D9%85%D9%84%D8%AE%D8%B5_%D8%AE%D8%B7%D9%88%D8%A7%D8%AA_%D8%A7%D9%84%D8%AA%D8%AB%D8%A8%D9%8A%D8%AA"></span><span id="madha_bd_althmyl_whrq_alflasht_mlkhs_khtwat_altthbyt">ماذا بعد تنزيل محرك الأقراص المحمول وحرقه؟ (ملخص خطوات التثبيت)</span><span class="ez-toc-section-end"></span></h2>
 <p data-path-to-node="4">الآن أصبح محرك الأقراص المحمول في يدك وجاهزًا. لا داعي للقلق، فالعملية أبسط مما تتخيل. لك <b>خريطة الطريق السريع</b> ماذا سيحدث بمجرد إعادة تشغيل جهازك، حتى تكون مستعدًا نفسيًا للخطوات:</p>
@@ -158,7 +158,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d9%8a%d9%86%d8%af%d9%88%d8%b2-
 </li>
 <li>
 <p data-path-to-node="5,2,0"><b>نوع التثبيت (نقطة مهمة):</b> سيتم سؤالك عن نوع التثبيت، اختر دائمًا <b>مخصص: تثبيت Windows فقط (متقدم)</b> لضمان تركيب نظيف وجديد.<br />
-<img loading="lazy" class="alignnone size-full wp-image-96019" src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1766799818_31_windows-11-iso-25h224h2---------2025.jpg" alt="قم بتثبيت Windows 11 الخام أو احتفظ بملفات التثبيت المخصص لنظام Windows " width="871" height="567"  ></p>
+<img loading="lazy" class="alignnone size-full wp-image-96019" src="/uploads/wp/2025/12/1766799818_31_windows-11-iso-25h224h2---------2025.jpg" alt="قم بتثبيت Windows 11 الخام أو احتفظ بملفات التثبيت المخصص لنظام Windows " width="871" height="567"  ></p>
 </li>
 <li>
 <p data-path-to-node="5,3,0"><b>مرحلة تقسيم القرص:</b> ستظهر مساحة التخزين.</p>

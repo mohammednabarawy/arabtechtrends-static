@@ -6,7 +6,7 @@ updatedDate: "2025-11-11T19:51:41"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/11/1762883500_994_galaxy-s26-----galaxy-s26.jpg"
+image: "/uploads/wp/2025/11/1762883500_994_galaxy-s26-----galaxy-s26.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-%d8%a7%d8%b3-26-galaxy-s26-%d9%83%d8%b4%d9%81-%d8%aa%d9%81%d8%a7%d8%b5%d9%8a%d9%84-%d9%87%d8%a7%d9%85%d8%a9-%d9%84%d9%84%d8%ba%d8%a7%d9%8a%d8%a9-%d8%b9%d9%86/"
 ---
@@ -19,7 +19,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-
 <figure class="wp-block-image size-full"></figure>
 <p>ويشير هذا إلى أن سامسونج تفضل الاحتفاظ بنفس الهيكل العام، مع بعض التحسينات الدقيقة في الحواف والمنحنيات لزيادة الأناقة والصلابة.</p>
 <p>الهاتف الأبرز في السلسلة، Galaxy S26 Ultra، سيحتوي على شاشة أكبر قليلاً بقياس 6.9 بوصة بدلاً من 6.86 بوصة في الجيل السابق، بأبعاد 163.6×78.1×7.9 ملم مقارنة بـ 162.8×77.6×8.2 ملم في S25 Ultra. ويلاحظ أن الجهاز سيكون أنحف من سابقه مع زيادة طفيفة في الطول والعرض، مما يعزز الشعور بالفخامة ويوفر مساحة إضافية للمكونات الداخلية دون التضحية بالراحة أو التصميم الانسيابي.</p>
-<figure class="wp-block-image size-full"><img loading="lazy" width="600" height="633" src="https://www.arabtechtrends.com/wp-content/uploads/2025/11/1762883500_994_galaxy-s26-----galaxy-s26.jpg" alt="جالاكسي اس26" class="wp-image-226211"></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="600" height="633" src="/uploads/wp/2025/11/1762883500_994_galaxy-s26-----galaxy-s26.jpg" alt="جالاكسي اس26" class="wp-image-226211"></figure>
 <p>تشير هذه التفاصيل إلى أن سامسونج تتجه نحو تحسينات دقيقة موجهة نحو التجربة اليومية، مثل جعل الهواتف أرق قليلاً وزيادة حجم الشاشة دون تغيير التصميم بشكل جذري. وتعمل الشركة أيضًا على تحسين الكفاءة الهيكلية والوزن لتقديم أجهزة أكثر توازناً بين الجمال والأداء.</p>
 <p>ومن المتوقع أن تكشف سامسونج النقاب رسميًا عن سلسلة Galaxy S26 في أواخر يناير 2026، على أن تبدأ المبيعات العالمية في الأسبوع الأول من فبراير.</p>
 <p>ما رأيك في تصميم الهواتف؟ شاركنا رأيك…</p>

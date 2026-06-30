@@ -6,7 +6,7 @@ updatedDate: "2025-10-29T16:27:38"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/10/2025-10-29_16-02-43.jpg"
+image: "/uploads/wp/2025/10/2025-10-29_16-02-43.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d9%82%d9%86%d9%8a%d8%a9-roborock-%d8%a3%d8%b1%d8%a8%d8%b9%d8%a9-%d9%85%d9%86%d8%aa%d8%ac%d8%a7%d8%aa-%d8%aa%d9%86%d8%b8%d9%8a%d9%81-%d8%b0%d9%83%d9%8a%d8%a9-%d9%84%d8%a3%d9%88%d9%84-%d9%85/"
 ---
@@ -21,15 +21,15 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d9%82%d9%86%d9%8a%d8%a9-roboro
 <p>تأتي بقوة شفط فائقة تصل إلى 22000 باسكال، ومجهزة بنظام مسح بالماء الساخن وموجات صوتية. يتميز بجسم نحيف للغاية يبلغ ارتفاعه 3 بوصات ويمكن الوصول إليه بسهولة تحت الأثاث. كما تحتوي قاعدة الجهاز على وظائف متعددة منها الغسيل والمسح بالماء الساخن بدرجة حرارة تصل إلى 80 درجة مئوية، بالإضافة إلى وظائف إضافية متنوعة.</p>
 <p>السعر الحالي: 4,899 ريال سعودي مع خصم مباشر 18%.</p>
 <h3><span class="ez-toc-section" id="%D9%85%D8%AA%D9%88%D8%B3%D8%B7%D8%A9_%D8%A7%D9%84%D9%85%D8%AF%D9%89_%D8%B4%D8%A7%D9%85%D9%84%D8%A9_%D8%B1%D9%88%D8%A8%D9%88%D8%B1%D9%88%D9%83_%D9%83%D8%B1%D9%8A%D9%81%D9%88_5AE"></span><strong>متوسطة المدى شاملة <a href="https://www.amazon.sa/dp/B0DZ26MJMJ" data-type="link" data-id="https://www.amazon.sa/dp/B0DZ26MJMJ" target="_blank" rel="noreferrer noopener">روبوروك كريفو 5AE</a></strong><span class="ez-toc-section-end"></span></h3>
-<figure class="wp-block-image size-full"><img loading="lazy" width="617" height="493" src="https://www.arabtechtrends.com/wp-content/uploads/2025/10/2025-10-29_16-02-43.jpg" alt="الطراز المتوسط ​​المدى هو Roborock Qrevo 5AE " class="wp-image-225858"></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="617" height="493" src="/uploads/wp/2025/10/2025-10-29_16-02-43.jpg" alt="الطراز المتوسط ​​المدى هو Roborock Qrevo 5AE " class="wp-image-225858"></figure>
 <p>تتميز بقوة شفط عالية تصل إلى 12000 باسكال، ومجهزة بنظام كنس مزدوج الدوران. يدعم الجهاز الغسيل التلقائي للممسحة والتجفيف بالهواء الساخن وجمع الغبار، مما يجعله خيارًا مثاليًا للمنازل الكبيرة والمتوسطة الحجم والعائلات التي لديها حيوانات أليفة.</p>
 <p>السعر الترويجي الحالي: 1,879 ريال سعودي مع خصم 37%.</p>
 <h3><span class="ez-toc-section" id="%D8%B1%D9%88%D8%A8%D9%88%D8%B1%D9%88%D9%83_Q7_%D8%AA%D9%8A_%D8%A7%D9%81_%E2%80%93_%D8%A7%D9%84%D9%82%D9%8A%D9%85%D8%A9_%D9%85%D9%82%D8%A7%D8%A8%D9%84_%D8%A7%D9%84%D8%B3%D8%B9%D8%B1"></span><strong><a href="https://www.amazon.sa/dp/B0F38BGFV2?th=1" data-type="link" data-id="https://www.amazon.sa/dp/B0F38BGFV2?th=1" target="_blank" rel="noreferrer noopener">روبوروك Q7 تي اف</a> – القيمة مقابل السعر</strong><span class="ez-toc-section-end"></span></h3>
-<figure class="wp-block-image size-full"><img loading="lazy" width="661" height="484" src="https://www.arabtechtrends.com/wp-content/uploads/2025/10/2025-10-29_16-01-27.jpg" alt="Roborock Q7 TF – القيمة مقابل السعر " class="wp-image-225857"></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="661" height="484" src="/uploads/wp/2025/10/2025-10-29_16-01-27.jpg" alt="Roborock Q7 TF – القيمة مقابل السعر " class="wp-image-225857"></figure>
 <p>تأتي مزودة بقاعدة تجميع الغبار تلقائيًا وتصميم مضاد للتشابك، مما يجعلها مثالية للمنازل الصغيرة والمتوسطة، خاصة للمستخدمين الذين يعانون من مشاكل مع شعر الحيوانات الأليفة أو فروها.</p>
 <p>السعر الحالي: 1,299 ريال سعودي مع توفير 120 ريال سعودي.</p>
 <h3><span class="ez-toc-section" id="%D9%85%D9%83%D9%86%D8%B3%D8%A9_%D8%B1%D9%88%D8%A8%D9%88%D8%B1%D9%88%D9%83_F25_%D8%A2%D8%B1_%D8%AA%D9%8A_%D9%84%D8%A7%D8%B3%D9%84%D9%83%D9%8A"></span><strong>مكنسة <a href="https://www.amazon.sa/dp/B0F389NSB2?th=1" data-type="link" data-id="https://www.amazon.sa/dp/B0F389NSB2?th=1" target="_blank" rel="noreferrer noopener">روبوروك F25 آر تي</a> لاسلكي </strong><span class="ez-toc-section-end"></span></h3>
-<figure class="wp-block-image size-full"><img loading="lazy" width="708" height="542" src="https://www.arabtechtrends.com/wp-content/uploads/2025/10/2025-10-29_15-59-42.jpg" alt="مكنسة Roborock F25 RT اللاسلكية الرطبة والجافة " class="wp-image-225856"></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="708" height="542" src="/uploads/wp/2025/10/2025-10-29_15-59-42.jpg" alt="مكنسة Roborock F25 RT اللاسلكية الرطبة والجافة " class="wp-image-225856"></figure>
 <p>تتمتع بقوة شفط تصل إلى 20,000 باسكال، مع وظيفة التنظيف الذاتي للمياه الساخنة والرطبة، مما يجعل من السهل التعامل مع القمامة الرطبة والجافة في المطبخ والحمام.</p>
 <p>السعر الحالي: <strong>998 ريال سعودي (SAR)</strong> مع الخصم <strong>23%</strong>.</p>
 <p>ما هو المنتج الأكثر ملاءمة لك؟ شاركنا رأيك…</p>

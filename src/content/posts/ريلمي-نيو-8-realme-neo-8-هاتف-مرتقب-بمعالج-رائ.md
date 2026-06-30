@@ -6,7 +6,7 @@ updatedDate: "2025-12-26T21:48:30"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: "https://www.arabtechtrends.com/wp-content/uploads/2025/12/1766778509_766_realme-neo-8.jpg"
+image: "/uploads/wp/2025/12/1766778509_766_realme-neo-8.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b1%d9%8a%d9%84%d9%85%d9%8a-%d9%86%d9%8a%d9%88-8-realme-neo-8-%d9%87%d8%a7%d8%aa%d9%81-%d9%85%d8%b1%d8%aa%d9%82%d8%a8-%d8%a8%d9%85%d8%b9%d8%a7%d9%84%d8%ac-%d8%b1%d8%a7%d8%a6/"
 ---
@@ -61,7 +61,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b1%d9%8a%d9%84%d9%85%d9%8a-%d9%86
 <ul class="posts-items posts-list-container">
 <li class="widget-single-post-item widget-post-list tie-standard">
 <div class="post-widget-thumbnail">
-<img width="220" height="150" src="https://www.arabtechtrends.com/wp-content/uploads/2025/12/1766778509_766_realme-neo-8.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="ريلمي نيو 8"></div>
+<img width="220" height="150" src="/uploads/wp/2025/12/1766778509_766_realme-neo-8.jpg" class="attachment-jannah-image-small size-jannah-image-small tie-small-image wp-post-image" alt="ريلمي نيو 8"></div>
 </li>
 </ul>
 </div>
