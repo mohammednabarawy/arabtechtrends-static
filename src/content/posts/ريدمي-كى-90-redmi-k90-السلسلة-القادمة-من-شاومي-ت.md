@@ -6,7 +6,7 @@ updatedDate: "2025-07-22T09:40:35"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/07/1753166434_Redmi-K90-سلسلة-Redmi-K90-تأتي-مع-ميزات-ثورية.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b1%d9%8a%d8%af%d9%85%d9%8a-%d9%83%d9%89-90-redmi-k90-%d8%a7%d9%84%d8%b3%d9%84%d8%b3%d9%84%d8%a9-%d8%a7%d9%84%d9%82%d8%a7%d8%af%d9%85%d8%a9-%d9%85%d9%86-%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%aa/"
 ---

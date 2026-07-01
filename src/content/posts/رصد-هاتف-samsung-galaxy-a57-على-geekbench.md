@@ -6,7 +6,7 @@ updatedDate: "2025-11-22T11:26:58"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["12 جيجا رام","Exynos 1680","Geekbench","الهاتف جالكسي A57"]
-image: ""
+image: "/uploads/wp/2025/11/1763803616_samsung-galaxy-a57---geekbench.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b1%d8%b5%d8%af-%d9%87%d8%a7%d8%aa%d9%81-samsung-galaxy-a57-%d8%b9%d9%84%d9%89-geekbench/"
 ---

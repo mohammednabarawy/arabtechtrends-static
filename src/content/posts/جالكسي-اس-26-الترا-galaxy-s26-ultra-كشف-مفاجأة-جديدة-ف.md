@@ -6,7 +6,7 @@ updatedDate: "2025-12-05T12:55:41"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/12/1764932140_2025-12-02_14-00-11.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-%d8%a7%d8%b3-26-%d8%a7%d9%84%d8%aa%d8%b1%d8%a7-galaxy-s26-ultra-%d9%83%d8%b4%d9%81-%d9%85%d9%81%d8%a7%d8%ac%d8%a3%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%81/"
 ---

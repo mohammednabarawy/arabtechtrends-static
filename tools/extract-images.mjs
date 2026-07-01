@@ -20,7 +20,8 @@ for (const file of readdirSync(POSTS_DIR).filter((f) => f.endsWith(".md"))) {
   if (!match) continue;
 
   const [, frontmatter, body] = match;
-  if (/^image:\s*["'][^"']+["']/m.test(frontmatter)) {
+  const existing = frontmatter.match(/^image:\s*["']([^"']*)["']/m)?.[1]?.trim();
+  if (existing) {
     skipped++;
     continue;
   }
@@ -31,7 +32,7 @@ for (const file of readdirSync(POSTS_DIR).filter((f) => f.endsWith(".md"))) {
     continue;
   }
 
-  const image = imgMatch[1].replace(/\\"/g, '"');
+  const image = imgMatch[1].replace(/\\"/g, '"').split("?")[0].split("#")[0];
   const newFrontmatter = frontmatter.replace(/^image:\s*["']?["']?\s*$/m, `image: "${image.replace(/"/g, '\\"')}"`);
   const finalFm = /^image:/m.test(newFrontmatter)
     ? newFrontmatter

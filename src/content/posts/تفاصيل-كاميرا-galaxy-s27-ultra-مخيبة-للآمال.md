@@ -6,7 +6,7 @@ updatedDate: "2025-11-29T00:51:30"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["تفاصيل كاميرا هاتف Galaxy S27 Ultra مفاجأة لعشاق سامسونج مخيبة للآمال"]
-image: ""
+image: "/uploads/wp/2025/11/1764370290_galaxy-s27-ultra.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d9%81%d8%a7%d8%b5%d9%8a%d9%84-%d9%83%d8%a7%d9%85%d9%8a%d8%b1%d8%a7-galaxy-s27-ultra-%d9%85%d8%ae%d9%8a%d8%a8%d8%a9-%d9%84%d9%84%d8%a2%d9%85%d8%a7%d9%84/"
 ---

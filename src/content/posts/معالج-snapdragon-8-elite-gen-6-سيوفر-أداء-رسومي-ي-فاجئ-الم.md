@@ -6,7 +6,7 @@ updatedDate: "2025-12-03T11:44:26"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/12/snapdragon-8-elite-gen-6.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%85%d8%b9%d8%a7%d9%84%d8%ac-snapdragon-8-elite-gen-6-%d8%b3%d9%8a%d9%88%d9%81%d8%b1-%d8%a3%d8%af%d8%a7%d8%a1-%d8%b1%d8%b3%d9%88%d9%85%d9%8a-%d9%8a%d9%8f%d9%81%d8%a7%d8%ac%d8%a6-%d8%a7%d9%84%d9%85/"
 ---

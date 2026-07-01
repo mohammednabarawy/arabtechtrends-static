@@ -6,7 +6,7 @@ updatedDate: "2025-08-18T22:26:18"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/08/تحديث-Hyperos-3-اكتشف-أهم-ميزاته-والهواتف-التي-ستحصل-عليها.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-hyperos-3-%d9%83%d8%b4%d9%81-%d8%a3%d9%87%d9%85-%d9%85%d9%85%d9%8a%d8%b2%d8%a7%d8%aa%d9%87-%d9%88%d8%a7%d9%84%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d8%a7%d9%84%d8%aa%d9%8a/"
 ---

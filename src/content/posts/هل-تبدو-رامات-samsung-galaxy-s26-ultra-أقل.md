@@ -6,7 +6,7 @@ updatedDate: "2025-08-11T17:14:35"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["Galaxy S26 Ultra","RAM أقل","تسرب","هاتف Samsung"]
-image: ""
+image: "/uploads/wp/2025/08/1754921673_هل-تبدو-Samsung-Galaxy-S26-Ultra-أقل-من-المنافسين؟-تسرب.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%87%d9%84-%d8%aa%d8%a8%d8%af%d9%88-%d8%b1%d8%a7%d9%85%d8%a7%d8%aa-samsung-galaxy-s26-ultra-%d8%a3%d9%82%d9%84/"
 ---

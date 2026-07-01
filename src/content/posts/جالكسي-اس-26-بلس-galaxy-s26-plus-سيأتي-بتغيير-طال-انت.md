@@ -6,7 +6,7 @@ updatedDate: "2025-07-16T12:59:45"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/07/1752659983_سيأتي-Galaxy-S26-Plus-مع-تغيير-طويل-الطويل.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-%d8%a7%d8%b3-26-%d8%a8%d9%84%d8%b3-galaxy-s26-plus-%d8%b3%d9%8a%d8%a3%d8%aa%d9%8a-%d8%a8%d8%aa%d8%ba%d9%8a%d9%8a%d8%b1-%d8%b7%d8%a7%d9%84-%d8%a7%d9%86%d8%aa/"
 ---

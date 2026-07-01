@@ -6,7 +6,7 @@ updatedDate: "2025-07-20T01:23:31"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/07/1752963810_يتلقى-Google-Translate-Translate-App-تحديثًا-كبيرًا-يجلب-مزايا-رائعة.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-%d8%ac%d9%88%d8%ac%d9%84-translate-%d9%8a%d8%aa%d9%84%d9%82%d9%89-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab%d9%8b%d8%a7-%d8%b6%d8%ae%d9%85%d9%8b/"
 ---

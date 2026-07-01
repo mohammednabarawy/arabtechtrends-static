@@ -6,7 +6,7 @@ updatedDate: "2025-07-14T11:45:23"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/07/1752482722_يظهر-iPhone-17-Air-في-تسرب-مثير-للجدل.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a7%d9%8a%d9%81%d9%88%d9%86-17-%d8%a7%d9%8a%d8%b1-iphone-17-air-%d9%8a%d8%b8%d9%87%d8%b1-%d9%81%d9%8a-%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8%d8%a7%d8%aa-%d9%85%d8%ab%d9%8a%d8%b1%d8%a9-%d9%84%d9%84/"
 ---

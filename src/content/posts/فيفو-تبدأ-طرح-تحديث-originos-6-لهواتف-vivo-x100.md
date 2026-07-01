@@ -6,7 +6,7 @@ updatedDate: "2025-11-16T01:08:39"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["Vivo تحديث OriginOS 6 لهواتف Vivo X100 أكبر ترقية"]
-image: ""
+image: "/uploads/wp/2025/11/1763248117_vivo-------originos-6---vivo-x100.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%81%d9%8a%d9%81%d9%88-%d8%aa%d8%a8%d8%af%d8%a3-%d8%b7%d8%b1%d8%ad-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-originos-6-%d9%84%d9%87%d9%88%d8%a7%d8%aa%d9%81-vivo-x100/"
 ---

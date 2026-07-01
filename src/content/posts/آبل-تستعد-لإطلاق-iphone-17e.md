@@ -6,7 +6,7 @@ updatedDate: "2025-08-19T22:04:56"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["Apple","iphone","iPhone 17E","الربيع","مع تصميم جديد"]
-image: ""
+image: "/uploads/wp/2025/08/تستعد-Apple-لإطلاق-iPhone-17E-بتصميم-جديد-ومعالج-A19.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a2%d8%a8%d9%84-%d8%aa%d8%b3%d8%aa%d8%b9%d8%af-%d9%84%d8%a5%d8%b7%d9%84%d8%a7%d9%82-iphone-17e/"
 ---

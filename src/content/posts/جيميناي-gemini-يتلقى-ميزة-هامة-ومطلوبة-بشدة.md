@@ -6,7 +6,7 @@ updatedDate: "2025-12-28T08:57:19"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/12/2025-06-18_12-49-09.webp.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d9%8a%d9%85%d9%8a%d9%86%d8%a7%d9%8a-gemini-%d9%8a%d8%aa%d9%84%d9%82%d9%89-%d9%85%d9%8a%d8%b2%d8%a9-%d9%87%d8%a7%d9%85%d8%a9-%d9%88%d9%85%d8%b7%d9%84%d9%88%d8%a8%d8%a9-%d8%a8%d8%b4%d8%af%d8%a9/"
 ---

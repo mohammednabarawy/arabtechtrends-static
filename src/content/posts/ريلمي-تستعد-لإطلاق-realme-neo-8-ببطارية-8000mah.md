@@ -6,7 +6,7 @@ updatedDate: "2025-11-23T23:48:31"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["Realme هاتف Realme Neo 8 بطارية بسعة 8000 مللي أمبير مواصفات فائقة فئة متوسطة عليا"]
-image: ""
+image: "/uploads/wp/2025/11/1763934510_realme-----realme-neo-8---8000mah.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b1%d9%8a%d9%84%d9%85%d9%8a-%d8%aa%d8%b3%d8%aa%d8%b9%d8%af-%d9%84%d8%a5%d8%b7%d9%84%d8%a7%d9%82-realme-neo-8-%d8%a8%d8%a8%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-8000mah/"
 ---

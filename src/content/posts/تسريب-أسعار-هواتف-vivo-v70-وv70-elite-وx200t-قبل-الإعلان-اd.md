@@ -6,7 +6,7 @@ updatedDate: "2025-12-21T02:33:41"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["أسعار هواتف Vivo V70","تسريب أسعار هواتف Vivo","قبل الإعلان الرسمي","هواتف Vivo"]
-image: ""
+image: "/uploads/wp/2025/12/1766277221_vivo-v70--v70-elite--x200t.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8-%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d9%87%d9%88%d8%a7%d8%aa%d9%81-vivo-v70-%d9%88v70-elite-%d9%88x200t-%d9%82%d8%a8%d9%84-%d8%a7%d9%84%d8%a5%d8%b9%d9%84%d8%a7%d9%86-%d8%a7d/"
 ---
@@ -24,11 +24,14 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8-%d8%a3
 <div>
 <ul>
 <li>Vivo V70: حوالي 45000 روبية هندية (حوالي 540 دولارًا)</li>
-<p></p>
+<p>
+</p>
 <li>Vivo V70 Elite: حوالي 50000 روبية هندية (ما يعادل 600 دولار)</li>
-<p></p>
+<p>
+</p>
 <li>Vivo X200T: السعر المتوقع هو 55000 روبية هندية (~ 660 دولارًا أمريكيًا) مع توفره عبر الإنترنت فقط</li>
-<p></p>
+<p>
+</p>
 <li>فيفو</li>
 <p>
 </ul>

@@ -6,7 +6,7 @@ updatedDate: "2025-07-07T10:55:17"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/07/1751825085_اس-26-الترا-Galaxy-S26-Ultra-يراهن-على-النحافة-والشحن.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a7%d8%b3-26-%d8%a7%d9%84%d8%aa%d8%b1%d8%a7-galaxy-s26-ultra-%d9%8a%d8%b1%d8%a7%d9%87%d9%86-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d9%86%d8%ad%d8%a7%d9%81%d8%a9-%d9%88%d8%a7%d9%84%d8%b4%d8%ad%d9%86-%d9%81/"
 ---

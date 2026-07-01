@@ -6,7 +6,7 @@ updatedDate: "2025-09-30T13:27:15"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/09/d983d98ad98120d8aad8b9d8abd8b120d8b9d984d98920d8aad8b0d8a7d983d8b1.jpeg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/how-to-find-cheap-flight-tickets-html/"
 ---

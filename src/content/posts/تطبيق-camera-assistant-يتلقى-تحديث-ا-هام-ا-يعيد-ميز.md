@@ -6,7 +6,7 @@ updatedDate: "2025-10-26T18:19:18"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/10/camera-assistant.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-camera-assistant-%d9%8a%d8%aa%d9%84%d9%82%d9%89-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab%d9%8b%d8%a7-%d9%87%d8%a7%d9%85%d9%8b%d8%a7-%d9%8a%d8%b9%d9%8a%d8%af-%d9%85%d9%8a%d8%b2/"
 ---

@@ -6,7 +6,7 @@ updatedDate: "2025-07-16T08:42:09"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/07/1752644528_يجلب-تحديث-Google-NotebookLM-دفاتر-ملاحظات-مميزة-محتوى-حصري-من.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%25d8%25ac%25d9%2588%25d8%25ac%25d9%2584-%25d8%25aa%25d8%25b6%25d9%258a%25d9%2581-%25d9%2585%25d9%258a%25d8%25b2%25d8%25a9-%25d8%25a7%25d9%2584%25d8%25af%25/"
 ---

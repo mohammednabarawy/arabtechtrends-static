@@ -6,7 +6,7 @@ updatedDate: "2025-11-20T14:06:11"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["مواصفات هاتف Vivo X Fold 6 قابل للطي بكاميرا 200 ميجابكسل"]
-image: ""
+image: "/uploads/wp/2025/11/1763640369_vivo-x-fold-6.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8-%d9%8a%d9%83%d8%b4%d9%81-%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-vivo-x-fold-6/"
 ---

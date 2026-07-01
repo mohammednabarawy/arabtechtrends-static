@@ -6,7 +6,7 @@ updatedDate: "2025-12-11T09:42:22"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["Poco","الهاتف الذكي Poco X8 Pro","بطارية بسعة 9000 مللي أمبير","تسريبات Poco","قاعدة بيانات BIS الهندية"]
-image: ""
+image: "/uploads/wp/2025/12/1765438942_poco-x8-pro.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d9%87%d8%a7%d8%af%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%aa%d9%83%d8%b4%d9%81-%d8%a7%d9%82%d8%aa%d8%b1%d8%a7%d8%a8-%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d9%87%d8%a7%d8%aa%d9%81-poco-x8-pro/"
 ---

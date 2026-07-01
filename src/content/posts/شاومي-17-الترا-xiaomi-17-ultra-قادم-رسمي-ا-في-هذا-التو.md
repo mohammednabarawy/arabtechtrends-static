@@ -6,7 +6,7 @@ updatedDate: "2025-12-22T05:24:26"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/12/1766373866_xiaomi-17-ultra.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-17-%d8%a7%d9%84%d8%aa%d8%b1%d8%a7-xiaomi-17-ultra-%d9%82%d8%a7%d8%af%d9%85-%d8%b1%d8%b3%d9%85%d9%8a%d9%8b%d8%a7-%d9%81%d9%8a-%d9%87%d8%b0%d8%a7-%d8%a7%d9%84%d8%aa%d9%88/"
 ---

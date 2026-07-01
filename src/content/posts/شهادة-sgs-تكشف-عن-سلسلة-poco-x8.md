@@ -6,7 +6,7 @@ updatedDate: "2025-11-23T20:47:32"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["Poco X8 Pro","بطارية عملاقة","تفاصيل تقنية قوية","سلسلة Poco X8","شهادة SGS"]
-image: ""
+image: "/uploads/wp/2025/11/1763923650_sgs-------poco-x8.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d9%87%d8%a7%d8%af%d8%a9-sgs-%d8%aa%d9%83%d8%b4%d9%81-%d8%b9%d9%86-%d8%b3%d9%84%d8%b3%d9%84%d8%a9-poco-x8/"
 ---
@@ -23,11 +23,14 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d9%87%d8%a7%d8%af%d8%a9-sgs-%d
 <p><b>المواصفات المتوقعة لهاتف Redmi Turbo 5</b><br />تسريبات متعلقة بهاتف Redmi Turbo 5 تكشف عن مواصفات قوية:</p>
 <ul>
 <li>شاشة OLED LTPS مسطحة بقياس 6.67 بوصة بدقة 1.5K</li>
-<p></p>
+<p>
+</p>
 <li>إطار معدني متوسط ​​لتصميم أكثر صلابة.</li>
-<p></p>
+<p>
+</p>
 <li>المعالج المنتظر Dimensity 8500-Ultra من شركة MediaTek.</li>
-<p></p>
+<p>
+</p>
 <li>بطارية ضخمة تقترب من 7000 مللي أمبير.</li>
 <p>
 </ul>

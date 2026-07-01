@@ -6,7 +6,7 @@ updatedDate: "2025-07-18T00:04:18"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/07/سيأتي-Galaxy-S25-Fe-مع-مفاجآت-في-الشاشة-والبطارية-وسرعة.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-%d8%a7%d8%b3-25-%d8%a7%d9%81-%d8%a7%d9%8a-galaxy-s25-fe-%d8%b3%d9%8a%d8%a3%d8%aa%d9%8a-%d9%85%d8%b9-%d9%85%d9%81%d8%a7%d8%ac%d8%a2%d8%aa-%d9%81%d9%8a-%d8%a7%d9%84/"
 ---

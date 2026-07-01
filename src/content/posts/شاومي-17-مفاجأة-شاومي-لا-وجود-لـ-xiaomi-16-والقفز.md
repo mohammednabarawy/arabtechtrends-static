@@ -6,7 +6,7 @@ updatedDate: "2025-09-19T06:46:24"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/09/xiaomi-17---xiaomi-----xiaomi-16.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-17-%d9%85%d9%81%d8%a7%d8%ac%d8%a3%d8%a9-%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d9%84%d8%a7-%d9%88%d8%ac%d9%88%d8%af-%d9%84%d9%80-xiaomi-16-%d9%88%d8%a7%d9%84%d9%82%d9%81%d8%b2/"
 ---

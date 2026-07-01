@@ -6,7 +6,7 @@ updatedDate: "2025-07-12T17:37:00"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/07/قفزة-ثورية-في-الكاميرا-وتغييرات-أساسية-مهمة.webp.jpeg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-%d8%a7%d8%b3-26-%d8%a7%d9%84%d8%aa%d8%b1%d8%a7-s26-ultra-%d9%82%d9%81%d8%b2%d8%a9-%d8%ab%d9%88%d8%b1%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d9%83%d8%a7%d9%85%d9%8a/"
 ---

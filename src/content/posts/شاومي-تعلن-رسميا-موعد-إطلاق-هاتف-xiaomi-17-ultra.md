@@ -6,7 +6,7 @@ updatedDate: "2025-12-23T00:01:18"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["هاتف Xiaomi 17 Ultra سلسلة Xiaomi 17 اللون الجديد Starry Green"]
-image: ""
+image: "/uploads/wp/2025/12/1766440877_xiaomi-------------xiaomi-17.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%aa%d8%b9%d9%84%d9%86-%d8%b1%d8%b3%d9%85%d9%8a%d8%a7-%d9%85%d9%88%d8%b9%d8%af-%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d9%87%d8%a7%d8%aa%d9%81-xiaomi-17-ultra/"
 ---

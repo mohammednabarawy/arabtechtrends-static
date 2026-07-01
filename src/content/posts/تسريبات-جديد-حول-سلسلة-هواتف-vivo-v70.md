@@ -6,7 +6,7 @@ updatedDate: "2025-12-28T19:02:41"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["تسريبات سلسلة هواتف Vivo V70 الإطلاق الرسمي واجتياز الشهادات الرسمية هاتف Vivo V70 Elite"]
-image: ""
+image: "/uploads/wp/2025/12/1766941360_vivo-v70.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8%d8%a7%d8%aa-%d8%ac%d8%af%d9%8a%d8%af-%d8%ad%d9%88%d9%84-%d8%b3%d9%84%d8%b3%d9%84%d8%a9-%d9%87%d9%88%d8%a7%d8%aa%d9%81-vivo-v70/"
 ---

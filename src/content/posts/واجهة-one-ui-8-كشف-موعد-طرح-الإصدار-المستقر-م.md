@@ -6,7 +6,7 @@ updatedDate: "2025-07-24T10:49:19"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/07/1753343358_اكتشاف-تاريخ-إطلاق-تحديث-واجهة-UI-8-المستقرة.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-one-ui-8-%d9%83%d8%b4%d9%81-%d9%85%d9%88%d8%b9%d8%af-%d8%b7%d8%b1%d8%ad-%d8%a7%d9%84%d8%a5%d8%b5%d8%af%d8%a7%d8%b1-%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d9%82%d8%b1-%d9%85/"
 ---

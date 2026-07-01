@@ -6,7 +6,7 @@ updatedDate: "2025-12-02T01:27:00"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["Honor Play 60A 5G شهادة الهاتف Honor Play 60A حجم أكبر"]
-image: ""
+image: "/uploads/wp/2025/12/1764631620_honor-play-60a-5g.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a7%d8%b9%d8%aa%d9%85%d8%a7%d8%af-honor-play-60a-5g-%d9%8a%d9%83%d8%b4%d9%81-%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa/"
 ---

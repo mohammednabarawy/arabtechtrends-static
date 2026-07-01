@@ -6,7 +6,7 @@ updatedDate: "2025-11-20T05:02:32"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["GSMA","Vivo X200T","سلسلة X200","قاعدة البيانات"]
-image: ""
+image: "/uploads/wp/2025/11/1763607751_x200---vivo-x200t.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d8%aa%d9%81-vivo-x200t-%d9%8a%d8%b8%d9%87%d8%b1-%d8%b1%d8%b3%d9%85%d9%8a%d9%8b%d8%a7-%d9%81%d9%8a-%d9%82%d8%a7%d8%b9%d8%af%d8%a9-%d8%a8%d9%8a%d8%a7%d9%86%d8%a7%d8%aa-gsma/"
 ---

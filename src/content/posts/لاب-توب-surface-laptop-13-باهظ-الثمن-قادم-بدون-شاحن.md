@@ -6,7 +6,7 @@ updatedDate: "2025-07-07T10:55:21"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["Microsoft Surface Labtop 13","أسواق أوروبية","بدون شاحن متصل"]
-image: ""
+image: "/uploads/wp/2025/07/1751758188_Microsoft-تفاجئ-الجميع-الكمبيوتر-المحمول-السطحي-13-بسعر-مرتفع-بدون.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%84%d8%a7%d8%a8-%d8%aa%d9%88%d8%a8-surface-laptop-13-%d8%a8%d8%a7%d9%87%d8%b8-%d8%a7%d9%84%d8%ab%d9%85%d9%86-%d9%82%d8%a7%d8%af%d9%85-%d8%a8%d8%af%d9%88%d9%86-%d8%b4%d8%a7%d8%ad%d9%86/"
 ---

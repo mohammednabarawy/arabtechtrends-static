@@ -6,7 +6,7 @@ updatedDate: "2025-12-03T10:47:55"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["Xiaomi تبدأ الإثارة","هاتف Poco C85 5G مواصفاته الأولى هاتف Xiaomi"]
-image: ""
+image: "/uploads/wp/2025/12/1764751675_xiaomi-------poco-c85-5g.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%aa%d8%a8%d8%af%d8%a3-%d8%a7%d9%84%d8%aa%d8%b4%d9%88%d9%8a%d9%82-%d9%84%d9%87%d8%a7%d8%aa%d9%81-poco-c85-5g-%d9%88%d8%aa%d9%83%d8%b4%d9%81-%d8%a3%d9%88%d9%84%d9%89-d/"
 ---

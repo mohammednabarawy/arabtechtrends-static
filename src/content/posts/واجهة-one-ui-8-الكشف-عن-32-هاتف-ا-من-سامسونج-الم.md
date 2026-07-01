@@ -6,7 +6,7 @@ updatedDate: "2025-09-01T03:09:18"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/09/واجهة-واجهة-المستخدم-واحدة-32-تم-الكشف-عن-هاتف-Samsung.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-one-ui-8-%d8%a7%d9%84%d9%83%d8%b4%d9%81-%d8%b9%d9%86-32-%d9%87%d8%a7%d8%aa%d9%81%d9%8b%d8%a7-%d9%85%d9%86-%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-%d8%a7%d9%84%d9%85/"
 ---

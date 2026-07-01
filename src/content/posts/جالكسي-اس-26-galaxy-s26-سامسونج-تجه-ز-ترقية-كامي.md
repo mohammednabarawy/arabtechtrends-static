@@ -6,7 +6,7 @@ updatedDate: "2025-09-10T04:50:38"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/09/galaxy-s26-samsung.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-%d8%a7%d8%b3-26-galaxy-s26-%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-%d8%aa%d8%ac%d9%87%d9%91%d8%b2-%d8%aa%d8%b1%d9%82%d9%8a%d8%a9-%d9%83%d8%a7%d9%85%d9%8a/"
 ---

@@ -6,7 +6,7 @@ updatedDate: "2025-11-16T07:10:51"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["وحدة الرسومات الخارجية ASUS ROG XG Mobile 2025 للأجهزة المحمولة"]
-image: ""
+image: "/uploads/wp/2025/11/1763269849_rog-xg-mobile-2025.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a3%d8%b3%d9%88%d8%b3-%d8%aa%d8%b7%d9%84%d9%82-rog-xg-mobile-2025-%d8%a3%d9%82%d9%88%d9%89-%d9%88%d8%ad%d8%af%d8%a9-%d8%b1%d8%b3%d9%88%d9%85%d8%a7%d8%aa-%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d8%a9/"
 ---
@@ -19,9 +19,11 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a3%d8%b3%d9%88%d8%b3-%d8%aa%d8%b7
 <div>
 <ul>
 <li>غرفة بخار مُعاد تصميمها</li>
-<p></p>
+<p>
+</p>
 <li>وحدة طاقة 330 واط</li>
-<p></p>
+<p>
+</p>
 <li>دعم Thunderbolt 5 بسرعة 120 جيجابت في الثانية</li>
 <p>
 </ul>
@@ -40,22 +42,29 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a3%d8%b3%d9%88%d8%b3-%d8%aa%d8%b7
 <div>
 <ul>
 <li>منفذا USB 3.2 Gen2 من النوع A</li>
-<p></p>
+<p>
+</p>
 <li>قارئ بطاقات SD/UHS-II</li>
-<p></p>
+<p>
+</p>
 <li>منفذ لان RJ-45</li>
-<p></p>
+<p>
+</p>
 <li>منفذ اتش دي ام اي 2.1</li>
-<p></p>
+<p>
+</p>
 <li>منفذ ديسبلاي بورت 2.1</li>
-<p></p>
+<p>
+</p>
 <li>منفذ Thunderbolt 5 من النوع C مع توصيل الطاقة بقدرة 27 وات</li>
-<p></p>
+<p>
+</p>
 <li>منفذ طاقة العاصمة</li>
 <p>
 </ul>
 </div>
-<p><br />
+<p>
+<br />
 <b>مشكلة واحدة فقط</b></p>
 <p>لا تزال الأجهزة المحمولة الحالية تعتمد على USB4/Thunderbolt 4، مما يعني أنها لا تستطيع الاستفادة الكاملة من سرعة Thunderbolt 5. وستحصل على تعزيز كبير في الأداء، ولكن القدرة الكاملة لن تظهر إلا عند إصدار الأجهزة المحمولة التي تدعم TB5.</p>
 <div>إذا كنت على استعداد لدفع القسط، ROG</p>

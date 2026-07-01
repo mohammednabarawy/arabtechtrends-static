@@ -6,7 +6,7 @@ updatedDate: "2025-12-25T12:24:10"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["تسريبات جديدة هاتف OnePlus Turbo الأسواق العالمية معالج OnePlus Snapdragon 8s Gen 4"]
-image: ""
+image: "/uploads/wp/2025/12/1766658250_oneplus-turbo.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8%d8%a7%d8%aa-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%aa%d8%b4%d9%8a%d8%b1-%d8%a5%d9%84%d9%89-%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d9%87%d8%a7%d8%aa%d9%81-oneplus-turbo-%d9%81%d9%8a/"
 ---

@@ -6,7 +6,7 @@ updatedDate: "2025-11-17T01:27:04"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["أندرويد 17","تحديثات الخصوصية","جهات الاتصال","جوجل","حماية أقوى","خصوصية أعلى"]
-image: ""
+image: "/uploads/wp/2025/11/1763335622_android-17.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a3%d9%86%d8%af%d8%b1%d9%88%d9%8a%d8%af-17-%d9%8a%d8%ad%d8%b5%d9%84-%d8%b9%d9%84%d9%89-%d8%a3%d8%af%d8%a7%d8%a9-%d8%b0%d9%83%d9%8a%d8%a9-%d9%84%d9%84%d8%aa%d8%ad%d9%83%d9%85-%d9%81%d9%8a-%d8%ac%d9/"
 ---

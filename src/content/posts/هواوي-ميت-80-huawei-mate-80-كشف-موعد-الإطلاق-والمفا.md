@@ -6,7 +6,7 @@ updatedDate: "2025-11-19T03:40:37"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/11/2025-11-17_12-47-12.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%87%d9%88%d8%a7%d9%88%d9%8a-%d9%85%d9%8a%d8%aa-80-huawei-mate-80-%d9%83%d8%b4%d9%81-%d9%85%d9%88%d8%b9%d8%af-%d8%a7%d9%84%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d9%88%d8%a7%d9%84%d9%85%d9%81%d8%a7/"
 ---

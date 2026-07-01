@@ -6,7 +6,7 @@ updatedDate: "2025-08-16T06:18:41"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["Moto G Stylus","القلم المبني على","موتورولا","هاتفها الجديد"]
-image: ""
+image: "/uploads/wp/2025/08/1755314319_تستعد-Motorola-لإطلاق-Moto-G-Stylus-2026-الجديد-بميزة-قلم.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%85%d9%88%d8%aa%d9%88%d8%b1%d9%88%d9%84%d8%a7-%d8%aa%d8%b3%d8%aa%d8%b9%d8%af-%d9%84%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d9%87%d8%a7%d8%aa%d9%81%d9%87%d8%a7-%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af-moto-g-st/"
 ---

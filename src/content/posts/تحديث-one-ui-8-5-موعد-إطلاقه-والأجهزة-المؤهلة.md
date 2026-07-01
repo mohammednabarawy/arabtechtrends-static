@@ -6,7 +6,7 @@ updatedDate: "2025-07-08T22:13:34"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/07/1752002013_تحديث-One-UI-85-موعد-إطلاقه-والأجهزة-المؤهلة-والميزات-الجديدة.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui-8-5-%d9%85%d9%88%d8%b9%d8%af-%d8%a5%d8%b7%d9%84%d8%a7%d9%82%d9%87-%d9%88%d8%a7%d9%84%d8%a3%d8%ac%d9%87%d8%b2%d8%a9-%d8%a7%d9%84%d9%85%d8%a4%d9%87%d9%84%d8%a9/"
 ---

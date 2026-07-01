@@ -6,7 +6,7 @@ updatedDate: "2025-07-28T06:07:53"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/07/ستعمل-Galaxy-S26-مع-معالج-بسرعة-فائقة.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-%d8%a7%d8%b3-26-galaxy-s26-%d8%b3%d9%8a%d8%b9%d9%85%d9%84-%d8%a8%d9%85%d8%b9%d8%a7%d9%84%d8%ac-%d8%a8%d8%b3%d8%b1%d8%b9%d8%a9-%d8%ae%d8%a7%d8%b1%d9%82%d8%a9/"
 ---

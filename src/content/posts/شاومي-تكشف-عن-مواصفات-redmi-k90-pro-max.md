@@ -6,7 +6,7 @@ updatedDate: "2025-10-27T10:39:42"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["مواصفات Xiaomi Redmi K90 Pro Max قبل الإطلاق مواصفات"]
-image: ""
+image: "/uploads/wp/2025/10/xiaomi---------redmi-k90-pro-max.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%aa%d9%83%d8%b4%d9%81-%d8%b9%d9%86-%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-redmi-k90-pro-max/"
 ---

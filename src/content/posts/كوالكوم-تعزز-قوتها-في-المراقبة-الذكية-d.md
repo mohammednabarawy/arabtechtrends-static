@@ -6,7 +6,7 @@ updatedDate: "2025-12-10T18:33:03"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["المراقبة الذكية كوالكوم تعزز قوتها أوجنتكس بعملية استحواذ جديدة"]
-image: ""
+image: "/uploads/wp/2025/12/qualcomm_3b74.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%83%d9%88%d8%a7%d9%84%d9%83%d9%88%d9%85-%d8%aa%d8%b9%d8%b2%d8%b2-%d9%82%d9%88%d8%aa%d9%87%d8%a7-%d9%81%d9%8a-%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%82%d8%a8%d8%a9-%d8%a7%d9%84%d8%b0%d9%83%d9%8a%d8%a9-d/"
 ---

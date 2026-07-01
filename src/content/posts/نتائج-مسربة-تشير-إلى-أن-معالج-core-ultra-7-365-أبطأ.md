@@ -6,7 +6,7 @@ updatedDate: "2025-12-16T22:42:48"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["معالج Core Ultra 7 258V","معالج Core Ultra 7 365","معالج أبطأ بنسبة 10%","نتائج مسربة"]
-image: ""
+image: "/uploads/wp/2025/12/1765917768_core-ultra-7-365.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%86%d8%aa%d8%a7%d8%a6%d8%ac-%d9%85%d8%b3%d8%b1%d8%a8%d8%a9-%d8%aa%d8%b4%d9%8a%d8%b1-%d8%a5%d9%84%d9%89-%d8%a3%d9%86-%d9%85%d8%b9%d8%a7%d9%84%d8%ac-core-ultra-7-365-%d8%a3%d8%a8%d8%b7%d8%a3/"
 ---

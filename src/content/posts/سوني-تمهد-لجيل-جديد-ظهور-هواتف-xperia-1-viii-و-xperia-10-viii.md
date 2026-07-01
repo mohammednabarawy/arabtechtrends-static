@@ -6,7 +6,7 @@ updatedDate: "2025-12-03T07:47:01"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["تمهد الطريق لجيل جديد","قبل الإطلاق الرسمي","هاتف Sony","هواتف Xperia"]
-image: ""
+image: "/uploads/wp/2025/12/1764740821_xperia-1-viii.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d9%88%d9%86%d9%8a-%d8%aa%d9%85%d9%87%d8%af-%d9%84%d8%ac%d9%8a%d9%84-%d8%ac%d8%af%d9%8a%d8%af-%d8%b8%d9%87%d9%88%d8%b1-%d9%87%d9%88%d8%a7%d8%aa%d9%81-xperia-1-viii-%d9%88-xperia-10-viii/"
 ---

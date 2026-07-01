@@ -6,7 +6,7 @@ updatedDate: "2025-12-10T03:27:41"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["إصلاح واستبدال مجاني","حماية لمدة 3 سنوات","سلسلة Pixel 9 Pro","هواتف Google"]
-image: ""
+image: "/uploads/wp/2025/12/1765330061_google---------pixel-9.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a5%d8%b5%d9%84%d8%a7%d8%ad-%d9%88%d8%a7%d8%b3%d8%aa%d8%a8%d8%af%d8%a7%d9%84-%d9%85%d8%ac%d8%a7%d9%86%d9%8a-%d9%84%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d8%b3%d9%84%d8%b3%d9%84%d8%a9-pixel-9-pro/"
 ---
@@ -19,7 +19,8 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a5%d8%b5%d9%84%d8%a7%d8%ad-%d9%88
 <p><b>متطلبات الأهلية للإصلاح</b><br />وعلى الرغم من اتساع نطاق البرنامج، إلا أن جوجل وضعت مجموعة من الشروط الواضحة، أهمها:</p>
 <ul>
 <li><b>لا يوجد أي كسر في الشاشة أو الغطاء الزجاجي</b> لن يكون أي جهاز به شاشة مكسورة مؤهلاً للإصلاح بموجب هذا البرنامج.</li>
-<p></p>
+<p>
+</p>
 <li><b>الهاتف لا يتعرض لأضرار المياه</b> يؤدي تلف المياه إلى إزالة الجهاز من التغطية.</li>
 <p>
 </ul>

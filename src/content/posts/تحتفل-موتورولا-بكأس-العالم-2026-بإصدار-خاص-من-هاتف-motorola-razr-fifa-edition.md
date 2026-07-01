@@ -6,7 +6,7 @@ updatedDate: "2025-12-21T17:44:02"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["هاتف موتورولا كأس العالم 2026 إصدار خاص هاتف موتورولا رازر إصدار فيفا كأس العالم لكرة القدم 2026"]
-image: ""
+image: "/uploads/wp/2025/12/1766331841_2026---------motorola.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%85%d9%88%d8%aa%d9%88%d8%b1%d9%88%d9%84%d8%a7-%d8%aa%d8%ad%d8%aa%d9%81%d9%84-%d8%a8%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-2026-%d8%a8%d8%a5%d8%b5%d8%af%d8%a7%d8%b1-%d8%ae%d8%a7%d8/"
 ---

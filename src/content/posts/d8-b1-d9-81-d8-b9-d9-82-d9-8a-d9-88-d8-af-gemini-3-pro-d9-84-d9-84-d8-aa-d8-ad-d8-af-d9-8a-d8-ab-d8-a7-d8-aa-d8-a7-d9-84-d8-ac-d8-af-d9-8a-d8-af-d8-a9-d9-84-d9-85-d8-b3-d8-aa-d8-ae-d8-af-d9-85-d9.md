@@ -6,7 +6,7 @@ updatedDate: "2025-11-29T03:52:20"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["Gemini 3 Pro","تحديثات جديدة","تغيرت سياسات الوصول المجاني","مستخدمي الإصدار المجاني"]
-image: ""
+image: "/uploads/wp/2025/11/1764381140_gemini-3-pro.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b1%d9%81%d8%b9-%d9%82%d9%8a%d9%88%d8%af-gemini-3-pro-%d9%84%d9%84%d8%aa%d8%ad%d8%af%d9%8a%d8%ab%d8%a7%d8%aa-%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%84%d9%85%d8%b3%d8%aa%d8%ae%d8%af%d9%85%d9/"
 ---

@@ -66,6 +66,7 @@ const today = new Intl.DateTimeFormat("ar-EG", { dateStyle: "full" }).format(new
       {showCategoryBar && <CategoryBar />}
       <slot />
     </main>
+    <div class="nav-backdrop" hidden aria-hidden="true"></div>
     <footer class="site-footer">
       <div class="footer-grid">
         <section class="footer-about" aria-labelledby="footer-about-title">
@@ -97,9 +98,23 @@ const today = new Intl.DateTimeFormat("ar-EG", { dateStyle: "full" }).format(new
     <script is:inline>
       const toggle = document.querySelector(".nav-toggle");
       const nav = document.querySelector("#site-nav");
+      const backdrop = document.querySelector(".nav-backdrop");
+
+      const setNavOpen = (open) => {
+        nav?.classList.toggle("is-open", open);
+        document.body.classList.toggle("nav-open", open);
+        toggle?.setAttribute("aria-expanded", String(open));
+        if (backdrop) backdrop.hidden = !open;
+      };
+
       toggle?.addEventListener("click", () => {
-        const open = nav?.classList.toggle("is-open");
-        toggle.setAttribute("aria-expanded", String(Boolean(open)));
+        setNavOpen(!nav?.classList.contains("is-open"));
+      });
+
+      backdrop?.addEventListener("click", () => setNavOpen(false));
+
+      nav?.querySelectorAll("a").forEach((link) => {
+        link.addEventListener("click", () => setNavOpen(false));
       });
     </script>
   </body>

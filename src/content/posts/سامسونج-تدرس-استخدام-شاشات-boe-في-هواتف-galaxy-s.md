@@ -6,7 +6,7 @@ updatedDate: "2025-12-27T03:41:39"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["استخدام شاشات BOE","والتقرير الجديد","وشاشات Samsung BOE","وهواتف Galaxy S"]
-image: ""
+image: "/uploads/wp/2025/12/1766799699_boe-----galaxy.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-%d8%aa%d8%af%d8%b1%d8%b3-%d8%a7%d8%b3%d8%aa%d8%ae%d8%af%d8%a7%d9%85-%d8%b4%d8%a7%d8%b4%d8%a7%d8%aa-boe-%d9%81%d9%8a-%d9%87%d9%88%d8%a7%d8%aa%d9%81-galaxy-s/"
 ---

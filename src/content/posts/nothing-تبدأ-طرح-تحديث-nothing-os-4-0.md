@@ -6,7 +6,7 @@ updatedDate: "2025-12-27T21:51:15"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["Android 16","تم طرح التحديث المستقر لنظام التشغيل OS 4.0","لا شيء","هاتف CMF"]
-image: ""
+image: "/uploads/wp/2025/12/1766865075_nothing-os-40.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/nothing-%d8%aa%d8%a8%d8%af%d8%a3-%d8%b7%d8%b1%d8%ad-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-nothing-os-4-0/"
 ---

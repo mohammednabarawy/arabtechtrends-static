@@ -6,7 +6,7 @@ updatedDate: "2025-10-16T05:30:20"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["Moto","Moto G100","البطارية والأداء","تحسينات كبيرة"]
-image: ""
+image: "/uploads/wp/2025/10/moto-g100.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d8%aa%d9%81-moto-g100-%d9%8a%d8%b9%d9%88%d8%af-%d8%a8%d8%a5%d8%b5%d8%af%d8%a7%d8%b1-%d8%ac%d8%af%d9%8a%d8%af/"
 ---

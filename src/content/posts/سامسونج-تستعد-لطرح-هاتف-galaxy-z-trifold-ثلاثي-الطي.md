@@ -6,7 +6,7 @@ updatedDate: "2025-11-28T18:49:06"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["سامسونج","سعر غير متوقع","هاتف Galaxy Z TriFold","هاتف ثلاثي الطي"]
-image: ""
+image: "/uploads/wp/2025/11/1764348546_galaxy-z-trifold.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-%d8%aa%d8%b3%d8%aa%d8%b9%d8%af-%d9%84%d8%b7%d8%b1%d8%ad-%d9%87%d8%a7%d8%aa%d9%81-galaxy-z-trifold-%d8%ab%d9%84%d8%a7%d8%ab%d9%8a-%d8%a7%d9%84%d8%b7%d9%8a/"
 ---
@@ -25,9 +25,11 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%
 </p>
 <ul>
 <li>هاتف عادي الحجم في الجيب</li>
-<p></p>
+<p>
+</p>
 <li>جهاز للعمل أو مشاهدة المحتوى عند توسيعه بالكامل</li>
-<p></p>
+<p>
+</p>
 <li>مرحلة وسيطة تمنح المستخدم مساحة إضافية دون الوصول إلى الحجم الكامل.</li>
 <p>
 </ul>

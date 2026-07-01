@@ -6,7 +6,7 @@ updatedDate: "2025-12-11T12:42:59"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["أوبو","أوبو فايند","تحديث أندرويد 16","واجهة ColorOS 16"]
-image: ""
+image: "/uploads/wp/2025/12/1765449779_android-16---find--reno.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a3%d9%88%d8%a8%d9%88-%d8%aa%d8%a8%d8%af%d8%a3-%d9%81%d9%8a-%d8%a3%d8%b1%d8%b3%d8%a7%d9%84-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d8%a7%d9%86%d8%af%d8%b1%d9%88%d9%8a%d8%af-16-%d8%a7%d9%84%d9%8a-%d9%87%d9/"
 ---
@@ -19,15 +19,20 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a3%d9%88%d8%a8%d9%88-%d8%aa%d8%a8
 <p>ووفقًا للجدول الرسمي، فقد بدأت النسخة المستقرة من واجهة ColorOS 16 مع نظام Android 16 في الوصول إلى الهواتف التالية:</p>
 <ul>
 <li>هاتف أوبو فايند X6</li>
-<p></p>
+<p>
+</p>
 <li>اوبو فايند X6 برو (PGEM10_16.0.1.300 (CN01))</li>
-<p></p>
+<p>
+</p>
 <li>نسخة اوبو رينو 13 (CPH2689_16.0.1.302 (EX01))</li>
-<p></p>
+<p>
+</p>
 <li>نسخة اوبو رينو 14 (CPH2737_16.0.1.302 (EX01))</li>
-<p></p>
+<p>
+</p>
 <li>اوبو رينو 14 برو (CPH2739_16.0.1.310 (EX01))</li>
-<p></p>
+<p>
+</p>
 <li>نسخة اوبو F27 (CPH2637_16.0.1.300 (EX01))</li>
 <p>
 </ul>

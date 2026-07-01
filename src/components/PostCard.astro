@@ -1,6 +1,6 @@
 ---
 import type { CollectionEntry } from "astro:content";
-import { getPostImage, withBase } from "../utils/posts";
+import { getPostImage, getPostExcerpt, withBase } from "../utils/posts";
 
 type Post = CollectionEntry<"posts">;
 
@@ -14,6 +14,7 @@ const base = import.meta.env.BASE_URL.endsWith("/") ? import.meta.env.BASE_URL :
 const image = getPostImage(post);
 const href = withBase(`/posts/${post.slug}/`, base);
 const alt = post.data.title;
+const excerpt = getPostExcerpt(post, compact ? 90 : 120);
 ---
 
 <article class:list={["post-card", compact && "post-card--compact"]}>
@@ -21,13 +22,14 @@ const alt = post.data.title;
     {image ? (
       <img src={withBase(image, base)} alt={alt} loading={eager ? "eager" : "lazy"} decoding="async" />
     ) : (
-      <span class="media-fallback">{post.data.category.slice(0, 2)}</span>
+      <span class="media-fallback" aria-hidden="true">{post.data.category.slice(0, 2)}</span>
     )}
   </a>
   <p class="post-card__category">{post.data.category}</p>
   <h3 class="post-card__title">
     <a href={href}>{post.data.title}</a>
   </h3>
+  {!compact && excerpt && <p class="post-card__excerpt">{excerpt}</p>}
   <time class="post-card__date" datetime={post.data.pubDate.toISOString()}>
     {post.data.pubDate.toLocaleDateString("ar-EG")}
   </time>

@@ -6,7 +6,7 @@ updatedDate: "2025-11-28T09:44:00"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["شركة فيفو إطلاق Vivo S50 تصميم كاميرا الأيفون إطلاق"]
-image: ""
+image: "/uploads/wp/2025/11/1764315840_vivo---------vivo-s50.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%b1%d9%83%d8%a9-vivo-%d8%aa%d9%82%d8%aa%d8%b1%d8%a8-%d9%85%d9%86-%d8%a5%d8%b7%d9%84%d8%a7%d9%82-vivo-s50-%d9%8a%d8%a5%d8%b7%d8%a7%d8%b1-%d9%85%d8%b9%d8%af%d9%86%d9%8a-%d9%88%d8%aa%d8%b5%d9%85/"
 ---

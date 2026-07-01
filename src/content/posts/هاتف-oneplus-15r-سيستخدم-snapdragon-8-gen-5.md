@@ -6,7 +6,7 @@ updatedDate: "2025-11-24T08:54:34"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["إصدار Elite","الهاتف","معالج Snapdragon 8 Gen 5","هاتف OnePlus 15R"]
-image: ""
+image: "/uploads/wp/2025/11/1763967272_oneplus-15r---snapdragon-8-gen-5.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d8%aa%d9%81-oneplus-15r-%d8%b3%d9%8a%d8%b3%d8%aa%d8%ae%d8%af%d9%85-snapdragon-8-gen-5/"
 ---
@@ -25,11 +25,14 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d8%aa%d9%81-oneplus-15r-
 <div>
 <ul>
 <li>شاشة 165 هرتز.</li>
-<p></p>
+<p>
+</p>
 <li>البطارية تتجاوز 8000 مللي أمبير.</li>
-<p></p>
+<p>
+</p>
 <li>شحن سريع بقوة 100 واط.</li>
-<p></p>
+<p>
+</p>
 <li>كاميرا خلفية مزدوجة بدقة 50 ميجابكسل.</li>
 <p>
 </ul>

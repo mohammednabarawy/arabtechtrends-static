@@ -6,7 +6,7 @@ updatedDate: "2025-07-20T15:28:22"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/07/تفاجأ-Gmail-بمستخدميها-بميزة-التواريخ-الطويلة-التي-طال-انتظارها.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d9%8a%d9%85%d9%8a%d9%84-gmail-%d9%8a%d9%8f%d9%81%d8%a7%d8%ac%d8%a6-%d9%85%d8%b3%d8%aa%d8%ae%d8%af%d9%85%d9%8a%d9%87-%d8%a8%d9%85%d9%8a%d8%b2%d8%a9-%d8%aa%d9%86%d8%b8%d9%8a%d9%85-%d8%a7%d9%84/"
 ---

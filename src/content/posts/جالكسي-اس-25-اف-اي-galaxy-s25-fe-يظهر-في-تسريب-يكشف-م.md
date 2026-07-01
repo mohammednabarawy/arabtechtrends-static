@@ -6,7 +6,7 @@ updatedDate: "2025-07-07T11:06:43"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/07/1751875602_جالكسي-اس-25-اف-اي-–-Galaxy-S25-FE-يظهر.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-%d8%a7%d8%b3-25-%d8%a7%d9%81-%d8%a7%d9%8a-galaxy-s25-fe-%d9%8a%d8%b8%d9%87%d8%b1-%d9%81%d9%8a-%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8-%d9%8a%d9%83%d8%b4%d9%81-%d9%85/"
 ---

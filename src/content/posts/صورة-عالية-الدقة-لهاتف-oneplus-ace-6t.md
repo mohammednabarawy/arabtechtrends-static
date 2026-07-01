@@ -6,7 +6,7 @@ updatedDate: "2025-11-23T11:39:41"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["Ace 6T","HD","الهاتف","تصميم كامل","صورة عالية"]
-image: ""
+image: "/uploads/wp/2025/11/1763890779_oneplus-ace-6t.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b5%d9%88%d8%b1%d8%a9-%d8%b9%d8%a7%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%af%d9%82%d8%a9-%d9%84%d9%87%d8%a7%d8%aa%d9%81-oneplus-ace-6t/"
 ---

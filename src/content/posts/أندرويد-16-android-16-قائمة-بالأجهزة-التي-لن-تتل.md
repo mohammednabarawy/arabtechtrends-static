@@ -6,7 +6,7 @@ updatedDate: "2025-07-15T15:50:35"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/07/Android-16-قائمة-Android-16-التي-لن-تتلقى-التحديث.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a3%d9%86%d8%af%d8%b1%d9%88%d9%8a%d8%af-16-android-16-%d9%82%d8%a7%d8%a6%d9%85%d8%a9-%d8%a8%d8%a7%d9%84%d8%a3%d8%ac%d9%87%d8%b2%d8%a9-%d8%a7%d9%84%d8%aa%d9%8a-%d9%84%d9%86-%d8%aa%d8%aa%d9%84/"
 ---

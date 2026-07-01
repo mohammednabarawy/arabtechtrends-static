@@ -6,7 +6,7 @@ updatedDate: "2025-12-25T09:21:24"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["RedMagic 11 Air","Snapdragon 8 Elite","وحش الألعاب الجديد"]
-image: ""
+image: "/uploads/wp/2025/12/1766647284_redmagic-11-air.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d8%aa%d9%81-redmagic-11-air-%d9%8a%d9%82%d8%aa%d8%b1%d8%a8-%d8%b1%d8%b3%d9%85%d9%8a%d9%8b%d8%a7/"
 ---

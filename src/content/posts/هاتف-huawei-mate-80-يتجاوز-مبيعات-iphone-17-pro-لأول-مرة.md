@@ -6,7 +6,7 @@ updatedDate: "2025-12-06T20:33:53"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["هواوي ميت 80 أقوى ضربة لأبل وآيفون 17 برو وبيانات المبيعات الأخيرة"]
-image: ""
+image: "/uploads/wp/2025/12/1765046033_huawei-mate-80---------apple.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d8%aa%d9%81-huawei-mate-80-%d9%8a%d8%aa%d8%ac%d8%a7%d9%88%d8%b2-%d9%85%d8%a8%d9%8a%d8%b9%d8%a7%d8%aa-iphone-17-pro-%d9%84%d8%a3%d9%88%d9%84-%d9%85%d8%b1%d8%a9/"
 ---
@@ -21,23 +21,32 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d8%aa%d9%81-huawei-mate-
 <p><b>وتضم قائمة الهواتف العشرة الأكثر مبيعاً هذا الأسبوع:</b></p>
 <ul>
 <li>هاتف ايفون 17 برو ماكس</li>
-<p></p>
+<p>
+</p>
 <li>هاتف ايفون 17</li>
-<p></p>
+<p>
+</p>
 <li>هاتف هواوي ميت 80</li>
-<p></p>
+<p>
+</p>
 <li>هاتف ايفون 17 برو</li>
-<p></p>
+<p>
+</p>
 <li>هاتف هونر X70</li>
-<p></p>
+<p>
+</p>
 <li>هاتف اوبو رينو 15</li>
-<p></p>
+<p>
+</p>
 <li>هاتف فيفو Y50 2025</li>
-<p></p>
+<p>
+</p>
 <li>هاتف اوبو A5x</li>
-<p></p>
+<p>
+</p>
 <li>هاتف هونر 500</li>
-<p></p>
+<p>
+</p>
 <li>هاتف فيفو Y500 5G</li>
 <p>
 </ul>

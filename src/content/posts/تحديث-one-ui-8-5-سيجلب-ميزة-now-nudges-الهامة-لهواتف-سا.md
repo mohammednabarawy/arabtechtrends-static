@@ -6,7 +6,7 @@ updatedDate: "2025-11-25T14:11:49"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/10/1759621048_samsung.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui-8-5-%d8%b3%d9%8a%d8%ac%d9%84%d8%a8-%d9%85%d9%8a%d8%b2%d8%a9-now-nudges-%d8%a7%d9%84%d9%87%d8%a7%d9%85%d8%a9-%d9%84%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d8%b3%d8%a7/"
 ---

@@ -6,7 +6,7 @@ updatedDate: "2025-07-15T22:51:52"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/07/iPhone-17-Air-هو-تصميم-أرق-ومواصفات-أقوى-إليك-3.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a7%d9%8a%d9%81%d9%88%d9%86-17-%d8%a7%d9%8a%d8%b1-iphone-17-air-%d8%aa%d8%b5%d9%85%d9%8a%d9%85-%d8%a3%d9%86%d8%ad%d9%81-%d9%88%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-%d8%a3%d9%82%d9%88%d9%89/"
 ---

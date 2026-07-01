@@ -6,7 +6,7 @@ updatedDate: "2025-08-28T21:37:55"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/08/سوف-تمنح-واجهة-Coloros-16-الهواتف-OPPO-قائمة-ميزات-ثورية.png"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-coloros-16-%d8%b3%d8%aa%d9%85%d9%86%d8%ad-%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d8%a7%d9%88%d8%a8%d9%88-%d9%82%d8%a7%d8%a6%d9%85%d8%a9-%d9%85%d9%8a%d8%b2%d8%a7%d8%aa-%d8%ab/"
 ---

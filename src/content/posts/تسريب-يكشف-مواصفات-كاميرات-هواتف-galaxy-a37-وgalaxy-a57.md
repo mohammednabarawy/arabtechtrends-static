@@ -6,7 +6,7 @@ updatedDate: "2025-12-23T21:09:29"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["Galaxy A37","تسريبات لكاميرات سامسونج","مواصفات كاميرا هاتف","وGalaxy A57"]
-image: ""
+image: "/uploads/wp/2025/12/1766516969_galaxy-a37--galaxy-a57.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8-%d9%8a%d9%83%d8%b4%d9%81-%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-%d9%83%d8%a7%d9%85%d9%8a%d8%b1%d8%a7%d8%aa-%d9%87%d9%88%d8%a7%d8%aa%d9%81-galaxy-a37-%d9%88galaxy-a57/"
 ---

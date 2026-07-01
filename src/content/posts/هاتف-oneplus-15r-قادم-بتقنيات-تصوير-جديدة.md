@@ -6,7 +6,7 @@ updatedDate: "2025-12-13T16:03:32"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["بتقنيات التصوير الجديدة","سلسلة OnePlus R","كاميرا أمامية بدقة 4K","محرك DetailMax","هاتف OnePlus 15R"]
-image: ""
+image: "/uploads/wp/2025/12/1765634612_oneplus-15r-----------detailmax.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d8%aa%d9%81-oneplus-15r-%d9%82%d8%a7%d8%af%d9%85-%d8%a8%d8%aa%d9%82%d9%86%d9%8a%d8%a7%d8%aa-%d8%aa%d8%b5%d9%88%d9%8a%d8%b1-%d8%ac%d8%af%d9%8a%d8%af%d8%a9/"
 ---
@@ -22,9 +22,11 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d8%aa%d9%81-oneplus-15r-
 <p>أما بالنسبة للكاميرات الخلفية، فقد أكدت شركة وان بلس أن هاتف 15R سيستخدم محرك التصوير الجديد DetailMax الذي ظهر لأول مرة مع هاتف OnePlus 15. ويأتي هذا المحرك بمجموعة من خوارزميات التصوير المخصصة لسلسلة OnePlus R، مثل:</p>
 <ul>
 <li>وضع فائق الوضوح</li>
-<p></p>
+<p>
+</p>
 <li>انفجار واضح</li>
-<p></p>
+<p>
+</p>
 <li>مسح المحرك الليلي</li>
 <p>
 </ul>

@@ -6,7 +6,7 @@ updatedDate: "2025-11-21T08:13:37"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["إطلاق هواتف Reno15 وOppo في الأسواق الصينية ليتم إطلاقهما عالمياً"]
-image: ""
+image: "/uploads/wp/2025/11/1763705616_oppo-reno15--reno15-pro.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d9%87%d9%88%d8%a7%d8%aa%d9%81-oppo-reno15-%d9%88-reno15-pro-%d9%81%d9%89-%d8%a7%d9%84%d8%a3%d8%b3%d9%88%d8%a7%d9%82-%d8%a7%d9%84%d8%b5%d9%8a%d9%86%d9%8a%d8%a9/"
 ---

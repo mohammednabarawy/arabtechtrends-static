@@ -6,7 +6,7 @@ updatedDate: "2025-09-03T11:23:56"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/09/1756887833_galaxy-s25-fe.png"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-%d8%a7%d8%b3-25-%d8%a7%d9%81-%d8%a7%d9%8a-galaxy-s25-fe-%d9%83%d8%b4%d9%81-%d8%aa%d8%b5%d9%85%d9%8a%d9%85%d9%87-%d9%88%d8%a3%d9%84%d9%88%d8%a7%d9%86%d9%87-%d9%88/"
 ---

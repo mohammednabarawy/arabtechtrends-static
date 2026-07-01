@@ -6,7 +6,7 @@ updatedDate: "2025-07-26T04:59:33"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/07/1753495172_واحد-UI-8-و-Android-16-تحديث-الاتصال-بواحد-من.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui-8-%d9%88android-16-%d9%8a%d8%b5%d9%84%d8%a7%d9%86-%d9%84%d8%a3%d8%ad%d8%af-%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-%d9%81%d8%a6/"
 ---

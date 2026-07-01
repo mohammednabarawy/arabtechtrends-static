@@ -6,7 +6,7 @@ updatedDate: "2025-12-19T05:11:36"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["أزمة إنتاج الذاكرة","أزمة الذاكرة تهدد","إنتاج GeForce RTX","نقص البطاقة الرسومية"]
-image: ""
+image: "/uploads/wp/2025/12/geforce-rtx_6e9e.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a3%d8%b2%d9%85%d8%a9-%d8%a7%d9%84%d8%b0%d8%a7%d9%83%d8%b1%d8%a9-%d8%aa%d9%87%d8%af%d8%af-%d8%a8%d8%aa%d9%83%d8%b1%d8%a7%d8%b1-%d9%86%d9%82%d8%b5-%d8%a8%d8%b7%d8%a7%d9%82%d8%a7%d8%aa-%d8%a7%d9%84d/"
 ---

@@ -6,7 +6,7 @@ updatedDate: "2025-12-13T04:00:19"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["الجيل القادم من سامسونج","تقنيات الكاميرا","قفزة هائلة","كاميرات سامسونج"]
-image: ""
+image: "/uploads/wp/2025/12/major-camera-upgrade-s27_601c.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-%d8%aa%d8%ae%d8%b7%d8%b7-%d9%84%d9%82%d9%81%d8%b2%d8%a9-%d9%82%d9%88%d9%8a%d8%a9-%d9%81%d9%8a-%d8%aa%d9%82%d9%86%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d9%83%d8%a7d/"
 ---

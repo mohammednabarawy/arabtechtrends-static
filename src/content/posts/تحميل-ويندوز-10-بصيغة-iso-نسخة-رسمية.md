@@ -6,7 +6,7 @@ updatedDate: "2025-12-27T00:42:28"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/12/windows-10-----iso-22h2.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d9%88%d9%8a%d9%86%d8%af%d9%88%d8%b2-10-%d8%a8%d8%b5%d9%8a%d8%ba%d8%a9-iso-%d9%86%d8%b3%d8%ae%d8%a9-%d8%b1%d8%b3%d9%85%d9%8a%d8%a9/"
 ---

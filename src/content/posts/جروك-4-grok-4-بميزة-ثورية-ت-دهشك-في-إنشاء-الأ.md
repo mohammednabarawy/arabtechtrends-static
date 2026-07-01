@@ -6,7 +6,7 @@ updatedDate: "2025-07-08T01:08:59"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/07/جروك-4-Grok-4-بميزة-ثورية-تُدهشك-في-إنشاء.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%b1%d9%88%d9%83-4-grok-4-%d8%a8%d9%85%d9%8a%d8%b2%d8%a9-%d8%ab%d9%88%d8%b1%d9%8a%d8%a9-%d8%aa%d9%8f%d8%af%d9%87%d8%b4%d9%83-%d9%81%d9%8a-%d8%a5%d9%86%d8%b4%d8%a7%d8%a1-%d8%a7%d9%84%d8%a3/"
 ---

@@ -6,7 +6,7 @@ updatedDate: "2025-12-07T17:47:04"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["تطبيق جيميني","نتائج تتجاوز كل التوقعات","نموذج جوجل","نموذج جيميني 3 للتفكير العميق"]
-image: ""
+image: "/uploads/wp/2025/12/1765122424_gemini-3-deep-think--------google.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-gemini-3-deep-think-%d8%a3%d8%b0%d9%83%d9%89-%d9%86%d9%85%d9%88%d8%b0%d8%ac-%d9%85%d9%86-google/"
 ---

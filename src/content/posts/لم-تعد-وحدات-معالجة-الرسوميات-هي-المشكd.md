@@ -6,7 +6,7 @@ updatedDate: "2025-12-09T12:11:50"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["الذكاء الاصطناعي","مشكلة الذكاء الاصطناعي","معوقات الذكاء الاصطناعي","وحدات المعالجة الرسومية"]
-image: ""
+image: "/uploads/wp/2025/12/gpu-ai_4b6f.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%84%d9%85-%d8%aa%d8%b9%d8%af-%d9%88%d8%ad%d8%af%d8%a7%d8%aa-%d9%85%d8%b9%d8%a7%d9%84%d8%ac%d8%a9-%d8%a7%d9%84%d8%b1%d8%b3%d9%88%d9%85%d9%8a%d8%a7%d8%aa-%d9%87%d9%8a-%d8%a7%d9%84%d9%85%d8%b4%d9%83d/"
 ---

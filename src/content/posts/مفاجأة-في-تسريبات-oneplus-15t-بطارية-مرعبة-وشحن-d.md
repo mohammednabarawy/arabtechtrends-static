@@ -6,7 +6,7 @@ updatedDate: "2025-12-11T06:41:39"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["بطارية مرعبة","تسريبات OnePlus 15T","شحن سريع","هاتف OnePlus 15T"]
-image: ""
+image: "/uploads/wp/2025/12/1765428099_oneplus-15t.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%85%d9%81%d8%a7%d8%ac%d8%a3%d8%a9-%d9%81%d9%8a-%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8%d8%a7%d8%aa-oneplus-15t-%d8%a8%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d9%85%d8%b1%d8%b9%d8%a8%d8%a9-%d9%88%d8%b4%d8%ad%d9%86-d/"
 ---
@@ -26,7 +26,8 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%85%d9%81%d8%a7%d8%ac%d8%a3%d8%a9-
 <div>
 <ul>
 <li>50 ميجابكسل سوني IMX906</li>
-<p></p>
+<p>
+</p>
 <li>200 ميجا بكسل سامسونج HP5</li>
 <p>
 </ul>

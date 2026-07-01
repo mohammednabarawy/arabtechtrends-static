@@ -6,7 +6,7 @@ updatedDate: "2025-07-21T05:31:08"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/07/1753065067_Xiaomi-15T-Pro-الكشف-عن-المواصفات-وأبرز-ميزات-الهاتف.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-15t-%d8%a8%d8%b1%d9%88-xiaomi-15t-pro-%d9%83%d8%b4%d9%81-%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-%d9%88%d8%a3%d8%a8%d8%b1%d8%b2-%d9%85%d9%8a%d8%b2%d8%a7%d8%aa%d9%87/"
 ---

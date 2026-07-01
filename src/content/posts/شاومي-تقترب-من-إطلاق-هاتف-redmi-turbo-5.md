@@ -6,7 +6,7 @@ updatedDate: "2025-12-15T01:16:59"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["أطلقت شركة Xiaomi هاتف REDMI Turbo 5","بشهادة الصين","رقم الموديل 2602BRT18C","سجلات شهادة راديو الصين"]
-image: ""
+image: "/uploads/wp/2025/12/1765754219_xiaomi-------redmi-turbo-5.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%aa%d9%82%d8%aa%d8%b1%d8%a8-%d9%85%d9%86-%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d9%87%d8%a7%d8%aa%d9%81-redmi-turbo-5/"
 ---

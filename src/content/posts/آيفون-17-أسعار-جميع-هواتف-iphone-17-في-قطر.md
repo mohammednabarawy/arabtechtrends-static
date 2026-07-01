@@ -6,7 +6,7 @@ updatedDate: "2025-09-17T05:31:19"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/09/1758076278_iphone-17-------iphone-17.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a2%d9%8a%d9%81%d9%88%d9%86-17-%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d8%ac%d9%85%d9%8a%d8%b9-%d9%87%d9%88%d8%a7%d8%aa%d9%81-iphone-17-%d9%81%d9%8a-%d9%82%d8%b7%d8%b1/"
 ---

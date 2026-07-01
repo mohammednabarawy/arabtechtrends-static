@@ -6,7 +6,7 @@ updatedDate: "2025-11-18T20:39:29"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/10/hyperos-3.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-hyperos-3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a-%d8%a8%d9%86%d8%b8%d8%a7%d9%85-android-16-%d9%8a%d9%8f%d8%b7%d9%84%d9%82-%d8%b1%d8%b3%d9%85%d9%8a%d9%8b%d8%a7-%d9%84/"
 ---

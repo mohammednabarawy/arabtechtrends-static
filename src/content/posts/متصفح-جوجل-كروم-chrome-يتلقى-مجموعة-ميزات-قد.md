@@ -6,7 +6,7 @@ updatedDate: "2025-07-12T10:35:30"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/07/تتلقى-Google-Chrome-Chrome-مجموعة-من-الميزات-التي-قد-تكون.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%85%d8%aa%d8%b5%d9%81%d8%ad-%d8%ac%d9%88%d8%ac%d9%84-%d9%83%d8%b1%d9%88%d9%85-chrome-%d9%8a%d8%aa%d9%84%d9%82%d9%89-%d9%85%d8%ac%d9%85%d9%88%d8%b9%d8%a9-%d9%85%d9%8a%d8%b2%d8%a7%d8%aa-%d9%82%d8%af/"
 ---

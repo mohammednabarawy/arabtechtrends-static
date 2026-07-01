@@ -6,7 +6,7 @@ updatedDate: "2025-07-08T11:14:32"
 author: "Arab Tech Trends"
 category: "ألعاب"
 tags: []
-image: ""
+image: "/uploads/wp/2025/07/تحميل-أفضل-ألعاب-البقاء-على-قيد-الحياة-2024.jpeg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/best-survival-games-html/"
 ---

@@ -6,7 +6,7 @@ updatedDate: "2025-12-10T21:34:37"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["Realme 16 Pro معالج جديد وقوي أداء Snapdragon 7 Gen 4 هاتف Realme 16 Pro+"]
-image: ""
+image: "/uploads/wp/2025/12/1765395276_realme-16-pro-----snapdragon.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%85%d8%b9%d8%a7%d9%84%d8%ac-%d8%ac%d8%af%d9%8a%d8%af-%d9%88%d9%82%d9%88%d9%8a-%d9%81%d9%8a-realme-16-pro-%d9%8a%d8%aa%d8%ac%d8%a7%d9%88%d8%b2-%d8%a3%d8%af%d8%a7%d8%a1-snapdragon-7-gen-4/"
 ---
@@ -20,11 +20,14 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%85%d8%b9%d8%a7%d9%84%d8%ac-%d8%ac
 <div>
 <ul>
 <li>9.3 ساعة من اللعب</li>
-<p></p>
+<p>
+</p>
 <li>20.8 ساعة على إنستغرام</li>
-<p></p>
+<p>
+</p>
 <li>ما يصل إلى 21 ساعة على يوتيوب</li>
-<p></p>
+<p>
+</p>
 <li>ما يصل إلى 125 ساعة من تشغيل الموسيقى</li>
 <p>
 </ul>
@@ -40,9 +43,11 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%85%d8%b9%d8%a7%d9%84%d8%ac-%d8%ac
 <div>
 <ul>
 <li>رمادي فاخر</li>
-<p></p>
+<p>
+</p>
 <li>ذهبية فاخرة</li>
-<p></p>
+<p>
+</p>
 <li>كاميليا الوردي</li>
 <p>
 </ul>
@@ -52,11 +57,14 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%85%d8%b9%d8%a7%d9%84%d8%ac-%d8%ac
 <div>
 <ul>
 <li>8 جيجابايت + 128 جيجابايت</li>
-<p></p>
+<p>
+</p>
 <li>8 جيجابايت + 256 جيجابايت</li>
-<p></p>
+<p>
+</p>
 <li>12 جيجابايت + 256 جيجابايت</li>
-<p></p>
+<p>
+</p>
 <li>12 جيجابايت + 512 جيجابايت</li>
 <p>
 </ul>

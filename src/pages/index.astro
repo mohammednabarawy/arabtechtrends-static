@@ -34,19 +34,23 @@ const sectionGroups = [
   { title: "تطبيقات وشروحات", slug: "apps", posts: pickSectionPosts("apps") }
 ].filter((g) => g.posts.length);
 
+const tickerPosts = posts.slice(0, 8);
+
 const base = import.meta.env.BASE_URL.endsWith("/") ? import.meta.env.BASE_URL : `${import.meta.env.BASE_URL}/`;
 const withBase = (path: string) => path.startsWith("http") ? path : `${base}${path.replace(/^\/+/, "")}`;
 const featuredImage = featured ? getPostImage(featured) : undefined;
 ---
 
 <BaseLayout title="عرب تك | التقنية بين يديك" image={featuredImage}>
-  <section class="ticker">
-    <strong>آخر الأخبار</strong>
-    {featured && (
-      <a class="ticker__link" href={withBase(`/posts/${featured.slug}/`)}>
-        {featured.data.title}
-      </a>
-    )}
+  <section class="ticker" aria-label="عناوين سريعة">
+    <strong>عاجل</strong>
+    <div class="ticker__track">
+      {tickerPosts.map((post) => (
+        <a class="ticker__link" href={withBase(`/posts/${post.slug}/`)}>
+          {post.data.title}
+        </a>
+      ))}
+    </div>
   </section>
 
   <section class="hero">
@@ -84,7 +88,7 @@ const featuredImage = featured ? getPostImage(featured) : undefined;
   </section>
 
   <section class="section-head">
-    <h2>آخر الأخبار</h2>
+    <h2>مقالات حديثة</h2>
     <a href={withBase("/posts/")}>كل المقالات</a>
   </section>
 

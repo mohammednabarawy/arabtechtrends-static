@@ -6,7 +6,7 @@ updatedDate: "2025-11-28T06:41:26"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["أوبو Reno 15 Pro Max بأربعة إصدارات","الإطلاق الرسمي لسلسلة Reno 15"]
-image: ""
+image: "/uploads/wp/2025/11/oppo-reno-15-pro-max.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b1%d8%b5%d8%af-oppo-reno-15-pro-max-%d9%82%d8%a8%d9%84-%d8%a7%d9%84%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d8%a7%d9%84%d8%b1%d8%b3%d9%85%d9%8a/"
 ---
@@ -19,7 +19,8 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b1%d8%b5%d8%af-oppo-reno-15-pro-m
 <p>ومن المتوقع أن يحمل هاتف Reno 15 Pro Max كاميرات خلفية ثلاثية بدقة 200 ميجابكسل، إلى جانب كاميرا أمامية بدقة 50 ميجابكسل. إن وجود مستشعر بدقة 200 ميجابكسل يعني صورة أكثر تفصيلاً ومعالجة أفضل للقطات المعقدة أو المشاهد ذات الإضاءة الضعيفة. أما بالنسبة لصور السيلفي فهي بدقة 50 ميجابكسل.</p>
 <p>ومن أبرز النقاط في المواصفات المسربة: بطارية بسعة 6500 مللي أمبير. وتتجاوز هذه السعة ما اعتدنا عليه في الهواتف المتوسطة والرائدة، وتؤكد نية أوبو تقديم هاتف قادر على العمل طوال اليوم وربما أكثر، خاصة مع شاشة LTPO ومعالج أكثر كفاءة.</p>
 <div>وبحسب الشهادات الرسمية، فإن النسخة العالمية من السلسلة ستتضمن أربعة موديلات: Reno 15، وReno 15F، وReno 15 Pro، وReno 15 Pro Max. لكن كما تشير الاعتمادات، لن تتوفر جميع النسخ في جميع الأسواق، وهو ما قد يجعل جهاز Pro Max جهازًا محدودًا في بعض المناطق، لكنه الأكثر تواجدًا في الفئة العليا منها.</p>
-<p><a href="https://www.gizmochina.com/2025/11/27/oppo-reno-15-pro-max-moniker-spotted-global-market-to-receive-four-reno-15-models/" target="_blank" rel="nofollow">مصدر<br /><br />
+<p><a href="https://www.gizmochina.com/2025/11/27/oppo-reno-15-pro-max-moniker-spotted-global-market-to-receive-four-reno-15-models/" target="_blank" rel="nofollow">مصدر<br />
+<br />
 </a><br />
 </p>
 </div>

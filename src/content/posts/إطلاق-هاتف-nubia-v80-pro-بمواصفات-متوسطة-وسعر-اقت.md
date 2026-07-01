@@ -6,7 +6,7 @@ updatedDate: "2025-11-22T05:24:53"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["بمواصفات متوسطة","هاتف Nubia V80 Pro","وسعر اقتصادي","وعلى غرار آيفون"]
-image: ""
+image: "/uploads/wp/2025/11/1763781892_iphone-17-pro-max-------nubia.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d9%87%d8%a7%d8%aa%d9%81-nubia-v80-pro-%d8%a8%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-%d9%85%d8%aa%d9%88%d8%b3%d8%b7%d8%a9-%d9%88%d8%b3%d8%b9%d8%b1-%d8%a7%d9%82%d8%aa/"
 ---

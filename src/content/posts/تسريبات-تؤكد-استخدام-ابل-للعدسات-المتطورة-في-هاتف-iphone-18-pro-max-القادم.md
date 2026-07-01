@@ -6,7 +6,7 @@ updatedDate: "2025-10-27T13:42:00"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["ابل","ايفون","ايفون 18 برو ماكس","تسريبات","عدسات متطورة"]
-image: ""
+image: "/uploads/wp/2025/10/iphone-18.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8%d8%a7%d8%aa-%d8%aa%d8%a4%d9%83%d8%af-%d8%a7%d8%b3%d8%aa%d8%ae%d8%af%d8%a7%d9%85-%d8%a2%d8%a8%d9%84-%d9%84%d8%b9%d8%af%d8%b3%d8%a7%d8%aa-%d9%85%d8%aa%d8%b7%d9%88%d8%b1%d8/"
 ---

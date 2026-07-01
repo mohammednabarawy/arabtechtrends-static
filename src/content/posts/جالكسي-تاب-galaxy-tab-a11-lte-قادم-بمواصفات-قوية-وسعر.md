@@ -6,7 +6,7 @@ updatedDate: "2025-07-21T19:35:31"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/07/1753115729_قادم-Galaxy-Tab-A11-LTE-مع-مواصفات-قوية-وسعر-جذاب.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-%d8%aa%d8%a7%d8%a8-galaxy-tab-a11-lte-%d9%82%d8%a7%d8%af%d9%85-%d8%a8%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-%d9%82%d9%88%d9%8a%d8%a9-%d9%88%d8%b3%d8%b9%d8%b1/"
 ---

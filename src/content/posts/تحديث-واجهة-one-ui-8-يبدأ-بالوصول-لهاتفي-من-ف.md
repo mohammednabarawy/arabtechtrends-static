@@ -6,7 +6,7 @@ updatedDate: "2025-09-30T03:03:53"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/09/galaxy-a36.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d9%88%d8%a7%d8%ac%d9%87%d8%a9-one-ui-8-%d9%8a%d8%a8%d8%af%d8%a3-%d8%a8%d8%a7%d9%84%d9%88%d8%b5%d9%88%d9%84-%d9%84%d9%87%d8%a7%d8%aa%d9%81%d9%8a-%d9%85%d9%86-%d9%81/"
 ---

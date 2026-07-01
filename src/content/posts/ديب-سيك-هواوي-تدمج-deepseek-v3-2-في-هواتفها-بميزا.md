@@ -6,7 +6,7 @@ updatedDate: "2025-10-12T17:11:51"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/10/1760278310_deepseek-v32.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%af%d9%8a%d8%a8-%d8%b3%d9%8a%d9%83-%d9%87%d9%88%d8%a7%d9%88%d9%8a-%d8%aa%d8%af%d9%85%d8%ac-deepseek-v3-2-%d9%81%d9%8a-%d9%87%d9%88%d8%a7%d8%aa%d9%81%d9%87%d8%a7-%d8%a8%d9%85%d9%8a%d8%b2%d8%a7/"
 ---

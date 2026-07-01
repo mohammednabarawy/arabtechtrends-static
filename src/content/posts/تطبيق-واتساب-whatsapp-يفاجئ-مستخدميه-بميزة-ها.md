@@ -6,7 +6,7 @@ updatedDate: "2025-09-15T04:19:51"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/09/1757899190_whatsapp.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-%d9%88%d8%a7%d8%aa%d8%b3%d8%a7%d8%a8-whatsapp-%d9%8a%d9%81%d8%a7%d8%ac%d8%a6-%d9%85%d8%b3%d8%aa%d8%ae%d8%af%d9%85%d9%8a%d9%87-%d8%a8%d9%85%d9%8a%d8%b2%d8%a9-%d9%87%d8%a7/"
 ---

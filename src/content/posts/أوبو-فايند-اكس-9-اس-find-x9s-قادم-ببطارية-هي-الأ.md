@@ -6,7 +6,7 @@ updatedDate: "2025-10-22T01:52:23"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/10/find-x9s.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a3%d9%88%d8%a8%d9%88-%d9%81%d8%a7%d9%8a%d9%86%d8%af-%d8%a7%d9%83%d8%b3-9-%d8%a7%d8%b3-find-x9s-%d9%82%d8%a7%d8%af%d9%85-%d8%a8%d8%a8%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d9%87%d9%8a-%d8%a7%d9%84%d8%a3/"
 ---

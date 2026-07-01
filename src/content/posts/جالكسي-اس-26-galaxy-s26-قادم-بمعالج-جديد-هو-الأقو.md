@@ -6,7 +6,7 @@ updatedDate: "2025-07-30T14:19:32"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/07/Galaxy-S26-القادمة-مع-معالج-جديد-هو-الأقوى-في-تاريخ.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-%d8%a7%d8%b3-26-galaxy-s26-%d9%82%d8%a7%d8%af%d9%85-%d8%a8%d9%85%d8%b9%d8%a7%d9%84%d8%ac-%d8%ac%d8%af%d9%8a%d8%af-%d9%87%d9%88-%d8%a7%d9%84%d8%a3%d9%82%d9%88/"
 ---

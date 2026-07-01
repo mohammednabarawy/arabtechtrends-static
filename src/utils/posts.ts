@@ -7,10 +7,19 @@ const IMG_MD_RE = /!\[[^\]]*\]\(([^)]+)\)/;
 
 export type Post = CollectionEntry<"posts">;
 
+function normalizeImageUrl(url: string | undefined) {
+  if (!url?.trim()) return undefined;
+  const trimmed = url.trim().split("?")[0].split("#")[0];
+  return trimmed || undefined;
+}
+
 export function getPostImage(post: Post): string | undefined {
-  if (post.data.image?.trim()) return post.data.image.trim();
-  const fromBody = post.body.match(IMG_SRC_RE)?.[1] ?? post.body.match(IMG_MD_RE)?.[1];
-  return fromBody?.trim() || undefined;
+  const fromFm = normalizeImageUrl(post.data.image);
+  if (fromFm) return fromFm;
+  const fromBody = normalizeImageUrl(
+    post.body.match(IMG_SRC_RE)?.[1] ?? post.body.match(IMG_MD_RE)?.[1]
+  );
+  return fromBody;
 }
 
 export function getPostExcerpt(post: Post, maxLength = 160): string {

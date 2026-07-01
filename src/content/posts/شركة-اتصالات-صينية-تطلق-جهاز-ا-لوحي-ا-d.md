@@ -6,7 +6,7 @@ updatedDate: "2025-12-23T09:04:53"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["جهاز لوحي من شركة اتصالات صينية","يعمل بنظامي التشغيل أندرويد وويندوز"]
-image: ""
+image: "/uploads/wp/2025/12/cloud-ai-pad-android-and-windows_f216.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%b1%d9%83%d8%a9-%d8%a7%d8%aa%d8%b5%d8%a7%d9%84%d8%a7%d8%aa-%d8%b5%d9%8a%d9%86%d9%8a%d8%a9-%d8%aa%d8%b7%d9%84%d9%82-%d8%ac%d9%87%d8%a7%d8%b2%d9%8b%d8%a7-%d9%84%d9%88%d8%ad%d9%8a%d9%8b%d8%a7-d/"
 ---

@@ -6,7 +6,7 @@ updatedDate: "2025-08-30T08:56:16"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/07/arabtech-logo.png"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/top-10-casinos-en-ligne-2025-sites-fiables-lgaux-259/"
 ---

@@ -6,7 +6,7 @@ updatedDate: "2025-11-30T20:34:42"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/11/1764527681_snapdragon-8-gen-5.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%85%d8%b9%d8%a7%d9%84%d8%ac-snapdragon-8-gen-5-%d9%8a%d9%82%d8%af%d9%91%d9%85-%d8%a3%d8%af%d8%a7%d8%a1%d9%8b-%d8%b3%d8%b1%d9%8a%d8%b9%d9%8b%d8%a7-%d9%84%d9%83%d9%86-%d9%87%d9%86%d8%a7/"
 ---

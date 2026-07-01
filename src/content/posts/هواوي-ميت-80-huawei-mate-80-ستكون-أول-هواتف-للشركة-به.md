@@ -6,7 +6,7 @@ updatedDate: "2025-08-12T04:35:23"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/08/1754962522_سيكون-Huawei-Mate-80-أول-هواتف-الهاتف-مع-هذه-الميزة.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%87%d9%88%d8%a7%d9%88%d9%8a-%d9%85%d9%8a%d8%aa-80-huawei-mate-80-%d8%b3%d8%aa%d9%83%d9%88%d9%86-%d8%a3%d9%88%d9%84-%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d9%84%d9%84%d8%b4%d8%b1%d9%83%d8%a9-%d8%a8%d9%87/"
 ---

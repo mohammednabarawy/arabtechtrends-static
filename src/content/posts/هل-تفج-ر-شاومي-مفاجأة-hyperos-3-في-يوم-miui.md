@@ -6,7 +6,7 @@ updatedDate: "2025-08-18T08:23:19"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/08/1755494598_هل-ينفجر-Xiaomi-مفاجأة-Hyperos-3-في-يوم-Miui؟.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%87%d9%84-%d8%aa%d9%81%d8%ac%d9%91%d8%b1-%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d9%85%d9%81%d8%a7%d8%ac%d8%a3%d8%a9-hyperos-3-%d9%81%d9%8a-%d9%8a%d9%88%d9%85-miui%d8%9f/"
 ---

@@ -6,7 +6,7 @@ updatedDate: "2025-11-17T07:29:30"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["معالج Unisoc T9300 جديد وكاميرات 200 ميجابيكسل وميزات الاتصال عبر الأقمار الصناعية للهواتف متوسطة المدى"]
-image: ""
+image: "/uploads/wp/2025/11/unisoc-t9300---------200.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%85%d8%b9%d8%a7%d9%84%d8%ac-unisoc-t9300-%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af-%d9%8a%d9%82%d8%af%d9%85-%d8%af%d8%b9%d9%85-%d9%83%d8%a7%d9%85%d9%8a%d8%b1%d8%a7%d8%aa-200mp/"
 ---
@@ -19,11 +19,14 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%85%d8%b9%d8%a7%d9%84%d8%ac-unisoc
 <div>
 <ul>
 <li>VideoPQ لضبط التباين ديناميكيًا.</li>
-<p></p>
+<p>
+</p>
 <li>VRR لمعدل التحديث المتغير.</li>
-<p></p>
+<p>
+</p>
 <li>أوضاع حماية العين للضوء الأزرق وأشعة الشمس والرؤية الليلية.</li>
-<p></p>
+<p>
+</p>
 <li>كما يدعم المعالج الصوت بجودة HiFi، بالإضافة إلى محرك Miracle Gaming الذي طورته شركة Unisoc لتعزيز أداء ألعاب الهاتف المحمول.</li>
 <p>
 </ul>
@@ -33,7 +36,8 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%85%d8%b9%d8%a7%d9%84%d8%ac-unisoc
 <div>
 <ul>
 <li>كاميرا رئيسية 200 ميجابكسل.</li>
-<p></p>
+<p>
+</p>
 <li>أو إعداد 20+20 ميجابكسل للكاميرات المزدوجة.</li>
 <p>
 </ul>
@@ -43,7 +47,8 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%85%d8%b9%d8%a7%d9%84%d8%ac-unisoc
 <div>
 <ul>
 <li>MFNR: تقليل الضوضاء متعدد الإطارات.</li>
-<p></p>
+<p>
+</p>
 <li>TNR: تقليل الضوضاء المؤقتة.</li>
 <p>
 </ul>

@@ -6,7 +6,7 @@ updatedDate: "2025-12-11T16:29:43"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/12/1765463383_google.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-%d8%ac%d9%88%d8%ac%d9%84-google-translate-%d9%8a%d8%aa%d9%84%d9%82%d9%89-%d9%85%d8%b2%d8%a7%d9%8a%d8%a7-%d8%ab%d9%88%d8%b1%d9%8a%d8%a9/"
 ---

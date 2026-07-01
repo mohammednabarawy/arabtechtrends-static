@@ -6,7 +6,7 @@ updatedDate: "2025-08-06T07:53:18"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/08/Redmi-K90-السلسلة-تأتي-مع-ترقية-ضخمة-هل-ستفاجئ-السنة؟.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b1%d9%8a%d8%af%d9%85%d9%8a-%d9%83%d9%89-90-redmi-k90-%d8%a7%d9%84%d8%b3%d9%84%d8%b3%d9%84%d8%a9-%d9%82%d8%a7%d8%af%d9%85%d8%a9-%d8%a8%d8%aa%d8%b1%d9%82%d9%8a%d8%a9-%d8%b6%d8%ae%d9%85%d8%a9/"
 ---

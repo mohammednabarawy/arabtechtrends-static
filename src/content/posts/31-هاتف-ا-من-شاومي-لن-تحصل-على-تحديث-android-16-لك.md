@@ -6,7 +6,7 @@ updatedDate: "2025-08-04T20:47:41"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/08/31-هاتفًا-من-Xiaomi-لن-يحصل-على-تحديث-Android-16.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/31-%d9%87%d8%a7%d8%aa%d9%81%d9%8b%d8%a7-%d9%85%d9%86-%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d9%84%d9%86-%d8%aa%d8%ad%d8%b5%d9%84-%d8%b9%d9%84%d9%89-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-android-16-%d9%84%d9%83/"
 ---

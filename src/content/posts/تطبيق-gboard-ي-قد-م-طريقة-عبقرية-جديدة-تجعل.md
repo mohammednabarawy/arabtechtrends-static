@@ -6,7 +6,7 @@ updatedDate: "2025-11-03T14:58:34"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/11/1762174712_gboard.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-gboard-%d9%8a%d9%8f%d9%82%d8%af%d9%91%d9%85-%d8%b7%d8%b1%d9%8a%d9%82%d8%a9-%d8%b9%d8%a8%d9%82%d8%b1%d9%8a%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%aa%d8%ac%d8%b9%d9%84/"
 ---

@@ -6,7 +6,7 @@ updatedDate: "2025-07-31T11:25:45"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/07/يوفر-Google-Play-9-أسرار-قوية-يجب-أن-يعرفها-كل.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d9%88%d8%ac%d9%84-%d8%a8%d9%84%d8%a7%d9%8a-google-play-%d9%8a%d9%88%d9%81%d8%b1-9-%d8%a3%d8%b3%d8%b1%d8%a7%d8%b1-%d9%82%d9%88%d9%8a%d8%a9-%d9%8a%d8%ac%d8%a8-%d8%a3%d9%86-%d9%8a%d8%b9%d8%b1/"
 ---

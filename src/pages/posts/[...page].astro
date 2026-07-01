@@ -4,7 +4,7 @@ import type { GetStaticPaths } from "astro";
 import Breadcrumbs from "../../components/Breadcrumbs.astro";
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import { postsPerPage } from "../../site";
-import { getPostImage } from "../../utils/posts";
+import { getPostImage, getPostExcerpt } from "../../utils/posts";
 
 export const getStaticPaths = (async ({ paginate }) => {
   const posts = (await getCollection("posts", ({ data }) => !data.draft)).sort(
@@ -46,6 +46,7 @@ const withBase = (path: string) => `${base}${path.replace(/^\/+/, "")}`;
           <div>
             <p>{post.data.category}</p>
             <h2><a href={withBase(`/posts/${post.slug}/`)}>{post.data.title}</a></h2>
+            <p class="post-list-item__excerpt">{getPostExcerpt(post, 180)}</p>
             <time datetime={post.data.pubDate.toISOString()}>{post.data.pubDate.toLocaleDateString("ar-EG")}</time>
           </div>
         </article>

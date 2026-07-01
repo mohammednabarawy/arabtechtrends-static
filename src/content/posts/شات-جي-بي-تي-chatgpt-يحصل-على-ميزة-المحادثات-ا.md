@@ -6,7 +6,7 @@ updatedDate: "2025-11-15T08:08:18"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/10/1759266517_chatgpt.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d8%aa-%d8%ac%d9%8a-%d8%a8%d9%8a-%d8%aa%d9%8a-chatgpt-%d9%8a%d8%ad%d8%b5%d9%84-%d8%b9%d9%84%d9%89-%d9%85%d9%8a%d8%b2%d8%a9-%d8%a7%d9%84%d9%85%d8%ad%d8%a7%d8%af%d8%ab%d8%a7%d8%aa-%d8%a7/"
 ---

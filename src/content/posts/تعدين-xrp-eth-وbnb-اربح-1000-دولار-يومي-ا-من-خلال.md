@@ -6,7 +6,7 @@ updatedDate: "2025-09-25T17:29:58"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/09/1758810597_xrp-----eth-----bnb---1000.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b9%d8%af%d9%8a%d9%86-xrp%d8%8c-eth%d8%8c-%d9%88bnb-%d8%a7%d8%b1%d8%a8%d8%ad-1000-%d8%af%d9%88%d9%84%d8%a7%d8%b1-%d9%8a%d9%88%d9%85%d9%8a%d9%8b%d8%a7-%d9%85%d9%86-%d8%ae%d9%84%d8%a7%d9%84/"
 ---

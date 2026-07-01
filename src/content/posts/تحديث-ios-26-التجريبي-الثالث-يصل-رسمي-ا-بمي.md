@@ -6,7 +6,7 @@ updatedDate: "2025-07-10T02:19:04"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/07/1752103142_يصل-تحديث-IOS-26-التجريبي-رسميًا-إلى-ميزات-جديدة-مهمة.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-ios-26-%d8%a7%d9%84%d8%aa%d8%ac%d8%b1%d9%8a%d8%a8%d9%8a-%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab-%d9%8a%d8%b5%d9%84-%d8%b1%d8%b3%d9%85%d9%8a%d9%8b%d8%a7-%d8%a8%d9%85%d9%8a/"
 ---

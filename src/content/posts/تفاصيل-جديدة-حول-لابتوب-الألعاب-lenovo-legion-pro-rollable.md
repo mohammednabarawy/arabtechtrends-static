@@ -6,7 +6,7 @@ updatedDate: "2025-12-20T05:20:56"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["لابتوب الألعاب لينوفو تفاصيل جديدة الشاشة القابلة للتمديد Lenovo Legion Pro Rollable"]
-image: ""
+image: "/uploads/wp/2025/12/1766200856_lenovo-legion-pro-rollable.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d9%81%d8%a7%d8%b5%d9%8a%d9%84-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%ad%d9%88%d9%84-%d9%84%d8%a7%d8%a8%d8%aa%d9%88%d8%a8-%d8%a7%d9%84%d8%a3%d9%84%d8%b9%d8%a7%d8%a8-lenovo-legion-pro-rollable/"
 ---

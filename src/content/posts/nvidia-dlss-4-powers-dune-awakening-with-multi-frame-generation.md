@@ -6,7 +6,7 @@ updatedDate: "2025-07-07T10:55:19"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["Dunke: Awakening","Funcom","Nvidia DLSS 4 Support","توليد الإطارات المتعددة"]
-image: ""
+image: "/uploads/wp/2025/07/1751736373_Dunke-Awakening-متاح-الآن-مع-Nvidia-DLSS-4-وتوليد-الإطارات.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/nvidia-dlss-4-powers-dune-awakening-with-multi-frame-generation/"
 ---

@@ -6,7 +6,7 @@ updatedDate: "2025-12-17T01:45:05"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["تسريبات هونر هاتف Honor Power 2 بطارية تتجاوز 10000 مللي أمبير الفئة المتوسطة"]
-image: ""
+image: "/uploads/wp/2025/12/1765928704_honor-power-2-----10000.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8%d8%a7%d8%aa-%d8%ad%d9%88%d9%84-%d9%87%d8%a7%d8%aa%d9%81-honor-power-2/"
 ---

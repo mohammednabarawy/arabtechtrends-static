@@ -6,7 +6,7 @@ updatedDate: "2025-07-07T10:55:22"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["عشاق الألعاب والألعاب الإلكترونية و NVIDIA و DLSS 4 دعم"]
-image: ""
+image: "/uploads/wp/2025/07/عشاق-الألعاب-الإلكترونية-تقوم-NVIDIA-بتوسيع-دعم-DLSS-4-لـ.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b9%d8%b4%d8%a7%d9%82-%d8%a7%d9%84%d8%a3%d9%84%d8%b9%d8%a7%d8%a8-%d8%a7%d9%84%d8%a5%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a%d8%a9-nvidia-%d8%aa%d9%8f%d9%88%d8%b3%d8%b9-%d8%af%d8%b9%d9%85-dlss-4/"
 ---
@@ -21,25 +21,35 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b9%d8%b4%d8%a7%d9%82-%d8%a7%d9%84
 <div>
 <ol>
 <li>قرمزي الصحراء</li>
-<p></p>
+<p>
+</p>
 <li>F1® 25</li>
-<p></p>
+<p>
+</p>
 <li>FBC: Firebreak</li>
-<p></p>
+<p>
+</p>
 <li>الكثبان الرملية: الصحوة</li>
-<p></p>
+<p>
+</p>
 <li>inzoi</li>
-<p></p>
+<p>
+</p>
 <li>ضوء motiram</li>
-<p></p>
+<p>
+</p>
 <li>Mindseye</li>
-<p></p>
+<p>
+</p>
 <li>الطريق</li>
-<p></p>
+<p>
+</p>
 <li>Splitgate 2</li>
-<p></p>
+<p>
+</p>
 <li>ووتشانغ: الريش الساقطة</li>
-<p></p>
+<p>
+</p>
 <li>الفوضى enscape و autodesk vred</li>
 <p>
 </ol>

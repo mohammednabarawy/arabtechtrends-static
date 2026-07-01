@@ -6,7 +6,7 @@ updatedDate: "2025-11-22T08:25:53"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["AnTuTu","Snapdragon 8 Gen 5","الهاتف","معالج OnePlus Ace 6T"]
-image: ""
+image: "/uploads/wp/2025/11/1763792751_oneplus-ace-6t-35-------antutu.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d8%aa%d9%81-oneplus-ace-6t-%d9%8a%d8%b3%d8%ac%d9%84-3-5-%d9%85%d9%84%d9%8a%d9%88%d9%86-%d9%86%d9%82%d8%b7%d8%a9-%d8%b9%d9%84%d9%89-antutu/"
 ---
@@ -17,11 +17,14 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d8%aa%d9%81-oneplus-ace-
 <div>
 <ul>
 <li>1,061,167 نقطة في اختبار وحدة المعالجة المركزية</li>
-<p></p>
+<p>
+</p>
 <li>1,160,801 نقطة في اختبار GPU</li>
-<p></p>
+<p>
+</p>
 <li>538316 نقطة في الذاكرة</li>
-<p></p>
+<p>
+</p>
 <li>801,275 نقطة في تجربة المستخدم (UX)</li>
 <p>
 </ul>

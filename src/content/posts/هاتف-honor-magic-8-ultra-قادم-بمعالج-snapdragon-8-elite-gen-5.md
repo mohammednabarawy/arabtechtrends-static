@@ -6,7 +6,7 @@ updatedDate: "2025-11-27T06:30:44"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["120 واط","Honor Magic 8 Ultra","دعم","شحن فائق السرعة","وكالة 3C"]
-image: ""
+image: "/uploads/wp/2025/11/1764217843_honor-magic-8-ultra-----snapdragon-8.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d8%aa%d9%81-honor-magic-8-ultra-%d9%82%d8%a7%d8%af%d9%85-%d8%a8%d9%85%d8%b9%d8%a7%d9%84%d8%ac-snapdragon-8-elite-gen-5/"
 ---

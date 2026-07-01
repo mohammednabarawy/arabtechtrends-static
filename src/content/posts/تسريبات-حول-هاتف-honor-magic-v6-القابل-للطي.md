@@ -6,7 +6,7 @@ updatedDate: "2025-12-20T14:27:52"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["تسريبات","معالج Snapdragon 8 Elite Gen 5","هاتف Honor Magic V6 الذكي","هاتف Honor القابل للطي"]
-image: ""
+image: "/uploads/wp/2025/12/1766233672_honor-magic-v6.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8%d8%a7%d8%aa-%d8%ad%d9%88%d9%84-%d9%87%d8%a7%d8%aa%d9%81-honor-magic-v6-%d8%a7%d9%84%d9%82%d8%a7%d8%a8%d9%84-%d9%84%d9%84%d8%b7%d9%8a/"
 ---

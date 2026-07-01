@@ -6,7 +6,7 @@ updatedDate: "2025-07-26T19:01:30"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/07/يتم-اختبار-Gmail-من-خلال-تغيير-قد-يجعل-العديد-من.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d9%8a%d9%85%d9%8a%d9%84-gmail-%d8%aa%d8%ae%d8%aa%d8%a8%d8%b1-%d8%aa%d8%ba%d9%8a%d9%8a%d8%b1%d9%8b%d8%a7-%d9%82%d8%af-%d9%8a%d8%ab%d9%8a%d8%b1-%d8%a7%d8%b3%d8%aa%d9%8a%d8%a7%d8%a1-%d8%a7%d9%84/"
 ---

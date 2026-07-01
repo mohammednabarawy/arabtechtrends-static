@@ -6,7 +6,7 @@ updatedDate: "2025-12-05T08:10:05"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["أقوى ابتكاراتها","حدث النظرة الأولى","سامسونج","سامسونج تفاجئ العالم"]
-image: ""
+image: "/uploads/wp/2025/12/1764915004_the.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-%d8%aa%d9%81%d8%a7%d8%ac%d8%a6-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d8%a8%d9%83%d8%b4%d9%81-%d8%a3%d9%82%d9%88%d9%89-%d8%a7%d8%a8%d8%aa%d9%83%d8%a7%d8%b1%d8/"
 ---

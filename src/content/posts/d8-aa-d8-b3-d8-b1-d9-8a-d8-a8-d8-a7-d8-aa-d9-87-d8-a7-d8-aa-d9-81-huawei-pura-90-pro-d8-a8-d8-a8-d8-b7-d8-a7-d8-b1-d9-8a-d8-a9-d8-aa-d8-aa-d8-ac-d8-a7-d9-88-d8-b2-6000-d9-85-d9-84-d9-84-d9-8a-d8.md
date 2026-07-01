@@ -6,7 +6,7 @@ updatedDate: "2025-12-20T23:30:37"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["ببطارية 6000 مللي أمبير","بطارية هاتف هواوي","تسريبات هاتف هواوي","هاتف Huawei Pura 90 Pro"]
-image: ""
+image: "/uploads/wp/2025/12/1766266237_huawei-pura-90-pro-------6000.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8%d8%a7%d8%aa-%d9%87%d8%a7%d8%aa%d9%81-huawei-pura-90-pro-%d8%a8%d8%a8%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%aa%d8%aa%d8%ac%d8%a7%d9%88%d8%b2-6000-%d9%85%d9%84%d9%84%d9%8a-%d8/"
 ---

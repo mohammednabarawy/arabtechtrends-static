@@ -6,7 +6,7 @@ updatedDate: "2025-12-01T03:35:34"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/12/galaxy-s27-ultra.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-%d8%a7%d8%b3-27-%d8%a7%d9%84%d8%aa%d8%b1-galaxy-s27-ultra-%d8%ae%d8%b7%d9%88%d8%a9-%d8%ba%d9%8a%d8%b1-%d9%85%d8%aa%d9%88%d9%82%d8%b9%d8%a9-%d8%aa%d8%ba%d9%8a%d9%91/"
 ---

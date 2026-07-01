@@ -6,7 +6,7 @@ updatedDate: "2025-08-23T00:49:16"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/08/1755899354_يتم-إطلاق-كاميرا-61-من-Xiaomi-رسميًا-بميزات-خرافية.png"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-%d8%a7%d9%84%d9%83%d8%a7%d9%85%d9%8a%d8%b1%d8%a7-camera-6-1-%d9%85%d9%86-%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d9%8a%d9%86%d8%b7%d9%84%d9%82-%d8%b1%d8%b3%d9%85%d9%8a%d9%8b/"
 ---

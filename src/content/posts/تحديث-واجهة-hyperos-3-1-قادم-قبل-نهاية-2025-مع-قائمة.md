@@ -6,7 +6,7 @@ updatedDate: "2025-11-22T08:56:19"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/11/hyperos-31---------2025.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d9%88%d8%a7%d8%ac%d9%87%d8%a9-hyperos-3-1-%d9%82%d8%a7%d8%af%d9%85-%d9%82%d8%a8%d9%84-%d9%86%d9%87%d8%a7%d9%8a%d8%a9-2025-%d9%85%d8%b9-%d9%82%d8%a7%d8%a6%d9%85%d8%a9/"
 ---

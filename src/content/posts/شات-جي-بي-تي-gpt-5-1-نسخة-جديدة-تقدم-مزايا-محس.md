@@ -6,7 +6,7 @@ updatedDate: "2025-11-16T19:22:49"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/11/2025-11-13_13-44-10.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d8%aa-%d8%ac%d9%8a-%d8%a8%d9%8a-%d8%aa%d9%8a-gpt-5-1-%d9%86%d8%b3%d8%ae%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%aa%d9%82%d8%af%d9%85-%d9%85%d8%b2%d8%a7%d9%8a%d8%a7-%d9%85%d8%ad%d8%b3/"
 ---

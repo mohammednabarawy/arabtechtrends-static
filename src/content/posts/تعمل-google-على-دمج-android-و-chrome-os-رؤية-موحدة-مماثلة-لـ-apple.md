@@ -6,7 +6,7 @@ updatedDate: "2025-07-16T05:40:05"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/07/تعمل-Google-على-دمج-Android-و-Chrome-OS-رؤية-موحدة.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%25d8%25ac%25d9%2588%25d8%25ac%25d9%2584-%25d9%2582%25d8%25af-%25d8%25aa%25d8%25af%25d9%2585%25d8%25ac-%25d8%25a3%25d9%2586%25d8%25af%25d8%25b1%25d9%2588%25/"
 ---

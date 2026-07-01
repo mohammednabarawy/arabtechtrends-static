@@ -6,7 +6,7 @@ updatedDate: "2025-08-28T14:36:22"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/08/يقترب-Windows-122-مع-مفاجآت-غير-عادية.webp.jpeg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%88%d9%8a%d9%86%d8%af%d9%88%d8%b2-windows-12-2-%d9%8a%d9%82%d8%aa%d8%b1%d8%a8-%d9%88%d9%85%d8%b9%d9%87-%d9%85%d9%81%d8%a7%d8%ac%d8%a2%d8%aa-%d8%ba%d9%8a%d8%b1-%d8%b9%d8%a7%d8%af%d9%8a%d8%a9/"
 ---

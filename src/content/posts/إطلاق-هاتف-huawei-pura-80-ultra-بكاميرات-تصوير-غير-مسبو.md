@@ -6,7 +6,7 @@ updatedDate: "2025-07-07T10:55:18"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["Close -Ups","Huawei","Huawei Pura 80 Ultra","حجم 1 بوصة","نظام 5.1"]
-image: ""
+image: "/uploads/wp/2025/07/1751725508_إطلاق-هاتف-Huawei-Pura-80-Ultra-مع-كاميرات-غير-مسبوقة.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d9%87%d8%a7%d8%aa%d9%81-huawei-pura-80-ultra-%d8%a8%d9%83%d8%a7%d9%85%d9%8a%d8%b1%d8%a7%d8%aa-%d8%aa%d8%b5%d9%88%d9%8a%d8%b1-%d8%ba%d9%8a%d8%b1-%d9%85%d8%b3%d8%a8%d9%88/"
 ---

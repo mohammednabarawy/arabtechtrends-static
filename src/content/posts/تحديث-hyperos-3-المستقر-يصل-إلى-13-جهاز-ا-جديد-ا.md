@@ -6,7 +6,7 @@ updatedDate: "2025-11-15T22:12:23"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/11/1762630461_xiaomi---------android-15.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-hyperos-3-%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d9%82%d8%b1-%d9%8a%d8%b5%d9%84-%d8%a5%d9%84%d9%89-13-%d8%ac%d9%87%d8%a7%d8%b2%d9%8b%d8%a7-%d8%ac%d8%af%d9%8a%d8%af%d9%8b%d8%a7/"
 ---

@@ -6,7 +6,7 @@ updatedDate: "2025-11-23T14:40:27"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["المواصفات الرئيسية","النسخة العالمية","ون بلس","ون بلس 15T","ون بلس ايس 6T"]
-image: ""
+image: "/uploads/wp/2025/11/1763901625_oneplus-15t.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8%d8%a7%d8%aa-%d8%ad%d9%88%d9%84-%d9%87%d8%a7%d8%aa%d9%81-oneplus-15t-%d8%a8%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-%d8%b1%d8%a7%d8%a6%d8%af%d8%a9/"
 ---

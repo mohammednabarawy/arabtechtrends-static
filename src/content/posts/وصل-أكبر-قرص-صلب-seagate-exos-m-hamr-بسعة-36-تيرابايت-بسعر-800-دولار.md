@@ -6,7 +6,7 @@ updatedDate: "2025-07-17T21:00:46"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/07/وصل-أكبر-قرص-صلب-Seagate-Exos-M-Hamr-بسعة-36.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%25d8%25a5%25d8%25aa%25d8%25a7%25d8%25ad%25d8%25a9-%25d9%2587%25d8%25a7%25d8%25b1%25d8%25af-seagate-exos-m-%25d8%25a8%25d8%25b3%25d8%25b9%25d8%25a9-36-%25d8/"
 ---

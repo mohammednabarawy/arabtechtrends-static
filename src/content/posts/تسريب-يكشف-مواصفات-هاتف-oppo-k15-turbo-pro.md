@@ -6,7 +6,7 @@ updatedDate: "2025-11-23T08:36:58"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["مواصفات هاتف أوبو K15 Turbo Pro قبل الإطلاق الرسمي أوبو"]
-image: ""
+image: "/uploads/wp/2025/11/oppo-k15-turbo-pro.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8-%d9%8a%d9%83%d8%b4%d9%81-%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-%d9%87%d8%a7%d8%aa%d9%81-oppo-k15-turbo-pro/"
 ---

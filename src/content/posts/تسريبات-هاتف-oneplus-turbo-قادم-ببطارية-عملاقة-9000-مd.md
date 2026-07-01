@@ -6,7 +6,7 @@ updatedDate: "2025-12-21T11:40:49"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["بطارية 9000 مللي أمبير","سلسلة ون بلس تيربو","مواصفات رائدة","هاتف ون بلس تيربو","ون بلس"]
-image: ""
+image: "/uploads/wp/2025/12/1766310048_oneplus-turbo---------9000.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8%d8%a7%d8%aa-%d9%87%d8%a7%d8%aa%d9%81-oneplus-turbo-%d9%82%d8%a7%d8%af%d9%85-%d8%a8%d8%a8%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%b9%d9%85%d9%84%d8%a7%d9%82%d8%a9-9000-%d9%85d/"
 ---

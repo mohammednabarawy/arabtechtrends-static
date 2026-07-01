@@ -6,7 +6,7 @@ updatedDate: "2025-07-09T12:17:28"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/07/يصل-Android-16-أخيرًا-إلى-هواتف-Xiaomi-و-Redmi-و.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-hyperos-2-3-%d9%8a%d8%a8%d8%af%d8%a3-%d8%b7%d8%b1%d8%ad%d9%87-%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d9%8b%d8%a7-%d8%a3%d9%86%d8%af%d8%b1%d9%88%d9%8a%d8%af-16-%d9%8a%d8%b5/"
 ---

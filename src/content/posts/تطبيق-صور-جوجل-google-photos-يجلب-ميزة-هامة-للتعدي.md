@@ -6,7 +6,7 @@ updatedDate: "2025-10-09T11:58:20"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/10/google.png"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-%d8%b5%d9%88%d8%b1-%d8%ac%d9%88%d8%ac%d9%84-google-photos-%d9%8a%d8%ac%d9%84%d8%a8-%d9%85%d9%8a%d8%b2%d8%a9-%d9%87%d8%a7%d9%85%d8%a9-%d9%84%d9%84%d8%aa%d8%b9%d8%af%d9%8a/"
 ---

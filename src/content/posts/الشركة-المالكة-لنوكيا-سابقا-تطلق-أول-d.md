@@ -6,7 +6,7 @@ updatedDate: "2025-08-20T22:21:31"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["أول هاتف للأطفال","حماية الأطفال","نوكيا","هاتف الأطفال"]
-image: ""
+image: "/uploads/wp/2025/08/تطلق-شركة-Nokia-التي-تملكها-سابقًا-أول-هاتف-مخصص-للأطفال.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a7%d9%84%d8%b4%d8%b1%d9%83%d8%a9-%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%83%d8%a9-%d9%84%d9%86%d9%88%d9%83%d9%8a%d8%a7-%d8%b3%d8%a7%d8%a8%d9%82%d8%a7%d9%8b-%d8%aa%d8%b7%d9%84%d9%82-%d8%a3%d9%88%d9%84-d/"
 ---

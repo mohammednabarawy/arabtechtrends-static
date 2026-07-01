@@ -6,7 +6,7 @@ updatedDate: "2025-09-03T04:23:16"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/09/hyperos-3---xiaomi.png"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-hyperos-3-%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%aa%d9%83%d8%b4%d9%81-%d8%b9%d9%86-%d8%a3%d9%88%d9%84-%d8%a7%d9%84%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d8%a7%d9%84%d8%aa%d9%8a/"
 ---

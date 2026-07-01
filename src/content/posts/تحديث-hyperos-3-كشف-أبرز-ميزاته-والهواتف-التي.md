@@ -6,7 +6,7 @@ updatedDate: "2025-07-26T12:00:32"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/07/لقد-كشف-عن-أبرز-الميزات-والهواتف-التي-لن-تحصل-عليها.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-hyperos-3-%d9%83%d8%b4%d9%81-%d8%a3%d8%a8%d8%b1%d8%b2-%d9%85%d9%8a%d8%b2%d8%a7%d8%aa%d9%87-%d9%88%d8%a7%d9%84%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d8%a7%d9%84%d8%aa%d9%8a/"
 ---

@@ -6,7 +6,7 @@ updatedDate: "2025-11-30T13:10:27"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["هاتف ون بلس ايس 6 تي 165 اطار ون بلس العاب"]
-image: ""
+image: "/uploads/wp/2025/11/1764501027_oneplus-----oneplus-ace-6t.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%88%d9%86-%d8%a8%d9%84%d8%b3-%d8%aa%d8%a4%d9%83%d8%af-%d9%87%d8%a7%d8%aa%d9%81-oneplus-ace-6t-%d9%8a%d8%b4%d8%ba%d9%84-%d8%a3%d9%84%d8%b9%d8%a7%d8%a8-%d8%a8%d8%b3%d8%b1%d8%b9%d8%a9-165-%d8%a5%d8%b7/"
 ---

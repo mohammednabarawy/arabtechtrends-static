@@ -6,7 +6,7 @@ updatedDate: "2025-12-04T20:03:33"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["إصدار 4G","الإطلاق العالمي","المسرب","سلسلة Redmi Note 15 Pro","وRedmi Note 15"]
-image: ""
+image: "/uploads/wp/2025/12/1764871412_4g-----redmi-note.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8-%d8%a5%d8%b5%d8%af%d8%a7%d8%b1-4g-%d9%84%d9%87%d8%a7%d8%aa%d9%81-redmi-note-15-pro/"
 ---
@@ -23,9 +23,11 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8-%d8%a5
 <p><b>أسعار مسربة ومشبوهة</b><br />وتأتي المعلومات الجديدة من متجر إيطالي نشر الجهاز بسعر 293.90 يورو لنسخة 8/256 جيجابايت، وهو السعر الذي يبدو أنه تم تحديده بدقة ملحوظة.<br />مقارنة بتسريبات الأسعار السابقة:</p>
 <ul>
 <li>من المتوقع أن يصل سعر Redmi Note 15 4G إلى 200 يورو.</li>
-<p></p>
+<p>
+</p>
 <li>Redmi Note 15 5G بسعر 300 يورو.</li>
-<p></p>
+<p>
+</p>
 <li>Redmi Note 15 Pro 5G بسعر 400 يورو.</li>
 <p>
 </ul>

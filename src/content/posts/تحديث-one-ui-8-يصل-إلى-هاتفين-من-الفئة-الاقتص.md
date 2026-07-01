@@ -6,7 +6,7 @@ updatedDate: "2025-11-07T17:25:16"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/10/2025-10-12_11-20-07.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui-8-%d9%8a%d8%b5%d9%84-%d8%a5%d9%84%d9%89-%d9%87%d8%a7%d8%aa%d9%81%d9%8a%d9%86-%d9%85%d9%86-%d8%a7%d9%84%d9%81%d8%a6%d8%a9-%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b5/"
 ---

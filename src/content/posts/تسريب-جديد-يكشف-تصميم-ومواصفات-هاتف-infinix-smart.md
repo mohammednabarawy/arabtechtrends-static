@@ -6,7 +6,7 @@ updatedDate: "2025-07-07T10:55:20"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["Economic Scare","Infinix","Infinix Smart 10 4G","Leaks"]
-image: ""
+image: "/uploads/wp/2025/07/1751747317_يكشف-تسرب-جديد-عن-تصميم-ومواصفات-هاتف-Infinix-Smart-10.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8-%d8%ac%d8%af%d9%8a%d8%af-%d9%8a%d9%83%d8%b4%d9%81-%d8%aa%d8%b5%d9%85%d9%8a%d9%85-%d9%88%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-%d9%87%d8%a7%d8%aa%d9%81-infinix-smart/"
 ---

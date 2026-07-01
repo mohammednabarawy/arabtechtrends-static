@@ -6,7 +6,7 @@ updatedDate: "2025-08-30T15:58:19"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/08/1756558696_Galaxy-S25-FE-تكشف-Samsung-رسميًا-تاريخ-الإطلاق.png"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-%d8%a7%d8%b3-25-%d8%a7%d9%81-%d8%a7%d9%8a-galaxy-s25-fe-%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-%d8%aa%d9%83%d8%b4%d9%81-%d8%b1%d8%b3%d9%85%d9%8a%d9%8b%d8%a7/"
 ---

@@ -6,7 +6,7 @@ updatedDate: "2025-11-16T04:09:48"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["هاتف سامسونج جالاكسي A27 توقعات قوية"]
-image: ""
+image: "/uploads/wp/2025/11/1763258987_samsung-galaxy-a27.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d8%aa%d9%81-%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-galaxy-a27-%d9%8a%d8%af%d8%ae%d9%84-%d8%ae%d8%b7-%d8%a7%d9%84%d8%a5%d9%86%d8%aa%d8%a7%d8%ac/"
 ---

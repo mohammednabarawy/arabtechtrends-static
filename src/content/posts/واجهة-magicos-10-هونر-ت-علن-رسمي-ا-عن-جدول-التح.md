@@ -6,7 +6,7 @@ updatedDate: "2025-12-19T00:10:22"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/10/1761036648_magicos-10.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-magicos-10-%d9%87%d9%88%d9%86%d8%b1-%d8%aa%d9%8f%d8%b9%d9%84%d9%86-%d8%b1%d8%b3%d9%85%d9%8a%d9%8b%d8%a7-%d8%b9%d9%86-%d8%ac%d8%af%d9%88%d9%84-%d8%a7%d9%84%d8%aa%d8%ad/"
 ---

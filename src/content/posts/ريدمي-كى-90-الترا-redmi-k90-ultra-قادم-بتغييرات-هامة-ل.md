@@ -6,7 +6,7 @@ updatedDate: "2025-11-23T20:02:40"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/11/redmi-k90-ultra.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b1%d9%8a%d8%af%d9%85%d9%8a-%d9%83%d9%89-90-%d8%a7%d9%84%d8%aa%d8%b1%d8%a7-redmi-k90-ultra-%d9%82%d8%a7%d8%af%d9%85-%d8%a8%d8%aa%d8%ba%d9%8a%d9%8a%d8%b1%d8%a7%d8%aa-%d9%87%d8%a7%d9%85%d8%a9-%d9%84/"
 ---

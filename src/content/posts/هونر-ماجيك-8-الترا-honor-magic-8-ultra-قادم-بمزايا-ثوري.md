@@ -6,7 +6,7 @@ updatedDate: "2025-11-28T12:23:16"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/11/honor-magic-8-ultra.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%87%d9%88%d9%86%d8%b1-%d9%85%d8%a7%d8%ac%d9%8a%d9%83-8-%d8%a7%d9%84%d8%aa%d8%b1%d8%a7-honor-magic-8-ultra-%d9%82%d8%a7%d8%af%d9%85-%d8%a8%d9%85%d8%b2%d8%a7%d9%8a%d8%a7-%d8%ab%d9%88%d8%b1%d9%8a/"
 ---

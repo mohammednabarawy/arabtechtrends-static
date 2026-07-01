@@ -6,7 +6,7 @@ updatedDate: "2025-12-12T12:54:06"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["أبل","أجهزة آيباد: معالجات جديدة","تابلت iPad Air","ثورة في الأداء","عام 2026","معالج A19"]
-image: ""
+image: "/uploads/wp/2025/12/1765536846_apple---ipad.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/apple-%d8%aa%d8%b9%d9%8a%d8%af-%d8%b1%d8%b3%d9%85-%d9%85%d9%84%d8%a7%d9%85%d8%ad-%d8%a3%d8%ac%d9%87%d8%b2%d8%a9-ipad-%d9%81%d9%8a-2026/"
 ---
@@ -19,7 +19,8 @@ sourceUrl: "https://www.arabtechtrends.com/apple-%d8%aa%d8%b9%d9%8a%d8%af-%d8%b1
 </p>
 <ul>
 <li>تشير المعلومات إلى أن شركة آبل تستعد لإطلاق نسخة جديدة من جهاز iPad المخصص للفئة الأساسية تحت الأسماء الرمزية J581 وJ582.</li>
-<p></p>
+<p>
+</p>
 <li>وستعمل هذه النسخة بمعالج A19 – نفس شريحة iPhone 17 – وهو ما يمثل قفزة واضحة مقارنة بمعالج A16 الموجود في الجيل الحالي.</li>
 <p>
 </ul>
@@ -27,11 +28,14 @@ sourceUrl: "https://www.arabtechtrends.com/apple-%d8%aa%d8%b9%d9%8a%d8%af-%d8%b1
 <b>لماذا هذا التحديث مهم؟</b></p>
 <ul>
 <li>أداء أسرع بنسبة تصل إلى 50% مقارنة بمعالج A16.</li>
-<p></p>
+<p>
+</p>
 <li>زيادة ذاكرة الوصول العشوائي إلى 8 جيجا بايت بدلاً من 6 جيجا بايت.</li>
-<p></p>
+<p>
+</p>
 <li>دعم تقنية Apple Intelligence التي كانت غائبة عن الجيل السابق.</li>
-<p></p>
+<p>
+</p>
 <li>إضافة شريحة Apple N1 اللاسلكية لأول مرة في هذا الجهاز.</li>
 <p>
 </ul>

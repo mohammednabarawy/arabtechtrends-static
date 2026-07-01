@@ -6,7 +6,7 @@ updatedDate: "2025-08-15T17:05:26"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/08/1755266724_سعر-ومواصفات-Galaxy-S25-Fe-وميزات.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%b9%d8%b1-%d9%88%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-%d8%a7%d8%b3-25-%d8%a7%d9%81-%d8%a7%d9%8a-galaxy-s25-fe-%d9%82%d8%a8%d9%84-%d8%a5%d8%b7%d9%84/"
 ---

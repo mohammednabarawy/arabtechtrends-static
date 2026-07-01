@@ -6,7 +6,7 @@ updatedDate: "2025-12-13T22:05:23"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["iphone","أجهزة iPad","ابل","تجربة استخدام أكثر مرونة","تحديث iOS 26.2","تحديث iPadOS 26.2","تحسينات قوية"]
-image: ""
+image: "/uploads/wp/2025/12/1765656323_apple---ios-262--ipados-262.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab%d8%a7%d8%aa-ios-26-2-%d9%88-ipados-26-2-%d8%a8%d8%aa%d8%ad%d8%b3%d9%8a%d9%86%d8%a7%d8%aa-%d9%82%d9%88%d9%8a%d8%a9/"
 ---
@@ -23,7 +23,8 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d8%aa
 <p><b>4. ميزات جديدة لتطبيق Podcasts</b><br />ومن أهم الإضافات:</p>
 <ul>
 <li>فصول تم إنشاؤها تلقائيًا للحلقات لتسهيل التنقل.</li>
-<p></p>
+<p>
+</p>
 <li>روابط سريعة للعروض المذكورة خلال الحلقة، داخل المشغل والنص.</li>
 <p>
 </ul>
@@ -31,7 +32,8 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d8%aa
 <b>5. يحصل تطبيق Apple Music على تحديثات صغيرة ولكنها مفيدة</b></p>
 <ul>
 <li>تظهر قائمة الأغاني المفضلة في التوصيات.</li>
-<p></p>
+<p>
+</p>
 <li>عرض كلمات الأغاني دون الحاجة للاتصال بالإنترنت بعد تنزيلها.</li>
 <p>
 </ul>
@@ -43,7 +45,8 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d8%aa
 </p>
 <ul>
 <li>مرشحات جديدة في مكتبة اللعبة.</li>
-<p></p>
+<p>
+</p>
 <li>دعم أفضل لوحدات التحكم مثل Backbone وRazer.</li>
 <p>
 </ul>
@@ -57,9 +60,11 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d8%aa
 <p><b>قم بسحب وإسقاط التطبيقات لفتح النوافذ</b><br />يمكن الآن سحب التطبيقات من: Dock أو Spotlight Search أو مكتبة التطبيقات. ثم قم بإسقاطه في أي من أوضاع تعدد المهام التالية:</p>
 <ul>
 <li>قم بالتمرير عند السحب إلى أقصى اليسار أو اليمين</li>
-<p></p>
+<p>
+</p>
 <li>عرض جنبًا إلى جنب عند سحب التطبيق إلى الجانب</li>
-<p></p>
+<p>
+</p>
 <li>نافذة كبيرة أو صغيرة عند سقوطها في منتصف الشاشة مع مؤشرات توضيحية جديدة</li>
 <p>
 </ul>
@@ -67,15 +72,20 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d8%aa
 <p><b>التحديثات المشتركة بين iOS وiPadOS</b><br />يحصل iPadOS أيضًا على نفس نظام iOS في عدة مجالات، بما في ذلك:</p>
 <ul>
 <li>خيارات تخصيص الوقت على شاشة القفل.</li>
-<p></p>
+<p>
+</p>
 <li>تحسينات التنبيه للتذكيرات.</li>
-<p></p>
+<p>
+</p>
 <li>أيقونات AirDrop جديدة.</li>
-<p></p>
+<p>
+</p>
 <li>نفس التحديثات في Apple Music وPodcasts.</li>
-<p></p>
+<p>
+</p>
 <li>دعم الجداول المحسنة في شكل حر.</li>
-<p></p>
+<p>
+</p>
 <li>تحسينات اللعبة ودعم وحدة التحكم.</li>
 <p>
 </ul>

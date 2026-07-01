@@ -6,7 +6,7 @@ updatedDate: "2025-11-21T11:14:46"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["هاتف Vivo X300 Ultra مزود بكاميرتين للتصوير"]
-image: ""
+image: "/uploads/wp/2025/11/1763716484_vivo-x300-ultra-------200.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d8%aa%d9%81-vivo-x300-ultra-%d8%b3%d9%8a%d8%a3%d8%aa%d9%8a-%d8%a8%d9%83%d8%a7%d9%85%d9%8a%d8%b1%d8%aa%d9%8a%d9%86-200-%d9%85%d9%8a%d8%ac%d8%a7-%d8%a8%d9%83%d8%b3%d9%84/"
 ---

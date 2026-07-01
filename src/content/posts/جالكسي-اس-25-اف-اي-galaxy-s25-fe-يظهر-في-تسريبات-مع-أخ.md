@@ -6,7 +6,7 @@ updatedDate: "2025-08-04T13:47:03"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/08/يظهر-Galaxy-S25-Fe-في-تسرب-مع-أخبار-محبط.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-%d8%a7%d8%b3-25-%d8%a7%d9%81-%d8%a7%d9%8a-galaxy-s25-fe-%d9%8a%d8%b8%d9%87%d8%b1-%d9%81%d9%8a-%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8%d8%a7%d8%aa-%d9%85%d8%b9-%d8%a3%d8%ae/"
 ---

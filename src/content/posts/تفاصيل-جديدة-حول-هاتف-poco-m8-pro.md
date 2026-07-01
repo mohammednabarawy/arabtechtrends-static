@@ -6,7 +6,7 @@ updatedDate: "2025-12-18T17:07:19"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["تسريبات استراتيجية بوكو تفاصيل جديدة هاتف Poco M8 Pro بوكا هواتف Redmi"]
-image: ""
+image: "/uploads/wp/2025/12/1766070439_poco-----------poco.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d9%81%d8%a7%d8%b5%d9%8a%d9%84-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%ad%d9%88%d9%84-%d9%87%d8%a7%d8%aa%d9%81-poco-m8-pro/"
 ---
@@ -27,11 +27,14 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d9%81%d8%a7%d8%b5%d9%8a%d9%84-
 </p>
 <ul>
 <li><b>هاتف بوكو إم8 5جي:</b> نسخة معدلة من Redmi Note 15 5G</li>
-<p></p>
+<p>
+</p>
 <li><b>هاتف بوكو إم8 برو 5G:</b> نسخة معدلة من Redmi Note 15 Pro+ 5G</li>
-<p></p>
+<p>
+</p>
 <li><b>هاتف بوكو اكس 8 برو :</b> نسخة معدلة من Redmi Turbo 5</li>
-<p></p>
+<p>
+</p>
 <li><b>هاتف بوكو X8 برو ماكس: </b>نسخة معدلة من Redmi Turbo 5 Pro Max (مخصصة للصين ولم يتم إطلاقها بعد)</li>
 <p>
 </ul>

@@ -6,7 +6,7 @@ updatedDate: "2025-09-22T12:09:26"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: []
-image: ""
+image: "/uploads/wp/2025/09/1758532165_samsung.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-one-ui-8-5-%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-%d8%aa%d9%8f%d8%ad%d8%b6%d9%91%d8%b1-%d9%84%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d8%a8%d8%aa%d8%ba%d9%8a%d9%8a%d8%b1/"
 ---
