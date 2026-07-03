@@ -1,0 +1,51 @@
+---
+import { getCollection } from "astro:content";
+import type { GetStaticPaths } from "astro";
+import Breadcrumbs from "../../components/Breadcrumbs.astro";
+import VideoCard from "../../components/VideoCard.astro";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { postsPerPage, socialLinks } from "../../site";
+import { filterYouTubePosts } from "../../utils/youtubePosts";
+import { withBase } from "../../utils/posts";
+
+export const getStaticPaths = (async ({ paginate }) => {
+  const posts = filterYouTubePosts(
+    await getCollection("posts", ({ data }) => !data.draft)
+  );
+  return paginate(posts, { pageSize: postsPerPage });
+}) satisfies GetStaticPaths;
+
+const { page } = Astro.props;
+const base = import.meta.env.BASE_URL.endsWith("/") ? import.meta.env.BASE_URL : `${import.meta.env.BASE_URL}/`;
+const youtubeUrl = socialLinks.find((l) => l.label === "YouTube")?.href ?? "https://www.youtube.com/@arabtechtrends";
+---
+
+<BaseLayout title="شروحات فيديو | عرب تك" canonicalPath={page.url.current}>
+  <Breadcrumbs
+    items={[
+      { label: "الرئيسية", href: "/" },
+      { label: "شروحات فيديو" }
+    ]}
+  />
+  <section class="page-head">
+    <p class="eyebrow">يوتيوب</p>
+    <h1>شروحات فيديو من عرب تك</h1>
+    <p class="page-meta">
+      صفحة {page.currentPage} من {page.lastPage} — {page.total} فيديو
+      {" · "}
+      <a href={youtubeUrl} rel="noopener noreferrer">قناة يوتيوب</a>
+    </p>
+  </section>
+
+  <div class="post-grid">
+    {page.data.map((post) => <VideoCard post={post} />)}
+  </div>
+
+  {page.lastPage > 1 && (
+    <nav class="pagination" aria-label="تصفح الصفحات">
+      {page.url.prev && <a href={page.url.prev}>السابق</a>}
+      <span>صفحة {page.currentPage} / {page.lastPage}</span>
+      {page.url.next && <a href={page.url.next}>التالي</a>}
+    </nav>
+  )}
+</BaseLayout>

@@ -1,15 +1,19 @@
 ---
 import { getCollection } from "astro:content";
 import PostCard from "../components/PostCard.astro";
+import VideoCard from "../components/VideoCard.astro";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import { pillarGuides } from "../guides";
-import { categories, telegramChannelUrl } from "../site";
+import { categories, socialLinks, telegramChannelUrl } from "../site";
 import { getPostImage, sortPosts, withBase } from "../utils/posts";
 import { getTopPostsMeta, resolveTopPosts } from "../utils/topPosts";
+import { filterYouTubePosts } from "../utils/youtubePosts";
 
 const allPosts = sortPosts(await getCollection("posts", ({ data }) => !data.draft));
 const topPosts = resolveTopPosts(allPosts, 6);
 const topMeta = getTopPostsMeta();
+const youtubePosts = filterYouTubePosts(allPosts).slice(0, 6);
+const youtubeChannelUrl = socialLinks.find((l) => l.label === "YouTube")?.href;
 const posts = allPosts.slice(0, 120);
 const guidePosts = allPosts.filter((p) => /شرح|دليل|كيفية|أفضل/i.test(p.data.title)).slice(0, 4);
 
@@ -20,7 +24,8 @@ const usedPostIds = new Set([
   featured?.id,
   ...sidePosts.map((p) => p.id),
   ...latest.map((p) => p.id),
-  ...topPosts.map((p) => p.id)
+  ...topPosts.map((p) => p.id),
+  ...youtubePosts.map((p) => p.id)
 ].filter(Boolean));
 
 const pickSectionPosts = (categorySlug: string) => {
@@ -126,6 +131,23 @@ const featuredImage = featured ? getPostImage(featured) : undefined;
       </div>
       <div class="post-grid compact-grid">
         {topPosts.map((post) => <PostCard post={post} compact />)}
+      </div>
+    </section>
+  )}
+
+  {youtubePosts.length > 0 && (
+    <section class="section-block section-block--videos">
+      <div class="section-head">
+        <h2>شروحات فيديو</h2>
+        <div class="section-head__links">
+          <a href={withBase("/videos/", base)}>كل الفيديوهات</a>
+          {youtubeChannelUrl && (
+            <a class="section-head__link-alt" href={youtubeChannelUrl} rel="noopener noreferrer">يوتيوب</a>
+          )}
+        </div>
+      </div>
+      <div class="post-grid compact-grid">
+        {youtubePosts.map((post) => <VideoCard post={post} compact />)}
       </div>
     </section>
   )}

@@ -441,8 +441,64 @@ main {
   transition: background var(--transition);
 }
 
-.section-head a:hover {
+.section-head a:hover,
+.section-head__links a:hover {
   background: var(--accent);
+}
+
+.section-head__links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+}
+
+.section-head__links a {
+  padding: 8px 14px;
+  background: var(--dark);
+  color: white;
+  font-family: "Noto Kufi Arabic", sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  border-radius: 999px;
+  transition: background var(--transition);
+}
+
+.section-head__link-alt {
+  background: transparent !important;
+  color: var(--dark) !important;
+  border: 2px solid var(--dark);
+}
+
+.section-head__link-alt:hover {
+  background: var(--dark) !important;
+  color: white !important;
+}
+
+.section-block--videos {
+  border-color: #cc0000;
+  background: linear-gradient(180deg, var(--surface) 0%, #fff8f8 100%);
+}
+
+.post-card--video .post-card__media {
+  position: relative;
+}
+
+.video-play-badge {
+  position: absolute;
+  inset-inline-end: 10px;
+  inset-block-end: 10px;
+  width: 40px;
+  height: 40px;
+  display: grid;
+  place-items: center;
+  border-radius: 50%;
+  background: rgba(204, 0, 0, 0.92);
+  color: white;
+  font-size: 14px;
+  line-height: 1;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.25);
+  pointer-events: none;
 }
 
 .post-grid {

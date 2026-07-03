@@ -59,6 +59,7 @@ const today = new Intl.DateTimeFormat("ar-EG", { dateStyle: "full" }).format(new
           <a href={withBase(`/category/${category.slug}/`, base)}>{category.label}</a>
         ))}
         <a href={withBase("/guides/", base)}>أدلة</a>
+        <a href={withBase("/videos/", base)}>فيديوهات</a>
         <a href={withBase("/posts/", base)}>الأرشيف</a>
         <a href={withBase("/tags/", base)}>الوسوم</a>
         <a href={withBase("/search/", base)}>بحث</a>
@@ -84,6 +85,7 @@ const today = new Intl.DateTimeFormat("ar-EG", { dateStyle: "full" }).format(new
               <a href={withBase(`/category/${category.slug}/`, base)}>{category.label}</a>
             ))}
             <a href={withBase("/guides/", base)}>أدلة شاملة</a>
+            <a href={withBase("/videos/", base)}>شروحات فيديو</a>
             <a href={withBase("/about/", base)}>من نحن</a>
           </div>
         </section>
