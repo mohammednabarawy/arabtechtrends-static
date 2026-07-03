@@ -6,7 +6,7 @@ updatedDate: "2025-12-11T21:48:54"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["مواصفات هاتف Moto X70 Ultra وتسريبات المواصفات والشاشة والكاميرا هاتف Moto X70 Ultra"]
-image: "/uploads/wp/2025/12/1765482533_moto-x70-ultra.webp.webp"
+image: "/uploads/wp/2025/12/1765482533_moto-x70-ultra.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8%d8%a7%d8%aa-%d8%aa%d9%83%d8%b4%d9%81-%d8%a3%d8%a8%d8%b1%d8%b2-%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-moto-x70-ultra/"
 ---

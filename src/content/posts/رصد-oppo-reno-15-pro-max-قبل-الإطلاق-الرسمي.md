@@ -6,7 +6,7 @@ updatedDate: "2025-11-28T06:41:26"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["أوبو Reno 15 Pro Max بأربعة إصدارات","الإطلاق الرسمي لسلسلة Reno 15"]
-image: "/uploads/wp/2025/11/oppo-reno-15-pro-max.webp.webp"
+image: "/uploads/wp/2025/11/oppo-reno-15-pro-max.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b1%d8%b5%d8%af-oppo-reno-15-pro-max-%d9%82%d8%a8%d9%84-%d8%a7%d9%84%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d8%a7%d9%84%d8%b1%d8%b3%d9%85%d9%8a/"
 ---

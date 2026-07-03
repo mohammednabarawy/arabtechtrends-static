@@ -6,7 +6,7 @@ updatedDate: "2025-12-02T10:34:28"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["حقق الجهاز اللوحي للطلاب Pad قفزة", "الأداء قبل الإطلاق الرسمي"]
-image: "/uploads/wp/2025/12/1764664468_oneplus-pad-go-2.webp.webp"
+image: "/uploads/wp/2025/12/1764664468_oneplus-pad-go-2.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%a7%d8%a8%d9%84%d8%aa-%d8%a7%d9%84%d8%b7%d9%84%d8%a7%d8%a8-oneplus-pad-go-2-%d9%8a%d8%b8%d9%87%d8%b1-%d8%a8%d9%82%d9%81%d8%b2%d8%a9-%d8%a3%d8%af%d8%a7%d8%a1-%d9%88%d8%af%d8%b9%d9%85-5g/"
 ---

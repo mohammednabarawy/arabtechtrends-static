@@ -6,7 +6,7 @@ updatedDate: "2025-12-15T22:26:51"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["ارتفاع أسعار الرام مع اختفاء الهواتف ذات الذاكرة 16 جيجا بايت","وعودة الهواتف ذات الـ 4 جيجا بايت"]
-image: "/uploads/wp/2025/12/16.webp.webp"
+image: "/uploads/wp/2025/12/16.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a7%d8%b1%d8%aa%d9%81%d8%a7%d8%b9-%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-ram-%d8%aa%d9%87%d8%af%d8%af-%d8%a8%d8%a3%d8%ae%d8%aa%d9%81%d8%a7%d8%a1-%d8%a7%d9%84%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d8%a8%d8%b0%d8a/"
 ---

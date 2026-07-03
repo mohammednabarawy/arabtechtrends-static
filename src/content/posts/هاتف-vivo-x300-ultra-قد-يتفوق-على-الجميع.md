@@ -6,7 +6,7 @@ updatedDate: "2025-12-01T13:21:41"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["هاتف vivo X300 Ultra سلسلة vivo X300 بطارية عملاقة 7000 مللي أمبير الهواتف الرائدة"]
-image: "/uploads/wp/2025/12/1764588101_vivo-x300-ultra.webp.webp"
+image: "/uploads/wp/2025/12/1764588101_vivo-x300-ultra.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d8%aa%d9%81-vivo-x300-ultra-%d9%82%d8%af-%d9%8a%d8%aa%d9%81%d9%88%d9%82-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d8%b9/"
 ---

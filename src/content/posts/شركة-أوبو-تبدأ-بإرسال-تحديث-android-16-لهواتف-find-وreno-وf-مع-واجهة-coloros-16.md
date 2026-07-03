@@ -6,7 +6,7 @@ updatedDate: "2025-12-11T12:42:59"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["أوبو","أوبو فايند","تحديث أندرويد 16","واجهة ColorOS 16"]
-image: "/uploads/wp/2025/12/1765449779_android-16---find--reno.webp.webp"
+image: "/uploads/wp/2025/12/1765449779_android-16---find--reno.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a3%d9%88%d8%a8%d9%88-%d8%aa%d8%a8%d8%af%d8%a3-%d9%81%d9%8a-%d8%a3%d8%b1%d8%b3%d8%a7%d9%84-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d8%a7%d9%86%d8%af%d8%b1%d9%88%d9%8a%d8%af-16-%d8%a7%d9%84%d9%8a-%d9%87%d9/"
 ---

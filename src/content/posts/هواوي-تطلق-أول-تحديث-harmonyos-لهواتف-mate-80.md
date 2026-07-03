@@ -6,7 +6,7 @@ updatedDate: "2025-12-14T19:13:36"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["هواوي تحديث HarmonyOS 6 هواتف Mate 80 ميزات الكاميرا المتقدمة تحسينات كبيرة الإصدار 6.0.0.120 SP9"]
-image: "/uploads/wp/2025/12/1765732416_harmonyos---mate-80.webp.webp"
+image: "/uploads/wp/2025/12/1765732416_harmonyos---mate-80.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%87%d9%88%d8%a7%d9%88%d9%8a-%d8%aa%d8%b7%d9%84%d9%82-%d8%a3%d9%88%d9%84-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-harmonyos-%d9%84%d9%87%d9%88%d8%a7%d8%aa%d9%81-mate-80/"
 ---

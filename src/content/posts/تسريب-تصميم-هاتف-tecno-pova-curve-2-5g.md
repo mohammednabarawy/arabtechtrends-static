@@ -6,7 +6,7 @@ updatedDate: "2025-12-27T12:43:59"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["تسريب تصميم هاتف Tecno Pova Curve 2 5G بمواصفات قوية وبطارية 8000 مللي أمبير"]
-image: "/uploads/wp/2025/12/1766832239_tecno-pova-curve-2-5g.webp.webp"
+image: "/uploads/wp/2025/12/1766832239_tecno-pova-curve-2-5g.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8-%d8%aa%d8%b5%d9%85%d9%8a%d9%85-%d9%87%d8%a7%d8%aa%d9%81-tecno-pova-curve-2-5g/"
 ---

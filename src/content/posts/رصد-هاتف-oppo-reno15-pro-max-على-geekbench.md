@@ -6,7 +6,7 @@ updatedDate: "2025-12-20T17:28:46"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["Geekbench","أوبو","أوبو رينو 15 برو ماكس","رقم الموديل CPH2811","سلسلة أوبو رينو 15"]
-image: "/uploads/wp/2025/12/1766244525_oppo-reno15-pro-max---geekbench.webp.webp"
+image: "/uploads/wp/2025/12/1766244525_oppo-reno15-pro-max---geekbench.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b1%d8%b5%d8%af-%d9%87%d8%a7%d8%aa%d9%81-oppo-reno15-pro-max-%d8%b9%d9%84%d9%89-geekbench/"
 ---

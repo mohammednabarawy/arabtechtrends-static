@@ -6,7 +6,7 @@ updatedDate: "2025-12-27T18:48:52"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["تسريبات","دعم المكالمات عبر الأقمار الصناعية","سامسونج","سلسلة هواتف Galaxy S26","معالج Exynos 2600"]
-image: "/uploads/wp/2025/12/galaxy-s26-advanced-satellite-connectivity-rumor-02_11974.webp.webp"
+image: "/uploads/wp/2025/12/galaxy-s26-advanced-satellite-connectivity-rumor-02_11974.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8%d8%a7%d8%aa-%d8%aa%d8%b4%d9%8a%d8%b1-%d8%a5%d9%84%d9%89-%d8%af%d8%b9%d9%85-%d8%a7%d9%84%d9%85%d9%83%d8%a7%d9%84%d9%85%d8%a7%d8%aa-%d8%b9%d8%a8%d8%b1-%d8%a7%d9%84%d8%a3d/"
 ---
@@ -20,7 +20,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8%d8%a7%
 <p></p>
 <p>أما بالنسبة لتقنية NB IoT NTN، أو شبكات إنترنت الأشياء ضيقة النطاق غير الأرضية، فتركز هذه التقنية على نقل كميات محدودة للغاية من البيانات مثل الإحداثيات أو الرسائل النصية، ولكنها تتميز بقدرتها على العمل في البيئات النائية سواء في الصحاري أو فوق المحيطات، بموافقة رسمية من شركة Skylo المتخصصة في الاتصالات عبر الأقمار الصناعية.</p>
 <p>أما تقنية LTE DTC (Direct to Cell) فهي تعتبر العنصر الأكثر إثارة للاهتمام، حيث تفتح الباب أمام توسيع قدرات الاتصال عبر الأقمار الصناعية لتشمل المكالمات الصوتية، وهو ما قد يمثل نقلة نوعية في هواتف سامسونج القادمة. ويكتمل ذلك بدعم تقنية NR NTN، التي تعد بمعدلات نقل بيانات أعلى وقد تمهد الطريق في المستقبل لميزات أكثر تقدمًا مثل مكالمات الفيديو عبر الأقمار الصناعية.</p>
-<div align="center"><img src="/uploads/wp/2025/12/galaxy-s26-advanced-satellite-connectivity-rumor-02_11974.webp.webp" title="تصميم خيالي للهاتف الذكي Samsung Galaxy S26 Ultra" class="img-responsive lazy" alt="تصميم خيالي للهاتف الذكي Samsung Galaxy S26 Ultra"/></div>
+<div align="center"><img src="/uploads/wp/2025/12/galaxy-s26-advanced-satellite-connectivity-rumor-02_11974.webp" title="تصميم خيالي للهاتف الذكي Samsung Galaxy S26 Ultra" class="img-responsive lazy" alt="تصميم خيالي للهاتف الذكي Samsung Galaxy S26 Ultra"/></div>
 <p></p>
 <p>على الرغم من أنه لم يتم تأكيد دمج Exynos Modem 5410 في سلسلة Galaxy S26، إلا أن حالته الفنية تشير إلى أنه أحد أجهزة المودم الأكثر تقدمًا من سامسونج حتى الآن. تم تصنيع المودم بتقنية 4nm EUV ويعتمد على معيار 3GPP Release 17 مع دعم اتصال 5G NR المزدوج عبر نطاقات FR1 تحت 6 جيجا هرتز وFR2 mmWave، مع سرعات تنزيل نظرية تصل إلى 14.79 جيجابت في الثانية.</p>
 <p>في النهاية، إذا قررت سامسونج تزويد سلسلة Galaxy S26 بقدرات الاتصال عبر الأقمار الصناعية المتقدمة، فيبدو أن Exynos Modem 5410 هو المرشح الأبرز ليقف وراء هذه الخطوة، مما يجعله محط الأنظار في أي تسريبات أو إعلانات قادمة.</p>

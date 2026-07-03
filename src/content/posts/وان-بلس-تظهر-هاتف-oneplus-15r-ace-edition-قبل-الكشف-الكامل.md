@@ -6,7 +6,7 @@ updatedDate: "2025-12-12T00:50:27"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["هاتف وان بلس هاتف OnePlus 15R Ace Edition قبل الإعلان الرسمي عن هاتف OnePlus 15R"]
-image: "/uploads/wp/2025/12/1765493427_oneplus---oneplus-15r-ace-edition.webp.webp"
+image: "/uploads/wp/2025/12/1765493427_oneplus---oneplus-15r-ace-edition.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d9%86-%d8%a8%d9%84%d8%b3-%d8%aa%d8%b8%d9%87%d8%b1-%d9%87%d8%a7%d8%aa%d9%81-oneplus-15r-ace-edition-%d9%82%d8%a8%d9%84-%d8%a7%d9%84%d9%83%d8%b4%d9%81-%d8%a7%d9%84%d9%83%d8%a7%d9%85%d9%84/"
 ---

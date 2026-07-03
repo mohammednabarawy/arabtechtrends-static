@@ -6,7 +6,7 @@ updatedDate: "2025-12-18T17:07:19"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["تسريبات استراتيجية بوكو تفاصيل جديدة هاتف Poco M8 Pro بوكا هواتف Redmi"]
-image: "/uploads/wp/2025/12/1766070439_poco-----------poco.webp.webp"
+image: "/uploads/wp/2025/12/1766070439_poco-----------poco.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d9%81%d8%a7%d8%b5%d9%8a%d9%84-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%ad%d9%88%d9%84-%d9%87%d8%a7%d8%aa%d9%81-poco-m8-pro/"
 ---

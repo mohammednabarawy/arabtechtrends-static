@@ -6,7 +6,7 @@ updatedDate: "2025-12-12T09:53:17"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["Vivo X300 Ultra شهادة 3C الصينية سلسلة Vivo X300 تفاصيل مثيرة تظهر لأول مرة"]
-image: "/uploads/wp/2025/12/1765525997_vivo-x300-ultra-----3c.webp.webp"
+image: "/uploads/wp/2025/12/1765525997_vivo-x300-ultra-----3c.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%ad%d8%b5%d9%84-%d9%87%d8%a7%d8%aa%d9%81-vivo-x300-ultra-%d8%b9%d9%84%d9%8a-%d8%b4%d9%87%d8%a7%d8%af%d8%a9-3c-%d8%a7%d9%84%d8%b5%d9%8a%d9%86%d9%8a%d8%a9/"
 ---

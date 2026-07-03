@@ -6,7 +6,7 @@ updatedDate: "2025-11-30T22:14:10"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["المزيد من الهواتف","تحديث Android 16","هاتف (3a) Pro","واجهة Nothing OS 4.0 المستقرة"]
-image: "/uploads/wp/2025/11/1764533649_android-16-----nothing-os-40.webp.webp"
+image: "/uploads/wp/2025/11/1764533649_android-16-----nothing-os-40.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a3%d9%86%d8%af%d8%b1%d9%88%d9%8a%d8%af-16-%d8%a8%d9%88%d8%a7%d8%ac%d9%87%d8%a9-nothing-os-4-0-%d9%8a%d8%b5%d9%84-%d9%84%d9%85%d8%b2%d9%8a%d8%af-%d9%85%d9%86-%d9%87%d9%88%d8%a7%d8%aa%d9%81-nothing/"
 ---

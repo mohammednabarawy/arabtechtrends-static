@@ -6,7 +6,7 @@ updatedDate: "2025-12-27T00:40:50"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["تم بيعه مباشرة بعد الإطلاق","هاتف Xiaomi","هاتف Xiaomi 17 Ultra Leica Edition","هاتف مرتفع الثمن"]
-image: "/uploads/wp/2025/12/1766788849_xiaomi-17-ultra-leica-edition.webp.webp"
+image: "/uploads/wp/2025/12/1766788849_xiaomi-17-ultra-leica-edition.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d8%aa%d9%81-xiaomi-17-ultra-leica-edition-%d9%8a%d9%86%d9%81%d8%af-%d9%81%d9%88%d8%b1-%d8%b7%d8%b1%d8%ad%d9%87/"
 ---

@@ -6,7 +6,7 @@ updatedDate: "2025-11-28T15:47:14"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["Realme","Realme 16 Pro+ 5G","سلسلة Realme 15","سلسلة Realme 16","قاعدة بيانات TENAA"]
-image: "/uploads/wp/2025/11/1764337633_realme-16-pro-5g-----tenaa.webp.webp"
+image: "/uploads/wp/2025/11/1764337633_realme-16-pro-5g-----tenaa.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b8%d9%87%d9%88%d8%b1-%d9%87%d8%a7%d8%aa%d9%81-realme-16-pro-5g-%d9%81%d9%8a-tenaa/"
 ---

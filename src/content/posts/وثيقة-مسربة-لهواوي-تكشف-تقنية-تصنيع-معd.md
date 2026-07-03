@@ -6,7 +6,7 @@ updatedDate: "2025-12-07T20:51:55"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["تقنية تصنيع المعالج","دقة 2 نانومتر","شرائح Kirin","قيود الحظر الأمريكي","هواوي","وثيقة هواوي المسربة"]
-image: "/uploads/wp/2025/12/huaweis-2nm-chip_f89c.webp.webp"
+image: "/uploads/wp/2025/12/huaweis-2nm-chip_f89c.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%ab%d9%8a%d9%82%d8%a9-%d9%85%d8%b3%d8%b1%d8%a8%d8%a9-%d9%84%d9%87%d9%88%d8%a7%d9%88%d9%8a-%d8%aa%d9%83%d8%b4%d9%81-%d8%aa%d9%82%d9%86%d9%8a%d8%a9-%d8%aa%d8%b5%d9%86%d9%8a%d8%b9-%d9%85%d8%b9d/"
 ---

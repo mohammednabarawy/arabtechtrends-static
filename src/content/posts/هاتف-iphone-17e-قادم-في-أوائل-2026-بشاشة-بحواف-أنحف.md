@@ -6,7 +6,7 @@ updatedDate: "2025-12-04T13:59:42"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["iPhone 17E","أوائل عام 2026","بحواف أنحف","وكاميرا سيلفي"]
-image: "/uploads/wp/2025/12/1764849581_iphone-17e-----2026.webp.webp"
+image: "/uploads/wp/2025/12/1764849581_iphone-17e-----2026.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d8%aa%d9%81-iphone-17e-%d9%82%d8%a7%d8%af%d9%85-%d9%81%d9%8a-%d8%a3%d9%88%d8%a7%d8%a6%d9%84-2026-%d8%a8%d8%b4%d8%a7%d8%b4%d8%a9-%d8%a8%d8%ad%d9%88%d8%a7%d9%81-%d8%a3%d9%86%d8%ad%d9%81/"
 ---

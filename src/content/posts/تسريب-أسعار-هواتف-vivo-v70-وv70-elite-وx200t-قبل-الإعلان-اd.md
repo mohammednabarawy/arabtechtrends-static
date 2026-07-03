@@ -6,7 +6,7 @@ updatedDate: "2025-12-21T02:33:41"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["أسعار هواتف Vivo V70","تسريب أسعار هواتف Vivo","قبل الإعلان الرسمي","هواتف Vivo"]
-image: "/uploads/wp/2025/12/1766277221_vivo-v70--v70-elite--x200t.webp.webp"
+image: "/uploads/wp/2025/12/1766277221_vivo-v70--v70-elite--x200t.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8-%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-%d9%87%d9%88%d8%a7%d8%aa%d9%81-vivo-v70-%d9%88v70-elite-%d9%88x200t-%d9%82%d8%a8%d9%84-%d8%a7%d9%84%d8%a5%d8%b9%d9%84%d8%a7%d9%86-%d8%a7d/"
 ---

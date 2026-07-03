@@ -6,7 +6,7 @@ updatedDate: "2025-12-05T02:05:39"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["Realme بسعر أقل 180 دولارًا هاتف", "Realme P4x بمواصفات فائقة فئة", "متوسطة عليا"]
-image: "/uploads/wp/2025/12/1764893137_136_180-----realme-p4x-5g.webp.webp"
+image: "/uploads/wp/2025/12/1764893137_136_180-----realme-p4x-5g.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a7%d9%84%d9%83%d8%b4%d9%81-%d8%b9%d9%86-%d9%87%d8%a7%d8%aa%d9%81-realme-p4x-5g-%d8%a8%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-%d9%81%d8%a7%d8%a6%d9%82%d8%a9/"
 ---
@@ -20,12 +20,12 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a7%d9%84%d9%83%d8%b4%d9%81-%d8%b9
 <p>كما يأتي هاتف Realme P4x الذكي بمعالج من شركة Media Tech بالإصدار الجديد Dimensity 7400 Ultra، بدقة تصنيع 4 نانومتر، مع معالج رسومي Mali-G615 MC2، مع خيارات مختلفة من ذاكرة الوصول العشوائي LPDDR4X بسعة 6/8 جيجابايت، بالإضافة إلى ذاكرة تخزين داخلية بسعات 128/256 جيجابايت من نوع (UFS 3.1) فائق السرعة، إلا أنها ليست أحدث إصدارات ذاكرة التخزين الداخلية. يعمل بنظام التشغيل Android 15 مع واجهة Realme UI 6.0 خارج الصندوق <br />
 دعم تحديثات النظام لمدة تصل إلى عامين والتحديثات الأمنية لمدة 3 سنوات.</p>
 <p><b>تبريد متقدم وتحديثات تستهدف اللاعبين</b><br />ويأتي الهاتف مزودًا بغرفة تبريد بخار تبلغ مساحتها 5300 ملم² لضمان أداء مستقر، مع دعم تشغيل الألعاب بمعدل يصل إلى 90 إطارًا في الثانية في الألعاب مثل BGMI وCall of Duty Mobile وMobile Legends. كما أنه يتميز بمكبرات صوت استريو وقدرات تجاوز الشحن لحماية البطارية أثناء اللعب.</p>
-<div align="center"><img src="/uploads/wp/2025/12/1764893137_136_180-----realme-p4x-5g.webp.webp" class="img-responsive lazy" alt=""/></div>
+<div align="center"><img src="/uploads/wp/2025/12/1764893137_136_180-----realme-p4x-5g.webp" class="img-responsive lazy" alt=""/></div>
 <p>
 <b>كاميرا خلفية بدقة 50 ميجابكسل</b></p>
 <p>أما عن عتاد الكاميرا الخاص بالهاتف، فتوجد كاميرا رئيسية في الخلف بدقة 50 ميجابكسل مع مستشعر OV50D40 وفتحة عدسة f/1.8، بالإضافة إلى كاميرا مساعدة بدقة 2 ميجابكسل. كما يمكن للهاتف تصوير الفيديو بدقة تصل إلى 4K بمعدل 30 إطارًا في الثانية، بالإضافة إلى ثقب علوي صغير للكاميرا الأمامية التي تبلغ دقتها 8 ميجابكسل.</p>
 <p><b>بطارية ضخمة بسعة 7000 مللي أمبير</b><br />ومن أهم نقاط القوة في هاتف Realme P4x هي بطاريته الضخمة بسعة 7000 مللي أمبير مع شحن سريع بقدرة 45 واط، مما يجعله مناسبًا للاستخدام المكثف طوال اليوم. كما حصل الهاتف على تصنيف IP64 لمقاومة رذاذ الماء والغبار، بالإضافة إلى شهادة المتانة MIL-STD-810H (معتمدة من الدرجة العسكرية). ويأتي بمستشعر بصمة جانبي، ودعم الاتصالات بالأشعة تحت الحمراء، وشبكات 5G، وWi-Fi 6، وBluetooth 5.2 مع منفذ. يو اس بي سي.</p>
-<div align="center"><img src="/uploads/wp/2025/12/1764893138_33_180-----realme-p4x-5g.webp.webp" class="img-responsive lazy" alt=""/></div>
+<div align="center"><img src="/uploads/wp/2025/12/1764893138_33_180-----realme-p4x-5g.webp" class="img-responsive lazy" alt=""/></div>
 <p></p>
 <h3><b>المواصفات الفنية للهاتف الذكي Realme P4x 5G:</b></h3>
 <ul>
@@ -63,7 +63,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a7%d9%84%d9%83%d8%b4%d9%81-%d8%b9
 <p>
 </ul>
 <p></p>
-<div align="center"><img src="/uploads/wp/2025/12/1764893138_975_180-----realme-p4x-5g.webp.webp" width="559" height="627" title="هاتف ريلمي P4x 5G الذكي" class="img-responsive lazy" alt="هاتف ريلمي P4x 5G الذكي"/></div>
+<div align="center"><img src="/uploads/wp/2025/12/1764893138_975_180-----realme-p4x-5g.webp" width="559" height="627" title="هاتف ريلمي P4x 5G الذكي" class="img-responsive lazy" alt="هاتف ريلمي P4x 5G الذكي"/></div>
 <p>
 <b>الألوان والأسعار</b></p>
 <p>ويتوفر هاتف Realme P4x 5G بثلاثة ألوان هي: Matte Silver، Elegant Pink، وLake Green، بينما يأتي الهاتف بداية من الأسواق الهندية بأسعار:</p>

@@ -6,7 +6,7 @@ updatedDate: "2025-12-07T11:44:22"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["جهاز ألعاب جهاز Pocket DMG النسخة الفضية شركة Ayaneo جهاز منخفض السعر"]
-image: "/uploads/wp/2025/12/1765100661_ayaneo-------------pocket-dmg.webp.webp"
+image: "/uploads/wp/2025/12/1765100661_ayaneo-------------pocket-dmg.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%b1%d9%83%d8%a9-ayaneo-%d8%aa%d8%b7%d9%84%d9%82-%d9%86%d8%b3%d8%ae%d8%a9-%d9%81%d8%b6%d9%8a%d8%a9-%d9%85%d9%86-%d8%ac%d9%87%d8%a7%d8%b2-%d8%a7%d9%84%d8%a3%d9%84%d8%b9%d8%a7%d8%a8-pocket-dmg/"
 ---

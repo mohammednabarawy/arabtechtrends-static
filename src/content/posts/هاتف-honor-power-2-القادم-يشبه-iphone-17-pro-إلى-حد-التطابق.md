@@ -6,7 +6,7 @@ updatedDate: "2025-12-27T09:43:21"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["Honor Power","Honor Power 2","تصميم iPhone 17 Pro","مطابقة الحدود"]
-image: "/uploads/wp/2025/12/1766821401_honor-power-2---------iphone.webp.webp"
+image: "/uploads/wp/2025/12/1766821401_honor-power-2---------iphone.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d8%aa%d9%81-honor-power-2-%d8%a7%d9%84%d9%82%d8%a7%d8%af%d9%85-%d9%8a%d8%b4%d8%a8%d9%87-iphone-17-pro-%d8%a5%d9%84%d9%89-%d8%ad%d8%af-%d8%a7%d9%84%d8%aa%d8%b7%d8%a7%d8%a8%d9%82/"
 ---

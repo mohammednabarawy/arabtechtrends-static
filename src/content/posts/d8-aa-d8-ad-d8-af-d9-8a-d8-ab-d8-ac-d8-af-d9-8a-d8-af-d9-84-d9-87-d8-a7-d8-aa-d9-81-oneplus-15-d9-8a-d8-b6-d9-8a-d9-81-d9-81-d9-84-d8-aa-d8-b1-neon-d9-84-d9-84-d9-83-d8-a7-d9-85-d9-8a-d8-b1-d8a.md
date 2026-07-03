@@ -6,7 +6,7 @@ updatedDate: "2025-12-15T04:17:38"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["تحديث OxygenOS","وOnePlus 15","وتجاوز الشحن","وتصحيح أمان Android","وفلتر كاميرا النيون"]
-image: "/uploads/wp/2025/12/1765765058_oneplus-15.webp.webp"
+image: "/uploads/wp/2025/12/1765765058_oneplus-15.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d8%ac%d8%af%d9%8a%d8%af-%d9%84%d9%87%d8%a7%d8%aa%d9%81-oneplus-15-%d9%8a%d8%b6%d9%8a%d9%81-%d9%81%d9%84%d8%aa%d8%b1-neon-%d9%84%d9%84%d9%83%d8%a7%d9%85%d9%8a%d8%b1%d8a/"
 ---

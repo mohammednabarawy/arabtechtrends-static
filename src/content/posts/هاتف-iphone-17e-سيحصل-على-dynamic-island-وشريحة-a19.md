@@ -6,7 +6,7 @@ updatedDate: "2025-11-30T16:12:01"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["Apple","iPhone 17E","شريحة A19","نوتش Dynamic Island"]
-image: "/uploads/wp/2025/11/1764511920_apple-------iphone-17e---dynamic-island.webp.webp"
+image: "/uploads/wp/2025/11/1764511920_apple-------iphone-17e---dynamic-island.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d8%aa%d9%81-iphone-17e-%d8%b3%d9%8a%d8%ad%d8%b5%d9%84-%d8%b9%d9%84%d9%89-dynamic-island-%d9%88%d8%b4%d8%b1%d9%8a%d8%ad%d8%a9-a19/"
 ---

@@ -6,7 +6,7 @@ updatedDate: "2025-12-08T12:00:04"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["سر التصميم المعقد هواوي تكشف سر هاتف Mate 80 Pro Max هاتف Mate 80"]
-image: "/uploads/wp/2025/12/1765188003_huawei-mate.webp.webp"
+image: "/uploads/wp/2025/12/1765188003_huawei-mate.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%87%d9%88%d8%a7%d9%88%d9%8a-%d8%aa%d9%83%d8%b4%d9%81-%d8%b3%d8%b1-%d8%a7%d9%84%d8%aa%d8%b5%d9%85%d9%8a%d9%85-%d8%a7%d9%84%d9%85%d8%b9%d9%82%d9%91%d8%af-%d9%84%d9%84%d8%ad%d9%84%d9%82%d8%aa%d9%8a%d9/"
 ---

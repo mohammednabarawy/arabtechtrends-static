@@ -6,7 +6,7 @@ updatedDate: "2025-12-10T12:30:30"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["Lenovo Legion Rollable","تسريب جديد","شاشة Ultrawide","لاب توب مخصص للألعاب"]
-image: "/uploads/wp/2025/12/1765362629_lenovo-legion-rollable.webp.webp"
+image: "/uploads/wp/2025/12/1765362629_lenovo-legion-rollable.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8-%d8%ac%d8%af%d9%8a%d8%af-lenovo-legion-rollable-%d9%82%d8%af-%d9%8a%d9%83%d9%88%d9%86-%d8%a3%d9%88%d9%84-%d9%84%d8%a7%d8%a8%d8%aa%d9%88%d8%a8-%d8%a3%d9%84%d8%b9%d8%a7%d8/"
 ---

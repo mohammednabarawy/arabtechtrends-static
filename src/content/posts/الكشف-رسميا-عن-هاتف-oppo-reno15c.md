@@ -6,7 +6,7 @@ updatedDate: "2025-12-16T01:27:38"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["بطارية 6500 مللي أمبير","تصميم متين","معالج Snapdragon 7 Gen 4","هاتف OPPO Reno15c"]
-image: "/uploads/wp/2025/12/1765841257_329_oppo-reno15c---snapdragon-7-gen.webp.webp"
+image: "/uploads/wp/2025/12/1765841257_329_oppo-reno15c---snapdragon-7-gen.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a7%d9%84%d9%83%d8%b4%d9%81-%d8%b1%d8%b3%d9%85%d9%8a%d8%a7-%d8%b9%d9%86-%d9%87%d8%a7%d8%aa%d9%81-oppo-reno15c/"
 ---
@@ -19,7 +19,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a7%d9%84%d9%83%d8%b4%d9%81-%d8%b1
 <p></p>
 <p>بينما تأتي الكاميرا ومعدات التصوير الخاصة بهاتف OPPO Reno15c بنظام تصوير ثلاثي يضم كاميرا رئيسية بدقة 50 ميجابكسل مع مستشعر سوني مع مثبت بصري إلى جانب كاميرا واسعة بدقة 8 ميجابكسل، بالإضافة إلى كاميرا تليفوتوغرافي بدقة 50 ميجابكسل مع دعم التكبير البصري. أما الكاميرا الأمامية فهي بدقة 50 ميجابكسل مع القدرة على تصوير فيديو بدقة 4K بمعدل 60 إطارًا.</p>
 <p>ومن أبرز نقاط القوة في هاتف Reno15c، البطارية التي تبلغ سعتها 6500 مللي أمبير، والتي يصل عمرها الافتراضي إلى خمس سنوات، بحسب ما ذكرت الشركة، وهي تدعم تقنية الشحن السريع SuperVOOC بقدرة 80 واط، والتي تمكنك من إعادة شحن الهاتف في وقت قصير جدًا مقارنة بحجمه.</p>
-<div align="center"><img src="/uploads/wp/2025/12/1765841257_329_oppo-reno15c---snapdragon-7-gen.webp.webp" width="580" height="517" title="هاتف اوبو رينو 15 سي" class="img-responsive lazy" alt="هاتف اوبو رينو 15 سي"/>
+<div align="center"><img src="/uploads/wp/2025/12/1765841257_329_oppo-reno15c---snapdragon-7-gen.webp" width="580" height="517" title="هاتف اوبو رينو 15 سي" class="img-responsive lazy" alt="هاتف اوبو رينو 15 سي"/>
 </div>
 <p></p>
 <h3><b>المواصفات الكاملة لهاتف OPPO Reno15c</b></h3>

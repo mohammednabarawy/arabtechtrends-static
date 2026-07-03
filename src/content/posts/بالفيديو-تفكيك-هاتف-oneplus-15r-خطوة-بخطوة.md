@@ -6,7 +6,7 @@ updatedDate: "2025-12-19T17:16:44"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["تصنيف قابلية إصلاح عالية","تفاصيل غير متوقعة","خطوة بخطوة","فيديو التفكيك","هاتف OnePlus 15R"]
-image: "/uploads/wp/2025/12/1766157404_oneplus-15r.webp.webp"
+image: "/uploads/wp/2025/12/1766157404_oneplus-15r.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a8%d8%a7%d9%84%d9%81%d9%8a%d8%af%d9%8a%d9%88-%d8%aa%d9%81%d9%83%d9%8a%d9%83-%d9%87%d8%a7%d8%aa%d9%81-oneplus-15r-%d8%ae%d8%b7%d9%88%d8%a9-%d8%a8%d8%ae%d8%b7%d9%88%d8%a9/"
 ---

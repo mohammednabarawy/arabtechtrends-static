@@ -6,7 +6,7 @@ updatedDate: "2025-12-13T19:04:25"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["أغلى شاشة في تاريخ سامسونج","استبدال شاشة الهاتف","تكلفة صادمة","هاتف Galaxy Z TriFold"]
-image: "/uploads/wp/2025/12/galaxy.webp.webp"
+image: "/uploads/wp/2025/12/galaxy.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d9%83%d9%84%d9%81%d8%a9-%d8%b5%d8%a7%d8%af%d9%85%d8%a9-%d9%84%d8%a3%d8%b3%d8%aa%d8%a8%d8%af%d8%a7%d9%84-%d8%b4%d8%a7%d8%b4%d8%a9-%d9%87%d8%a7%d8%aa%d9%81-galaxy-z-trifold/"
 ---

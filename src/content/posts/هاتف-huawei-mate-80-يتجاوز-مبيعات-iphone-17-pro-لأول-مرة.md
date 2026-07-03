@@ -6,7 +6,7 @@ updatedDate: "2025-12-06T20:33:53"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["هواوي ميت 80 أقوى ضربة لأبل وآيفون 17 برو وبيانات المبيعات الأخيرة"]
-image: "/uploads/wp/2025/12/1765046033_huawei-mate-80---------apple.webp.webp"
+image: "/uploads/wp/2025/12/1765046033_huawei-mate-80---------apple.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d8%aa%d9%81-huawei-mate-80-%d9%8a%d8%aa%d8%ac%d8%a7%d9%88%d8%b2-%d9%85%d8%a8%d9%8a%d8%b9%d8%a7%d8%aa-iphone-17-pro-%d9%84%d8%a3%d9%88%d9%84-%d9%85%d8%b1%d8%a9/"
 ---

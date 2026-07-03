@@ -6,7 +6,7 @@ updatedDate: "2025-12-19T02:11:04"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["تسريبات جديدة هاتف Realme Neo8 ببطارية أكبر ومعالج أقوى وبطارية 8000 مللي أمبير ريلمي قاتل الهواتف الرائدة"]
-image: "/uploads/wp/2025/12/1766103064_realme-neo8.webp.webp"
+image: "/uploads/wp/2025/12/1766103064_realme-neo8.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8%d8%a7%d8%aa-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%aa%d9%83%d8%b4%d9%81-%d8%aa%d9%81%d8%a7%d8%b5%d9%8a%d9%84-%d9%87%d8%a7%d8%aa%d9%81-realme-neo8/"
 ---

@@ -6,7 +6,7 @@ updatedDate: "2025-11-29T15:59:32"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["ون بلس ترسل تحديث Android 16 وواجهة OxygenOS 16 وهاتف OnePlus 12R"]
-image: "/uploads/wp/2025/11/1764424772_oneplus-------android-16---oxygenos-16.webp.webp"
+image: "/uploads/wp/2025/11/1764424772_oneplus-------android-16---oxygenos-16.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a5%d8%b1%d8%b3%d8%a7%d9%84-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d8%a7%d9%86%d8%af%d8%b1%d9%88%d9%8a%d8%af-16-%d8%a8%d9%88%d8%a7%d8%ac%d9%87%d8%a9-oxygenos-16-%d8%a7%d9%84%d9%8a-%d9%87%d8%a7%d8%aa%d9%81/"
 ---

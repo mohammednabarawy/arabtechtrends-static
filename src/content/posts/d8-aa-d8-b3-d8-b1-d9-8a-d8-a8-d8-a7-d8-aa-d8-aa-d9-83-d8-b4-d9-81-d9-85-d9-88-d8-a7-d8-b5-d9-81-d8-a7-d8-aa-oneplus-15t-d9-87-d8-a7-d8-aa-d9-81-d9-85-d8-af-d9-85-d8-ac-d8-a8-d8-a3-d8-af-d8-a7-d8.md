@@ -6,7 +6,7 @@ updatedDate: "2025-12-21T14:42:44"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["تسريبات مواصفات ون بلس 15T هاتف مدمج أداء رائد بطارية 7000 مللي أمبير"]
-image: "/uploads/wp/2025/12/1766320964_oneplus-15t.webp.webp"
+image: "/uploads/wp/2025/12/1766320964_oneplus-15t.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8%d8%a7%d8%aa-%d8%aa%d9%83%d8%b4%d9%81-%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-oneplus-15t-%d9%87%d8%a7%d8%aa%d9%81-%d9%85%d8%af%d9%85%d8%ac-%d8%a8%d8%a3%d8%af%d8%a7%d8/"
 ---

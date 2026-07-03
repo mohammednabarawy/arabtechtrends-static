@@ -6,7 +6,7 @@ updatedDate: "2025-12-04T01:53:43"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["تحديث ضخم هاتف OnePlus 11 واجهة OxygenOS 16 اندرويد 16 مميزات متقدمة"]
-image: "/uploads/wp/2025/12/1764806023_oneplus-11---oxygenos-16--android.webp.webp"
+image: "/uploads/wp/2025/12/1764806023_oneplus-11---oxygenos-16--android.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d8%b6%d8%ae%d9%85-%d9%82%d8%a7%d8%af%d9%85-%d9%84%d9%87%d8%a7%d8%aa%d9%81-oneplus-11/"
 ---

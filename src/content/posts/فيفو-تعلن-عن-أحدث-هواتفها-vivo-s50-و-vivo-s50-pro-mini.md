@@ -6,7 +6,7 @@ updatedDate: "2025-12-16T16:37:52"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["هاتف vivo vivo S50 وهاتف vivo S50", "Pro mini تصميمات جديدة ومعالجات", "أكثر قوة وبطارية كبيرة بسعة 6500", "مللي أمبير"]
-image: "/uploads/wp/2025/12/1765895871_5_vivo-------vivo-s50--s50-pro.webp.webp"
+image: "/uploads/wp/2025/12/1765895871_5_vivo-------vivo-s50--s50-pro.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%81%d9%8a%d9%81%d9%88-%d8%aa%d8%b9%d9%84%d9%86-%d8%b9%d9%86-%d8%a3%d8%ad%d8%af%d8%ab-%d9%87%d9%88%d8%a7%d8%aa%d9%81%d9%87%d8%a7-vivo-s50-%d9%88-vivo-s50-pro-mini/"
 ---
@@ -21,7 +21,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%81%d9%8a%d9%81%d9%88-%d8%aa%d8%b9
 <p></p>
 <p>ومن حيث الأداء، من المتوقع أن يقدم معالج Snapdragon 8s Gen 3 في هاتف vivo S50 تحسنًا ملحوظًا مقارنة بمعالج Snapdragon 7 Gen 4 المستخدم في سلسلة S30، بينما يقدم إصدار Qualcomm Snapdragon 8 Gen 5 في هاتف vivo S50 Pro mini قوة أعلى من معالج Dimensity 9300+ الموجود في الإصدار السابق. تقدم Vivo خيارات ذاكرة الوصول العشوائي LPDDR5X بسعة تصل إلى 16 جيجابايت مع سعة تخزين داخلية تصل إلى 512 جيجابايت. UFS 4.1 لكلا الهاتفين.</p>
 <p>أما بالنسبة لنظام كاميرا التصوير، فيشترك الهاتفان في إعداد كاميرا خلفية ثلاثية تتضمن كاميرا رئيسية بدقة 50 ميجابكسل مع مستشعر IMX921 وكاميرا تليفوتوغرافي بدقة 50 ميجابكسل مع مستشعر IMX882 مع تقريب بصري 3x، بالإضافة إلى كاميرا واسعة الزاوية بدقة 8 ميجابكسل. يعمل الهاتفان بواجهة OriginOS 6 المبنية على نظام التشغيل Android 16 مباشرة خارج الصندوق.</p>
-<div align="center"><img src="/uploads/wp/2025/12/1765895871_5_vivo-------vivo-s50--s50-pro.webp.webp" title="هاتف فيفو S50 برو ميني الذكي" class="img-responsive lazy" alt="هاتف فيفو S50 برو ميني الذكي"/></div>
+<div align="center"><img src="/uploads/wp/2025/12/1765895871_5_vivo-------vivo-s50--s50-pro.webp" title="هاتف فيفو S50 برو ميني الذكي" class="img-responsive lazy" alt="هاتف فيفو S50 برو ميني الذكي"/></div>
 <p>
 <b><span style="color:#d40a00;">الأسعار والتوافر</span></b><br />
 <b>يتوفر هاتف Vivo S50 بأربعة ألوان مختلفة: الأبيض والأزرق والأرجواني والأسود. أما بالنسبة للتسعير فهو كالتالي:</b></p>

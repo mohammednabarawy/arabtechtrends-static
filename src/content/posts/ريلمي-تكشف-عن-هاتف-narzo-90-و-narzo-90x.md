@@ -6,7 +6,7 @@ updatedDate: "2025-12-17T04:46:27"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["ريلمي هاتف Narzo هاتف Narzo 90x", "بطارية عملاقة 7000 مللي أمبير شحن", "سريع"]
-image: "/uploads/wp/2025/12/1765939583_439_realme-------narzo-90--narzo-90x---7000.webp.webp"
+image: "/uploads/wp/2025/12/1765939583_439_realme-------narzo-90--narzo-90x---7000.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b1%d9%8a%d9%84%d9%85%d9%8a-%d8%aa%d9%83%d8%b4%d9%81-%d8%b9%d9%86-%d9%87%d8%a7%d8%aa%d9%81-narzo-90-%d9%88-narzo-90x/"
 ---
@@ -20,15 +20,15 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b1%d9%8a%d9%84%d9%85%d9%8a-%d8%aa
 <p></p>
 <p>ومن حيث الأداء، يعمل الهاتف بمعالج Dimensity 6400 Max من شركة MediaTek مع خيارات ذاكرة وصول عشوائي LPDDR4X بسعة 6/8 جيجابايت وخيار تخزين داخلي UFS2.2 بسعة 128 جيجابايت مع إمكانية التوسعة عبر بطاقة microSD ويدعم خاصية USB OTG. ويعمل الهاتف بواجهة Realme UI 6.0 المبنية على نظام التشغيل Android 15، مع التزام الشركة بتوفير ثلاث ترقيات رئيسية للنظام وأربع سنوات من التحديثات الأمنية.</p>
 <p>كما يأتي هاتف Realme Narzo 90 ببطارية بقدرة 7000 mAh مع دعم الشحن السريع بقدرة 60W، كما تؤكد Realme على إمكانية شحن البطارية من 1% إلى 50% خلال 31 دقيقة.</p>
-<div align="center"><img src="/uploads/wp/2025/12/1765939583_439_realme-------narzo-90--narzo-90x---7000.webp.webp" title="نشر مواصفات هاتف Realme NARZO 90 5G" class="img-responsive lazy" alt="نشر مواصفات هاتف Realme NARZO 90 5G"/></div>
+<div align="center"><img src="/uploads/wp/2025/12/1765939583_439_realme-------narzo-90--narzo-90x---7000.webp" title="نشر مواصفات هاتف Realme NARZO 90 5G" class="img-responsive lazy" alt="نشر مواصفات هاتف Realme NARZO 90 5G"/></div>
 <p></p>
 <p>تشمل الميزات الإضافية دعم الشحن الالتفافي، والشحن العكسي السلكي، ومكبري صوت استريو، بالإضافة إلى مقاومة الماء والغبار بمعايير IP66 وIP68 وIP69. سمك الهاتف يصل إلى 7.79 ملم، بينما يصل وزنه إلى 181 جرام.</p>
 <p><b>مواصفات هاتف Realme Narzo 90x</b><br />أما هاتف Realme Narzo 90x، فهو يستهدف المستخدمين الذين يبحثون عن شاشة أكبر ومعدل تحديث أعلى، حيث يأتي مع شاشة LCD بقياس 6.8 بوصات وبدقة HD+ ومعدل تحديث 144 هرتز مع حماية Dragontrail Star D+، وسطوع يصل إلى ألف ومئتي nits، ودعم الاستخدام بأيدي مبتلة. وعلى مستوى الكاميرا، يضم الهاتف كاميرا أمامية بدقة 8 ميجابكسل، وكاميرا خلفية رئيسية بدقة 50 ميجابكسل مدعمة بمستشعر تقليل الوميض.</p>
-<div align="center"><img src="/uploads/wp/2025/12/1765939584_571_realme-------narzo-90--narzo-90x---7000.webp.webp" title="هاتف ريلمي نارزو 90X الذكي" class="img-responsive lazy" alt="هاتف ريلمي نارزو 90X الذكي"/></div>
+<div align="center"><img src="/uploads/wp/2025/12/1765939584_571_realme-------narzo-90--narzo-90x---7000.webp" title="هاتف ريلمي نارزو 90X الذكي" class="img-responsive lazy" alt="هاتف ريلمي نارزو 90X الذكي"/></div>
 <p></p>
 <p>أما بالنسبة للعتاد الداخلي للهاتف، فيعتمد الهاتف على معالج Dimensity 6300 من شركة MediaTek مع خيارات 6/8 جيجابايت من ذاكرة الوصول العشوائي LPDDR4X وخيار 128 جيجابايت من مساحة التخزين الداخلية eMMC5.1 مع دعم بطاقات microSD للذاكرة الخارجية. ويعمل الهاتف بواجهة Realme UI 6.0 المبنية على نظام التشغيل Android 15، دون إعلان رسمي عن عدد التحديثات البرمجية التي سيتلقاها.</p>
 <p>ومثل أخيه الأكبر، يحتوي الهاتف أيضًا على بطارية بسعة 7000 مللي أمبير مع دعم الشحن السريع بقوة 60 واط، بالإضافة إلى دعم الشحن العكسي السلكي. ومن أبرز ميزاته الأخرى مستشعر بصمة الإصبع الجانبي، وإضاءة Rhythm Pulse Light في الخلف، ومقاومة الماء والغبار بمعيار IP65. سمك الهاتف يصل إلى 8.28 ملم، بينما يصل وزنه إلى 212 جرام.</p>
-<div align="center"><img src="/uploads/wp/2025/12/1765939584_763_realme-------narzo-90--narzo-90x---7000.webp.webp" title="نشر مواصفات هاتف Realme NARZO 90x 5G" class="img-responsive lazy" alt="نشر مواصفات هاتف Realme NARZO 90x 5G"/></div>
+<div align="center"><img src="/uploads/wp/2025/12/1765939584_763_realme-------narzo-90--narzo-90x---7000.webp" title="نشر مواصفات هاتف Realme NARZO 90x 5G" class="img-responsive lazy" alt="نشر مواصفات هاتف Realme NARZO 90x 5G"/></div>
 <p>
 <b>الأسعار والتوافر</b></p>
 <p>ويتوفر هاتف Realme Narzo 90 باللونين الذهبي النصر والأسود الكربوني بالأسعار:</p>

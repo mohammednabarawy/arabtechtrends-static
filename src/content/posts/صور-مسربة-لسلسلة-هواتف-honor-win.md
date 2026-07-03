@@ -6,7 +6,7 @@ updatedDate: "2025-12-14T22:15:34"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["هونر شركة هونر سلسلة هونر وين هاتف", "هونر وين هاتف هونر وين برو عشاق", "الألعاب"]
-image: "/uploads/wp/2025/12/1765743332_268_honor-win.webp.webp"
+image: "/uploads/wp/2025/12/1765743332_268_honor-win.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b5%d9%88%d8%b1-%d9%85%d8%b3%d8%b1%d8%a8%d8%a9-%d9%84%d8%b3%d9%84%d8%b3%d9%84%d8%a9-%d9%87%d9%88%d8%a7%d8%aa%d9%81-honor-win/"
 ---
@@ -20,7 +20,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b5%d9%88%d8%b1-%d9%85%d8%b3%d8%b1
 <div align="center"></div>
 <p></p>
 <p>ورغم انتشار هذه الصور، تؤكد المصادر أن التصاميم المسربة لم يتم التحقق منها رسميًا بعد، ولم تحدد شركة Honor بعد الأسماء التجارية النهائية للهواتف الجديدة.</p>
-<div align="center"><img src="/uploads/wp/2025/12/1765743332_268_honor-win.webp.webp" width="980" height="1006" title="صور مسربة لسلسلة Honor Win" class="img-responsive lazy" alt="صور مسربة لسلسلة Honor Win"/></div>
+<div align="center"><img src="/uploads/wp/2025/12/1765743332_268_honor-win.webp" width="980" height="1006" title="صور مسربة لسلسلة Honor Win" class="img-responsive lazy" alt="صور مسربة لسلسلة Honor Win"/></div>
 <p></p>
 <p>وعلى مستوى المواصفات المتوقعة، تشير التقارير إلى أن سلسلة Honor Win قد تعتمد على معالجات Snapdragon 8 Elite للإصدار القياسي وSnapdragon 8 Elite Gen 5 للإصدار الأعلى من Honor Win Pro. ومن المتوقع أيضًا أن يأتي الهاتفان بشاشة OLED بدقة 1.5K مع كاميرا رئيسية بدقة 50 ميجابكسل، إلى جانب بطارية كبيرة بسعة 8500 مللي أمبير تقريبًا مع دعم الشحن السريع بقدرة 100 واط.</p>
 <p>ومع تصاعد التسريبات، من المتوقع أن تتضح الصورة الكاملة لسلسلة Honor Win خلال الأيام القليلة المقبلة استعدادًا للإعلان الرسمي عنها.</p>

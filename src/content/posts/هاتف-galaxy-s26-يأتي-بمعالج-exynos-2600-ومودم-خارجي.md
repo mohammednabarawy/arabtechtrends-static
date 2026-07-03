@@ -6,7 +6,7 @@ updatedDate: "2025-12-23T12:05:34"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["كفاءة في استخدام الطاقة","معالج Exynos 2600","مودم خارجي","هاتف جالكسي S26"]
-image: "/uploads/wp/2025/12/1766484334_galaxy-s26-----exynos-2600.webp.webp"
+image: "/uploads/wp/2025/12/1766484334_galaxy-s26-----exynos-2600.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d8%aa%d9%81-galaxy-s26-%d9%8a%d8%a3%d8%aa%d9%8a-%d8%a8%d9%85%d8%b9%d8%a7%d9%84%d8%ac-exynos-2600-%d9%88%d9%85%d9%88%d8%af%d9%85-%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a/"
 ---

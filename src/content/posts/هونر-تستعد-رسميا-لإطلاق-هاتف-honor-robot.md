@@ -6,7 +6,7 @@ updatedDate: "2025-12-09T18:19:57"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["Honor","MWC 2026","ذراع آلية متحركة","منصة Weibo","هاتف Honor Robot"]
-image: "/uploads/wp/2025/12/1765297194_38_honor.webp.webp"
+image: "/uploads/wp/2025/12/1765297194_38_honor.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%87%d9%88%d9%86%d8%b1-%d8%aa%d8%b3%d8%aa%d8%b9%d8%af-%d8%b1%d8%b3%d9%85%d9%8a%d8%a7%d9%8b-%d9%84%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d9%87%d8%a7%d8%aa%d9%81-honor-robot/"
 ---
@@ -23,7 +23,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d9%88%d9%86%d8%b1-%d8%aa%d8%b3
 <p></p>
 <p>ولم تتوقف شركة Honor عند هذا الحد، بل زودت الهاتف بنظام التعرف البصري القادر على تحليل المشاعر والاستجابة لها، مما منحه تجربة تفاعلية مختلفة تمامًا عن الهواتف التقليدية. وفقًا لمقاطع الفيديو التجريبية المبكرة، يمكن للهاتف تسجيل مدونات الفيديو من جيب القميص، أو العمل ككاميرا محمولة للرحلات عند تركيبها على دراجة أو سيارة.</p>
 <p><b>خطوة جريئة نحو مستقبل الهواتف</b><br />وعلى الرغم من أن التصميم يبدو أكثر تعقيدًا بكثير من الكاميرات المنبثقة التي عرفناها سابقًا، إلا أن شركة Honor تبدو مقتنعة بأن الوقت قد حان لدفع الابتكار خطوة أخرى إلى الأمام، خاصة مع دمج الذكاء الاصطناعي المتقدم مع الروبوتات الدقيقة في جهاز واحد يمكن وضعه في الجيب.</p>
-<div align="center"><img src="/uploads/wp/2025/12/1765297194_38_honor.webp.webp" title="هاتف Honor Robot Phone الذكي في وضع الكاميرا" class="img-responsive lazy" alt="هاتف Honor Robot Phone الذكي في وضع الكاميرا"/></div>
+<div align="center"><img src="/uploads/wp/2025/12/1765297194_38_honor.webp" title="هاتف Honor Robot Phone الذكي في وضع الكاميرا" class="img-responsive lazy" alt="هاتف Honor Robot Phone الذكي في وضع الكاميرا"/></div>
 <p></p>
 <p>ومع تأكيد تقديم الهاتف في MWC 2026 واستعدادات الشركة للإنتاج الضخم خلال نفس العام، يبدو أن هاتف Honor Robot في طريقه للانتقال من “المفهوم المستقبلي” إلى منتج حقيقي قد نراه في الأسواق قريبًا. كل المؤشرات تؤكد أن شركة Honor تستعد لإطلاق أحد أكثر الهواتف غرابة وجرأة في السنوات الأخيرة.</p>
 <p><a href="https://www.gsmarena.com/honor_will_start_mass_production_of_the_robot_phone_in_the_first_half_of_2026-news-70613.php" target="_blank" rel="nofollow">مصدر</a></p>

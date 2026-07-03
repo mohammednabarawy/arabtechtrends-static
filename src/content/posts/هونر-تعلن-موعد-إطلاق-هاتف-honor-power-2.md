@@ -6,7 +6,7 @@ updatedDate: "2025-12-30T04:16:42"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["080 مللي أمبير", "هونر موعد إطلاق هاتف هونر باور", "بطارية عملاقة"]
-image: "/uploads/wp/2025/12/1767061002_honor---------honor-power-2.webp.webp"
+image: "/uploads/wp/2025/12/1767061002_honor---------honor-power-2.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%87%d9%88%d9%86%d8%b1-%d8%aa%d8%b9%d9%84%d9%86-%d9%85%d9%88%d8%b9%d8%af-%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d9%87%d8%a7%d8%aa%d9%81-honor-power-2/"
 ---

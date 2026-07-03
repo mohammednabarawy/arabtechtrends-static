@@ -6,7 +6,7 @@ updatedDate: "2025-12-01T22:24:01"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["المسرب المعروف إيفان بلاس","ترقيات الكاميرا","تسريبات هاتف Motorola Edge 70 Ultra","مواصفات رائدة"]
-image: "/uploads/wp/2025/12/1764620641_motorola-edge-70-ultra.webp.webp"
+image: "/uploads/wp/2025/12/1764620641_motorola-edge-70-ultra.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8%d8%a7%d8%aa-%d8%ad%d9%88%d9%84-%d9%87%d8%a7%d8%aa%d9%81-motorola-edge-70-ultra/"
 ---

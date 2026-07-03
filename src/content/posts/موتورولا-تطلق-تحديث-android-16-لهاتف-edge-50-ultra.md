@@ -6,7 +6,7 @@ updatedDate: "2025-11-28T00:39:43"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["موتورولا تحديث اندرويد 16 هاتف Edge 50 Ultra تحديث اندرويد 17 البرازيل"]
-image: "/uploads/wp/2025/11/1764283183_android-16---edge-50-ultra.webp.webp"
+image: "/uploads/wp/2025/11/1764283183_android-16---edge-50-ultra.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%85%d9%88%d8%aa%d9%88%d8%b1%d9%88%d9%84%d8%a7-%d8%aa%d8%b7%d9%84%d9%82-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-android-16-%d9%84%d9%87%d8%a7%d8%aa%d9%81-edge-50-ultra/"
 ---

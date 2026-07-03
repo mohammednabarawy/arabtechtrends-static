@@ -6,7 +6,7 @@ updatedDate: "2025-12-16T19:40:43"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["إصدار Diablo IV","الكمبيوتر المحمول Legion Y9000P","بطاقة RTX 5080","معالج Core Ultra 9 275HX"]
-image: "/uploads/wp/2025/12/1765906840_24_diablo-iv-------legion-y9000p.webp.webp"
+image: "/uploads/wp/2025/12/1765906840_24_diablo-iv-------legion-y9000p.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a5%d8%b5%d8%af%d8%a7%d8%b1-diablo-iv-%d9%85%d9%86-%d9%84%d8%a7%d8%a8%d8%aa%d9%88%d8%a8-legion-y9000p-%d9%8a%d8%b8%d9%87%d8%b1/"
 ---
@@ -21,7 +21,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a5%d8%b5%d8%af%d8%a7%d8%b1-diablo
 </div>
 <p>وعلى المستوى الرسومي، تقدم لينوفو خيارين من الجيل الجديد من بطاقات الكمبيوتر المحمول NVIDIA، على رأسهم وحدة معالجة الرسومات للكمبيوتر المحمول GeForce RTX 5080 بقدرة تشغيل عالية وذاكرة GDDR7 بسعة 16 جيجابايت، إلى جانب خيار أقل يتمثل في وحدة معالجة الرسوميات للكمبيوتر المحمول RTX 5070 Ti بذاكرة 12 جيجابايت. يضمن هذا المزيج تشغيل الألعاب الحديثة بأعلى الإعدادات، وإن كان ذلك مصحوبًا بحجم صوت مرتفع وحرارة عالية تحت الضغط، وهو أمر شائع في هذه الفئة.</p>
 <div></p>
-<div style="text-align:center;"><img src="/uploads/wp/2025/12/1765906840_24_diablo-iv-------legion-y9000p.webp.webp" width="1406" height="1356" title="مواصفات لاب توب Legion Y9000P" class="img-responsive lazy" alt="مواصفات لاب توب Legion Y9000P"/>
+<div style="text-align:center;"><img src="/uploads/wp/2025/12/1765906840_24_diablo-iv-------legion-y9000p.webp" width="1406" height="1356" title="مواصفات لاب توب Legion Y9000P" class="img-responsive lazy" alt="مواصفات لاب توب Legion Y9000P"/>
 </div>
 <p>
 </div>

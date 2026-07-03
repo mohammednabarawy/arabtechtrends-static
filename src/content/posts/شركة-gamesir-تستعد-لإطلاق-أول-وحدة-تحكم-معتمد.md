@@ -6,7 +6,7 @@ updatedDate: "2025-12-19T14:15:07"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["وحدة تحكم Apple GameSir المعتمدة لأجهزة iPhone وiPad"]
-image: "/uploads/wp/2025/12/1766146507_gamesir---------apple.webp.webp"
+image: "/uploads/wp/2025/12/1766146507_gamesir---------apple.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%b1%d9%83%d8%a9-gamesir-%d8%aa%d8%b3%d8%aa%d8%b9%d8%af-%d9%84%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d8%a3%d9%88%d9%84-%d9%88%d8%ad%d8%af%d8%a9-%d8%aa%d8%ad%d9%83%d9%85-%d9%85%d8%b9%d8%aa%d9%85%d8%af/"
 ---

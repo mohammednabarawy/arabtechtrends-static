@@ -6,7 +6,7 @@ updatedDate: "2025-11-30T01:03:16"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["هواوي هاتف هواوي بورا X2 الجيل الجديد هواتف قابلة للطي"]
-image: "/uploads/wp/2025/11/1764457396_huawei-pura-x2.webp.webp"
+image: "/uploads/wp/2025/11/1764457396_huawei-pura-x2.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%87%d9%88%d8%a7%d9%88%d9%8a-%d8%aa%d8%b3%d8%aa%d8%b9%d8%af-%d9%84%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d9%87%d8%a7%d8%aa%d9%81-huawei-pura-x2/"
 ---

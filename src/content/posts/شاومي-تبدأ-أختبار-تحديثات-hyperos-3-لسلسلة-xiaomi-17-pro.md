@@ -6,7 +6,7 @@ updatedDate: "2025-12-08T18:04:06"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["Xiaomi","تحديثات HyperOS 3","تحسينات في الشاشة الخلفية","سلسلة Xiaomi 17 Pro","مميزات ضخمة"]
-image: "/uploads/wp/2025/12/1765209845_725_xiaomi-------hyperos-3.webp.webp"
+image: "/uploads/wp/2025/12/1765209845_725_xiaomi-------hyperos-3.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%aa%d8%a8%d8%af%d8%a3-%d8%a3%d8%ae%d8%aa%d8%a8%d8%a7%d8%b1-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab%d8%a7%d8%aa-hyperos-3-%d9%84%d8%b3%d9%84%d8%b3%d9%84%d8%a9-xiaomi-17-pro/"
 ---
@@ -27,7 +27,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%aa
 <p>
 </ul>
 <p>ويهدف هذا إلى تحويل الشاشة الخلفية إلى عنصر وظيفي وجمالي أكثر حيوية.</p>
-<div align="center"><img src="/uploads/wp/2025/12/1765209845_725_xiaomi-------hyperos-3.webp.webp" class="img-responsive lazy" alt=""/></div>
+<div align="center"><img src="/uploads/wp/2025/12/1765209845_725_xiaomi-------hyperos-3.webp" class="img-responsive lazy" alt=""/></div>
 <p>
 <b>تحسينات تفاعلية إضافية على الشاشة الخلفية</b></p>
 <p>ويعزز التحديث إمكانيات الشاشة الخلفية من خلال مجموعة من الأدوات الجديدة أبرزها:</p>

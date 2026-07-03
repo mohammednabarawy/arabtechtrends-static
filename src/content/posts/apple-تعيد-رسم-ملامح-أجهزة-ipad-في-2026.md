@@ -6,7 +6,7 @@ updatedDate: "2025-12-12T12:54:06"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["أبل","أجهزة آيباد: معالجات جديدة","تابلت iPad Air","ثورة في الأداء","عام 2026","معالج A19"]
-image: "/uploads/wp/2025/12/1765536846_apple---ipad.webp.webp"
+image: "/uploads/wp/2025/12/1765536846_apple---ipad.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/apple-%d8%aa%d8%b9%d9%8a%d8%af-%d8%b1%d8%b3%d9%85-%d9%85%d9%84%d8%a7%d9%85%d8%ad-%d8%a3%d8%ac%d9%87%d8%b2%d8%a9-ipad-%d9%81%d9%8a-2026/"
 ---

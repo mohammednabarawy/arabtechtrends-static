@@ -6,7 +6,7 @@ updatedDate: "2025-12-30T01:16:14"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["بداية من عام 2026","تلفزيونات سامسونج AI","جوجل","خدمة صور جوجل","سامسونج"]
-image: "/uploads/wp/2025/12/1767050174_samsung-------google-photos.webp.webp"
+image: "/uploads/wp/2025/12/1767050174_samsung-------google-photos.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-%d8%aa%d8%b9%d9%84%d9%86-%d8%ae%d8%b7%d8%b7-%d8%af%d9%85%d8%ac-google-photos/"
 ---

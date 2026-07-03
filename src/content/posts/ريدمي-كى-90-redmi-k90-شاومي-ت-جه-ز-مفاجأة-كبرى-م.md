@@ -6,7 +6,7 @@ updatedDate: "2025-10-01T07:10:38"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: ["Xiaomi", "Redmi", "K90:", "يستعد"]
-image: "/uploads/wp/2025/10/redmi-k90-xiaomi.webp.webp"
+image: "/uploads/wp/2025/10/redmi-k90-xiaomi.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b1%d9%8a%d8%af%d9%85%d9%8a-%d9%83%d9%89-90-redmi-k90-%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%aa%d9%8f%d8%ac%d9%87%d9%91%d8%b2-%d9%85%d9%81%d8%a7%d8%ac%d8%a3%d8%a9-%d9%83%d8%a8%d8%b1%d9%89-%d9%85/"
 ---

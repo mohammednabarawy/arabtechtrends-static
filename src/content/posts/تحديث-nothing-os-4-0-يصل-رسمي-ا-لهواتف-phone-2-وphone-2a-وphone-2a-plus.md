@@ -6,7 +6,7 @@ updatedDate: "2025-11-30T10:09:55"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["لا شيء يصل تحديث OS 4.0 رسميًا"]
-image: "/uploads/wp/2025/11/1764490194_nothing-os-40-------2---2a.webp.webp"
+image: "/uploads/wp/2025/11/1764490194_nothing-os-40-------2---2a.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-nothing-os-4-0-%d9%8a%d8%b5%d9%84-%d8%b1%d8%b3%d9%85%d9%8a%d9%8b%d8%a7-%d9%84%d9%87%d9%88%d8%a7%d8%aa%d9%81-phone-2-%d9%88phone-2a-%d9%88phone-2a-plus/"
 ---

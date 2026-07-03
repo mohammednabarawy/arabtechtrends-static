@@ -6,7 +6,7 @@ updatedDate: "2025-12-09T09:10:46"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["شاشة ألعاب 4 كيه","ميني ال اي دي","هايسنس 27 جي اكس","وظائف التلفزيون الذكي"]
-image: "/uploads/wp/2025/12/1765264246_hisense-27gx-------4k.webp.webp"
+image: "/uploads/wp/2025/12/1765264246_hisense-27gx-------4k.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d8%b4%d8%a7%d8%b4%d8%a9-hisense-27gx-%d8%b4%d8%a7%d8%b4%d8%a9-%d8%a3%d9%84%d8%b9%d8%a7%d8%a8-4k-%d8%a8%d8%aa%d9%82%d9%86%d9%8a%d8%a9-mini-led/"
 ---

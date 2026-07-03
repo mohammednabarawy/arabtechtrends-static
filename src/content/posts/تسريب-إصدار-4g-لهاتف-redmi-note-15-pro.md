@@ -6,7 +6,7 @@ updatedDate: "2025-12-04T20:03:33"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["إصدار 4G","الإطلاق العالمي","المسرب","سلسلة Redmi Note 15 Pro","وRedmi Note 15"]
-image: "/uploads/wp/2025/12/1764871412_4g-----redmi-note.webp.webp"
+image: "/uploads/wp/2025/12/1764871412_4g-----redmi-note.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8-%d8%a5%d8%b5%d8%af%d8%a7%d8%b1-4g-%d9%84%d9%87%d8%a7%d8%aa%d9%81-redmi-note-15-pro/"
 ---

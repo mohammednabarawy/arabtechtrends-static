@@ -6,7 +6,7 @@ updatedDate: "2025-12-27T15:44:51"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["Xiaomi","Xiaomi Smart Home Display 11","التحكم في الأجهزة المنزلية الذكية","نظام HyperOS"]
-image: "/uploads/wp/2025/12/1766843090_xiaomi---xiaomi-smart-home-display-11.webp.webp"
+image: "/uploads/wp/2025/12/1766843090_xiaomi---xiaomi-smart-home-display-11.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%aa%d8%b9%d9%84%d9%86-%d8%b9%d9%86-%d8%ac%d9%87%d8%a7%d8%b2-xiaomi-smart-home-display-11/"
 ---

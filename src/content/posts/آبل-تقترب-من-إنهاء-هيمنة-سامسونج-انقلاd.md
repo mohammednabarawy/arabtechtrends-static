@@ -6,7 +6,7 @@ updatedDate: "2025-11-27T21:38:42"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["أبل","الهواتف الذكية","انقلاب قادم","هيمنة سامسونج"]
-image: "/uploads/wp/2025/11/1764272322_apple-------samsung.webp.webp"
+image: "/uploads/wp/2025/11/1764272322_apple-------samsung.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a2%d8%a8%d9%84-%d8%aa%d9%82%d8%aa%d8%b1%d8%a8-%d9%85%d9%86-%d8%a5%d9%86%d9%87%d8%a7%d8%a1-%d9%87%d9%8a%d9%85%d9%86%d8%a9-%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-%d8%a7%d9%86%d9%82%d9%84%d8%a7d/"
 ---

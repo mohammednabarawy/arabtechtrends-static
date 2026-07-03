@@ -6,7 +6,7 @@ updatedDate: "2025-12-02T16:39:03"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["أداء أسرع","أرسل تحديث HyperOS 3","سلسلة Xiaomi 15","ميزات متقدمة"]
-image: "/uploads/wp/2025/12/1764686342_hyperos-3-----xiaomi-15.webp.webp"
+image: "/uploads/wp/2025/12/1764686342_hyperos-3-----xiaomi-15.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a8%d8%af%d8%a3-%d8%a5%d8%b1%d8%b3%d8%a7%d9%84-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-hyperos-3-%d8%b1%d8%b3%d9%85%d9%8a%d9%8b%d8%a7-%d9%84%d8%b3%d9%84%d8%b3%d9%84%d8%a9-xiaomi-15/"
 ---

@@ -6,7 +6,7 @@ updatedDate: "2025-12-17T10:52:04"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["Geekbench","Samsung Galaxy A07 5G","الإطلاق الرسمي","سامسونج"]
-image: "/uploads/wp/2025/12/1765961524_samsung-galaxy-a07-5g-----geekbench.webp.webp"
+image: "/uploads/wp/2025/12/1765961524_samsung-galaxy-a07-5g-----geekbench.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b1%d8%b5%d8%af-%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-%d9%87%d8%a7%d8%aa%d9%81-samsung-galaxy-a07-5g-%d8%b9%d9%84%d9%8a-%d9%85%d9%86%d8%b5%d8%a9-geekbench/"
 ---

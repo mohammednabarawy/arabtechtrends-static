@@ -6,7 +6,7 @@ updatedDate: "2025-12-08T02:54:35"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["مميزات هاتف Mate 80 Pro Max","هاتف Mate 80 Pro Max","هاتف هواوي","هواوي تفاجئ الأسواق"]
-image: "/uploads/wp/2025/12/1765155273_523_mate-80-pro-max.webp.webp"
+image: "/uploads/wp/2025/12/1765155273_523_mate-80-pro-max.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d8%aa%d9%81-mate-80-pro-max-%d9%8a%d9%82%d8%af%d9%91%d9%85-%d9%85%d9%8a%d8%b2%d8%a7%d8%aa-%d9%84%d9%85-%d9%86%d8%b1%d9%8e-%d9%85%d8%ab%d9%84%d9%87%d8%a7-%d9%85%d9%86-%d9%82%d8%a8%d9%84/"
 ---
@@ -36,13 +36,13 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d8%aa%d9%81-mate-80-pro-
 </ul>
 </div>
 <div></p>
-<div style="text-align:center;"><img src="/uploads/wp/2025/12/1765155273_523_mate-80-pro-max.webp.webp" width="1024" height="576" title="تصميم ميت 80 برو ماكس" class="img-responsive lazy" alt="تصميم ميت 80 برو ماكس"/>
+<div style="text-align:center;"><img src="/uploads/wp/2025/12/1765155273_523_mate-80-pro-max.webp" width="1024" height="576" title="تصميم ميت 80 برو ماكس" class="img-responsive lazy" alt="تصميم ميت 80 برو ماكس"/>
 </div>
 </div>
 <p><i><b>تصميم مختلف.. هوية جديدة لسلسلة هواتف Mate</b></i></p>
 <p>ربما يكون تصميم Mate 80 Pro Max هو العنصر الأكثر جرأة. وبدلاً من دائرة الكاميرات التقليدية، يظهر إطار مستوحى من رمز اللانهاية، يعكس فكرة الإمكانيات اللامحدودة للجهاز. يحمل الإطار كلمة MATE بشكل بارز، ويمنح الجسم المعدني بالكامل الهاتف صلابة كافية لتحمل الخدوش والسقوط والعوامل اليومية.</p>
 <div></p>
-<div style="text-align:center;"><img src="/uploads/wp/2025/12/1765155273_568_mate-80-pro-max.webp.webp" width="1024" height="576" title="شاشة ميت 80 برو ماكس" class="img-responsive lazy" alt="شاشة ميت 80 برو ماكس"/>
+<div style="text-align:center;"><img src="/uploads/wp/2025/12/1765155273_568_mate-80-pro-max.webp" width="1024" height="576" title="شاشة ميت 80 برو ماكس" class="img-responsive lazy" alt="شاشة ميت 80 برو ماكس"/>
 </div>
 </div>
 <p><b>شاشة تتحدى الشمس.. 8000 شمعة لأول مرة في هاتف ذكي</b></p>
@@ -60,7 +60,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d8%aa%d9%81-mate-80-pro-
 </div>
 <div>
 <div style="text-align:center;">
-<img src="/uploads/wp/2025/12/1765155273_730_mate-80-pro-max.webp.webp" width="1024" height="576" title="كاميرا ميت 80 برو ماكس" class="img-responsive lazy" alt="كاميرا ميت 80 برو ماكس"/>
+<img src="/uploads/wp/2025/12/1765155273_730_mate-80-pro-max.webp" width="1024" height="576" title="كاميرا ميت 80 برو ماكس" class="img-responsive lazy" alt="كاميرا ميت 80 برو ماكس"/>
 </div>
 </div>
 <p><b>كاميرا تعيد التفكير في التصوير الفوتوغرافي على هواتف Mate</b></p>

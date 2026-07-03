@@ -6,7 +6,7 @@ updatedDate: "2025-12-02T13:36:17"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["Samsung Galaxy Z TriFold","سامسونج تنفجر","مواصفات ثورية","هاتف ثلاثي الطي"]
-image: "/uploads/wp/2025/12/1764675374_335_galaxy-z-trifold.webp.webp"
+image: "/uploads/wp/2025/12/1764675374_335_galaxy-z-trifold.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a7%d9%84%d9%83%d8%b4%d9%81-%d8%b9%d9%86-%d9%87%d8%a7%d8%aa%d9%81-galaxy-z-trifold-%d8%ab%d9%84%d8%a7%d8%ab%d9%8a-%d8%a7%d9%84%d8%b7%d9%8a/"
 ---
@@ -17,10 +17,10 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a7%d9%84%d9%83%d8%b4%d9%81-%d8%b9
 <div align="center"></div>
 <p></p>
 <p> وعند فتح الجهاز بالكامل تظهر شاشة Dynamic AMOLED 2X الداخلية بقياس 10 بوصات وبدقة QXGA+، مع معدل تحديث متكيف يتراوح من 1 هرتز إلى 120 هرتز. وهذه المساحة الكبيرة تحول الجهاز إلى منصة للعمل أو مشاهدة المحتوى أو التدوين، دون الحاجة إلى جهاز لوحي منفصل.</p>
-<div align="center"><img src="/uploads/wp/2025/12/1764675374_335_galaxy-z-trifold.webp.webp" class="img-responsive lazy" alt=""/></div>
+<div align="center"><img src="/uploads/wp/2025/12/1764675374_335_galaxy-z-trifold.webp" class="img-responsive lazy" alt=""/></div>
 <p></p>
 <p>وعلى الرغم من التعقيد الهندسي للمفصلات، إلا أن سامسونج نجحت في الحفاظ على سماكة ملحوظة، حيث يبلغ سمك الهاتف عند طيه 12.9 ملم، وهو قريب من الجيل الأول من الأجهزة القابلة للطي، بينما ينخفض ​​السمك عند فتحه إلى 3.9 ملم عند أنحف نقطة. ويزن الجهاز 309 جرامًا، مما يعني أنه أثقل من الهواتف التقليدية ولكنه أخف من معظم الأجهزة اللوحية مقاس 10 بوصات.</p>
-<div align="center"><img src="/uploads/wp/2025/12/1764675375_346_galaxy-z-trifold.webp.webp" class="img-responsive lazy" alt=""/></div>
+<div align="center"><img src="/uploads/wp/2025/12/1764675375_346_galaxy-z-trifold.webp" class="img-responsive lazy" alt=""/></div>
 <p>
 <b>مواد التصنيع:</b></p>
 <ul>
@@ -36,11 +36,11 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a7%d9%84%d9%83%d8%b4%d9%81-%d8%b9
 <p>
 <b>كاميرات مستوحاة من السلسلة الرائدة</b></p>
 <p>وركزت سامسونج بشكل واضح على التصوير الفوتوغرافي في هاتف Galaxy Z TriFold، حيث يأتي الهاتف بكاميرا رئيسية عريضة بدقة 200 ميجابكسل مع مثبت بصري وفتحة عدسة F1.7، وهي نفس المدرسة الفوتوغرافية المتوقعة من فئة Ultra. كما يأتي النظام الخلفي بكاميرا Ultra Wide بدقة 12 ميجابكسل بالإضافة إلى عدسة Telephoto بدقة 10 ميجابكسل تدعم التقريب البصري حتى 3x والتكبير الرقمي حتى 30x عبر خاصية Space Zoom.</p>
-<div align="center"><img src="/uploads/wp/2025/12/1764675375_649_galaxy-z-trifold.webp.webp" class="img-responsive lazy" alt=""/></div>
+<div align="center"><img src="/uploads/wp/2025/12/1764675375_649_galaxy-z-trifold.webp" class="img-responsive lazy" alt=""/></div>
 <p></p>
 <p>وفيما يتعلق بالاستخدام اليومي والصور الشخصية، يضم الهاتف كاميرتين أماميتين منفصلتين بدقة 10 ميجابكسل، إحداهما موجهة إلى شاشة الغلاف والأخرى إلى الشاشة الداخلية.</p>
 <p><b>أداء رائد وبطارية ثلاثية الخلايا</b><br />يأتي هاتف Galaxy Z TriFold الذكي مزودًا بمعالج Snapdragon 8 Elite for Galaxy من شركة كوالكوم الأمريكية، والذي تم تصميمه بمعمارية 3 نانومتر، وهو الجيل الموجه نحو تجربة فائقة في المهام والألعاب الثقيلة. يتوفر الهاتف بذاكرة وصول عشوائي بسعة 16 جيجابايت، مع خيارات تخزين داخلية بسعة 512 جيجابايت أو 1 تيرابايت.</p>
-<div align="center"><img src="/uploads/wp/2025/12/1764675375_63_galaxy-z-trifold.webp.webp" class="img-responsive lazy" alt=""/></div>
+<div align="center"><img src="/uploads/wp/2025/12/1764675375_63_galaxy-z-trifold.webp" class="img-responsive lazy" alt=""/></div>
 <p></p>
 <p>واعتمدت سامسونج في تشغيل الشاشات الكبيرة على نظام بطارية ثلاثي الخلايا بسعة إجمالية تبلغ 5600 مللي أمبير مع دعم الشحن السلكي بقدرة 45 وات الذي يحقق شحنًا بنسبة 50% تقريبًا خلال نصف ساعة. يدعم الهاتف أيضًا الشحن اللاسلكي السريع بقدرة 15 وات ومشاركة الطاقة اللاسلكية.</p>
 <p><b>المواصفات الفنية الكاملة – Samsung Galaxy Z TriFold:</b></p>
@@ -89,7 +89,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a7%d9%84%d9%83%d8%b4%d9%81-%d8%b9
 <p>
 </ul>
 <p></p>
-<div align="center"><img src="/uploads/wp/2025/12/1764675376_755_galaxy-z-trifold.webp.webp" class="img-responsive lazy" alt=""/></div>
+<div align="center"><img src="/uploads/wp/2025/12/1764675376_755_galaxy-z-trifold.webp" class="img-responsive lazy" alt=""/></div>
 <p>
 <b>التسعير والتوافر</b></p>
 <p>أما عن سعر الهاتف، فيبدأ سعر هاتف Galaxy Z TriFold من 3,594,000 وون كوري، أي ما يعادل 2,445 دولار أمريكي تقريبًا للنسخة 512 جيجابايت. سيتم إطلاق الهاتف ابتداءً من الأسواق الكورية في 12 ديسمبر 2025، وسيصل لاحقاً إلى أسواق تشمل الصين وتايوان وسنغافورة والإمارات والولايات المتحدة والعديد من الأسواق العالمية.</p>

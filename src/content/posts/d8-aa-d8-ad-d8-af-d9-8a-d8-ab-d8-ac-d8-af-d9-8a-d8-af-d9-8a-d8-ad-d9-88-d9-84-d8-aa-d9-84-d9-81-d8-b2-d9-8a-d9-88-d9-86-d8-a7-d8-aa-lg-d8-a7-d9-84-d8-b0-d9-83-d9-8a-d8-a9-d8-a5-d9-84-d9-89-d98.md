@@ -6,7 +6,7 @@ updatedDate: "2026-01-22T08:41:42"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["التحكم عبر الهاتف","تحديث جديد","تطبيق LG Mobile Gamepad Wi-Fi","تلفزيونات LG الذكية","لوحة ألعاب الكل في واحد"]
-image: "/uploads/wp/2025/12/1767017470_lg.webp.webp"
+image: "/uploads/wp/2025/12/1767017470_lg.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d8%ac%d8%af%d9%8a%d8%af-%d9%8a%d8%ad%d9%88%d9%84-%d8%aa%d9%84%d9%81%d8%b2%d9%8a%d9%88%d9%86%d8%a7%d8%aa-lg-%d8%a7%d9%84%d8%b0%d9%83%d9%8a%d8%a9-%d8%a5%d9%84%d9%89-%d98/"
 ---

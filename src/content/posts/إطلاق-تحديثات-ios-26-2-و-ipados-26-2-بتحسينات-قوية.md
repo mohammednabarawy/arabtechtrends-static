@@ -6,7 +6,7 @@ updatedDate: "2025-12-13T22:05:23"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["iphone","أجهزة iPad","ابل","تجربة استخدام أكثر مرونة","تحديث iOS 26.2","تحديث iPadOS 26.2","تحسينات قوية"]
-image: "/uploads/wp/2025/12/1765656323_apple---ios-262--ipados-262.webp.webp"
+image: "/uploads/wp/2025/12/1765656323_apple---ios-262--ipados-262.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab%d8%a7%d8%aa-ios-26-2-%d9%88-ipados-26-2-%d8%a8%d8%aa%d8%ad%d8%b3%d9%8a%d9%86%d8%a7%d8%aa-%d9%82%d9%88%d9%8a%d8%a9/"
 ---

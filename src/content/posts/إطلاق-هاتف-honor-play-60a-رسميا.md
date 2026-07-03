@@ -6,7 +6,7 @@ updatedDate: "2025-12-15T19:25:53"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["هاتف Honor Play 60A يدعم مواصفات", "اقتصادية بطارية بسعة 5300 مللي", "أمبير"]
-image: "/uploads/wp/2025/12/1765819551_75_honor-play-60a---5g.webp.webp"
+image: "/uploads/wp/2025/12/1765819551_75_honor-play-60a---5g.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d9%87%d8%a7%d8%aa%d9%81-honor-play-60a-%d8%b1%d8%b3%d9%85%d9%8a%d8%a7/"
 ---
@@ -21,7 +21,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d9%87
 <b>معالج ذو أبعاد وعمر بطارية يدوم طوال اليوم</b></p>
 <p>يعتمد الهاتف على معالج ثماني النواة من شركة MediaTek، Dimensity Edition 6300، مع خيار ذاكرة وصول عشوائي تصل إلى 6 جيجابايت رام وسعة تخزين داخلية 128 جيجابايت، بينما تأتي البطارية بسعة 5300 مللي أمبير، وهي كافية لتشغيل الهاتف طوال اليوم مع دعم الشحن بقوة 15 وات. وعلى صعيد التصوير الفوتوغرافي، يقدم الهاتف كاميرا خلفية بدقة 13 ميجابكسل، وكاميرا أمامية بدقة 5 ميجابكسل، مع إمكانية تسجيل فيديو بدقة تصل إلى 1080 بكسل.</p>
 <p><b>نظام حديث ومميزات متعددة</b><br />ويأتي هاتف Honor Play 60A بنظام التشغيل Android 15 مع واجهة MagicOS 9.0 ويقدم ميزات مثل فتح الوجه وتحسينات الصوت بفضل Honor Sound، بالإضافة إلى منفذ 3.5 ملم، ودعم بطاقتي SIM، وشبكات 5G، وواي فاي مزدوج النطاق، وبلوتوث الإصدار 5.3، ومنفذ اتصال USB Type-C مع دعم OTG. كما يدعم الهاتف العديد من أنظمة تحديد المواقع مثل GPS، وGLONASS وغيرها.</p>
-<div align="center"><img src="/uploads/wp/2025/12/1765819551_75_honor-play-60a---5g.webp.webp" width="726" height="478" title="ألوان هاتف هونر بلاي 60A" class="img-responsive lazy" alt="ألوان هاتف هونر بلاي 60A"/></div>
+<div align="center"><img src="/uploads/wp/2025/12/1765819551_75_honor-play-60a---5g.webp" width="726" height="478" title="ألوان هاتف هونر بلاي 60A" class="img-responsive lazy" alt="ألوان هاتف هونر بلاي 60A"/></div>
 <p>أما بالنسبة لإطلاق الهاتف وموعد توفره، فسيأتي هاتف Honor Play 60A بثلاثة ألوان: Lake Blue، وAzure Sky، وInky Black Rock. ويبلغ سعر الهاتف لنسخة 6 جيجا بايت رام مع ذاكرة تخزين داخلية 128 جيجا بايت 1599 يوان أي ما يعادل 226 دولارًا أمريكيًا، وحتى الآن لا توجد معلومات مؤكدة حول إطلاقه عالميًا.</p>
 <p><a href="https://www.gizmochina.com/2025/12/15/honor-play-60a-launched-price-specifications/" target="_blank" rel="nofollow">مصدر</a></p>
 </div>

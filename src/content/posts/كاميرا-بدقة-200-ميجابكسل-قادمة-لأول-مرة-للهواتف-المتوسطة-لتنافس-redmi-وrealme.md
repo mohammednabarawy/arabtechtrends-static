@@ -6,7 +6,7 @@ updatedDate: "2025-11-30T19:12:51"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["الهواتف المتوسطة","كاميرا بدقة 200 ميجابكسل","منافس ريدمي وريلمي","هاتف ريدمي نوت 16 برو"]
-image: "/uploads/wp/2025/11/1764522770_200.webp.webp"
+image: "/uploads/wp/2025/11/1764522770_200.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%83%d8%a7%d9%85%d9%8a%d8%b1%d8%a7-200-%d9%85%d9%8a%d8%ac%d8%a7%d8%a8%d9%83%d8%b3%d9%84-%d9%84%d8%a3%d9%88%d9%84-%d9%85%d8%b1%d8%a9-%d9%82%d8%a7%d8%af%d9%85%d8%a9-%d9%84%d9%87%d9%88%d8%a7%d8%aa%d98/"
 ---

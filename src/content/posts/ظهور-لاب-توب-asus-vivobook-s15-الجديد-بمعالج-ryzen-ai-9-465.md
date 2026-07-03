@@ -6,7 +6,7 @@ updatedDate: "2025-12-20T02:18:36"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["لابتوب Asus Vivobook S15 بمعالج Ryzen AI 9 465 وذاكرة 32 جيجابايت مظهر جديد للابتوب"]
-image: "/uploads/wp/2025/12/1766189915_asus-vivobook-s15-----ryzen-ai.webp.webp"
+image: "/uploads/wp/2025/12/1766189915_asus-vivobook-s15-----ryzen-ai.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b8%d9%87%d9%88%d8%b1-%d9%84%d8%a7%d8%a8-%d8%aa%d9%88%d8%a8-asus-vivobook-s15-%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af-%d8%a8%d9%85%d8%b9%d8%a7%d9%84%d8%ac-ryzen-ai-9-465/"
 ---

@@ -6,7 +6,7 @@ updatedDate: "2025-12-25T21:29:27"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["هاتف Galaxy A07 5G سامسونج تستعد لإطلاق هاتف Galaxy A07 5G بقدرة 6000 مللي أمبير"]
-image: "/uploads/wp/2025/12/1766690967_galaxy-a07-5g.webp.webp"
+image: "/uploads/wp/2025/12/1766690967_galaxy-a07-5g.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-%d8%aa%d8%b3%d8%aa%d8%b9%d8%af-%d9%84%d8%a5%d8%b7%d9%84%d8%a7%d9%82-galaxy-a07-5g-%d8%a8%d8%a8%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%b6%d8%ae%d9%85%d8%a9-6000-d/"
 ---

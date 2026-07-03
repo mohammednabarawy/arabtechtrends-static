@@ -6,7 +6,7 @@ updatedDate: "2025-12-07T23:53:02"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["تقنيات التكبير/التصغير","تقنية فتح القفل بالوجه الجديدة","ثورة في كاميرا السيلفي","سلسلة هواتف Huawei Pura 90","ميزة 3D ToF"]
-image: "/uploads/wp/2025/12/1765144381_huawei-pura-90.webp.webp"
+image: "/uploads/wp/2025/12/1765144381_huawei-pura-90.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d9%84%d8%b3%d9%84%d8%a9-huawei-pura-90-%d9%82%d8%a7%d8%af%d9%85%d8%a9-%d8%a8%d8%ab%d9%88%d8%b1%d8%a9-%d9%81%d9%8a-%d9%83%d8%a7%d9%85%d9%8a%d8%b1%d8%a7-%d8%a7%d9%84%d8%b3%d9%8a%d9%84%d9%81%d9%8a/"
 ---

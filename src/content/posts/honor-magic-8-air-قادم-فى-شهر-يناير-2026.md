@@ -6,7 +6,7 @@ updatedDate: "2025-12-24T03:11:07"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["Honor Magic 8 Air","رائد في الأداء","صغير الحجم","يناير 2026"]
-image: "/uploads/wp/2025/12/1766538666_honor-magic-8-air.webp.webp"
+image: "/uploads/wp/2025/12/1766538666_honor-magic-8-air.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/honor-magic-8-air-%d9%82%d8%a7%d8%af%d9%85-%d9%81%d9%89-%d8%b4%d9%87%d8%b1-%d9%8a%d9%86%d8%a7%d9%8a%d8%b1-2026/"
 ---

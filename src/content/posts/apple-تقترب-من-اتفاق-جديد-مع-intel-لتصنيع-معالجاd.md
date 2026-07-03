@@ -6,7 +6,7 @@ updatedDate: "2025-12-07T02:36:32"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["شراكة غير متوقعة أبل وإنتل لتصنيع المعالجات وآيفون"]
-image: "/uploads/wp/2025/12/intel-inside-iphone-feature_168f.webp.webp"
+image: "/uploads/wp/2025/12/intel-inside-iphone-feature_168f.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/apple-%d8%aa%d9%82%d8%aa%d8%b1%d8%a8-%d9%85%d9%86-%d8%a7%d8%aa%d9%81%d8%a7%d9%82-%d8%ac%d8%af%d9%8a%d8%af-%d9%85%d8%b9-intel-%d9%84%d8%aa%d8%b5%d9%86%d9%8a%d8%b9-%d9%85%d8%b9%d8%a7%d9%84%d8%ac%d8%a7d/"
 ---

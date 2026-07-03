@@ -6,7 +6,7 @@ updatedDate: "2025-12-07T08:43:29"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["بمعالج Exynos 2600","تقارير متضاربة","سوق واحدة فقط","هواتف Galaxy S26"]
-image: "/uploads/wp/2025/12/galaxy-s26---exynos.webp.webp"
+image: "/uploads/wp/2025/12/galaxy-s26---exynos.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d9%82%d8%a7%d8%b1%d9%8a%d8%b1-%d9%85%d8%aa%d8%b6%d8%a7%d8%b1%d8%a8%d8%a9-%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-%d9%82%d8%af-%d8%aa%d8%b7%d8%b1%d8%ad-%d9%87%d9%88%d8%a7%d8%aa%d9%81-galaxy-s/"
 ---

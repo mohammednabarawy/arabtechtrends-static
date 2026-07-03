@@ -6,7 +6,7 @@ updatedDate: "2025-12-21T08:38:59"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["فيفو المواصفات الكاملة هاتف vivo X200T سلسلة vivo X200 الإطلاق الرسمي"]
-image: "/uploads/wp/2025/12/1766299138_vivo-x200t.webp.webp"
+image: "/uploads/wp/2025/12/1766299138_vivo-x200t.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8-%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-%d8%a7%d9%84%d9%83%d8%a7%d9%85%d9%84%d8%a9-%d9%84%d9%87%d8%a7%d8%aa%d9%81-vivo-x200t/"
 ---

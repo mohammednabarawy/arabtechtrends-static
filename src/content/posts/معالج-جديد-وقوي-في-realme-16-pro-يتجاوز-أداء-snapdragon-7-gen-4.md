@@ -6,7 +6,7 @@ updatedDate: "2025-12-10T21:34:37"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["Realme 16 Pro معالج جديد وقوي أداء Snapdragon 7 Gen 4 هاتف Realme 16 Pro+"]
-image: "/uploads/wp/2025/12/1765395276_realme-16-pro-----snapdragon.webp.webp"
+image: "/uploads/wp/2025/12/1765395276_realme-16-pro-----snapdragon.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%85%d8%b9%d8%a7%d9%84%d8%ac-%d8%ac%d8%af%d9%8a%d8%af-%d9%88%d9%82%d9%88%d9%8a-%d9%81%d9%8a-realme-16-pro-%d9%8a%d8%aa%d8%ac%d8%a7%d9%88%d8%b2-%d8%a3%d8%af%d8%a7%d8%a1-snapdragon-7-gen-4/"
 ---

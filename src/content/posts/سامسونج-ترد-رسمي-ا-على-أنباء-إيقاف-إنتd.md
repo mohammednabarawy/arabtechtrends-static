@@ -6,7 +6,7 @@ updatedDate: "2025-12-20T08:22:14"
 author: "Arab Tech Trends"
 category: "أخبار"
 tags: ["إيقاف أقراص التخزين سامسونج ترد رسميًا على SATA SSD أخبار إيقاف الأقراص"]
-image: "/uploads/wp/2025/12/sata.webp.webp"
+image: "/uploads/wp/2025/12/sata.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-%d8%aa%d8%b1%d8%af-%d8%b1%d8%b3%d9%85%d9%8a%d9%8b%d8%a7-%d8%b9%d9%84%d9%89-%d8%a3%d9%86%d8%a8%d8%a7%d8%a1-%d8%a5%d9%8a%d9%82%d8%a7%d9%81-%d8%a5%d9%86%d8%aad/"
 ---
