@@ -5,11 +5,11 @@ import VideoCard from "../components/VideoCard.astro";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import { pillarGuides } from "../guides";
 import { categories, socialLinks, telegramChannelUrl } from "../site";
-import { getPostImage, sortPosts, withBase } from "../utils/posts";
+import { getPostImage, sortPostsForHomepage, withBase } from "../utils/posts";
 import { getTopPostsMeta, resolveTopPosts } from "../utils/topPosts";
 import { filterYouTubePosts } from "../utils/youtubePosts";
 
-const allPosts = sortPosts(await getCollection("posts", ({ data }) => !data.draft));
+const allPosts = sortPostsForHomepage(await getCollection("posts", ({ data }) => !data.draft));
 const topPosts = resolveTopPosts(allPosts, 6);
 const topMeta = getTopPostsMeta();
 const youtubePosts = filterYouTubePosts(allPosts).slice(0, 6);

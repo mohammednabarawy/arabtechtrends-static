@@ -32,7 +32,9 @@ def parse_post(path: Path):
     text = unescape(re.sub(r"\s+", " ", text)).strip()
     words = len(text.split()) if text else 0
     links = len(re.findall(r"<a\s", body, re.I))
+    source = field("sourceUrl")
     slug = path.stem
+    is_yt = "youtube.com/watch" in source
     has_image = bool(
         re.search(r'^image:\s*["\'][^"\']+["\']', fm, re.M)
         and not re.search(r'^image:\s*["\']["\']', fm, re.M)
@@ -55,11 +57,15 @@ def parse_post(path: Path):
         "is_spam": is_spam,
         "is_test": is_test,
         "truncated": truncated,
+        "is_yt": is_yt,
     }
 
 
 def classify(p):
     reasons = []
+
+    if p.get("is_yt"):
+        return "keep", ["youtube-import"]
 
     if p["is_spam"]:
         return "delete", ["spam"]

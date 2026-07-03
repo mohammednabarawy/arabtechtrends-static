@@ -8,6 +8,7 @@ import { join } from "node:path";
 
 const POSTS_DIR = join(import.meta.dirname, "../src/content/posts");
 const RENAMES_PATH = join(import.meta.dirname, "slug-renames.json");
+const PRUNE_REDIRECTS_PATH = join(import.meta.dirname, "prune-redirects.json");
 const OUT_PATH = join(import.meta.dirname, "redirect-map.json");
 
 function isValidPath(path) {
@@ -70,6 +71,13 @@ for (const file of readdirSync(POSTS_DIR).filter((f) => f.endsWith(".md"))) {
   // Plain slug at site root (legacy WordPress permalink)
   if (isValidPath(`/${slug}`)) {
     addRedirect(`/${slug}`, target);
+  }
+}
+
+if (existsSync(PRUNE_REDIRECTS_PATH)) {
+  const pruneRedirects = JSON.parse(readFileSync(PRUNE_REDIRECTS_PATH, "utf8"));
+  for (const [from, to] of Object.entries(pruneRedirects)) {
+    addRedirect(from, to);
   }
 }
 

@@ -151,6 +151,25 @@ export function isGuideLike(post: Post) {
   return GUIDE_MARKERS.test(text) || getWordCount(post) >= 500;
 }
 
+const LOW_NEWS_RE =
+  /تسريب|تسريبات|قادم|قادمة|ميزة جديدة|ميزة هامة|تحديث واتساب|one ui|hyperos|geekbench|رسميًا بمواصفات/i;
+
+/** Prefer guides/videos on homepage; deprioritize thin rumor-style news. */
+export function isHomepageFeatured(post: Post) {
+  if (post.data.sourceUrl?.includes("youtube.com/watch")) return true;
+  if (post.data.category !== "أخبار") return true;
+  if (GUIDE_MARKERS.test(post.data.title)) return true;
+  if (/مراجعة|مقارنة|دليل|تحذير/i.test(post.data.title)) return true;
+  if (LOW_NEWS_RE.test(post.data.title)) return false;
+  return getWordCount(post) >= 280;
+}
+
+export function sortPostsForHomepage(posts: Post[]) {
+  const featured = sortPosts(posts.filter(isHomepageFeatured));
+  const rest = sortPosts(posts.filter((p) => !isHomepageFeatured(p)));
+  return [...featured, ...rest];
+}
+
 export function extractHeadings(body: string): ArticleHeading[] {
   const headings: ArticleHeading[] = [];
   let match: RegExpExecArray | null;

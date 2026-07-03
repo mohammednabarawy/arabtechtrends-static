@@ -18,6 +18,7 @@
     "import:wp": "node tools/import-wordpress.mjs",
     "post:new": "node tools/new-post.mjs",
     "prune:posts": "python tools/prune-low-value-posts.py",
+    "prune:quality": "python tools/prune-quality-content.py",
     "normalize:tags": "node tools/normalize-tags.mjs",
     "fix:webp": "node tools/fix-double-webp.mjs",
     "import:gsc": "node tools/import-gsc-pages.mjs",
