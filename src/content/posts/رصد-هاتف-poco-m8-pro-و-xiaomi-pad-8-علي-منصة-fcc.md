@@ -5,7 +5,7 @@ pubDate: "2025-12-11T14:04:00"
 updatedDate: "2025-12-12T15:55:35"
 author: "Arab Tech Trends"
 category: "أخبار"
-tags: ["الجهاز اللوحي Xiaomi Pad 8","شركة Xiaomi","لجنة الاتصالات الفيدرالية الأمريكية (FCC).","منصة لجنة الاتصالات الفيدرالية (FCC)","هاتف POCO M8 Pro"]
+tags: ["الجهاز اللوحي Xiaomi Pad 8", "شركة Xiaomi", "لجنة الاتصالات الفيدرالية الأمريكية", "(FCC).", "منصة لجنة الاتصالات الفيدرالية (FCC)", "هاتف POCO M8 Pro"]
 image: "/uploads/wp/2025/12/1765547732_519_poco-m8-pro--xiaomi-pad-8.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b1%d8%b5%d8%af-%d9%87%d8%a7%d8%aa%d9%81-poco-m8-pro-%d9%88-xiaomi-pad-8-%d8%b9%d9%84%d9%8a-%d9%85%d9%86%d8%b5%d8%a9-fcc/"

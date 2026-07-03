@@ -5,7 +5,7 @@ pubDate: "2025-07-16T02:38:18"
 updatedDate: "2025-07-16T02:38:21"
 author: "Arab Tech Trends"
 category: "ألعاب"
-tags: []
+tags: ["ChatGPT", "يرفض", "الجوزاء", "تحدي", "الشطرنج"]
 image: "/uploads/wp/2025/07/1752622699_يرفض-الجوزاء-تحدي-الشطرنج-بعد-فقدان-chatgpt-أمام-أتاري.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaigngemini-%25d9%258a%25d8%25b1%25d9%2581%25d8%25b6-%25d8%25aa%25d8%25ad%25d8%25af%25d9%258a-%25d8%25a7%25d9%2584%25d8%25b4%25d8%25b7%25d8%25b1%25d9%2586%25d82/"

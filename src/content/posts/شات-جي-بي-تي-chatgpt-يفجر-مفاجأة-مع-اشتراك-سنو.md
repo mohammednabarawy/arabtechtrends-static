@@ -5,7 +5,7 @@ pubDate: "2025-07-23T18:35:43"
 updatedDate: "2025-07-27T09:04:29"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["ChatGPT", "Chatgpt", "يفجر", "مفاجأة", "اشتراك"]
 image: "/uploads/wp/2025/07/Chatgpt-يفجر-مفاجأة-مع-اشتراك-سنوي-بسعر-أقل.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d8%aa-%d8%ac%d9%8a-%d8%a8%d9%8a-%d8%aa%d9%8a-chatgpt-%d9%8a%d9%81%d8%ac%d8%b1-%d9%85%d9%81%d8%a7%d8%ac%d8%a3%d8%a9-%d9%85%d8%b9-%d8%a7%d8%b4%d8%aa%d8%b1%d8%a7%d9%83-%d8%b3%d9%86%d9%88/"

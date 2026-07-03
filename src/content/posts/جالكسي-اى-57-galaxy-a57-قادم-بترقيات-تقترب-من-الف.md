@@ -5,7 +5,7 @@ pubDate: "2025-10-13T12:44:39"
 updatedDate: "2025-10-13T21:16:28"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["جالكسي", "مواصفات", "ومميزات", "هاتف"]
 image: "/uploads/wp/2025/10/a57.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-%d8%a7%d9%89-57-galaxy-a57-%d9%82%d8%a7%d8%af%d9%85-%d8%a8%d8%aa%d8%b1%d9%82%d9%8a%d8%a7%d8%aa-%d8%aa%d9%82%d8%aa%d8%b1%d8%a8-%d9%85%d9%86-%d8%a7%d9%84%d9%81/"

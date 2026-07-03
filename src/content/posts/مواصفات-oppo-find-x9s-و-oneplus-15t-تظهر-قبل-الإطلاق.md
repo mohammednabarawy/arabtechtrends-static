@@ -5,7 +5,7 @@ pubDate: "2025-11-16T04:10:00"
 updatedDate: "2025-11-16T13:14:36"
 author: "Arab Tech Trends"
 category: "أخبار"
-tags: ["مواصفات هاتف أوبو Find X9s الإطلاق القادم مارس 2026 مواصفات"]
+tags: ["مواصفات هاتف أوبو Find X9s الإطلاق", "القادم مارس 2026 مواصفات"]
 image: "/uploads/wp/2025/11/1763291673_431_find-x9s--oneplus-15t.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-oppo-find-x9s-%d9%88-oneplus-15t-%d8%aa%d8%b8%d9%87%d8%b1-%d9%82%d8%a8%d9%84-%d8%a7%d9%84%d8%a5%d8%b7%d9%84%d8%a7%d9%82/"

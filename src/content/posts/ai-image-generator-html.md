@@ -5,7 +5,7 @@ pubDate: "2025-07-08T09:41:58"
 updatedDate: "2025-07-08T09:41:58"
 author: "Arab Tech Trends"
 category: "ألعاب"
-tags: []
+tags: ["أفضل", "موقع", "تصميم", "بالذكاء"]
 image: "/uploads/blogger/5bfec55c4dfa--.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/ai-image-generator-html/"

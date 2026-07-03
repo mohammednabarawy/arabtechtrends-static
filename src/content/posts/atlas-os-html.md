@@ -5,7 +5,7 @@ pubDate: "2025-07-06T00:09:31"
 updatedDate: "2025-07-07T10:55:06"
 author: "Arab Tech Trends"
 category: "ألعاب"
-tags: []
+tags: ["ويندوز", "تسريع", "أقصى", "مجانا"]
 image: "/uploads/blogger/870eb839dab2--10.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/atlas-os-html/"

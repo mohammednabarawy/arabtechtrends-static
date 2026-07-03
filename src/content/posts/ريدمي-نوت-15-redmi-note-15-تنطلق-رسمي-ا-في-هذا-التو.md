@@ -5,7 +5,7 @@ pubDate: "2025-08-12T15:30:57"
 updatedDate: "2025-08-14T05:58:54"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["Redmi", "Note", "\\\"Redmi"]
 image: "/uploads/wp/2025/08/كشف-Redmi-Note-15-Redmi-Note-15-عن-تاريخ-الإطلاق.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b1%d9%8a%d8%af%d9%85%d9%8a-%d9%86%d9%88%d8%aa-15-redmi-note-15-%d8%aa%d9%86%d8%b7%d9%84%d9%82-%d8%b1%d8%b3%d9%85%d9%8a%d9%8b%d8%a7-%d9%81%d9%8a-%d9%87%d8%b0%d8%a7-%d8%a7%d9%84%d8%aa%d9%88/"

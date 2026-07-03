@@ -5,7 +5,7 @@ pubDate: "2025-10-06T13:38:43"
 updatedDate: "2025-10-08T14:52:31"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["galaxy", "Android"]
 image: "/uploads/wp/2025/10/1759924349_118_ui-80-------android-16.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-one-ui-8-0-%d8%a7%d9%84%d9%82%d8%a7%d8%a6%d9%85%d8%a9-%d8%b9%d9%84%d9%89-%d8%a3%d9%86%d8%af%d8%b1%d9%88%d9%8a%d8%af-16-%d8%aa%d9%86%d8%b7%d9%84%d9%82-%d8%b1%d8%b3%d9%85/"

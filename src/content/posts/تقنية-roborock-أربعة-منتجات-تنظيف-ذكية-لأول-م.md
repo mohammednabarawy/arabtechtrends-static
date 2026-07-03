@@ -5,7 +5,7 @@ pubDate: "2025-10-29T16:13:16"
 updatedDate: "2025-10-29T16:27:38"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["أربعة", "منتجات", "تنظيف", "ذكية"]
 image: "/uploads/wp/2025/10/2025-10-29_16-02-43.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d9%82%d9%86%d9%8a%d8%a9-roborock-%d8%a3%d8%b1%d8%a8%d8%b9%d8%a9-%d9%85%d9%86%d8%aa%d8%ac%d8%a7%d8%aa-%d8%aa%d9%86%d8%b8%d9%8a%d9%81-%d8%b0%d9%83%d9%8a%d8%a9-%d9%84%d8%a3%d9%88%d9%84-%d9%85/"

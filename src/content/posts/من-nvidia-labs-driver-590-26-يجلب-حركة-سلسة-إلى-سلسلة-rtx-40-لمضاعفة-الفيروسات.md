@@ -5,7 +5,7 @@ pubDate: "2025-07-16T23:51:57"
 updatedDate: "2025-07-16T23:52:00"
 author: "Arab Tech Trends"
 category: "ألعاب"
-tags: []
+tags: ["Nvidia", "Labs:", "Driver", "590.26"]
 image: "/uploads/wp/2025/07/1752699117_550_من-Nvidia-Labs-Driver-59026-يجلب-حركة-سلسة-إلى-سلسلة.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%25d8%25af%25d8%25b1%25d8%25a7%25d9%258a%25d9%2581%25d8%25b1-590-26-%25d9%258a%25d8%25ac%25d9%2584%25d8%25a8-smooth-motion-%25d9%2584%25d8%25b3%25d9%2584%25/"

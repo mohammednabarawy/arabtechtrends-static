@@ -5,7 +5,7 @@ pubDate: "2025-12-05T18:15:13"
 updatedDate: "2025-12-09T15:21:11"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["galaxy", "Galaxy", "&#8211;", "السلسلة"]
 image: "/uploads/wp/2025/12/1765286470_118_galaxy-s26-galaxy-s26.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-%d8%a7%d8%b3-26-galaxy-s26-%d8%a7%d9%84%d8%b3%d9%84%d8%b3%d9%84%d8%a9-%d8%a7%d9%84%d9%82%d8%a7%d8%af%d9%85%d8%a9-%d8%b3%d8%aa%d9%81%d8%a7%d8%ac%d8%a6-%d8%a7/"

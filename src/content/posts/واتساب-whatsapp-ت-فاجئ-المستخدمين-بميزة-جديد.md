@@ -5,7 +5,7 @@ pubDate: "2025-09-23T12:37:42"
 updatedDate: "2025-09-26T00:31:20"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["WhatsApp", "يطلق", "إخطارات", "المجموعة"]
 image: "/uploads/wp/2025/09/1758835878_325_whatsapp.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%aa%d8%b3%d8%a7%d8%a8-whatsapp-%d8%aa%d9%8f%d9%81%d8%a7%d8%ac%d8%a6-%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%ae%d8%af%d9%85%d9%8a%d9%86-%d8%a8%d9%85%d9%8a%d8%b2%d8%a9-%d8%ac%d8%af%d9%8a%d8%af/"

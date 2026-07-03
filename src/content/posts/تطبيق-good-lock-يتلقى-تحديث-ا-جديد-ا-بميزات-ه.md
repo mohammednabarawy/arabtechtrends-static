@@ -5,7 +5,7 @@ pubDate: "2025-10-02T17:19:44"
 updatedDate: "2025-10-06T13:45:26"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["Samsung", "يتلقى", "تطبيق", "القفل", "الجيد"]
 image: "/uploads/wp/2025/10/2025-10-02_17-18-52.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-good-lock-%d9%8a%d8%aa%d9%84%d9%82%d9%89-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab%d9%8b%d8%a7-%d8%ac%d8%af%d9%8a%d8%af%d9%8b%d8%a7-%d8%a8%d9%85%d9%8a%d8%b2%d8%a7%d8%aa-%d9%87/"

@@ -5,7 +5,7 @@ pubDate: "2025-12-11T19:07:00"
 updatedDate: "2025-12-12T03:52:01"
 author: "Arab Tech Trends"
 category: "أخبار"
-tags: ["تستعد شركة Xiaomi لإطلاق هاتف Xiaomi 17 Ultra بحجز مبكر مع قرب موعد الإطلاق"]
+tags: ["تستعد شركة Xiaomi لإطلاق هاتف", "Xiaomi Ultra بحجز مبكر قرب موعد", "الإطلاق"]
 image: "/uploads/wp/2025/12/1765504319_546_xiaomi-----xiaomi-17-ultra.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%aa%d9%85%d9%87%d8%af-%d9%84%d8%a5%d8%b7%d9%84%d8%a7%d9%82-xiaomi-17-ultra/"

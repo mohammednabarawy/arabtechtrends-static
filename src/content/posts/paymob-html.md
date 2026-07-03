@@ -5,7 +5,7 @@ pubDate: "2025-07-07T18:33:46"
 updatedDate: "2025-07-08T11:12:53"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["مراجعة", "خدمة", "Paymob", "ومميزاتها"]
 image: "/uploads/blogger/2f2c84af6413--paymob.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/paymob-html/"

@@ -5,7 +5,7 @@ pubDate: "2025-07-13T18:18:24"
 updatedDate: "2025-07-17T10:02:26"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["سامسونج", "تطمئن", "لمستخدميها", "وتكشف"]
 image: ""
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%85%d9%8a%d8%b2%d8%a7%d8%aa-galaxy-ai-%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-%d8%aa%d9%8f%d8%b7%d9%85%d8%a6%d9%86-%d9%85%d8%b3%d8%aa%d8%ae%d8%af%d9%85%d9%8a%d9%87%d8%a7-%d9%88%d8%aa%d9%83/"

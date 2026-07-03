@@ -4,7 +4,7 @@ export const siteTagline = "التقنية بين يديك";
 export const siteUrl = "https://www.arabtechtrends.com";
 export const siteDescription =
   "أخبار تقنية عربية، مراجعات الهواتف والتطبيقات، شروحات ونصائح للأندرويد والآيفون والكمبيوتر — منذ 2012.";
-export const defaultOgImage = "/uploads/og-default.jpg";
+export const defaultOgImage = "/uploads/arabtech-logo.png";
 export const postsPerPage = 24;
 
 export type Category = {
@@ -62,6 +62,12 @@ export const categories: Category[] = [
     label: "شروحات",
     keywords: ["شرح", "شروحات", "كيفية", "طريقة", "دليل", "نصائح"],
     wpCategories: ["دروس تقنية ومقالات"]
+  },
+  {
+    slug: "ai",
+    label: "ذكاء اصطناعي",
+    keywords: ["ذكاء اصطناعي", "chatgpt", "جيميني", "gemini", "claude", "ai", "شات جي بي تي", "deepseek"],
+    wpCategories: ["دروس تقنية ومقالات", "أخبار"]
   }
 ];
 
@@ -77,6 +83,9 @@ export const socialLinks = [
   { label: "YouTube", href: "https://www.youtube.com/@arabtechtrends" },
   { label: "RSS", href: "/feed.xml" }
 ];
+
+/** Optional — set when Telegram channel is live */
+export const telegramChannelUrl: string | undefined = undefined;
 
 export const footerAbout =
   "تم إطلاق الموقع في عام 2012، بهدف تقديم محتوى قيم باللغة العربية. نحن متخصصون في تقديم أفضل وأحدث الأخبار والمراجعات والشروحات والنصائح المتعلقة بالهواتف والكمبيوتر والإنترنت والتطبيقات والألعاب.";

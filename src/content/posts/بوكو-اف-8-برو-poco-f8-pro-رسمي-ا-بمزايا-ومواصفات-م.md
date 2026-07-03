@@ -5,7 +5,7 @@ pubDate: "2025-11-26T14:12:59"
 updatedDate: "2025-11-29T23:28:25"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["ومواصفات", "POCO", "وأهم", "مميزاته"]
 image: "/uploads/wp/2025/11/1764451704_149_poco-f8-pro.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a8%d9%88%d9%83%d9%88-%d8%a7%d9%81-8-%d8%a8%d8%b1%d9%88-poco-f8-pro-%d8%b1%d8%b3%d9%85%d9%8a%d9%8b%d8%a7-%d8%a8%d9%85%d8%b2%d8%a7%d9%8a%d8%a7-%d9%88%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-%d9%85/"

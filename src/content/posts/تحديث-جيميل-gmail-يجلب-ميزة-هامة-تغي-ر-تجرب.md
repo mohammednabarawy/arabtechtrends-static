@@ -5,7 +5,7 @@ pubDate: "2025-09-12T22:16:13"
 updatedDate: "2025-09-16T15:29:25"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["يجلب", "Gmail", "Update", "ميزة"]
 image: "/uploads/wp/2025/09/1758025763_519_gmail-update.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d8%ac%d9%8a%d9%85%d9%8a%d9%84-gmail-%d9%8a%d8%ac%d9%84%d8%a8-%d9%85%d9%8a%d8%b2%d8%a9-%d9%87%d8%a7%d9%85%d8%a9-%d8%aa%d8%ba%d9%8a%d9%91%d8%b1-%d8%aa%d8%ac%d8%b1%d8%a8/"

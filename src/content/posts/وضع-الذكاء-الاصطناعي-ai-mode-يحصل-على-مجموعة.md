@@ -5,7 +5,7 @@ pubDate: "2025-08-01T21:33:44"
 updatedDate: "2025-08-06T00:52:40"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["الذكاء", "الاصطناعى", "يحصل", "مجموعة"]
 image: "/uploads/wp/2025/08/1754430758_851_وضع-الذكاء-الاصطناعى-يحصل-على-مجموعة-من-المزايا-الثورية.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%b6%d8%b9-%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a-ai-mode-%d9%8a%d8%ad%d8%b5%d9%84-%d8%b9%d9%84%d9%89-%d9%85%d8%ac%d9%85%d9%88%d8%b9%d8%a9/"

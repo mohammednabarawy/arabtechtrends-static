@@ -5,7 +5,7 @@ pubDate: "2025-12-09T14:51:00"
 updatedDate: "2025-12-09T15:18:39"
 author: "Arab Tech Trends"
 category: "أخبار"
-tags: ["بسعر أقل من 220 دولار هاتف oppo A6L مواصفات فائقة بطارية عملاقة 7000 مللي أمبير"]
+tags: ["بسعر أقل 220 دولار هاتف oppo A6L", "مواصفات فائقة بطارية عملاقة 7000", "مللي أمبير"]
 image: "/uploads/wp/2025/12/1765286317_984_220---------oppo-a6l.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d9%87%d8%a7%d8%aa%d9%81-oppo-a6l-%d8%b1%d8%b3%d9%85%d9%8a%d8%a7%d9%8b-%d8%a8%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-%d9%81%d8%a7%d8%a6%d9%82%d8%a9/"

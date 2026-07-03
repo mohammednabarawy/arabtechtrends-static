@@ -5,7 +5,7 @@ pubDate: "2025-09-23T21:11:13"
 updatedDate: "2025-09-24T06:21:25"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["Android", "جوجل", "تجلب", "ميزة", "خرافية"]
 image: "/uploads/wp/2025/09/1758684083_android.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-google-photos-%d9%8a%d8%ac%d9%84%d8%a8-%d9%85%d9%8a%d8%b2%d8%a9-%d8%ae%d8%b1%d8%a7%d9%81%d9%8a%d8%a9-%d8%b9%d9%84%d9%89-%d8%a3%d9%86%d8%af%d8%b1%d9%88%d9%8a%d8%af/"

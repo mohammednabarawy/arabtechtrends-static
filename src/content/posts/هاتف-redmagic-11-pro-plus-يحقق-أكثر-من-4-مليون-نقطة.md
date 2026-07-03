@@ -5,7 +5,7 @@ pubDate: "2025-12-02T05:07:00"
 updatedDate: "2025-12-03T04:45:39"
 author: "Arab Tech Trends"
 category: "أخبار"
-tags: ["هاتف RedMagic منصة AnTuTu 4 مليون نقطة RedMagic 11 Pro"]
+tags: ["هاتف RedMagic منصة AnTuTu مليون", "نقطة RedMagic Pro"]
 image: "/uploads/wp/2025/12/1764729938_793_redmagic-11-pro-plus-----4.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d8%aa%d9%81-redmagic-11-pro-plus-%d9%8a%d8%ad%d9%82%d9%82-%d8%a3%d9%83%d8%ab%d8%b1-%d9%85%d9%86-4-%d9%85%d9%84%d9%8a%d9%88%d9%86-%d9%86%d9%82%d8%b7%d8%a9/"

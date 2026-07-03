@@ -5,7 +5,7 @@ pubDate: "2025-08-21T18:43:13"
 updatedDate: "2025-08-25T09:08:28"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["Redmi", "Note", "Plus", "رسميًا"]
 image: "/uploads/wp/2025/08/1756102088_Redmi-Note-15-Pro-Plus-5g-رسميًا-مع-مزايا-خرافية.png"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b1%d9%8a%d8%af%d9%85%d9%8a-%d9%86%d9%88%d8%aa-15-%d8%a8%d8%b1%d9%88-%d8%a8%d9%84%d8%b3-redmi-note-15-pro-plus-5g-%d8%b1%d8%b3%d9%85%d9%8a%d9%8b%d8%a7-%d8%a8%d9%85%d8%b2%d8%a7%d9%8a%d8%a7-%d8%ae/"

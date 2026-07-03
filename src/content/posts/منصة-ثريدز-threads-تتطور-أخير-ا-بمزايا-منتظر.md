@@ -5,7 +5,7 @@ pubDate: "2025-09-07T17:16:26"
 updatedDate: "2025-09-08T17:43:56"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["تتطور", "منصة", "المواضيع", "أخيرًا"]
 image: "/uploads/wp/2025/09/2025-09-05_22-15-50.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%85%d9%86%d8%b5%d8%a9-%d8%ab%d8%b1%d9%8a%d8%af%d8%b2-threads-%d8%aa%d8%aa%d8%b7%d9%88%d8%b1-%d8%a3%d8%ae%d9%8a%d8%b1%d9%8b%d8%a7-%d8%a8%d9%85%d8%b2%d8%a7%d9%8a%d8%a7-%d9%85%d9%86%d8%aa%d8%b8%d8%b1/"

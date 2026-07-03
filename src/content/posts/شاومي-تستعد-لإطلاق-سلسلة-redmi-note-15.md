@@ -5,7 +5,7 @@ pubDate: "2025-12-02T14:40:00"
 updatedDate: "2025-12-02T19:42:39"
 author: "Arab Tech Trends"
 category: "أخبار"
-tags: ["Xiaomi سلسلة Redmi Note 15 مواصفات الهواتف الرائدة الفئة المتوسطة العليا هاتف Redmi Note 15 Pro+ هاتف Redmi Note 15 Pro"]
+tags: ["Xiaomi سلسلة Redmi Note مواصفات", "الهواتف الرائدة الفئة المتوسطة", "العليا هاتف Redmi Note Pro+ هاتف", "Redmi Note Pro"]
 image: "/uploads/wp/2025/12/1764697357_286_xiaomi-----redmi-note-15.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%aa%d8%b3%d8%aa%d8%b9%d8%af-%d9%84%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d8%b3%d9%84%d8%b3%d9%84%d8%a9-redmi-note-15/"

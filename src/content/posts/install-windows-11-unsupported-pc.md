@@ -5,7 +5,7 @@ pubDate: "2025-12-18T05:09:33"
 updatedDate: "2025-12-18T05:09:36"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["Windows", "تثبيت", "أجهزة", "مدعومة:"]
 image: "/uploads/wp/2025/12/1766027367_24_windows-11-----------tpm.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/install-windows-11-unsupported-pc/"

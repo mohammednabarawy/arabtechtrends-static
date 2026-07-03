@@ -5,7 +5,7 @@ pubDate: "2025-11-26T14:31:00"
 updatedDate: "2025-11-26T15:19:59"
 author: "Arab Tech Trends"
 category: "أخبار"
-tags: ["بوكا هاتف POCO F8 Pro مواصفات رائدة سعر تنافسي سلسلة F8 الأسواق العالمية"]
+tags: ["بوكا هاتف POCO Pro مواصفات رائدة", "سعر تنافسي سلسلة الأسواق العالمية"]
 image: "/uploads/wp/2025/11/1764163197_542_poco-f8-pro.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d8%a7%d9%84%d9%87%d8%a7%d8%aa%d9%81-%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%b8%d8%b1-poco-f8-pro-%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d8%a7/"

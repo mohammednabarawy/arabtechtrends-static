@@ -5,7 +5,7 @@ pubDate: "2025-09-09T21:41:12"
 updatedDate: "2025-09-13T17:12:31"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["iPhone", "ومواصفات", "فوائد", "ثورية"]
 image: "/uploads/wp/2025/09/1757772750_iphone-17-pro-max-17-pro-max.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%b9%d8%b1-%d9%88%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-%d8%a7%d9%8a%d9%81%d9%88%d9%86-17-%d8%a8%d8%b1%d9%88-%d9%85%d8%a7%d9%83%d8%b3-iphone-17-pro-max-%d8%a8%d9%85%d8%b2%d8%a7%d9%8a%d8%a7/"

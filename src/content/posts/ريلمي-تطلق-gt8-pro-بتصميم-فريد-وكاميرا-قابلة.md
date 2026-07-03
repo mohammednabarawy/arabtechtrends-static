@@ -5,7 +5,7 @@ pubDate: "2025-10-21T22:51:00"
 updatedDate: "2025-10-27T07:38:41"
 author: "Arab Tech Trends"
 category: "أخبار"
-tags: ["هاتف Realme GT8 Pro بتصميم فريد وكاميرا قابلة للتبديل"]
+tags: ["هاتف Realme GT8 Pro بتصميم فريد", "وكاميرا قابلة للتبديل"]
 image: "/uploads/wp/2025/10/realme-----gt8-pro.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b1%d9%8a%d9%84%d9%85%d9%8a-%d8%aa%d8%b7%d9%84%d9%82-gt8-pro-%d8%a8%d8%aa%d8%b5%d9%85%d9%8a%d9%85-%d9%81%d8%b1%d9%8a%d8%af-%d9%88%d9%83%d8%a7%d9%85%d9%8a%d8%b1%d8%a7-%d9%82%d8%a7%d8%a8%d9%84%d8%a9/"

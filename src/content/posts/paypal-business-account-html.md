@@ -5,7 +5,7 @@ pubDate: "2025-07-05T17:11:55"
 updatedDate: "2025-07-07T10:55:14"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["كيفية", "حساب", "PayPal", "بشكل"]
 image: "/uploads/blogger/6c32d089a0c8--.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/paypal-business-account-html/"

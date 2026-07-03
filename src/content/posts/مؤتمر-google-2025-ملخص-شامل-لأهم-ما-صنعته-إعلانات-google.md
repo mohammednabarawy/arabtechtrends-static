@@ -5,7 +5,7 @@ pubDate: "2025-08-23T23:23:57"
 updatedDate: "2025-08-23T23:24:12"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["مؤتمر", "Google", "2025:", "ملخص"]
 image: "/uploads/wp/2025/08/مؤتمر-Google-2025-ملخص-شامل-لأهم-ما-صنعته-إعلانات-Google.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%25d9%2585%25d9%2584%25d8%25ae%25d8%25b5-%25d9%2585%25d8%25a4%25d8%25aa%25d9%2585%25d8%25b1-google-2025/"

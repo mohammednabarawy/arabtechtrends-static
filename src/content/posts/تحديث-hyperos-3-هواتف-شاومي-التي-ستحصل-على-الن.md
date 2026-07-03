@@ -5,7 +5,7 @@ pubDate: "2025-08-28T13:40:28"
 updatedDate: "2025-08-30T23:04:16"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["Xiaomi", "HyperOS"]
 image: "/uploads/wp/2025/08/تحديث-Hyperos-3-هواتف-Xiaomi-التي-ستحصل-على-النسخة-الرسمية.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-hyperos-3-%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%a7%d9%84%d8%aa%d9%8a-%d8%b3%d8%aa%d8%ad%d8%b5%d9%84-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d9%86/"

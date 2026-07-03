@@ -5,7 +5,7 @@ pubDate: "2025-12-01T13:40:00"
 updatedDate: "2025-12-01T16:22:25"
 author: "Arab Tech Trends"
 category: "أخبار"
-tags: ["هاتف XploraOne شركة HMD احمي أطفالك من الإنترنت الحل الآمن للأطفال"]
+tags: ["هاتف XploraOne شركة HMD احمي أطفالك", "الإنترنت الحل الآمن للأطفال"]
 image: "/uploads/wp/2025/12/1764598944_614_xploraone---hmd.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d8%aa%d9%81-xploraone-%d9%85%d9%86-hmd-%d9%85%d8%ae%d8%b5%d8%b5-%d9%84%d9%84%d8%a3%d8%b7%d9%81%d8%a7%d9%84/"

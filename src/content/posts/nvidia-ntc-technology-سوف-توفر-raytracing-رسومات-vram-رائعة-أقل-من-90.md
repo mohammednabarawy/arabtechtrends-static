@@ -5,7 +5,7 @@ pubDate: "2025-07-17T02:53:08"
 updatedDate: "2025-07-17T02:53:11"
 author: "Arab Tech Trends"
 category: "ألعاب"
-tags: []
+tags: ["NVIDIA", "Technology:", "توفر", "Raytracing"]
 image: "/uploads/wp/2025/07/NVIDIA-NTC-Technology-سوف-توفر-Raytracing-رسومات-VRAM-رائعة-أقل.png"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%25d8%25aa%25d9%2582%25d9%2586%25d9%258a%25d8%25a9-nvidia-ntc-%25d8%25aa%25d9%2582%25d9%2584%25d9%2584-%25d8%25a7%25d8%25b3%25d8%25aa%25d9%2587%25d9%2584%25/"

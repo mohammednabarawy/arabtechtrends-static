@@ -5,7 +5,7 @@ pubDate: "2025-09-04T13:15:07"
 updatedDate: "2025-09-06T09:33:36"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["galaxy", "ومواصفات", "Galaxy", "والميزات", "رسميًا"]
 image: "/uploads/wp/2025/09/1757140414_470_galaxy-s25-fe.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%b9%d8%b1-%d9%88%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-%d8%a7%d8%b3-25-%d8%a7%d9%81-%d8%a7%d9%8a-galaxy-s25-fe-%d9%88%d8%a7%d9%84%d9%85%d9%8a%d8%b2/"

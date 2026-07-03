@@ -5,7 +5,7 @@ pubDate: "2025-12-13T18:20:35"
 updatedDate: "2025-12-14T14:46:43"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["ChatGPT", "كيفية", "استخدام", "Photoshop", "وAcrobat"]
 image: "/uploads/wp/2025/12/1765716402_163_photoshop--acrobat--express-----chatgpt.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%83%d9%8a%d9%81%d9%8a%d8%a9-%d8%a7%d8%b3%d8%aa%d8%ae%d8%af%d8%a7%d9%85-photoshop-%d9%88acrobat-%d9%88express-%d8%a7%d9%84%d8%a2%d9%86-%d8%af%d8%a7%d8%ae%d9%84-chatgpt-%d9%85%d8%b9-%d9%85%d8%b2/"

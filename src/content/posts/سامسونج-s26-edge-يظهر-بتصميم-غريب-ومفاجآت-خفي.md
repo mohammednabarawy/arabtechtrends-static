@@ -5,7 +5,7 @@ pubDate: "2025-09-07T22:08:32"
 updatedDate: "2025-09-08T03:42:50"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["Samsung", "تظهر", "Edge", "تصميم"]
 image: "/uploads/wp/2025/09/1757292166_865_samsung-s26-edge.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-s26-edge-%d9%8a%d8%b8%d9%87%d8%b1-%d8%a8%d8%aa%d8%b5%d9%85%d9%8a%d9%85-%d8%ba%d8%b1%d9%8a%d8%a8-%d9%88%d9%85%d9%81%d8%a7%d8%ac%d8%a2%d8%aa-%d8%ae%d9%81%d9%8a/"

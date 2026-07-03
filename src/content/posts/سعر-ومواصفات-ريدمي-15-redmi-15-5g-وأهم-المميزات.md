@@ -5,7 +5,7 @@ pubDate: "2025-08-19T17:55:09"
 updatedDate: "2025-08-20T02:30:29"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["Redmi", "السعر", "والمواصفات"]
 image: "/uploads/wp/2025/08/1755646222_462_Redmi-15-5G-السعر-والمواصفات.png"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%b9%d8%b1-%d9%88%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-%d8%b1%d9%8a%d8%af%d9%85%d9%8a-15-redmi-15-5g-%d9%88%d8%a3%d9%87%d9%85-%d8%a7%d9%84%d9%85%d9%85%d9%8a%d8%b2%d8%a7%d8%aa/"

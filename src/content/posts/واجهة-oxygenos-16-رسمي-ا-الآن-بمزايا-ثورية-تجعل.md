@@ -5,7 +5,7 @@ pubDate: "2025-10-18T15:36:17"
 updatedDate: "2025-10-22T15:54:00"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["OnePlus", "واجهة", "OxygenOS", "أصبحت", "الآن"]
 image: "/uploads/wp/2025/10/1761137639_839_oxygenos-16.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-oxygenos-16-%d8%b1%d8%b3%d9%85%d9%8a%d9%8b%d8%a7-%d8%a7%d9%84%d8%a2%d9%86-%d8%a8%d9%85%d8%b2%d8%a7%d9%8a%d8%a7-%d8%ab%d9%88%d8%b1%d9%8a%d8%a9-%d8%aa%d8%ac%d8%b9%d9%84/"

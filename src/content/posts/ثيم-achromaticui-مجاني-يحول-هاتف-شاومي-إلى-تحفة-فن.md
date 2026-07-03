@@ -5,7 +5,7 @@ pubDate: "2025-07-11T14:19:55"
 updatedDate: "2025-07-13T14:41:09"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["Xiaomi", "يحول", "موضوع", "Achromaticui", "المجاني"]
 image: "/uploads/wp/2025/07/1752406868_يحول-موضوع-Achromaticui-المجاني-Xiaomi-إلى-تحفة.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%ab%d9%8a%d9%85-achromaticui-%d9%85%d8%ac%d8%a7%d9%86%d9%8a-%d9%8a%d8%ad%d9%88%d9%84-%d9%87%d8%a7%d8%aa%d9%81-%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%a5%d9%84%d9%89-%d8%aa%d8%ad%d9%81%d8%a9-%d9%81%d9%86/"

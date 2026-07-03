@@ -5,7 +5,7 @@ pubDate: "2025-07-25T07:06:18"
 updatedDate: "2025-07-25T07:06:20"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["كيفية", "إقران", "DualSeense", "والتبديل"]
 image: ""
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%25d8%25a5%25d9%2582%25d8%25b1%25d8%25a7%25d9%2586-dualsense-%25d9%2588%25d8%25a7%25d9%2584%25d8%25aa%25d8%25a8%25d8%25af%25d9%258a%25d9%2584-%25d8%25a8%25d/"

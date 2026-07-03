@@ -5,7 +5,7 @@ pubDate: "2025-07-05T21:06:18"
 updatedDate: "2025-07-07T10:55:08"
 author: "Arab Tech Trends"
 category: "ألعاب"
-tags: []
+tags: ["الدليل", "النهائي", "لاختيار", "معالجات"]
 image: "/uploads/wp/2025/07/1751738777_253_الدليل-النهائي-لاختيار-معالجات-إنتل-2025-مقارنة-شاملة-لـ-Core.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%25d8%25a3%25d9%2581%25d8%25b6%25d9%2584-%25d9%2585%25d8%25b9%25d8%25a7%25d9%2584%25d8%25ac-%25d8%25a5%25d9%2586%25d8%25aa%25d9%2584/"

@@ -5,7 +5,7 @@ pubDate: "2025-07-27T17:39:18"
 updatedDate: "2025-07-28T13:11:18"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["Invinx", "Smart", "السعر", "والمواصفات"]
 image: "/uploads/wp/2025/07/1753697475_592_Invinx-Smart-10-السعر-والمواصفات.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a7%d9%86%d9%81%d9%86%d9%83%d8%b3-%d8%b3%d9%85%d8%a7%d8%b1%d8%aa-10-infinix-smart-10-%d8%b1%d8%b3%d9%85%d9%8a%d9%8b%d8%a7-%d8%a8%d8%b3%d8%b9%d8%b1-%d8%a3%d9%82%d9%84-%d9%85%d9%86-100-%d8%af%d9%88/"

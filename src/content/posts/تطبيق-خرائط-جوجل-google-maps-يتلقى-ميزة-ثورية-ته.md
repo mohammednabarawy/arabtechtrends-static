@@ -5,7 +5,7 @@ pubDate: "2025-10-19T20:47:56"
 updatedDate: "2025-10-20T07:46:58"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["تطبيق", "خرائط", "جوجل", "يحصل"]
 image: "/uploads/wp/2025/10/2025-10-17_10-51-07.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-%d8%ae%d8%b1%d8%a7%d8%a6%d8%b7-%d8%ac%d9%88%d8%ac%d9%84-google-maps-%d9%8a%d8%aa%d9%84%d9%82%d9%89-%d9%85%d9%8a%d8%b2%d8%a9-%d8%ab%d9%88%d8%b1%d9%8a%d8%a9-%d8%aa%d9%87/"

@@ -5,7 +5,7 @@ pubDate: "2025-12-04T06:20:00"
 updatedDate: "2025-12-05T05:09:01"
 author: "Arab Tech Trends"
 category: "أخبار"
-tags: ["هاتف OnePlus Ace 6T بمعالج Snapdragon 8 Gen 5","ون بلس تكشف عن أول هاتف بمعالج"]
+tags: ["هاتف OnePlus Ace بمعالج Snapdragon", "Gen", "ون بلس تكشف عن أول هاتف بمعالج"]
 image: "/uploads/wp/2025/12/1764904139_898_oneplus-------oneplus-ace-6t.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%88%d9%86-%d8%a8%d9%84%d8%b3-%d8%aa%d9%83%d8%b4%d9%81-%d8%b9%d9%86-oneplus-ace-6t/"

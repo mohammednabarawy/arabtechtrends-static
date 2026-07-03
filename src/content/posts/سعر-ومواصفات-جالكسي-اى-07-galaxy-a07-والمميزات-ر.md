@@ -5,7 +5,7 @@ pubDate: "2025-08-25T14:24:08"
 updatedDate: "2025-08-27T17:27:13"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["galaxy", "ومواصفات", "Galaxy", "والميزات", "الرسمية"]
 image: "/uploads/wp/2025/08/1756304831_سعر-ومواصفات-Galaxy-A07-والميزات-الرسمية.png"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%b9%d8%b1-%d9%88%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-%d8%a7%d9%89-07-galaxy-a07-%d9%88%d8%a7%d9%84%d9%85%d9%85%d9%8a%d8%b2%d8%a7%d8%aa-%d8%b1/"

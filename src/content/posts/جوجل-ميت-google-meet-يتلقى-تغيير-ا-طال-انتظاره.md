@@ -5,7 +5,7 @@ pubDate: "2025-11-04T20:59:32"
 updatedDate: "2025-11-05T16:07:20"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["يتلقى", "Google", "Meet", "تغييرًا"]
 image: "/uploads/wp/2025/11/1762351639_google-meet.png"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d9%88%d8%ac%d9%84-%d9%85%d9%8a%d8%aa-google-meet-%d9%8a%d8%aa%d9%84%d9%82%d9%89-%d8%aa%d8%ba%d9%8a%d9%8a%d8%b1%d9%8b%d8%a7-%d8%b7%d8%a7%d9%84-%d8%a7%d9%86%d8%aa%d8%b8%d8%a7%d8%b1%d9%87/"

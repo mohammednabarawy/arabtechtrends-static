@@ -5,7 +5,7 @@ pubDate: "2025-10-21T20:40:47"
 updatedDate: "2025-10-25T14:12:26"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["فيسبوك", "يُبهر", "مستخدميه", "بميزة"]
 image: "/uploads/wp/2025/10/2025-10-21_15-36-39.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%81%d9%8a%d8%b3%d8%a8%d9%88%d9%83-facebook-%d8%aa%d9%8f%d8%a8%d9%87%d8%b1-%d9%85%d8%b3%d8%aa%d8%ae%d8%af%d9%85%d9%8a%d9%87%d8%a7-%d8%a8%d9%85%d9%8a%d8%b2%d8%a9-%d8%b0%d9%83%d9%8a%d8%a9-%d9%87%d8%a7/"

@@ -5,7 +5,7 @@ pubDate: "2025-10-02T18:47:17"
 updatedDate: "2025-10-06T06:44:22"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["Gemini", "يحصل", "تحديث", "جديد"]
 image: "/uploads/wp/2025/10/gemini.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d9%8a%d9%85%d9%8a%d9%86%d8%a7%d9%8a-gemini-%d9%8a%d8%ad%d8%b5%d9%84-%d8%b9%d9%84%d9%89-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d8%ac%d8%af%d9%8a%d8%af-%d8%a8%d9%85%d9%8a%d8%b2%d8%a7%d8%aa-%d9%88%d8%aa/"

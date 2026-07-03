@@ -1,10 +1,23 @@
 ---
 import { getCollection, render } from "astro:content";
+import ArticleToc from "../../components/ArticleToc.astro";
 import Breadcrumbs from "../../components/Breadcrumbs.astro";
 import PostCard from "../../components/PostCard.astro";
+import ShareBar from "../../components/ShareBar.astro";
 import BaseLayout from "../../layouts/BaseLayout.astro";
-import { siteName, siteUrl } from "../../site";
-import { absoluteUrl, getPostImage, getRelatedPosts } from "../../utils/posts";
+import { pillarGuides } from "../../guides";
+import { categories, siteName, siteUrl } from "../../site";
+import {
+  absoluteUrl,
+  extractHeadings,
+  getPostImage,
+  getPillarForPost,
+  getReadingTime,
+  getRelatedPosts,
+  isGuideLike,
+  tagToSlug,
+  withBase
+} from "../../utils/posts";
 
 export async function getStaticPaths() {
   const posts = await getCollection("posts", ({ data }) => !data.draft);
@@ -14,47 +27,54 @@ export async function getStaticPaths() {
 const { post, allPosts } = Astro.props;
 const { Content } = await render(post);
 const base = import.meta.env.BASE_URL.endsWith("/") ? import.meta.env.BASE_URL : `${import.meta.env.BASE_URL}/`;
-const withBase = (path: string) => /^(https?:)?\/\//.test(path) ? path : `${base}${path.replace(/^\/+/, "")}`;
 const image = getPostImage(post);
 const related = getRelatedPosts(post, allPosts, 4);
 const articleUrl = absoluteUrl(`/posts/${post.slug}/`, siteUrl);
+const readingTime = getReadingTime(post);
+const headings = isGuideLike(post) ? extractHeadings(post.body) : [];
+const pillar = getPillarForPost(post, pillarGuides);
+const pillarGuide = pillar ? pillarGuides.find((g) => g.slug === pillar.slug) : undefined;
+
+const matchedCategory = categories.find((cat) =>
+  cat.keywords.some((k) => post.data.title.toLowerCase().includes(k.toLowerCase()))
+);
 
 const articleJsonLd = {
   "@context": "https://schema.org",
-  "@type": "NewsArticle",
+  "@type": isGuideLike(post) ? "Article" : "NewsArticle",
   headline: post.data.title,
   description: post.data.description,
   image: image ? [image.startsWith("http") ? image : absoluteUrl(image, siteUrl)] : undefined,
   datePublished: post.data.pubDate.toISOString(),
   dateModified: (post.data.updatedDate ?? post.data.pubDate).toISOString(),
-  author: {
-    "@type": "Organization",
-    name: post.data.author
-  },
+  author: { "@type": "Organization", name: post.data.author },
   publisher: {
     "@type": "Organization",
     name: siteName,
-    logo: {
-      "@type": "ImageObject",
-      url: absoluteUrl("/uploads/arabtech-logo.png", siteUrl)
-    }
+    logo: { "@type": "ImageObject", url: absoluteUrl("/uploads/arabtech-logo.png", siteUrl) }
   },
-  mainEntityOfPage: {
-    "@type": "WebPage",
-    "@id": articleUrl
-  },
+  mainEntityOfPage: { "@type": "WebPage", "@id": articleUrl },
   inLanguage: "ar",
   articleSection: post.data.category
 };
 
+const breadcrumbItems = [
+  { "@type": "ListItem", position: 1, name: "الرئيسية", item: siteUrl },
+  matchedCategory
+    ? {
+        "@type": "ListItem",
+        position: 2,
+        name: matchedCategory.label,
+        item: absoluteUrl(`/category/${matchedCategory.slug}/`, siteUrl)
+      }
+    : { "@type": "ListItem", position: 2, name: "الأرشيف", item: absoluteUrl("/posts/", siteUrl) },
+  { "@type": "ListItem", position: 3, name: post.data.title, item: articleUrl }
+];
+
 const breadcrumbJsonLd = {
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
-  itemListElement: [
-    { "@type": "ListItem", position: 1, name: "الرئيسية", item: siteUrl },
-    { "@type": "ListItem", position: 2, name: "الأرشيف", item: absoluteUrl("/posts/", siteUrl) },
-    { "@type": "ListItem", position: 3, name: post.data.title, item: articleUrl }
-  ]
+  itemListElement: breadcrumbItems
 };
 ---
 
@@ -73,7 +93,9 @@ const breadcrumbJsonLd = {
     <Breadcrumbs
       items={[
         { label: "الرئيسية", href: "/" },
-        { label: "الأرشيف", href: "/posts/" },
+        matchedCategory
+          ? { label: matchedCategory.label, href: `/category/${matchedCategory.slug}/` }
+          : { label: "الأرشيف", href: "/posts/" },
         { label: post.data.title }
       ]}
     />
@@ -81,20 +103,51 @@ const breadcrumbJsonLd = {
     <h1>{post.data.title}</h1>
     <div class="article-meta">
       <time datetime={post.data.pubDate.toISOString()}>{post.data.pubDate.toLocaleDateString("ar-EG")}</time>
+      <span>{readingTime} دقائق قراءة</span>
       <span>{post.data.author}</span>
       {post.data.updatedDate && (
         <span>تحديث: {post.data.updatedDate.toLocaleDateString("ar-EG")}</span>
       )}
     </div>
-    {image && <img class="cover" src={withBase(image)} alt={post.data.title} loading="eager" decoding="async" />}
+
+    <ShareBar title={post.data.title} url={`/posts/${post.slug}/`} />
+
+    {pillarGuide && (
+      <aside class="pillar-callout">
+        <strong>في سلسلة: {pillarGuide.title}</strong>
+        <a href={withBase(`/guides/${pillarGuide.slug}/`, base)}>عرض الدليل الشامل ←</a>
+      </aside>
+    )}
+
+    {image && (
+      <img
+        class="cover"
+        src={withBase(image, base)}
+        alt={post.data.title}
+        loading="eager"
+        fetchpriority="high"
+        decoding="async"
+        width="1200"
+        height="675"
+      />
+    )}
+
+    <ArticleToc headings={headings} />
+
     <div class="article-body" data-pagefind-body>
       <Content />
     </div>
+
     {post.data.tags.length > 0 && (
       <ul class="tag-list">
-        {post.data.tags.map((tag) => (
-          <li><span>{tag}</span></li>
-        ))}
+        {post.data.tags.map((tag) => {
+          const slug = tagToSlug(tag.trim());
+          return (
+            <li>
+              <a href={withBase(`/tag/${slug}/`, base)}>{tag}</a>
+            </li>
+          );
+        })}
       </ul>
     )}
   </article>
@@ -109,4 +162,19 @@ const breadcrumbJsonLd = {
       </div>
     </section>
   )}
+
+  <script is:inline>
+    document.querySelectorAll(".article-body h2, .article-body h3").forEach((heading, index) => {
+      if (heading.id) return;
+      const text = heading.textContent?.trim() ?? "";
+      const id =
+        text
+          .toLowerCase()
+          .normalize("NFKD")
+          .replace(/[^\p{Letter}\p{Number}]+/gu, "-")
+          .replace(/^-|-$/g, "")
+          .slice(0, 60) || `section-${index + 1}`;
+      heading.id = id;
+    });
+  </script>
 </BaseLayout>

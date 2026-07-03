@@ -5,7 +5,7 @@ pubDate: "2025-09-23T18:33:55"
 updatedDate: "2025-09-24T20:23:29"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["Xiaomi", "المواصفات", "والتصميم", "تظهر"]
 image: "/uploads/wp/2025/09/1758734607_739_xiaomi-17.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-17-xiaomi-17-%d9%83%d8%b4%d9%81-%d9%85%d9%81%d8%a7%d8%ac%d8%a2%d8%aa-%d9%88%d8%a3%d8%b3%d8%b1%d8%a7%d8%b1-%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d8%a7%d9%84%d8%b3%d9%84%d8%b3/"

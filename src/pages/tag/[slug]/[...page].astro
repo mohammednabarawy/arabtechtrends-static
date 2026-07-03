@@ -1,0 +1,58 @@
+---
+import type { GetStaticPaths } from "astro";
+import { getCollection } from "astro:content";
+import Breadcrumbs from "../../../components/Breadcrumbs.astro";
+import PostCard from "../../../components/PostCard.astro";
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import { postsPerPage } from "../../../site";
+import { buildTagIndex, filterPostsByTag } from "../../../utils/posts";
+
+export const getStaticPaths = (async ({ paginate }) => {
+  const allPosts = await getCollection("posts", ({ data }) => !data.draft);
+  const tags = buildTagIndex(allPosts);
+  const paths = [];
+
+  for (const tag of tags) {
+    const filtered = filterPostsByTag(allPosts, tag.slug);
+    if (filtered.length === 0) continue;
+    paths.push(
+      ...paginate(filtered, {
+        pageSize: postsPerPage,
+        params: { slug: tag.slug },
+        props: { tag }
+      })
+    );
+  }
+
+  return paths;
+}) satisfies GetStaticPaths;
+
+const { page, tag } = Astro.props;
+---
+
+<BaseLayout title={`${tag.label} | عرب تك`} canonicalPath={page.url.current}>
+  <Breadcrumbs
+    items={[
+      { label: "الرئيسية", href: "/" },
+      { label: "الوسوم", href: "/tags/" },
+      { label: tag.label }
+    ]}
+  />
+  <section class="page-head">
+    <p class="eyebrow">وسم</p>
+    <h1>{tag.label}</h1>
+    <p class="page-meta">{page.total} مقال — صفحة {page.currentPage} من {page.lastPage}</p>
+  </section>
+
+  <div class="post-grid">
+    {page.data.map((post) => <PostCard post={post} />)}
+  </div>
+
+  {page.lastPage > 1 && (
+    <nav class="pagination" aria-label="تصفح الصفحات">
+      {page.url.prev && <a href={page.url.prev}>السابق</a>}
+      <span>صفحة {page.currentPage} / {page.lastPage}</span>
+      {page.url.next && <a href={page.url.next}>التالي</a>}
+    </nav>
+  )}
+</BaseLayout>

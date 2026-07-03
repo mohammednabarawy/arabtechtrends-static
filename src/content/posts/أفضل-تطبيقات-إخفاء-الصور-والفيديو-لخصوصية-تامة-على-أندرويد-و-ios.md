@@ -5,7 +5,7 @@ pubDate: "2025-07-06T18:15:26"
 updatedDate: "2025-07-07T10:54:58"
 author: "Arab Tech Trends"
 category: "تطبيقات android"
-tags: []
+tags: ["أندرويد", "iOS"]
 image: "/uploads/wp/2025/07/أفضل-تطبيقات-إخفاء-الصور-والفيديو-لخصوصية-تامة-على-أندرويد-و.png"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%25d8%25aa%25d8%25b7%25d8%25a8%25d9%258a%25d9%2582%25d8%25a7%25d8%25aa-%25d8%25a7%25d8%25ae%25d9%2581%25d8%25a7%25d8%25a1-%25d8%25a7%25d9%2584%25d8%25b5%25d/"

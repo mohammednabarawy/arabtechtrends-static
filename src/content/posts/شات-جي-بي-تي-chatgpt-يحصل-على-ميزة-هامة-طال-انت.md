@@ -5,7 +5,7 @@ pubDate: "2025-09-30T14:26:47"
 updatedDate: "2025-10-01T00:08:37"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["ChatGPT", "يحصل", "ميزة", "\\\"التحكم"]
 image: "/uploads/wp/2025/10/1759266517_chatgpt.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d8%aa-%d8%ac%d9%8a-%d8%a8%d9%8a-%d8%aa%d9%8a-chatgpt-%d9%8a%d8%ad%d8%b5%d9%84-%d8%b9%d9%84%d9%89-%d9%85%d9%8a%d8%b2%d8%a9-%d9%87%d8%a7%d9%85%d8%a9-%d8%b7%d8%a7%d9%84-%d8%a7%d9%86%d8%aa/"

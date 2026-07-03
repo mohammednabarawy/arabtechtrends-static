@@ -5,7 +5,7 @@ pubDate: "2025-10-21T19:31:42"
 updatedDate: "2025-10-25T21:16:06"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["واتساب", "تطبيق", "يضيف", "أقوى"]
 image: "/uploads/wp/2025/10/2025-10-21_15-43-32.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-%d9%88%d8%a7%d8%aa%d8%b3%d8%a7%d8%a8-whatsapp-%d9%8a%d8%b6%d9%8a%d9%81-%d8%a3%d9%82%d9%88%d9%89-%d9%85%d9%8a%d8%b2%d8%a9-%d9%84%d9%84%d8%b1%d8%b3%d8%a7%d8%a6%d9%84/"

@@ -5,7 +5,7 @@ pubDate: "2025-11-17T05:46:00"
 updatedDate: "2025-11-17T13:31:40"
 author: "Arab Tech Trends"
 category: "أخبار"
-tags: ["هواتف Xiaomi وPoco F8 والحملة التشويقية وسلسلة الهواتف"]
+tags: ["هواتف Xiaomi وPoco والحملة", "التشويقية وسلسلة الهواتف"]
 image: "/uploads/wp/2025/11/1763379096_72_xiaomi---------poco-f8.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%aa%d8%b3%d8%aa%d8%b9%d8%af-%d9%84%d9%84%d9%83%d8%b4%d9%81-%d8%b9%d9%86-%d8%b3%d9%84%d8%b3%d9%84%d8%a9-%d9%87%d9%88%d8%a7%d8%aa%d9%81-poco-f8/"

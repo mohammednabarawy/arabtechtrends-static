@@ -5,7 +5,7 @@ pubDate: "2025-11-17T20:45:58"
 updatedDate: "2025-11-17T23:28:47"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["Xiaomi", "HyperOS"]
 image: "/uploads/wp/2025/11/1763414926_223_hyperos-4---hyperos-4.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d9%8a%d8%a8%d8%b1-%d8%a7%d9%88-%d8%a7%d8%b3-4-hyperos-4-%d8%b3%d9%8a%d8%a3%d8%aa%d9%8a-%d8%a8%d8%aa%d8%ad%d8%b3%d9%8a%d9%86%d8%a7%d8%aa-%d9%87%d8%a7%d9%85%d8%a9-%d9%84%d9%85-%d9%8a/"

@@ -5,7 +5,7 @@ pubDate: "2025-11-01T17:32:59"
 updatedDate: "2025-11-02T10:53:24"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["iPhone", "خيارات", "ألوان"]
 image: "/uploads/wp/2025/11/1762073602_732_iphone-18-pro---iphone-18-pro.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a7%d9%8a%d9%81%d9%88%d9%86-18-%d8%a8%d8%b1%d9%88-iphone-18-pro-%d9%83%d8%b4%d9%81-%d8%ae%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa-%d8%a3%d9%84%d9%88%d8%a7%d9%86-%d8%ba%d9%8a%d8%b1-%d9%85%d8%aa%d9%88%d9%82/"

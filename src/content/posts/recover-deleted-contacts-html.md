@@ -5,7 +5,7 @@ pubDate: "2025-07-06T09:19:01"
 updatedDate: "2025-07-07T10:55:02"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["استرجاع", "الأرقام", "المحذوفة", "الهاتف"]
 image: "/uploads/blogger/309819556259--.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/recover-deleted-contacts-html/"

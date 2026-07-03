@@ -5,7 +5,7 @@ pubDate: "2025-07-15T23:36:38"
 updatedDate: "2025-07-15T23:36:41"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["Windows", "شحنًا", "ومزيد", "العمل:", "توفر"]
 image: "/uploads/wp/2025/07/1752611799_أقل-شحنًا-ومزيد-من-العمل-توفر-الطاقة-في-قائمة-Windows.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%25d8%25ae%25d8%25a7%25d8%25b5%25d9%258a%25d8%25a9-%25d9%2585%25d9%258f%25d9%2588%25d9%2581%25d9%2591%25d8%25b1-%25d8%25a7%25d9%2584%25d8%25b7%25d8%25a7%25d/"

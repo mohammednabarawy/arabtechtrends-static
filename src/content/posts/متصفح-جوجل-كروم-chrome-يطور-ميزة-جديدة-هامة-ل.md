@@ -5,7 +5,7 @@ pubDate: "2025-11-04T15:27:11"
 updatedDate: "2025-11-06T20:17:18"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["متصفح", "جوجل", "كروم", "يطور"]
 image: "/uploads/wp/2025/11/2025-11-04_12-16-05.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%85%d8%aa%d8%b5%d9%81%d8%ad-%d8%ac%d9%88%d8%ac%d9%84-%d9%83%d8%b1%d9%88%d9%85-chrome-%d9%8a%d8%b7%d9%88%d8%b1-%d9%85%d9%8a%d8%b2%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%87%d8%a7%d9%85%d8%a9-%d9%84/"

@@ -58,8 +58,11 @@ const today = new Intl.DateTimeFormat("ar-EG", { dateStyle: "full" }).format(new
         {categories.map((category) => (
           <a href={withBase(`/category/${category.slug}/`, base)}>{category.label}</a>
         ))}
+        <a href={withBase("/guides/", base)}>أدلة</a>
         <a href={withBase("/posts/", base)}>الأرشيف</a>
+        <a href={withBase("/tags/", base)}>الوسوم</a>
         <a href={withBase("/search/", base)}>بحث</a>
+        <a href={withBase("/about/", base)}>من نحن</a>
       </nav>
     </header>
     <main>
@@ -80,6 +83,8 @@ const today = new Intl.DateTimeFormat("ar-EG", { dateStyle: "full" }).format(new
             {categories.map((category) => (
               <a href={withBase(`/category/${category.slug}/`, base)}>{category.label}</a>
             ))}
+            <a href={withBase("/guides/", base)}>أدلة شاملة</a>
+            <a href={withBase("/about/", base)}>من نحن</a>
           </div>
         </section>
         <section class="footer-social" aria-labelledby="footer-social-title">

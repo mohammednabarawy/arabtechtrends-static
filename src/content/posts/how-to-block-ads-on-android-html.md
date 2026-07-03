@@ -5,7 +5,7 @@ pubDate: "2025-07-07T06:29:08"
 updatedDate: "2025-07-07T10:54:54"
 author: "Arab Tech Trends"
 category: "تطبيقات android"
-tags: []
+tags: ["أندرويد", "تحميل", "برنامج", "الإعلانات", "للأندرويد"]
 image: "/uploads/blogger/19534f306f85--.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/how-to-block-ads-on-android-html/"

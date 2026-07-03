@@ -5,7 +5,7 @@ pubDate: "2025-10-15T13:16:59"
 updatedDate: "2025-10-19T10:43:13"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["Xiaomi", "أطلقت", "شركة", "الإصدار"]
 image: "/uploads/wp/2025/10/1760859793_xiaomi.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-hyperos-3-%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%aa%d9%8f%d8%b7%d9%84%d9%82-%d8%a7%d9%84%d9%86%d8%b3%d8%ae%d8%a9-%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d9%82%d8%b1%d8%a9-%d9%84/"

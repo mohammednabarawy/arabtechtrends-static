@@ -26,8 +26,18 @@ author: "Arab Tech Trends"
 category: "أخبار"
 tags: []
 image: ""
-draft: false
+draft: true
 ---
+
+<!-- Quality gates before publish (see TRAFFIC-PLAN.md):
+  - ≥200 words (guides: ≥800)
+  - description 120–160 chars
+  - featured image 1200px+
+  - 3–6 tags
+  - set draft: false when ready
+-->
+
+## مقدمة
 
 اكتب المقال هنا.
 `;

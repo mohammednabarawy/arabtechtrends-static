@@ -5,7 +5,7 @@ pubDate: "2025-11-20T13:40:40"
 updatedDate: "2025-11-22T23:00:05"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["يقدم", "Roborock", "المسبوق&#8230;", "تنظيفًا"]
 image: "/uploads/wp/2025/11/1763845201_941_roborock.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b9%d8%b1%d9%88%d8%b6-roborock-%d8%ba%d9%8a%d8%b1-%d8%a7%d9%84%d9%85%d8%b3%d8%a8%d9%88%d9%82%d8%a9-%d9%86%d8%b8%d8%a7%d9%81%d8%a9-%d8%a3%d8%b0%d9%83%d9%89-%d9%88%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1/"

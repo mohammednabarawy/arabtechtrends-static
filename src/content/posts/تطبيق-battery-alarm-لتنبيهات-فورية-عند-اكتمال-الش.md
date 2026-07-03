@@ -5,7 +5,7 @@ pubDate: "2025-11-07T11:30:54"
 updatedDate: "2025-11-09T18:39:29"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["تطبيق", "Battery", "Alarm", "للتنبيهات"]
 image: "/uploads/wp/2025/11/1762706367_65_battery-alarm.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-battery-alarm-%d9%84%d8%aa%d9%86%d8%a8%d9%8a%d9%87%d8%a7%d8%aa-%d9%81%d9%88%d8%b1%d9%8a%d8%a9-%d8%b9%d9%86%d8%af-%d8%a7%d9%83%d8%aa%d9%85%d8%a7%d9%84-%d8%a7%d9%84%d8%b4/"

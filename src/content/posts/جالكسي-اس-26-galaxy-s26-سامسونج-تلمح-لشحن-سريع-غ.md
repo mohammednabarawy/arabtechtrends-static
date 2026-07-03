@@ -5,7 +5,7 @@ pubDate: "2025-12-13T21:24:34"
 updatedDate: "2025-12-14T00:44:21"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["سامسونج", "تلمح", "سريع", "مسبوق!"]
 image: "/uploads/wp/2025/12/2025-12-11_14-53-52.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-%d8%a7%d8%b3-26-galaxy-s26-%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-%d8%aa%d9%84%d9%85%d8%ad-%d9%84%d8%b4%d8%ad%d9%86-%d8%b3%d8%b1%d9%8a%d8%b9-%d8%ba/"

@@ -5,7 +5,7 @@ pubDate: "2025-10-09T13:48:35"
 updatedDate: "2025-10-11T13:07:19"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["Honor", "Magic8", "يكشف", "تصميم"]
 image: "/uploads/wp/2025/10/1760177238_997_honor-magic8-pro.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%87%d9%88%d9%86%d8%b1-%d9%85%d8%a7%d8%ac%d9%8a%d9%83-8-%d8%a8%d8%b1%d9%88-honor-magic8-pro-%d9%83%d8%b4%d9%81-%d8%aa%d8%aa%d8%b5%d9%85%d9%8a%d9%85-%d9%88%d8%a3%d8%a8%d8%b1%d8%b2-%d9%85%d9%8a%d8%b2/"

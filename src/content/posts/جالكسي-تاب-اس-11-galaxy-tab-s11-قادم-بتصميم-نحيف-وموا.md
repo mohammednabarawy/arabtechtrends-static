@@ -5,7 +5,7 @@ pubDate: "2025-08-24T21:39:40"
 updatedDate: "2025-08-28T00:34:23"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["galaxy", "يأتي", "Galaxy", "تصميم", "نحيف"]
 image: "/uploads/wp/2025/08/يأتي-Galaxy-Tab-S11-في-تصميم-نحيف-ومواصفات-قوية.png"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-%d8%aa%d8%a7%d8%a8-%d8%a7%d8%b3-11-galaxy-tab-s11-%d9%82%d8%a7%d8%af%d9%85-%d8%a8%d8%aa%d8%b5%d9%85%d9%8a%d9%85-%d9%86%d8%ad%d9%8a%d9%81-%d9%88%d9%85%d9%88%d8%a7/"

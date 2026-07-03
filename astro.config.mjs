@@ -7,6 +7,7 @@ let redirects = {};
 if (existsSync(redirectMapPath)) {
   redirects = JSON.parse(readFileSync(redirectMapPath, "utf8"));
 }
+redirects["/sitemap.xml"] = "/sitemap-index.xml";
 
 export default defineConfig({
   site: process.env.SITE_URL ?? "https://www.arabtechtrends.com",

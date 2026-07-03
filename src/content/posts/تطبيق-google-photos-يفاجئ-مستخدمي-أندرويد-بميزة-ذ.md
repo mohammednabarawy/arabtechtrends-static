@@ -5,7 +5,7 @@ pubDate: "2025-10-19T20:46:01"
 updatedDate: "2025-10-20T14:47:58"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["Android", "يفاجئ", "تطبيق", "Google", "Photos"]
 image: "/uploads/wp/2025/10/1760960877_330_google-photos---android.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-google-photos-%d9%8a%d9%81%d8%a7%d8%ac%d8%a6-%d9%85%d8%b3%d8%aa%d8%ae%d8%af%d9%85%d9%8a-%d8%a3%d9%86%d8%af%d8%b1%d9%88%d9%8a%d8%af-%d8%a8%d9%85%d9%8a%d8%b2%d8%a9-%d8%b0/"

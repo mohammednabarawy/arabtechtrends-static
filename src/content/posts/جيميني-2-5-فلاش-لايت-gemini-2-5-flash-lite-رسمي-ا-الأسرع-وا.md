@@ -5,7 +5,7 @@ pubDate: "2025-07-23T15:25:23"
 updatedDate: "2025-07-27T16:05:22"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["Gemini", "Flash-Lite", "أسرع", "وأرخص"]
 image: "/uploads/wp/2025/07/1753621520_267_Gemini-25-Flash-Lite-أسرع-وأرخص-طراز-AI-من-Google.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d9%8a%d9%85%d9%8a%d9%86%d9%8a-2-5-%d9%81%d9%84%d8%a7%d8%b4-%d9%84%d8%a7%d9%8a%d8%aa-gemini-2-5-flash-lite-%d8%b1%d8%b3%d9%85%d9%8a%d9%8b%d8%a7-%d8%a7%d9%84%d8%a3%d8%b3%d8%b1%d8%b9-%d9%88%d8%a7/"

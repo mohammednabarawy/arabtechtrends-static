@@ -5,7 +5,7 @@ pubDate: "2025-12-17T15:53:00"
 updatedDate: "2025-12-18T01:59:43"
 author: "Arab Tech Trends"
 category: "أخبار"
-tags: ["تسريبات هاتف Realme Realme 16 Pro تصميم صديق للبيئة كاميرات متطورة سلسلة Realme 16 Pro"]
+tags: ["تسريبات هاتف Realme Realme Pro", "تصميم صديق للبيئة كاميرات متطورة", "سلسلة Realme Pro"]
 image: "/uploads/wp/2025/12/1766015982_628_realme-16-pro.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8%d8%a7%d8%aa-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%ad%d9%88%d9%84-%d9%87%d8%a7%d8%aa%d9%81-realme-16-pro-%d9%82%d8%a7%d8%af%d9%85-%d8%a8%d8%aa%d8%b5%d9%85%d9%8a%d9%85-%d8%b5/"

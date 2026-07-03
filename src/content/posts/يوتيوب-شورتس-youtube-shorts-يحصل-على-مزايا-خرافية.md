@@ -5,7 +5,7 @@ pubDate: "2025-07-24T20:24:06"
 updatedDate: "2025-07-25T00:52:35"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["شورت", "يوتيوب", "يحصل", "مزايا"]
 image: "/uploads/wp/2025/07/1753393951_شورت-يوتيوب-يحصل-على-مزايا-خرافية.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%8a%d9%88%d8%aa%d9%8a%d9%88%d8%a8-%d8%b4%d9%88%d8%b1%d8%aa%d8%b3-youtube-shorts-%d9%8a%d8%ad%d8%b5%d9%84-%d8%b9%d9%84%d9%89-%d9%85%d8%b2%d8%a7%d9%8a%d8%a7-%d8%ae%d8%b1%d8%a7%d9%81%d9%8a%d8%a9/"

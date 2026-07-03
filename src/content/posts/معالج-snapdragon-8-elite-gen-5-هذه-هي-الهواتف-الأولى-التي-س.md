@@ -5,7 +5,7 @@ pubDate: "2025-09-25T23:14:37"
 updatedDate: "2025-09-29T12:59:18"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["الهواتف", "الأولى", "التي", "ستحصل"]
 image: "/uploads/wp/2025/09/2025-09-25_14-50-54.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%85%d8%b9%d8%a7%d9%84%d8%ac-snapdragon-8-elite-gen-5-%d9%87%d8%b0%d9%87-%d9%87%d9%8a-%d8%a7%d9%84%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d8%a7%d9%84%d8%a3%d9%88%d9%84%d9%89-%d8%a7%d9%84%d8%aa%d9%8a-%d8%b3/"

@@ -5,7 +5,7 @@ pubDate: "2025-12-16T14:57:00"
 updatedDate: "2025-12-17T04:46:27"
 author: "Arab Tech Trends"
 category: "أخبار"
-tags: ["ريلمي هاتف Narzo 90 هاتف Narzo 90x بطارية عملاقة 7000 مللي أمبير شحن سريع"]
+tags: ["ريلمي هاتف Narzo هاتف Narzo 90x", "بطارية عملاقة 7000 مللي أمبير شحن", "سريع"]
 image: "/uploads/wp/2025/12/1765939583_439_realme-------narzo-90--narzo-90x---7000.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b1%d9%8a%d9%84%d9%85%d9%8a-%d8%aa%d9%83%d8%b4%d9%81-%d8%b9%d9%86-%d9%87%d8%a7%d8%aa%d9%81-narzo-90-%d9%88-narzo-90x/"

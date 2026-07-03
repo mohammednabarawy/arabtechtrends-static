@@ -5,7 +5,7 @@ pubDate: "2025-12-29T14:13:00"
 updatedDate: "2025-12-29T22:14:29"
 author: "Arab Tech Trends"
 category: "أخبار"
-tags: ["بتصميمات مختلفة","بطارية بسعة 9000 مللي أمبير","وان بلس تقترب من إطلاق سلسلة هواتف Turbo 6"]
+tags: ["بتصميمات مختلفة", "بطارية بسعة 9000 مللي أمبير", "وان بلس تقترب إطلاق سلسلة هواتف", "Turbo"]
 image: "/uploads/wp/2025/12/1767039267_283_turbo-6.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%88%d9%86-%d8%a8%d9%84%d8%b3-%d8%aa%d8%b3%d8%aa%d8%b9%d8%af-%d9%84%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d8%b3%d9%84%d8%b3%d9%84%d8%a9-turbo-6/"

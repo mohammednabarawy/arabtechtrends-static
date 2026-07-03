@@ -5,7 +5,7 @@ pubDate: "2025-12-03T06:05:00"
 updatedDate: "2025-12-03T13:49:05"
 author: "Arab Tech Trends"
 category: "أخبار"
-tags: ["مواصفات ZTE Nubia Fold الشركة اليابانية مواصفات الهاتف الإمكانيات التقنية"]
+tags: ["مواصفات ZTE Nubia Fold الشركة", "اليابانية مواصفات الهاتف الإمكانيات", "التقنية"]
 image: "/uploads/wp/2025/12/1764762543_380_zte-nubia-fold.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%b1%d9%83%d8%a9-%d9%8a%d8%a7%d8%a8%d8%a7%d9%86%d9%8a%d8%a9-%d8%aa%d9%83%d8%b4%d9%81-%d8%b9%d9%86-%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-zte-nubia-fold-%d8%a8%d9%82%d8%af%d8%b1%d8%a7%d8%aa/"

@@ -5,7 +5,7 @@ pubDate: "2025-07-06T18:24:37"
 updatedDate: "2025-07-07T10:54:57"
 author: "Arab Tech Trends"
 category: "ألعاب"
-tags: []
+tags: ["تحميل", "متصفح", "أوبرا", "Opera"]
 image: "/uploads/blogger/444b6ba3b774--.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/download-opera-gx-html/"

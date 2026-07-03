@@ -5,7 +5,7 @@ pubDate: "2025-10-16T14:40:08"
 updatedDate: "2025-10-17T02:27:31"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["Xbox", "Ally", "وROG"]
 image: "/uploads/wp/2025/10/1760657249_3_rog-xbox-ally--rog-xbox-ally.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%85%d8%b1%d8%a7%d8%ac%d8%b9%d8%a9-%d8%b4%d8%a7%d9%85%d9%84%d8%a9-%d8%ac%d9%87%d8%a7%d8%b2-rog-xbox-ally-%d9%88-rog-xbox-ally-x-%d8%b9%d8%b5%d8%b1-%d8%ac%d8%af%d9%8a%d8%af-%d9%84%d9%84/"

@@ -5,7 +5,7 @@ pubDate: "2025-08-11T02:11:26"
 updatedDate: "2025-08-11T02:11:29"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["Guok", "الشامل", "تخيل:", "كيفية"]
 image: "/uploads/wp/2025/08/Guok-الشامل-تخيل-كيفية-استخدام-أداة-XAI-الجديدة-لإنشاء-الصور.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%25d8%25af%25d9%2584%25d9%258a%25d9%2584-%25d8%25b4%25d8%25a7%25d9%2585%25d9%2584-%25d9%2584%25d9%2580-grok-imagine-%25d9%2583%25d9%258a%25d9%2581-%25d8%25a/"

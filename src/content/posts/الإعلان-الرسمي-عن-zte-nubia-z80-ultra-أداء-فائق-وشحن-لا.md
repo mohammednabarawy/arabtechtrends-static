@@ -5,7 +5,7 @@ pubDate: "2025-10-23T06:55:00"
 updatedDate: "2025-10-27T04:39:33"
 author: "Arab Tech Trends"
 category: "أخبار"
-tags: ["Nubia Z80 Ultra الإعلان الرسمي عن الهاتف بأداء فائق"]
+tags: ["Nubia Z80 Ultra الإعلان الرسمي", "الهاتف بأداء فائق"]
 image: "/uploads/wp/2025/10/zte-nubia-z80-ultra.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a7%d9%84%d8%a5%d8%b9%d9%84%d8%a7%d9%86-%d8%a7%d9%84%d8%b1%d8%b3%d9%85%d9%8a-%d8%b9%d9%86-zte-nubia-z80-ultra-%d8%a3%d8%af%d8%a7%d8%a1-%d9%81%d8%a7%d8%a6%d9%82-%d9%88%d8%b4%d8%ad%d9%86-%d9%84%d8%a7/"

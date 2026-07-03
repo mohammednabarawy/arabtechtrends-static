@@ -5,7 +5,7 @@ pubDate: "2025-11-26T14:49:36"
 updatedDate: "2025-11-29T16:27:30"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["ومواصفات", "ومميزات", "POCO", "Ultra"]
 image: "/uploads/wp/2025/11/1764426447_100_poco-f8-ultra.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a8%d9%88%d9%83%d9%88-%d8%a7%d9%81-8-%d8%a7%d9%84%d8%aa%d8%b1%d8%a7-poco-f8-ultra-%d8%b1%d8%b3%d9%85%d9%8a%d9%8b%d8%a7-%d8%a8%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-%d8%aa%d8%ac%d8%b9%d9%84/"

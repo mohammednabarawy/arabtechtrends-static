@@ -5,7 +5,7 @@ pubDate: "2025-12-16T12:15:54"
 updatedDate: "2025-12-18T10:04:39"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["iPhone", "أسهل", "طريقة", "لفتح"]
 image: "/uploads/wp/2025/12/1766045074_283_iphone.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a7%d9%84%d8%af%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d8%b4%d8%a7%d9%85%d9%84-%d9%84%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac-tenorshare-4ukey-%d8%a3%d8%b3%d9%87%d9%84-%d8%b7%d8%b1%d9%8a%d9%82%d8%a9-%d9%84/"

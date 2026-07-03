@@ -5,7 +5,7 @@ pubDate: "2025-11-26T20:20:00"
 updatedDate: "2025-11-26T21:26:50"
 author: "Arab Tech Trends"
 category: "أخبار"
-tags: ["Xiaomi Poco Pad X1 تابلت قوي وبأسعار منافسة"]
+tags: ["Xiaomi Poco Pad تابلت قوي وبأسعار", "منافسة"]
 image: "/uploads/wp/2025/11/1764185208_354_xiaomi-------poco-pad-x1--poco-pad-m1.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%aa%d9%83%d8%b4%d9%81-%d8%b9%d9%86-poco-pad-x1-%d9%88poco-pad-m1/"

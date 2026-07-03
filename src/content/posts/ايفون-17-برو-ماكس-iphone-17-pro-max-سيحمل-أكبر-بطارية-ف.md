@@ -5,7 +5,7 @@ pubDate: "2025-07-05T16:25:44"
 updatedDate: "2025-07-07T10:55:15"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["آيفون", "ايفون", "iPhone"]
 image: "/uploads/wp/2025/07/ايفون-17-برو-ماكس-iPhone-17-Pro-Max-سيحمل-أكبر.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a7%d9%8a%d9%81%d9%88%d9%86-17-%d8%a8%d8%b1%d9%88-%d9%85%d8%a7%d9%83%d8%b3-iphone-17-pro-max-%d8%b3%d9%8a%d8%ad%d9%85%d9%84-%d8%a3%d9%83%d8%a8%d8%b1-%d8%a8%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d9%81/"

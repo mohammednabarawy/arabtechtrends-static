@@ -5,7 +5,7 @@ pubDate: "2025-07-06T15:21:38"
 updatedDate: "2025-07-07T10:54:59"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["موقع", "شراء", "بطاقة", "فيزا"]
 image: "/uploads/blogger/73b408a18a35--pst.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/pst-virtual-card-html/"

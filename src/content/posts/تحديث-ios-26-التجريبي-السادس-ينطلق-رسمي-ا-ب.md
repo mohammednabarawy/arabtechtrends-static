@@ -5,7 +5,7 @@ pubDate: "2025-08-12T17:29:39"
 updatedDate: "2025-08-13T22:55:21"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["iPhone", "iOS"]
 image: "/uploads/wp/2025/08/يتم-إطلاق-تحديث-IOS-26-التجريبي-رسميًا-بمزايا-رهيبة-لجهاز.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-ios-26-%d8%a7%d9%84%d8%aa%d8%ac%d8%b1%d9%8a%d8%a8%d9%8a-%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3-%d9%8a%d9%86%d8%b7%d9%84%d9%82-%d8%b1%d8%b3%d9%85%d9%8a%d9%8b%d8%a7-%d8%a8/"

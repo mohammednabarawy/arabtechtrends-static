@@ -5,7 +5,7 @@ pubDate: "2025-07-05T17:09:10"
 updatedDate: "2025-07-07T10:55:15"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["كيفية", "إزالة", "الإعلانات", "الهاتف"]
 image: "/uploads/blogger/155cd5ca3d17--.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/block-ads-on-android-html/"

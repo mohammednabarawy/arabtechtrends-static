@@ -5,7 +5,7 @@ pubDate: "2025-10-05T23:00:42"
 updatedDate: "2025-10-08T21:53:25"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["سامسونج", "تستعد", "لإطلاقه", "بتغييرات"]
 image: "/uploads/wp/2025/10/2025-09-27_21-15-18.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-one-ui-8-5-%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-%d8%aa%d8%b3%d8%aa%d8%b9%d8%af-%d9%84%d8%a5%d8%b7%d9%84%d8%a7%d9%82%d9%87-%d8%a8%d8%aa%d8%ba%d9%8a%d9%8a%d8%b1/"

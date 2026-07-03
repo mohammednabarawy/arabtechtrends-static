@@ -5,7 +5,7 @@ pubDate: "2025-10-19T15:16:06"
 updatedDate: "2025-10-21T04:50:07"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["Windows", "&#8211;", "يحصل"]
 image: "/uploads/wp/2025/10/windows-11---windows-11.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%88%d9%8a%d9%86%d8%af%d9%88%d8%b2-11-windows-11-%d9%8a%d8%ad%d8%b5%d9%84-%d8%b9%d9%84%d9%89-%d9%85%d8%b2%d8%a7%d9%8a%d8%a7-%d8%ab%d9%88%d8%b1%d9%8a%d8%a9-%d9%84%d8%b4%d8%a7%d8%b4%d8%a9-%d8%a7/"

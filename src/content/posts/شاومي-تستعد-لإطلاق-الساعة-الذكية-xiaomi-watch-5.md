@@ -5,7 +5,7 @@ pubDate: "2025-12-24T15:07:00"
 updatedDate: "2025-12-24T15:16:01"
 author: "Arab Tech Trends"
 category: "أخبار"
-tags: ["Xiaomi الساعة الذكية Xiaomi Watch 5 ومستشعر EMG ومعالج Snapdragon W5 الهاتف الرائد المنتظر Xiaomi 17 Ultra"]
+tags: ["Xiaomi الساعة الذكية Xiaomi Watch", "ومستشعر EMG ومعالج Snapdragon", "الهاتف الرائد المنتظر Xiaomi Ultra"]
 image: "/uploads/wp/2025/12/1766582159_149_xiaomi-----xiaomi-watch-5.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%aa%d8%b3%d8%aa%d8%b9%d8%af-%d9%84%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d8%a7%d9%84%d8%b3%d8%a7%d8%b9%d8%a9-%d8%a7%d9%84%d8%b0%d9%83%d9%8a%d8%a9-xiaomi-watch-5/"

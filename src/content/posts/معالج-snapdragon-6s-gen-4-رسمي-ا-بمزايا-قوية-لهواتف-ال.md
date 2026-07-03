@@ -5,7 +5,7 @@ pubDate: "2025-10-24T18:59:30"
 updatedDate: "2025-10-29T02:26:19"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["معالج", "Snapdragon", "يأتي", "رسميًا"]
 image: "/uploads/wp/2025/10/1761693978_480_snapdragon-6s-gen-4.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%85%d8%b9%d8%a7%d9%84%d8%ac-snapdragon-6s-gen-4-%d8%b1%d8%b3%d9%85%d9%8a%d9%8b%d8%a7-%d8%a8%d9%85%d8%b2%d8%a7%d9%8a%d8%a7-%d9%82%d9%88%d9%8a%d8%a9-%d9%84%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d8%a7%d9%84/"

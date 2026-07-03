@@ -5,7 +5,7 @@ pubDate: "2025-12-19T15:42:00"
 updatedDate: "2025-12-20T11:26:57"
 author: "Arab Tech Trends"
 category: "أخبار"
-tags: ["OPPO تاريخ الإطلاق تابلت OPPO Pad Air 5 شاشة 2.8K شاشة مريحة للعين بطارية 10050 مللي أمبير"]
+tags: ["OPPO تاريخ الإطلاق تابلت OPPO Pad", "Air شاشة 2.8K شاشة مريحة للعين", "بطارية 10050 مللي أمبير"]
 image: "/uploads/wp/2025/12/1766222815_87_oppo-pad-air-5.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a3%d9%88%d8%a8%d9%88-%d8%aa%d9%83%d8%b4%d9%81-%d8%b9%d9%86-%d9%85%d9%88%d8%b9%d8%af-%d8%a5%d8%b7%d9%84%d8%a7%d9%82-oppo-pad-air-5/"

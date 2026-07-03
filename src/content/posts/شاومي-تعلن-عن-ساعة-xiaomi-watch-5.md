@@ -5,7 +5,7 @@ pubDate: "2025-12-27T13:15:00"
 updatedDate: "2025-12-28T00:52:29"
 author: "Arab Tech Trends"
 category: "أخبار"
-tags: ["Xiaomi","Xiaomi Watch 5","أجهزة قابلة للارتداء","تصميم فاخر","تقنيات متقدمة","دعم eSIM","ساعات ذكية"]
+tags: ["Xiaomi", "Xiaomi Watch 5", "أجهزة قابلة للارتداء", "تصميم فاخر", "تقنيات متقدمة", "دعم eSIM"]
 image: "/uploads/wp/2025/12/1766875947_410_xiaomi---xiaomi-watch-5.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%aa%d8%b9%d9%84%d9%86-%d8%b9%d9%86-%d8%b3%d8%a7%d8%b9%d8%a9-xiaomi-watch-5/"

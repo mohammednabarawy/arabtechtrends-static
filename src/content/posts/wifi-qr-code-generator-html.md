@@ -5,7 +5,7 @@ pubDate: "2025-07-06T06:17:54"
 updatedDate: "2025-07-07T10:55:03"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["طريقة", "إظهار", "باركود", "للواي"]
 image: "/uploads/blogger/a96b22390644--.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/wifi-qr-code-generator-html/"

@@ -5,7 +5,7 @@ pubDate: "2025-07-08T19:46:54"
 updatedDate: "2025-07-09T05:15:35"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["ChatGPT", "يطور", "ميزة", "غامضة"]
 image: "/uploads/wp/2025/07/1752027333_يطور-ChatGPT-ميزة-غامضة-قد-تحول-أسلوب-التعلم-رأسًا-على.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d8%aa-%d8%ac%d9%8a-%d8%a8%d9%8a-%d8%aa%d9%8a-chatgpt-%d9%8a%d8%b7%d9%88%d8%b1-%d9%85%d9%8a%d8%b2%d8%a9-%d8%ba%d8%a7%d9%85%d8%b6%d8%a9-%d9%82%d8%af-%d8%aa%d9%82%d9%84%d8%a8-%d8%a3%d8%b3/"

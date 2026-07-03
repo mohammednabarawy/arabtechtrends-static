@@ -3,11 +3,24 @@
 
 عرب تك موقع عربي متخصص في أخبار التقنية، مراجعات الهواتف والتطبيقات، شروحات الأندرويد والآيفون والكمبيوتر والألعاب.
 
+## Discovery
+- [Sitemap](https://www.arabtechtrends.com/sitemap-index.xml): Full URL index (~880 articles)
+- [RSS feed](https://www.arabtechtrends.com/feed.xml): Subscribe to updates
+- [llms.txt](https://www.arabtechtrends.com/llms.txt): This file
+
 ## Key pages
 - [Homepage](https://www.arabtechtrends.com/): Latest tech news and featured articles
 - [All posts](https://www.arabtechtrends.com/posts/): Full article archive
 - [Search](https://www.arabtechtrends.com/search/): Site search
-- [RSS feed](https://www.arabtechtrends.com/feed.xml): Subscribe to updates
+- [Guides hub](https://www.arabtechtrends.com/guides/): Pillar topic guides
+- [About](https://www.arabtechtrends.com/about/): Editorial policy and mission
+- [Tags](https://www.arabtechtrends.com/tags/): Browse by topic tag
+
+## Pillar guides (evergreen)
+- [Samsung Galaxy guide](https://www.arabtechtrends.com/guides/samsung-galaxy/)
+- [iPhone & iOS guide](https://www.arabtechtrends.com/guides/iphone-ios/)
+- [WhatsApp & apps guide](https://www.arabtechtrends.com/guides/whatsapp-apps/)
+- [AI tools guide](https://www.arabtechtrends.com/guides/ai-tools/)
 
 ## Categories
 - [أخبار تقنية](https://www.arabtechtrends.com/category/news/): Technology news
@@ -18,6 +31,7 @@
 - [كمبيوتر](https://www.arabtechtrends.com/category/computer/): PC and Windows
 - [ألعاب](https://www.arabtechtrends.com/category/games/): Gaming
 - [شروحات](https://www.arabtechtrends.com/category/guides/): Tutorials and how-tos
+- [ذكاء اصطناعي](https://www.arabtechtrends.com/category/ai/): AI tools and news
 
 ## About
 Arab Tech Trends publishes original Arabic content covering smartphones, apps, AI tools, gaming, and computing. Founded 2012.

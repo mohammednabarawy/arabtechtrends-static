@@ -5,7 +5,7 @@ pubDate: "2025-08-16T13:01:52"
 updatedDate: "2025-08-16T14:13:25"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["يوفر", "هاتف", "Google", "ميزات"]
 image: "/uploads/wp/2025/08/يوفر-هاتف-Google-10-ميزات-ثورية-لتجربة-اتصال-لا-مثيل.png"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-%d8%a7%d9%84%d9%87%d8%a7%d8%aa%d9%81-google-phone-%d9%8a%d9%88%d9%81%d8%b1-10-%d9%85%d9%8a%d8%b2%d8%a7%d8%aa-%d8%ab%d9%88%d8%b1%d9%8a%d8%a9-%d9%84%d8%aa%d8%ac%d8%b1/"

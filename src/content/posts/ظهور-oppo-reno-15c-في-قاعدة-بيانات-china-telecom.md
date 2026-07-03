@@ -5,7 +5,7 @@ pubDate: "2025-12-10T19:08:00"
 updatedDate: "2025-12-11T00:36:28"
 author: "Arab Tech Trends"
 category: "أخبار"
-tags: ["قاعدة تشاينا تيليكوم تظهر هاتف Oppo Reno 15c وتكشف عن مواصفاته وموعد إطلاق الهاتف"]
+tags: ["قاعدة تشاينا تيليكوم تظهر هاتف Oppo", "Reno 15c وتكشف مواصفاته وموعد إطلاق", "الهاتف"]
 image: "/uploads/wp/2025/12/1765406188_oppo-reno-15c.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b8%d9%87%d9%88%d8%b1-oppo-reno-15c-%d9%81%d9%8a-%d9%82%d8%a7%d8%b9%d8%af%d8%a9-%d8%a8%d9%8a%d8%a7%d9%86%d8%a7%d8%aa-china-telecom/"

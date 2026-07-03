@@ -1,0 +1,89 @@
+---
+import { getCollection } from "astro:content";
+import type { GetStaticPaths } from "astro";
+import Breadcrumbs from "../../components/Breadcrumbs.astro";
+import PostCard from "../../components/PostCard.astro";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { pillarGuides } from "../../guides";
+import { categories, siteUrl } from "../../site";
+import { absoluteUrl, filterPostsByCategory, sortPosts, withBase } from "../../utils/posts";
+
+export const getStaticPaths = (() =>
+  pillarGuides.map((guide) => ({ params: { slug: guide.slug }, props: { guide } }))) satisfies GetStaticPaths;
+
+const { guide } = Astro.props;
+const allPosts = sortPosts(await getCollection("posts", ({ data }) => !data.draft));
+const category = categories.find((c) => c.slug === guide.categorySlug);
+const related = category ? filterPostsByCategory(allPosts, category).slice(0, 12) : [];
+const base = import.meta.env.BASE_URL.endsWith("/") ? import.meta.env.BASE_URL : `${import.meta.env.BASE_URL}/`;
+const pageUrl = absoluteUrl(`/guides/${guide.slug}/`, siteUrl);
+
+const faqJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  mainEntity: guide.faqs.map((faq) => ({
+    "@type": "Question",
+    name: faq.question,
+    acceptedAnswer: { "@type": "Answer", text: faq.answer }
+  }))
+};
+
+const breadcrumbJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  itemListElement: [
+    { "@type": "ListItem", position: 1, name: "الرئيسية", item: siteUrl },
+    { "@type": "ListItem", position: 2, name: "أدلة شاملة", item: absoluteUrl("/guides/", siteUrl) },
+    { "@type": "ListItem", position: 3, name: guide.title, item: pageUrl }
+  ]
+};
+---
+
+<BaseLayout
+  title={`${guide.title} | عرب تك`}
+  description={guide.description}
+  canonicalPath={`/guides/${guide.slug}/`}
+  jsonLd={[faqJsonLd, breadcrumbJsonLd]}
+>
+  <Breadcrumbs
+    items={[
+      { label: "الرئيسية", href: "/" },
+      { label: "أدلة شاملة", href: "/guides/" },
+      { label: guide.title }
+    ]}
+  />
+
+  <article class="article guide-panel">
+    <p class="eyebrow">دليل شامل</p>
+    <h1>{guide.title}</h1>
+    <p>{guide.description}</p>
+
+    {category && (
+      <p>
+        <a href={withBase(`/category/${category.slug}/`, base)}>تصفّح قسم {category.label} ←</a>
+      </p>
+    )}
+
+    <h2>أسئلة شائعة</h2>
+    <div class="faq-list">
+      {guide.faqs.map((faq) => (
+        <details>
+          <summary>{faq.question}</summary>
+          <p>{faq.answer}</p>
+        </details>
+      ))}
+    </div>
+  </article>
+
+  {related.length > 0 && (
+    <section class="related-posts">
+      <div class="section-head">
+        <h2>مقالات في هذا الموضوع</h2>
+        {category && <a href={withBase(`/category/${category.slug}/`, base)}>المزيد</a>}
+      </div>
+      <div class="post-grid compact-grid">
+        {related.map((post) => <PostCard post={post} compact />)}
+      </div>
+    </section>
+  )}
+</BaseLayout>

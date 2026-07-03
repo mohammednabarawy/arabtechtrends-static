@@ -5,7 +5,7 @@ pubDate: "2025-07-14T15:53:34"
 updatedDate: "2025-07-16T05:58:50"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["Xiaomi", "Xiaom", "&#8211;", "تخطط"]
 image: "/uploads/wp/2025/07/1752634727_211_Xiaom-16-Xiaomi-16-تخطط-الشركة-لإطلاق-هاتف-جديد.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-16-xiaomi-16-%d8%a7%d9%84%d8%b4%d8%b1%d9%83%d8%a9-%d8%aa%d8%ae%d8%b7%d8%b7-%d9%84%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d9%87%d8%a7%d8%aa%d9%81-%d8%ac%d8%af%d9%8a%d8%af/"

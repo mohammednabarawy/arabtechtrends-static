@@ -5,7 +5,7 @@ pubDate: "2025-07-07T03:26:18"
 updatedDate: "2025-07-07T10:54:55"
 author: "Arab Tech Trends"
 category: "تطبيقات android"
-tags: []
+tags: ["آيفون", "iOS"]
 image: "/uploads/blogger/64715fc16201--Move-to-iOS.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/move-to-ios-html/"

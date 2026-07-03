@@ -1,0 +1,57 @@
+---
+import Breadcrumbs from "../components/Breadcrumbs.astro";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { footerAbout, siteName, siteUrl } from "../site";
+import { absoluteUrl } from "../utils/posts";
+
+const aboutJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  name: siteName,
+  url: siteUrl,
+  foundingDate: "2012",
+  description: footerAbout,
+  logo: absoluteUrl("/uploads/arabtech-logo.png", siteUrl),
+  sameAs: [
+    "https://www.facebook.com/profile.php?id=61560338201303",
+    "https://www.youtube.com/@arabtechtrends",
+    "https://www.instagram.com/arabtechtrends_official/"
+  ]
+};
+---
+
+<BaseLayout
+  title={`من نحن | ${siteName}`}
+  canonicalPath="/about/"
+  jsonLd={aboutJsonLd}
+>
+  <Breadcrumbs items={[{ label: "الرئيسية", href: "/" }, { label: "من نحن" }]} />
+  <article class="article guide-panel">
+    <p class="eyebrow">عن الموقع</p>
+    <h1>من نحن — {siteName}</h1>
+    <p>{footerAbout}</p>
+
+    <h2>رسالتنا</h2>
+    <p>
+      نقدّم أخبار التقنية ومراجعات الهواتف والشروحات باللغة العربية منذ 2012. هدفنا محتوى
+      عربي أصلي يساعد القارئ على اتخاذ قرارات أفضل — من اختيار الهاتف المناسب إلى حل
+      مشاكل التطبيقات اليومية.
+    </p>
+
+    <h2>سياسة التحرير</h2>
+    <ul>
+      <li>ننشر أخبارًا موثّقة مع ذكر المصادر عند الاقتباس.</li>
+      <li>الشروحات والأدلة تُراجع وتُحدَّث عند تغيّر الإصدارات.</li>
+      <li>لا ننشر محتوى سبام أو مقامرة أو روابط ضارة.</li>
+      <li>المقالات الجديدة تبدأ كمسودة حتى تجتاز معايير الجودة الداخلية.</li>
+    </ul>
+
+    <h2>تواصل معنا</h2>
+    <p>
+      للاقتراحات والتعاون: راسلنا عبر صفحاتنا على
+      <a href="https://www.facebook.com/profile.php?id=61560338201303" rel="noopener noreferrer">فيسبوك</a>
+      أو
+      <a href="https://www.instagram.com/arabtechtrends_official/" rel="noopener noreferrer">إنستغرام</a>.
+    </p>
+  </article>
+</BaseLayout>

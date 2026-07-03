@@ -5,7 +5,7 @@ pubDate: "2025-11-13T21:25:26"
 updatedDate: "2025-11-16T05:13:02"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["galaxy", "هاتف", "Galaxy", "TriFold", "يأتي"]
 image: "/uploads/wp/2025/11/1763262781_419_galaxy-z-trifold.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-%d8%b2%d8%af-%d8%aa%d8%b1%d8%a7%d9%8a-%d9%81%d9%88%d9%84%d8%af-galaxy-z-trifold-%d9%82%d8%a7%d8%af%d9%85-%d8%a8%d8%a8%d8%b7%d8%a7%d8%b1%d9%8a%d8%a9-%d8%b9%d9%85/"

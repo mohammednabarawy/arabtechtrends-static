@@ -5,7 +5,7 @@ pubDate: "2025-11-14T15:31:57"
 updatedDate: "2025-11-15T01:07:31"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["سامسونج", "One UI"]
 image: "/uploads/wp/2025/11/1763161650_742_one-ui-85.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui-8-5-%d9%82%d8%a7%d8%af%d9%85-%d9%85%d8%b9-%d8%a3%d9%81%d8%b6%d9%84-%d9%85%d8%b2%d8%a7%d9%8a%d8%a7-%d9%82%d8%af%d9%85%d8%aa%d9%87%d8%a7-%d8%b3%d8%a7%d9%85%d8%b3/"

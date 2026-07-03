@@ -5,7 +5,7 @@ pubDate: "2025-08-21T16:48:16"
 updatedDate: "2025-08-25T16:09:37"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["Xiaomi", "ومواصفات", "Redmi", "Note"]
 image: "/uploads/wp/2025/08/1756127369_244_سعر-ومواصفات-Xiaomi-Redmi-Note-15-Pro-5g-والميزات.png"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%b9%d8%b1-%d9%88%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%b1%d9%8a%d8%af%d9%85%d9%8a-%d9%86%d9%88%d8%aa-15-%d8%a8%d8%b1%d9%88-redmi-note-15-pro-5g-%d9%88/"

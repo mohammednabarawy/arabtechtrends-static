@@ -5,7 +5,7 @@ pubDate: "2025-08-17T21:52:42"
 updatedDate: "2025-08-17T21:52:45"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["لماذا", "تغلق", "دبوس", "وكيف"]
 image: "/uploads/wp/2025/08/1755456761_284_لماذا-يجب-أن-تغلق-SIM-مع-دبوس-وكيف-تفعل-ذلك؟.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%25d9%2582%25d9%2581%25d9%2584-%25d8%25b4%25d8%25b1%25d9%258a%25d8%25ad%25d8%25a9-sim-%25d8%25a8%25d8%25b1%25d9%2582%25d9%2585-pin/"

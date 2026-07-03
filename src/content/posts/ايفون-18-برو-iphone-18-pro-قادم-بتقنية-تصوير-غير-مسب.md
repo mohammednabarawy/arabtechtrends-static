@@ -5,7 +5,7 @@ pubDate: "2025-10-18T20:47:55"
 updatedDate: "2025-10-21T18:51:25"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["iPhone", "يأتي", "بتقنية"]
 image: "/uploads/wp/2025/10/iphone-18-pro-iphone-18-pro.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a7%d9%8a%d9%81%d9%88%d9%86-18-%d8%a8%d8%b1%d9%88-iphone-18-pro-%d9%82%d8%a7%d8%af%d9%85-%d8%a8%d8%aa%d9%82%d9%86%d9%8a%d8%a9-%d8%aa%d8%b5%d9%88%d9%8a%d8%b1-%d8%ba%d9%8a%d8%b1-%d9%85%d8%b3%d8%a8/"

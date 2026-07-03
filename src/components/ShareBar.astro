@@ -1,0 +1,33 @@
+---
+import { siteUrl } from "../site";
+import { absoluteUrl } from "../utils/posts";
+
+const { title, url } = Astro.props as { title: string; url: string };
+const shareUrl = absoluteUrl(url, siteUrl);
+const text = encodeURIComponent(`${title} — ${shareUrl}`);
+const waHref = `https://wa.me/?text=${text}`;
+const xHref = `https://twitter.com/intent/tweet?text=${text}`;
+---
+
+<div class="share-bar" aria-label="مشاركة المقال">
+  <span>شارك:</span>
+  <a class="share-bar__wa" href={waHref} target="_blank" rel="noopener noreferrer">واتساب</a>
+  <a class="share-bar__x" href={xHref} target="_blank" rel="noopener noreferrer">X</a>
+  <button type="button" class="share-bar__copy" data-copy={shareUrl}>نسخ الرابط</button>
+</div>
+
+<script is:inline>
+  document.querySelectorAll(".share-bar__copy").forEach((btn) => {
+    btn.addEventListener("click", async () => {
+      const url = btn.getAttribute("data-copy");
+      if (!url) return;
+      try {
+        await navigator.clipboard.writeText(url);
+        btn.textContent = "تم النسخ";
+        setTimeout(() => { btn.textContent = "نسخ الرابط"; }, 2000);
+      } catch {
+        window.prompt("انسخ الرابط:", url);
+      }
+    });
+  });
+</script>

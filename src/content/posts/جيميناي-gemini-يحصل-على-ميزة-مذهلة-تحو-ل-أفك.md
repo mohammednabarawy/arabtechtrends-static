@@ -5,7 +5,7 @@ pubDate: "2025-08-05T14:14:29"
 updatedDate: "2025-08-09T13:19:09"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["يحصل", "الجوزاء", "ميزة", "مذهلة"]
 image: "/uploads/wp/2025/08/1754734746_553_يحصل-الجوزاء-على-ميزة-مذهلة-تحول-أفكارك-إلى-قصص-في.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d9%8a%d9%85%d9%8a%d9%86%d8%a7%d9%8a-gemini-%d9%8a%d8%ad%d8%b5%d9%84-%d8%b9%d9%84%d9%89-%d9%85%d9%8a%d8%b2%d8%a9-%d9%85%d8%b0%d9%87%d9%84%d8%a9-%d8%aa%d8%ad%d9%88%d9%91%d9%84-%d8%a3%d9%81%d9%83/"

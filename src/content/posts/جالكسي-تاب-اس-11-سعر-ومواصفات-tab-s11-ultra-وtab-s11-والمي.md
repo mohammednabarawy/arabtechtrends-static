@@ -5,7 +5,7 @@ pubDate: "2025-09-04T14:02:16"
 updatedDate: "2025-09-06T02:31:53"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["galaxy", "Galaxy", "S11:", "ومواصفات", "Ultra"]
 image: "/uploads/wp/2025/09/1757115110_270_galaxy-tab-s11-----tab-s11-ultra---tab.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-%d8%aa%d8%a7%d8%a8-%d8%a7%d8%b3-11-%d8%b3%d8%b9%d8%b1-%d9%88%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-tab-s11-ultra-%d9%88tab-s11-%d9%88%d8%a7%d9%84%d9%85%d9%8a/"

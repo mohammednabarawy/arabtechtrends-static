@@ -5,7 +5,7 @@ pubDate: "2025-09-10T14:04:57"
 updatedDate: "2025-09-12T13:05:58"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["iPhone", "iPhone17", "المملكة", "العربية"]
 image: "/uploads/wp/2025/09/1757671556_698_iphone-17-pro-iphone17-pro.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%b9%d8%b1-%d8%a7%d9%8a%d9%81%d9%88%d9%86-17-%d8%a8%d8%b1%d9%88-iphone17-pro-%d9%81%d9%8a-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9-%d8%b1%d8%b3%d9%85%d9%8a%d9%8b%d8%a7/"

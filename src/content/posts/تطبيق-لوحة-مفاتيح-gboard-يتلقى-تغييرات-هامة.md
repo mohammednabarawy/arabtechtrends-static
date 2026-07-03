@@ -5,7 +5,7 @@ pubDate: "2025-08-22T16:00:10"
 updatedDate: "2025-08-24T04:56:50"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["يتلقى", "تطبيق", "لوحة", "مفاتيح"]
 image: "/uploads/wp/2025/08/يتلقى-تطبيق-لوحة-مفاتيح-GBOBAR-تغييرات-مهمة-مطلوبة.png"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-%d9%84%d9%88%d8%ad%d8%a9-%d9%85%d9%81%d8%a7%d8%aa%d9%8a%d8%ad-gboard-%d9%8a%d8%aa%d9%84%d9%82%d9%89-%d8%aa%d8%ba%d9%8a%d9%8a%d8%b1%d8%a7%d8%aa-%d9%87%d8%a7%d9%85%d8%a9/"

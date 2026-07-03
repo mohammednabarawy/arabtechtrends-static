@@ -5,7 +5,7 @@ pubDate: "2025-07-29T13:07:40"
 updatedDate: "2025-08-03T02:42:31"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["Samsung", "galaxy"]
 image: "/uploads/wp/2025/08/1754178150_Galaxy-A17-هل-يختطف-الأنوار-ويقود-مبيعات-Samsung؟.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-%d8%a7%d9%89-17-galaxy-a17-%d9%87%d9%84-%d9%8a%d8%ae%d8%b7%d9%81-%d8%a7%d9%84%d8%a3%d8%b6%d9%88%d8%a7%d8%a1-%d9%88%d9%8a%d9%82%d9%88%d8%af-%d9%85%d8%a8%d9%8a/"

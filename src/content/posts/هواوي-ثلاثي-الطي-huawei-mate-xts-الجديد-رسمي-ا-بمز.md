@@ -5,7 +5,7 @@ pubDate: "2025-09-04T15:43:03"
 updatedDate: "2025-09-05T19:31:19"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["Huawei", "Mate", "الجديد", "رسميا"]
 image: "/uploads/wp/2025/09/1757089877_221_huawei-mate-xts.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%87%d9%88%d8%a7%d9%88%d9%8a-%d8%ab%d9%84%d8%a7%d8%ab%d9%8a-%d8%a7%d9%84%d8%b7%d9%8a-huawei-mate-xts-%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af-%d8%b1%d8%b3%d9%85%d9%8a%d9%8b%d8%a7-%d8%a8%d9%85%d8%b2/"

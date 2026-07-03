@@ -5,7 +5,7 @@ pubDate: "2025-10-19T12:10:47"
 updatedDate: "2025-10-21T11:50:48"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["Honor", "تحديث", "واجهة", "MagicOS", "رسميًا"]
 image: "/uploads/wp/2025/10/1761036646_174_magicos-10.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d9%88%d8%a7%d8%ac%d9%87%d8%a9-magicos-10-%d8%b1%d8%b3%d9%85%d9%8a%d9%8b%d8%a7-%d8%a8%d9%85%d8%b2%d8%a7%d9%8a%d8%a7-%d8%ab%d9%88%d8%b1%d9%8a%d8%a9-%d8%a5%d9%84%d9%8a/"

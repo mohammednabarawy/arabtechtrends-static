@@ -5,7 +5,7 @@ pubDate: "2025-12-14T15:53:00"
 updatedDate: "2025-12-14T16:12:14"
 author: "Arab Tech Trends"
 category: "أخبار"
-tags: ["هواوي سلسلة هواتف هواوي نوفا 15 مواعيد الإطلاق الرسمية لهواتف سلسلة نوفا"]
+tags: ["هواوي سلسلة هواتف هواوي نوفا مواعيد", "الإطلاق الرسمية لهواتف سلسلة نوفا"]
 image: "/uploads/wp/2025/12/1765721532_265_huawei-nova.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%85%d9%88%d8%a7%d8%b9%d9%8a%d8%af-%d9%85%d8%ad%d8%aa%d9%85%d9%84%d8%a9-%d9%84%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d8%b3%d9%84%d8%b3%d9%84%d8%a9-huawei-nova-15/"

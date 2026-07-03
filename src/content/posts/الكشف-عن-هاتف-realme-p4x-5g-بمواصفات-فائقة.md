@@ -5,7 +5,7 @@ pubDate: "2025-12-04T14:21:00"
 updatedDate: "2025-12-05T02:05:39"
 author: "Arab Tech Trends"
 category: "أخبار"
-tags: ["Realme بسعر أقل من 180 دولارًا هاتف Realme P4x 5G بمواصفات فائقة فئة متوسطة عليا"]
+tags: ["Realme بسعر أقل 180 دولارًا هاتف", "Realme P4x بمواصفات فائقة فئة", "متوسطة عليا"]
 image: "/uploads/wp/2025/12/1764893137_136_180-----realme-p4x-5g.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a7%d9%84%d9%83%d8%b4%d9%81-%d8%b9%d9%86-%d9%87%d8%a7%d8%aa%d9%81-realme-p4x-5g-%d8%a8%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-%d9%81%d8%a7%d8%a6%d9%82%d8%a9/"

@@ -5,7 +5,7 @@ pubDate: "2025-12-18T14:50:00"
 updatedDate: "2025-12-19T11:13:59"
 author: "Arab Tech Trends"
 category: "أخبار"
-tags: ["ون بلس هاتف OnePlus 15R معالج Snapdragon 8 Gen 5 سعر تنافسي تجربة ذكاء صناعي متطورة أحدث معالج من كوالكوم"]
+tags: ["بلس هاتف OnePlus 15R معالج", "Snapdragon Gen سعر تنافسي تجربة", "ذكاء صناعي متطورة أحدث معالج", "كوالكوم"]
 image: "/uploads/wp/2025/12/1766135637_132_oneplus-15r.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%88%d9%86-%d8%a8%d9%84%d8%b3-%d8%aa%d9%83%d8%b4%d9%81-%d8%b9%d9%86-oneplus-15r/"

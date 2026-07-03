@@ -5,7 +5,7 @@ pubDate: "2025-12-11T15:25:00"
 updatedDate: "2025-12-11T15:43:54"
 author: "Arab Tech Trends"
 category: "أخبار"
-tags: ["موتورولا سباق الهواتف القابلة للطي أول هاتف قابل للطي منافسة Galaxy Z Fold7"]
+tags: ["موتورولا سباق الهواتف القابلة للطي", "أول هاتف قابل للطي منافسة Galaxy", "Fold7"]
 image: "/uploads/wp/2025/12/Motorola-holiday-gifts-02_71259.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%85%d9%88%d8%aa%d9%88%d8%b1%d9%88%d9%84%d8%a7-%d8%aa%d8%af%d8%ae%d9%84-%d8%a3%d8%ae%d9%8a%d8%b1%d8%a7-%d8%b3%d8%a8%d8%a7%d9%82-%d8%a7%d9%84%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d8%a7%d9%84%d9%82%d8%a7%d8/"

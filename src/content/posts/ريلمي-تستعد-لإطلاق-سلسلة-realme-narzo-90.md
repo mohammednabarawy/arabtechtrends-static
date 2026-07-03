@@ -5,7 +5,7 @@ pubDate: "2025-12-08T15:22:00"
 updatedDate: "2025-12-09T06:09:36"
 author: "Arab Tech Trends"
 category: "أخبار"
-tags: ["Realme سلسلة Realme Narzo 90 مواصفات قوية فئة فوق المتوسطة"]
+tags: ["Realme سلسلة Realme Narzo مواصفات", "قوية فئة فوق المتوسطة"]
 image: "/uploads/wp/2025/12/1765253375_24_realme-----realme-narzo-90.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b1%d9%8a%d9%84%d9%85%d9%8a-%d8%aa%d8%b3%d8%aa%d8%b9%d8%af-%d9%84%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d8%b3%d9%84%d8%b3%d9%84%d8%a9-realme-narzo-90/"

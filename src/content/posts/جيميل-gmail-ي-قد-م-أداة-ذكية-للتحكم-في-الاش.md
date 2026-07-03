@@ -5,7 +5,7 @@ pubDate: "2025-07-20T14:07:28"
 updatedDate: "2025-07-24T03:48:43"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["يوفر", "Gmail", "أداة", "ذكية"]
 image: "/uploads/wp/2025/07/1753318121_85_يوفر-Gmail-أداة-ذكية-للتحكم-في-الاشتراكات-بنقرة-واحدة.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d9%8a%d9%85%d9%8a%d9%84-gmail-%d9%8a%d9%8f%d9%82%d8%af%d9%91%d9%85-%d8%a3%d8%af%d8%a7%d8%a9-%d8%b0%d9%83%d9%8a%d8%a9-%d9%84%d9%84%d8%aa%d8%ad%d9%83%d9%85-%d9%81%d9%8a-%d8%a7%d9%84%d8%a7%d8%b4/"

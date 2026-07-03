@@ -5,7 +5,7 @@ pubDate: "2025-09-01T13:58:02"
 updatedDate: "2025-09-02T07:18:30"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["يتلقى", "تطبيق", "هاتف", "Google"]
 image: "/uploads/wp/2025/09/google.png"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-%d8%a7%d9%84%d9%87%d8%a7%d8%aa%d9%81-google-phone-%d9%8a%d8%aa%d9%84%d9%82%d9%89-%d9%85%d9%8a%d8%b2%d8%a9-%d9%87%d8%a7%d9%85%d8%a9-%d9%84%d9%84%d8%ba%d8%a7%d9%8a%d8%a9/"

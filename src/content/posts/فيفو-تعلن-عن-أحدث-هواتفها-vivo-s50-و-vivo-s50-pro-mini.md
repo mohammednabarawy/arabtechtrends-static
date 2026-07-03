@@ -5,7 +5,7 @@ pubDate: "2025-12-16T16:05:00"
 updatedDate: "2025-12-16T16:37:52"
 author: "Arab Tech Trends"
 category: "أخبار"
-tags: ["هاتف vivo vivo S50 وهاتف vivo S50 Pro mini تصميمات جديدة ومعالجات أكثر قوة وبطارية كبيرة بسعة 6500 مللي أمبير"]
+tags: ["هاتف vivo vivo S50 وهاتف vivo S50", "Pro mini تصميمات جديدة ومعالجات", "أكثر قوة وبطارية كبيرة بسعة 6500", "مللي أمبير"]
 image: "/uploads/wp/2025/12/1765895871_5_vivo-------vivo-s50--s50-pro.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%81%d9%8a%d9%81%d9%88-%d8%aa%d8%b9%d9%84%d9%86-%d8%b9%d9%86-%d8%a3%d8%ad%d8%af%d8%ab-%d9%87%d9%88%d8%a7%d8%aa%d9%81%d9%87%d8%a7-vivo-s50-%d9%88-vivo-s50-pro-mini/"

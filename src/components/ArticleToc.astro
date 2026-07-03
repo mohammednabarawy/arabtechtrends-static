@@ -1,0 +1,18 @@
+---
+import type { ArticleHeading } from "../utils/posts";
+
+const { headings } = Astro.props as { headings: ArticleHeading[] };
+---
+
+{headings.length >= 3 && (
+  <nav class="article-toc" aria-label="محتويات المقال">
+    <strong>في هذا المقال</strong>
+    <ol>
+      {headings.map((heading) => (
+        <li class:list={[`level-${heading.level}`]}>
+          <a href={`#${heading.id}`}>{heading.text}</a>
+        </li>
+      ))}
+    </ol>
+  </nav>
+)}

@@ -5,7 +5,7 @@ pubDate: "2025-12-16T16:29:02"
 updatedDate: "2025-12-18T03:01:26"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["realme", "Realme", "يستعد", "للانطلاق"]
 image: "/uploads/wp/2025/12/1766019684_897_realme-16-pro-realme-16-pro.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b1%d9%8a%d9%84%d9%85%d9%8a-16-%d8%a8%d8%b1%d9%88-realme-16-pro-%d9%8a%d8%b3%d8%aa%d8%b9%d8%af-%d9%84%d9%84%d8%a7%d9%86%d8%b7%d9%84%d8%a7%d9%82-%d8%a8%d8%aa%d8%b5%d9%85%d9%8a%d9%85-%d9%85%d8%b0/"

@@ -2,11 +2,13 @@
 import { getCollection } from "astro:content";
 import PostCard from "../components/PostCard.astro";
 import BaseLayout from "../layouts/BaseLayout.astro";
-import { categories } from "../site";
-import { filterPostsByCategory, getPostImage, sortPosts } from "../utils/posts";
+import { pillarGuides } from "../guides";
+import { categories, telegramChannelUrl } from "../site";
+import { getPostImage, sortPosts, withBase } from "../utils/posts";
 
 const allPosts = sortPosts(await getCollection("posts", ({ data }) => !data.draft));
 const posts = allPosts.slice(0, 120);
+const guidePosts = allPosts.filter((p) => /شرح|دليل|كيفية|أفضل/i.test(p.data.title)).slice(0, 4);
 
 const [featured, ...rest] = posts;
 const sidePosts = rest.slice(0, 4);
@@ -37,7 +39,6 @@ const sectionGroups = [
 const tickerPosts = posts.slice(0, 8);
 
 const base = import.meta.env.BASE_URL.endsWith("/") ? import.meta.env.BASE_URL : `${import.meta.env.BASE_URL}/`;
-const withBase = (path: string) => path.startsWith("http") ? path : `${base}${path.replace(/^\/+/, "")}`;
 const featuredImage = featured ? getPostImage(featured) : undefined;
 ---
 
@@ -46,20 +47,42 @@ const featuredImage = featured ? getPostImage(featured) : undefined;
     <strong>عاجل</strong>
     <div class="ticker__track">
       {tickerPosts.map((post) => (
-        <a class="ticker__link" href={withBase(`/posts/${post.slug}/`)}>
+        <a class="ticker__link" href={withBase(`/posts/${post.slug}/`, base)}>
           {post.data.title}
         </a>
       ))}
     </div>
   </section>
 
+  <section class="subscribe-strip" aria-label="اشترك في التحديثات">
+    <div>
+      <strong>لا تفوّت أخبار التقنية</strong>
+      <p>اشترك عبر RSS أو تابعنا على الشبكات الاجتماعية</p>
+    </div>
+    <div class="subscribe-strip__actions">
+      <a class="btn-primary" href={withBase("/feed.xml", base)}>RSS</a>
+      {telegramChannelUrl && (
+        <a class="btn-outline" href={telegramChannelUrl} rel="noopener noreferrer">تيليجرام</a>
+      )}
+      <a class="btn-outline" href={withBase("/guides/", base)}>أدلة شاملة</a>
+    </div>
+  </section>
+
   <section class="hero">
     {featured && (
-      <a class="lead-card" href={withBase(`/posts/${featured.slug}/`)}>
+      <a class="lead-card" href={withBase(`/posts/${featured.slug}/`, base)}>
         {(() => {
           const img = getPostImage(featured);
           return img ? (
-            <img src={withBase(img)} alt={featured.data.title} loading="eager" decoding="async" />
+            <img
+              src={withBase(img, base)}
+              alt={featured.data.title}
+              loading="eager"
+              fetchpriority="high"
+              decoding="async"
+              width="1200"
+              height="675"
+            />
           ) : (
             <span class="media-fallback">ATT</span>
           );
@@ -73,9 +96,9 @@ const featuredImage = featured ? getPostImage(featured) : undefined;
       {sidePosts.map((post) => {
         const img = getPostImage(post);
         return (
-          <a href={withBase(`/posts/${post.slug}/`)}>
+          <a href={withBase(`/posts/${post.slug}/`, base)}>
             {img ? (
-              <img src={withBase(img)} alt={post.data.title} loading="lazy" decoding="async" />
+              <img src={withBase(img, base)} alt={post.data.title} loading="lazy" decoding="async" />
             ) : (
               <span class="media-fallback">{post.data.category.slice(0, 2)}</span>
             )}
@@ -87,9 +110,36 @@ const featuredImage = featured ? getPostImage(featured) : undefined;
     </div>
   </section>
 
+  <section class="section-block">
+    <div class="section-head">
+      <h2>أدلة شاملة</h2>
+      <a href={withBase("/guides/", base)}>كل الأدلة</a>
+    </div>
+    <div class="pillar-grid pillar-grid--compact">
+      {pillarGuides.map((guide) => (
+        <a class="pillar-card" href={withBase(`/guides/${guide.slug}/`, base)}>
+          <h3>{guide.title}</h3>
+          <p>{guide.description}</p>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  {guidePosts.length > 0 && (
+    <section class="section-block">
+      <div class="section-head">
+        <h2>شروحات مميزة</h2>
+        <a href={withBase("/category/guides/", base)}>المزيد</a>
+      </div>
+      <div class="post-grid compact-grid">
+        {guidePosts.map((post) => <PostCard post={post} compact />)}
+      </div>
+    </section>
+  )}
+
   <section class="section-head">
     <h2>مقالات حديثة</h2>
-    <a href={withBase("/posts/")}>كل المقالات</a>
+    <a href={withBase("/posts/", base)}>كل المقالات</a>
   </section>
 
   <div class="post-grid">
@@ -100,7 +150,7 @@ const featuredImage = featured ? getPostImage(featured) : undefined;
     <section class="section-block">
       <div class="section-head">
         <h2>{group.title}</h2>
-        <a href={withBase(`/category/${group.slug}/`)}>المزيد</a>
+        <a href={withBase(`/category/${group.slug}/`, base)}>المزيد</a>
       </div>
       <div class="post-grid compact-grid">
         {group.posts.map((post) => <PostCard post={post} compact />)}

@@ -5,7 +5,7 @@ pubDate: "2025-11-06T17:12:24"
 updatedDate: "2025-11-10T22:43:15"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["iPhone", "يظهر", "تسريب"]
 image: "/uploads/wp/2025/11/1762807394_649_iphone-18-air-----iphone-18-air.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a7%d9%8a%d9%81%d9%88%d9%86-18-%d8%a7%d9%8a%d8%b1-iphone-18-air-%d9%8a%d8%b8%d9%87%d8%b1-%d9%81%d9%8a-%d8%a3%d9%88%d9%84-%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8-%d8%a8%d8%aa%d8%b5%d9%85%d9%8a%d9%85-%d9%81/"

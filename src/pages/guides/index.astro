@@ -1,0 +1,27 @@
+---
+import Breadcrumbs from "../../components/Breadcrumbs.astro";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { pillarGuides } from "../../guides";
+import { withBase } from "../../utils/posts";
+
+const base = import.meta.env.BASE_URL.endsWith("/") ? import.meta.env.BASE_URL : `${import.meta.env.BASE_URL}/`;
+---
+
+<BaseLayout title="أدلة شاملة | عرب تك" canonicalPath="/guides/">
+  <Breadcrumbs items={[{ label: "الرئيسية", href: "/" }, { label: "أدلة شاملة" }]} />
+  <section class="page-head">
+    <p class="eyebrow">مواضيع رئيسية</p>
+    <h1>أدلة شاملة</h1>
+    <p class="page-meta">صفحات مرجعية تجمع أفضل المقالات حول كل موضوع</p>
+  </section>
+
+  <div class="pillar-grid">
+    {pillarGuides.map((guide) => (
+      <a class="pillar-card" href={withBase(`/guides/${guide.slug}/`, base)}>
+        <h2>{guide.title}</h2>
+        <p>{guide.description}</p>
+        <span>استكشف الدليل ←</span>
+      </a>
+    ))}
+  </div>
+</BaseLayout>

@@ -5,7 +5,7 @@ pubDate: "2025-11-25T17:02:00"
 updatedDate: "2025-11-26T03:15:14"
 author: "Arab Tech Trends"
 category: "أخبار"
-tags: ["هواوي الهاتف الذكي Mate 80 Pro Max هاتف Huawei Mate 80 RS Ultimate Design أقوى هواتف السلسلة الجديدة"]
+tags: ["هواوي الهاتف الذكي Mate Pro Max", "هاتف Huawei Mate Ultimate Design", "أقوى هواتف السلسلة الجديدة"]
 image: "/uploads/wp/2025/11/1764119712_952_mate-80-pro-max--mate-80.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%87%d9%88%d8%a7%d9%88%d9%8a-%d8%aa%d9%83%d8%b4%d9%81-%d8%b9%d9%86-mate-80-pro-max-%d9%88-mate-80-rs-ultimate-design/"

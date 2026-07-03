@@ -5,7 +5,7 @@ pubDate: "2025-08-27T20:39:05"
 updatedDate: "2025-08-31T20:07:56"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["Gemini", "يتلقى", "تطبيق", "تحديثًا"]
 image: "/uploads/wp/2025/08/يتلقى-تطبيق-Gemini-تحديثًا-ضخمًا-مع-ميزات-قوية-لتحرير-الصور.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-gemini-%d9%8a%d8%aa%d9%84%d9%82%d9%89-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab%d9%8b%d8%a7-%d8%b6%d8%ae%d9%85%d9%8b%d8%a7-%d8%a8%d9%85%d8%b2%d8%a7%d9%8a%d8%a7-%d9%82%d9%88%d9%8a/"

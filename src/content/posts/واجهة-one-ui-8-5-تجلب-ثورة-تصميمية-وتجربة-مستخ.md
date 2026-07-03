@@ -5,7 +5,7 @@ pubDate: "2025-09-26T13:05:33"
 updatedDate: "2025-09-29T05:55:09"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["واجهة", "المستخدم", "واحدة"]
 image: "/uploads/wp/2025/09/85.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-one-ui-8-5-%d8%aa%d8%ac%d9%84%d8%a8-%d8%ab%d9%88%d8%b1%d8%a9-%d8%aa%d8%b5%d9%85%d9%8a%d9%85%d9%8a%d8%a9-%d9%88%d8%aa%d8%ac%d8%b1%d8%a8%d8%a9-%d9%85%d8%b3%d8%aa%d8%ae/"

@@ -5,7 +5,7 @@ pubDate: "2025-08-22T20:09:42"
 updatedDate: "2025-08-22T20:09:44"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["سلسلة", "الهواتف", "Google", "مراجعة"]
 image: "/uploads/wp/2025/08/1755882581_987_سلسلة-الهواتف-من-Google-10-مراجعة-شاملة-للمواصفات-والأسعار-والميزات.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%25d8%25b3%25d9%2584%25d8%25b3%25d9%2584%25d8%25a9-%25d9%2587%25d9%2588%25d8%25a7%25d8%25aa%25d9%2581-%25d8%25ac%25d9%2588%25d8%25ac%25d9%2584-pixel-10/"

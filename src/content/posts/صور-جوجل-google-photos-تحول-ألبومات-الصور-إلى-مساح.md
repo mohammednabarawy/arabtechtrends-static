@@ -5,7 +5,7 @@ pubDate: "2025-08-08T17:37:43"
 updatedDate: "2025-08-12T18:43:12"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["تضيف", "Google", "ميزة", "الرموز"]
 image: "/uploads/wp/2025/08/1755013390_661_تضيف-صور-Google-ميزة-الرموز-التعبيرية-في-الألبومات-المشتركة.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b5%d9%88%d8%b1-%d8%ac%d9%88%d8%ac%d9%84-google-photos-%d8%aa%d8%ad%d9%88%d9%84-%d8%a3%d9%84%d8%a8%d9%88%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%b5%d9%88%d8%b1-%d8%a5%d9%84%d9%89-%d9%85%d8%b3%d8%a7%d8%ad/"

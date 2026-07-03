@@ -5,7 +5,7 @@ pubDate: "2025-12-12T16:20:00"
 updatedDate: "2025-12-13T07:01:33"
 author: "Arab Tech Trends"
 category: "أخبار"
-tags: ["بأقل من 165 دولارًا","تسريب التفاصيل الكاملة لسلسلة Narzo 90 من Realme"]
+tags: ["بأقل من 165 دولارًا", "تسريب التفاصيل الكاملة لسلسلة Narzo", "Realme"]
 image: "/uploads/wp/2025/12/1765602087_407_165-----------narzo-90.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8-%d8%a7%d9%84%d8%aa%d9%81%d8%a7%d8%b5%d9%8a%d9%84-%d8%a7%d9%84%d9%83%d8%a7%d9%85%d9%84%d8%a9-%d9%84%d8%b3%d9%84%d8%b3%d9%84%d8%a9-narzo-90-%d9%82%d8%a8%d9%84-%d8%a7%d9%84/"

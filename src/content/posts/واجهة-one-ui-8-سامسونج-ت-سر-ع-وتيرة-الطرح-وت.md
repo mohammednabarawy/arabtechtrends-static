@@ -5,7 +5,7 @@ pubDate: "2025-08-09T20:09:17"
 updatedDate: "2025-08-10T10:24:54"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["Samsung", "تقوم", "بتسريع", "وتيرة"]
 image: "/uploads/wp/2025/08/تقوم-Samsung-بتسريع-وتيرة-العرض-وتعلن-عن-خطة-شاملة-للتحديث.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-one-ui-8-%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-%d8%aa%d9%8f%d8%b3%d8%b1%d9%91%d8%b9-%d9%88%d8%aa%d9%8a%d8%b1%d8%a9-%d8%a7%d9%84%d8%b7%d8%b1%d8%ad-%d9%88%d8%aa/"

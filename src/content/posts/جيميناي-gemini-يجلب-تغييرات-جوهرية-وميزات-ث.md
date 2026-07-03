@@ -5,7 +5,7 @@ pubDate: "2025-07-26T21:11:55"
 updatedDate: "2025-07-30T00:16:42"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["Gemini", "يجلب", "التغييرات", "الأساسية"]
 image: "/uploads/wp/2025/07/1753823800_2_يجلب-Gemini-التغييرات-الأساسية-والميزات-الثورية-لإصدار-الويب.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d9%8a%d9%85%d9%8a%d9%86%d8%a7%d9%8a-gemini-%d9%8a%d8%ac%d9%84%d8%a8-%d8%aa%d8%ba%d9%8a%d9%8a%d8%b1%d8%a7%d8%aa-%d8%ac%d9%88%d9%87%d8%b1%d9%8a%d8%a9-%d9%88%d9%85%d9%8a%d8%b2%d8%a7%d8%aa-%d8%ab/"

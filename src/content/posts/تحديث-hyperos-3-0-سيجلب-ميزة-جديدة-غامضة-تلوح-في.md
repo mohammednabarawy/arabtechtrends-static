@@ -5,7 +5,7 @@ pubDate: "2025-07-07T17:29:45"
 updatedDate: "2025-07-11T06:26:26"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["HyperOS", "يجلب", "تحديث", "Hyperos", "ميزة"]
 image: "/uploads/wp/2025/07/1752204384_599_سوف-يجلب-تحديث-Hyperos-30-ميزة-جديدة-غامضة-تلوح-في.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-hyperos-3-0-%d8%b3%d9%8a%d8%ac%d9%84%d8%a8-%d9%85%d9%8a%d8%b2%d8%a9-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%ba%d8%a7%d9%85%d8%b6%d8%a9-%d8%aa%d9%84%d9%88%d8%ad-%d9%81%d9%8a/"

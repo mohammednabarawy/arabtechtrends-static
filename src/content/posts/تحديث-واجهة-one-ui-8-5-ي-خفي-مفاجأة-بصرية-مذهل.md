@@ -5,7 +5,7 @@ pubDate: "2025-10-19T22:02:55"
 updatedDate: "2025-10-20T00:45:19"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["One UI", "تحديث", "واجهة", "يخفي", "مفاجأة"]
 image: "/uploads/wp/2025/10/1760910319_one-ui-85.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d9%88%d8%a7%d8%ac%d9%87%d8%a9-one-ui-8-5-%d9%8a%d9%8f%d8%ae%d9%81%d9%8a-%d9%85%d9%81%d8%a7%d8%ac%d8%a3%d8%a9-%d8%a8%d8%b5%d8%b1%d9%8a%d8%a9-%d9%85%d8%b0%d9%87%d9%84/"

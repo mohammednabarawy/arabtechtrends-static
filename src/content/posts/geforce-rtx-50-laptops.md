@@ -5,7 +5,7 @@ pubDate: "2025-12-26T00:33:39"
 updatedDate: "2025-12-26T00:33:42"
 author: "Arab Tech Trends"
 category: "ألعاب"
-tags: []
+tags: ["ثورة", "الكمبيوتر", "المحمول", "مصر:"]
 image: "/uploads/wp/2025/12/1766702012_876_rtx-50---------nvidia.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/geforce-rtx-50-laptops/"

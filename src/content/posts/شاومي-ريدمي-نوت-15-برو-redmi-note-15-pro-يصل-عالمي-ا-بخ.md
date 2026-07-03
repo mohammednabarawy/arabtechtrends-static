@@ -5,7 +5,7 @@ pubDate: "2025-12-18T12:23:52"
 updatedDate: "2025-12-23T02:29:49"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["Xiaomi", "Redmi", "Note"]
 image: "/uploads/wp/2025/12/1766449788_665_xiaomi-redmi-note-15-pro---redmi-note-15-pro.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%b1%d9%8a%d8%af%d9%85%d9%8a-%d9%86%d9%88%d8%aa-15-%d8%a8%d8%b1%d9%88-redmi-note-15-pro-%d9%8a%d8%b5%d9%84-%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d9%8b%d8%a7-%d8%a8%d8%ae/"

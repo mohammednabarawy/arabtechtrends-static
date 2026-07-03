@@ -5,7 +5,7 @@ pubDate: "2025-07-07T12:30:46"
 updatedDate: "2025-07-08T11:16:13"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["تحويل", "صورتك", "بالذكاء", "الاصطناعي"]
 image: "/uploads/blogger/d7406018ebfb--.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/image-to-image-ai-generator-html/"

@@ -5,7 +5,7 @@ pubDate: "2025-11-06T18:57:25"
 updatedDate: "2025-11-10T15:42:27"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["galaxy", "سيأتي", "Galaxy", "Ultra", "بشحن"]
 image: "/uploads/wp/2025/11/1762782146_732_galaxy-s26-ultra.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-%d8%a7%d8%b3-26-%d8%a7%d9%84%d8%aa%d8%b1%d8%a7-galaxy-s26-ultra-%d8%b3%d9%8a%d8%a3%d8%aa%d9%8a-%d9%85%d8%b9-%d8%b4%d8%ad%d9%86-%d9%81%d8%a7%d8%a6%d9%82-%d8%a7/"

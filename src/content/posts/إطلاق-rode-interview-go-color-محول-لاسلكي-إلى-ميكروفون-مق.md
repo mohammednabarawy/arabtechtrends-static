@@ -5,7 +5,7 @@ pubDate: "2025-11-04T21:37:25"
 updatedDate: "2025-11-05T09:06:55"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["محول", "لاسلكي", "لميكروفون", "المقابلة"]
 image: "/uploads/wp/2025/11/rode-interview-go-amazon-feature-to-the-sky-pink-4000x4000-rgb.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-rode-interview-go-color-%d9%85%d8%ad%d9%88%d9%84-%d9%84%d8%a7%d8%b3%d9%84%d9%83%d9%8a-%d8%a5%d9%84%d9%89-%d9%85%d9%8a%d9%83%d8%b1%d9%88%d9%81%d9%88%d9%86-%d9%85%d9%82/"

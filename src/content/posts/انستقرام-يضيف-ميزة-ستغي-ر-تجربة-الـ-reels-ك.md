@@ -5,7 +5,7 @@ pubDate: "2025-08-22T13:38:04"
 updatedDate: "2025-08-24T12:01:12"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["يضيف", "Instagram", "ميزة", "شأنها"]
 image: "/uploads/wp/2025/08/يضيف-Instagram-ميزة-من-شأنها-تغيير-تجربة-بكرات-تمامًا.png"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a7%d9%86%d8%b3%d8%aa%d9%82%d8%b1%d8%a7%d9%85-%d9%8a%d8%b6%d9%8a%d9%81-%d9%85%d9%8a%d8%b2%d8%a9-%d8%b3%d8%aa%d8%ba%d9%8a%d9%91%d8%b1-%d8%aa%d8%ac%d8%b1%d8%a8%d8%a9-%d8%a7%d9%84%d9%80-reels-%d9%83/"

@@ -5,7 +5,7 @@ pubDate: "2025-08-25T19:09:49"
 updatedDate: "2025-08-26T13:21:43"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["يوفر", "تطبيق", "Google", "Messenger"]
 image: "/uploads/wp/2025/08/1756203700_308_يوفر-تطبيق-Google-Messenger-ميزة-ثورية-مهمة-ومطلوبة-للغاية.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-google-messages-%d9%8a%d9%82%d8%af%d9%85-%d9%85%d9%8a%d8%b2%d8%a9-%d8%ab%d9%88%d8%b1%d9%8a%d8%a9-%d9%87%d8%a7%d9%85%d8%a9-%d9%88%d9%85%d8%b7%d9%84%d9%88%d8%a8%d8%a9/"

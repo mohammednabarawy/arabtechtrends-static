@@ -5,7 +5,7 @@ pubDate: "2025-09-09T21:15:12"
 updatedDate: "2025-09-14T00:14:10"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["iPhone", "ومواصفات", "وأهم", "الميزات"]
 image: "/uploads/wp/2025/09/1757798048_585_iphone-17-air-17-air.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%b9%d8%b1-%d9%88%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-%d8%a7%d9%8a%d9%81%d9%88%d9%86-17-%d8%a7%d9%8a%d8%b1-iphone-17-air-%d9%88%d8%a3%d9%87%d9%85-%d8%a7%d9%84%d9%85%d9%85%d9%8a%d8%b2/"

@@ -5,7 +5,7 @@ pubDate: "2025-07-08T00:39:04"
 updatedDate: "2025-07-08T11:09:11"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["إنشاء", "محفظة", "ميتا", "ماسك"]
 image: "/uploads/blogger/c6960cd8a324--.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/metamask-html/"

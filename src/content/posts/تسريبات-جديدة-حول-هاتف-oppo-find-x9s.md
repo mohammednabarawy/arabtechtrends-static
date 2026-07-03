@@ -5,7 +5,7 @@ pubDate: "2025-12-29T14:26:00"
 updatedDate: "2025-12-29T19:11:57"
 author: "Arab Tech Trends"
 category: "أخبار"
-tags: ["أوبو","تسريبات جديدة هاتف أوبو Find X9s مواصفات قوية","تطور كبير في الكاميرات","سلسلة أوبو Find X9"]
+tags: ["أوبو", "تسريبات جديدة هاتف أوبو Find X9s", "مواصفات قوية", "تطور كبير في الكاميرات", "سلسلة أوبو Find X9"]
 image: "/uploads/wp/2025/12/1767028316_oppo-find-x9s.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8%d8%a7%d8%aa-%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%ad%d9%88%d9%84-%d9%87%d8%a7%d8%aa%d9%81-oppo-find-x9s/"

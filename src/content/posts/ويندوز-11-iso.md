@@ -5,7 +5,7 @@ pubDate: "2025-12-27T03:43:38"
 updatedDate: "2025-12-27T03:43:41"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["Windows", "تنزيل", "(ISO", "25H2/24H2)"]
 image: "/uploads/wp/2025/12/1766799813_920_windows-11-iso-25h224h2---------2025.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%88%d9%8a%d9%86%d8%af%d9%88%d8%b2-11-iso/"

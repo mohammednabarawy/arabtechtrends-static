@@ -5,7 +5,7 @@ pubDate: "2025-11-27T15:56:00"
 updatedDate: "2025-11-27T18:37:35"
 author: "Arab Tech Trends"
 category: "أخبار"
-tags: ["حافظة تبريد سائلة بمضخة صغيرة من هواوي سلسلة Mate 80 شحن لاسلكي عكسي ذاتي التشغيل"]
+tags: ["حافظة تبريد سائلة بمضخة صغيرة هواوي", "سلسلة Mate شحن لاسلكي عكسي ذاتي", "التشغيل"]
 image: "/uploads/wp/2025/11/1764261454_566_huawei---------mate-80.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%87%d9%88%d8%a7%d9%88%d9%8a-%d8%aa%d8%b7%d9%84%d9%82-%d8%ad%d8%a7%d9%81%d8%b8%d8%a9-%d8%aa%d8%a8%d8%b1%d9%8a%d8%af-%d8%b3%d8%a7%d8%a6%d9%84-%d9%84%d8%b3%d9%84%d8%b3%d9%84%d8%a9-mate-80/"

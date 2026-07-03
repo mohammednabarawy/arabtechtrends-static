@@ -1,3 +1,10 @@
+@import "@fontsource/noto-kufi-arabic/500.css";
+@import "@fontsource/noto-kufi-arabic/700.css";
+@import "@fontsource/noto-kufi-arabic/800.css";
+@import "@fontsource/noto-naskh-arabic/400.css";
+@import "@fontsource/noto-naskh-arabic/600.css";
+@import "@fontsource/noto-naskh-arabic/700.css";
+
 :root {
   color-scheme: light;
   --bg: #eef1f5;
@@ -706,6 +713,21 @@ body.nav-open .nav-backdrop {
   list-style: none;
 }
 
+.tag-list a {
+  display: inline-block;
+  padding: 6px 12px;
+  background: var(--bg);
+  border: 1px solid var(--line);
+  font-family: "Noto Kufi Arabic", sans-serif;
+  font-size: 13px;
+  transition: border-color var(--transition), color var(--transition);
+}
+
+.tag-list a:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
 .tag-list span {
   padding: 6px 12px;
   background: var(--bg);
@@ -713,6 +735,223 @@ body.nav-open .nav-backdrop {
   font-family: "Noto Kufi Arabic", sans-serif;
   font-size: 13px;
 }
+
+.share-bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+  margin: 16px 0 20px;
+  padding: 12px 14px;
+  background: var(--bg);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  font-family: "Noto Kufi Arabic", sans-serif;
+  font-size: 14px;
+}
+
+.share-bar a,
+.share-bar button {
+  padding: 6px 14px;
+  border-radius: 999px;
+  border: 1px solid var(--line);
+  background: var(--surface);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 13px;
+}
+
+.share-bar__wa {
+  background: #25d366 !important;
+  border-color: #25d366 !important;
+  color: white !important;
+}
+
+.article-toc {
+  margin: 20px 0 24px;
+  padding: 16px 18px;
+  background: var(--accent-soft);
+  border: 1px solid rgb(220 31 50 / 0.2);
+  border-radius: var(--radius);
+}
+
+.article-toc strong {
+  display: block;
+  margin-bottom: 10px;
+  font-family: "Noto Kufi Arabic", sans-serif;
+}
+
+.article-toc ol {
+  margin: 0;
+  padding: 0 20px 0 0;
+}
+
+.article-toc li.level-3 {
+  margin-inline-start: 16px;
+  font-size: 14px;
+}
+
+.pillar-callout {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  margin: 0 0 20px;
+  padding: 14px 16px;
+  background: var(--dark);
+  color: white;
+  border-radius: var(--radius);
+  font-family: "Noto Kufi Arabic", sans-serif;
+}
+
+.pillar-callout a {
+  color: #fecdd3;
+  font-weight: 700;
+}
+
+.subscribe-strip {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 18px;
+  padding: 18px 20px;
+  background: var(--dark);
+  color: white;
+  border-radius: var(--radius);
+}
+
+.subscribe-strip p {
+  margin: 4px 0 0;
+  color: #cbd5e1;
+  font-size: 14px;
+}
+
+.subscribe-strip__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.btn-primary,
+.btn-outline {
+  padding: 8px 16px;
+  border-radius: 999px;
+  font-family: "Noto Kufi Arabic", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.btn-primary {
+  background: var(--accent);
+  color: white;
+}
+
+.btn-outline {
+  border: 1px solid rgb(255 255 255 / 0.35);
+  color: white;
+}
+
+.pillar-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 16px;
+  margin-bottom: 24px;
+}
+
+.pillar-grid--compact {
+  margin-bottom: 0;
+}
+
+.pillar-card {
+  display: grid;
+  gap: 8px;
+  padding: 20px;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-sm);
+  transition: transform var(--transition), border-color var(--transition);
+}
+
+.pillar-card:hover {
+  transform: translateY(-2px);
+  border-color: rgb(220 31 50 / 0.35);
+}
+
+.pillar-card h2,
+.pillar-card h3 {
+  margin: 0;
+  font-family: "Noto Kufi Arabic", sans-serif;
+  font-size: 18px;
+}
+
+.pillar-card p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+.pillar-card span {
+  color: var(--accent);
+  font-family: "Noto Kufi Arabic", sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.tag-cloud {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 0 0 48px;
+  padding: 0;
+  list-style: none;
+}
+
+.tag-cloud a {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 14px;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  font-family: "Noto Kufi Arabic", sans-serif;
+  font-size: 14px;
+}
+
+.tag-cloud small {
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.faq-list details {
+  margin-bottom: 12px;
+  padding: 14px 16px;
+  background: var(--bg);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+}
+
+.faq-list summary {
+  cursor: pointer;
+  font-family: "Noto Kufi Arabic", sans-serif;
+  font-weight: 700;
+}
+
+.faq-list p {
+  margin: 10px 0 0;
+  color: var(--muted);
+}
+
+.cover {
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+}
+
 
 .article-body :where(img) {
   max-width: 100%;

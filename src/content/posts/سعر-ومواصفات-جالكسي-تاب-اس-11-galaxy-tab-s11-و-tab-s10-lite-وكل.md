@@ -5,7 +5,7 @@ pubDate: "2025-08-09T12:30:45"
 updatedDate: "2025-08-11T14:28:14"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["galaxy", "ومواصفات", "Galaxy"]
 image: "/uploads/wp/2025/08/سعر-ومواصفات-Galaxy-Tab-S-11.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%b9%d8%b1-%d9%88%d9%85%d9%88%d8%a7%d8%b5%d9%81%d8%a7%d8%aa-%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-%d8%aa%d8%a7%d8%a8-%d8%a7%d8%b3-11-galaxy-tab-s11-%d9%88-tab-s10-lite-%d9%88%d9%83%d9%84/"

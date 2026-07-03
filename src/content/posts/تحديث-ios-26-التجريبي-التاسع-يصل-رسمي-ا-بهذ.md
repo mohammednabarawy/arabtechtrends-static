@@ -5,7 +5,7 @@ pubDate: "2025-09-03T19:35:42"
 updatedDate: "2025-09-06T23:36:33"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["iPhone", "التحديث", "التجريبي", "التاسع", "المزايا"]
 image: "/uploads/wp/2025/09/1757190991_26---------iphone.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-ios-26-%d8%a7%d9%84%d8%aa%d8%ac%d8%b1%d9%8a%d8%a8%d9%8a-%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d8%b9-%d9%8a%d8%b5%d9%84-%d8%b1%d8%b3%d9%85%d9%8a%d9%8b%d8%a7-%d8%a8%d9%87%d8%b0/"

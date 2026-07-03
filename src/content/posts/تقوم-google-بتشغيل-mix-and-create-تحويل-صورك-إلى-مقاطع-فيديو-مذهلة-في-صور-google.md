@@ -5,7 +5,7 @@ pubDate: "2025-07-25T04:05:13"
 updatedDate: "2025-07-25T04:05:16"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["تقوم", "Google", "بتشغيل", "\\\"Mix"]
 image: "/uploads/wp/2025/07/1753405513_106_تقوم-Google-بتشغيل-Mix-and-Create-تحويل-صورك-إلى-مقاطع.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%25d8%25ac%25d9%2588%25d8%25ac%25d9%2584-%25d8%25aa%25d8%25b7%25d9%2584%25d9%2582-mix-and-create-%25d8%25ad%25d9%2588%25d9%2591%25d9%2584-%25d8%25b5%25d9%25/"

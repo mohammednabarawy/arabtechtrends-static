@@ -5,7 +5,7 @@ pubDate: "2025-08-12T19:08:36"
 updatedDate: "2025-08-13T15:53:41"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["galaxy", "يظهر", "Galaxy", "Edge", "Geekbench"]
 image: "/uploads/wp/2025/08/1755089619_352_يظهر-Galaxy-S26-Edge-على-Geekbench-مع-أداء-فائق.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-%d8%a7%d8%b3-26-%d8%a7%d9%8a%d8%af%d8%ac-galaxy-s26-edge-%d9%8a%d8%b8%d9%87%d8%b1-%d8%b9%d9%84%d9%89-geekbench-%d8%a8%d8%a3%d8%af%d8%a7%d8%a1-%d8%ae%d8%a7%d8%b1/"

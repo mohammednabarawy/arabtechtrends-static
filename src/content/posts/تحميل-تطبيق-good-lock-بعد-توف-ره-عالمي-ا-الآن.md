@@ -5,7 +5,7 @@ pubDate: "2025-10-26T10:58:13"
 updatedDate: "2025-10-26T11:18:27"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["سامسونج", "بتنزيل", "تطبيق", "Good", "Lock،"]
 image: "/uploads/wp/2025/10/good-lock.png"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d9%85%d9%8a%d9%84-%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-good-lock-%d8%a8%d8%b9%d8%af-%d8%aa%d9%88%d9%81%d9%91%d8%b1%d9%87-%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d9%8b%d8%a7-%d8%a7%d9%84%d8%a2%d9%86/"

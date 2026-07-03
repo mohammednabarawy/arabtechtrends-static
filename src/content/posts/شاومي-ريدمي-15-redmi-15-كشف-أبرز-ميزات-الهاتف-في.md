@@ -5,7 +5,7 @@ pubDate: "2025-07-27T17:21:12"
 updatedDate: "2025-07-28T20:12:05"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["Xiaomi", "Redmi", "&#8211;"]
 image: "/uploads/wp/2025/07/1753722721_104_Xiaomi-Redmi-15-Redmi-15-تكشف-عن-أبرز-ميزات.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%b1%d9%8a%d8%af%d9%85%d9%8a-15-redmi-15-%d9%83%d8%b4%d9%81-%d8%a3%d8%a8%d8%b1%d8%b2-%d9%85%d9%8a%d8%b2%d8%a7%d8%aa-%d8%a7%d9%84%d9%87%d8%a7%d8%aa%d9%81-%d9%81%d9%8a/"

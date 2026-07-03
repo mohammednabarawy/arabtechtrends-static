@@ -5,7 +5,7 @@ pubDate: "2025-07-06T03:09:57"
 updatedDate: "2025-07-07T10:55:06"
 author: "Arab Tech Trends"
 category: "ألعاب"
-tags: []
+tags: ["ألعاب", "متعددة", "اللاعبين", "للكمبيوتر"]
 image: "/uploads/wp/2025/07/ألعاب-متعددة-اللاعبين-للكمبيوتر-2025-دليلك-الشامل-لأفضل-16-لعبة.jpeg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%25d8%25a3%25d9%2581%25d8%25b6%25d9%2584-%25d8%25a3%25d9%2584%25d8%25b9%25d8%25a7%25d8%25a8-%25d9%2585%25d8%25aa%25d8%25b9%25d8%25af%25d8%25af%25d8%25a9-%25/"

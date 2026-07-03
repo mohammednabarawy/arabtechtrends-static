@@ -5,7 +5,7 @@ pubDate: "2025-07-16T18:09:20"
 updatedDate: "2025-07-20T22:29:00"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["galaxy", "Galaxy", "Ultra", "تغييرات", "جريئة"]
 image: "/uploads/wp/2025/07/1753039738_913_Galaxy-Tab-S11-Ultra-مع-تغييرات-جريئة-وتسربات-مثيرة-حول.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-%d8%aa%d8%a7%d8%a8-galaxy-tab-s11-ultra-%d8%a8%d8%aa%d8%ba%d9%8a%d9%8a%d8%b1%d8%a7%d8%aa-%d8%ac%d8%b1%d9%8a%d8%a6%d8%a9-%d9%88%d8%aa%d8%b3%d8%b1%d9%8a%d8%a8/"

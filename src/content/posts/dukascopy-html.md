@@ -5,7 +5,7 @@ pubDate: "2025-07-08T06:40:38"
 updatedDate: "2025-07-08T11:07:01"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["حساب", "Dukascopy", "دوكاسكوبي"]
 image: "/uploads/blogger/1c240f98285d--Dukascopy.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/dukascopy-html/"

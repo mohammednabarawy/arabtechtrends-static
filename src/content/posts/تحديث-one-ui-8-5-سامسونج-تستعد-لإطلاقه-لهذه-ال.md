@@ -5,7 +5,7 @@ pubDate: "2025-10-03T13:14:52"
 updatedDate: "2025-10-05T02:37:28"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["Samsung", "تستعد", "لإطلاق", "الهواتف!"]
 image: "/uploads/wp/2025/10/1759621048_samsung.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui-8-5-%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%d8%ac-%d8%aa%d8%b3%d8%aa%d8%b9%d8%af-%d9%84%d8%a5%d8%b7%d9%84%d8%a7%d9%82%d9%87-%d9%84%d9%87%d8%b0%d9%87-%d8%a7%d9%84/"

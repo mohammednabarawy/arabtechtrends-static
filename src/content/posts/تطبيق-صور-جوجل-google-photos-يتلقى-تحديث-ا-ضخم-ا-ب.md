@@ -5,7 +5,7 @@ pubDate: "2025-08-14T19:39:59"
 updatedDate: "2025-08-18T15:25:41"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["يتلقى", "تطبيق", "Google", "تحديثًا"]
 image: "/uploads/wp/2025/08/يتلقى-تطبيق-صور-Google-تحديثًا-ضخمًا-بميزات-رهيبة.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-%d8%b5%d9%88%d8%b1-%d8%ac%d9%88%d8%ac%d9%84-google-photos-%d9%8a%d8%aa%d9%84%d9%82%d9%89-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab%d9%8b%d8%a7-%d8%b6%d8%ae%d9%85%d9%8b%d8%a7-%d8%a8/"

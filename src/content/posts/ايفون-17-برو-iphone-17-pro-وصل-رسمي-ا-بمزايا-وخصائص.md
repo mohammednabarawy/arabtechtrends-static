@@ -5,7 +5,7 @@ pubDate: "2025-09-09T22:39:46"
 updatedDate: "2025-09-13T03:10:27"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["iPhone", "رسميًا", "بميزات", "وخصائص"]
 image: "/uploads/wp/2025/09/1757722225_473_iphone-17-pro.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a7%d9%8a%d9%81%d9%88%d9%86-17-%d8%a8%d8%b1%d9%88-iphone-17-pro-%d9%88%d8%b5%d9%84-%d8%b1%d8%b3%d9%85%d9%8a%d9%8b%d8%a7-%d8%a8%d9%85%d8%b2%d8%a7%d9%8a%d8%a7-%d9%88%d8%ae%d8%b5%d8%a7%d8%a6%d8%b5/"

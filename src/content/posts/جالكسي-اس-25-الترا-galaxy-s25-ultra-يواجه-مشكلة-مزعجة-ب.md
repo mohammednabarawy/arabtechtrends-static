@@ -5,7 +5,7 @@ pubDate: "2025-07-05T16:21:32"
 updatedDate: "2025-07-07T10:55:16"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["galaxy", "جالكسي"]
 image: "/uploads/wp/2025/07/1751799833_جالكسي-اس-25-الترا-Galaxy-S25-Ultra-يواجه-مشكلة-مزعجة.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-%d8%a7%d8%b3-25-%d8%a7%d9%84%d8%aa%d8%b1%d8%a7-galaxy-s25-ultra-%d9%8a%d9%88%d8%a7%d8%ac%d9%87-%d9%85%d8%b4%d9%83%d9%84%d8%a9-%d9%85%d8%b2%d8%b9%d8%ac%d8%a9-%d8%a8/"

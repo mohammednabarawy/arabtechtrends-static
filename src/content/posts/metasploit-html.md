@@ -5,7 +5,7 @@ pubDate: "2025-07-06T12:19:55"
 updatedDate: "2025-07-07T10:55:00"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["Metasploit", "تنزيل", "ميتاسبلويت", "واحترافها"]
 image: "/uploads/blogger/8bf174715f38-metasploit.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/metasploit-html/"

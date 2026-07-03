@@ -5,7 +5,7 @@ pubDate: "2025-08-31T14:10:03"
 updatedDate: "2025-09-04T01:25:40"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["Gmail:", "أكثر", "مليار", "حساب"]
 image: "/uploads/wp/2025/09/gmail-----25-----------google.png"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d9%8a%d9%85%d9%8a%d9%84-gmail-%d8%a3%d9%83%d8%ab%d8%b1-%d9%85%d9%86-2-5-%d9%85%d9%84%d9%8a%d8%a7%d8%b1-%d8%ad%d8%b3%d8%a7%d8%a8-%d9%85%d8%b9%d8%b1%d8%b6-%d9%84%d9%84%d8%ae%d8%b7%d8%b1-%d9%88/"

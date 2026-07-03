@@ -5,7 +5,7 @@ pubDate: "2025-12-15T13:53:00"
 updatedDate: "2025-12-15T19:25:53"
 author: "Arab Tech Trends"
 category: "أخبار"
-tags: ["هاتف Honor Play 60A يدعم 5G مواصفات اقتصادية بطارية بسعة 5300 مللي أمبير"]
+tags: ["هاتف Honor Play 60A يدعم مواصفات", "اقتصادية بطارية بسعة 5300 مللي", "أمبير"]
 image: "/uploads/wp/2025/12/1765819551_75_honor-play-60a---5g.webp.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d9%87%d8%a7%d8%aa%d9%81-honor-play-60a-%d8%b1%d8%b3%d9%85%d9%8a%d8%a7/"

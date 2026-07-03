@@ -5,7 +5,7 @@ pubDate: "2025-07-07T15:31:53"
 updatedDate: "2025-07-07T15:37:50"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["موقع", "Etsy", "بالعربي", "الربح"]
 image: "/uploads/blogger/93237ddd847a--etsy-.webp"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/etsy-html/"

@@ -5,7 +5,7 @@ pubDate: "2025-08-22T23:11:13"
 updatedDate: "2025-08-22T23:11:16"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["galaxy", "Pixel", "Fold:", "تحليل", "شامل"]
 image: "/uploads/wp/2025/08/1755893472_660_Pixel-10-Pro-Fold-تحليل-شامل-ومقارن-مع-Galaxy-Z.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%25d9%2587%25d8%25a7%25d8%25aa%25d9%2581-pixel-10-pro-fold-%25d8%25aa%25d8%25ad%25d9%2584%25d9%258a%25d9%2584-%25d8%25b4%25d8%25a7%25d9%2585%25d9%2584-%25d9/"

@@ -5,7 +5,7 @@ pubDate: "2025-07-10T19:15:41"
 updatedDate: "2025-07-14T04:44:51"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["Huawei", "Piura", "السعر", "والمواصفات"]
 image: "/uploads/wp/2025/07/1752457488_303_Huawei-Piura-80-السعر-والمواصفات.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%87%d9%88%d8%a7%d9%88%d9%8a-%d8%a8%d9%8a%d9%88%d8%b1%d8%a7-80-huawei-pura-80-%d8%a7%d9%84%d8%b3%d9%84%d8%b3%d9%84%d8%a9-%d8%aa%d9%86%d8%b7%d9%84%d9%82-%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d9%8b%d8%a7/"

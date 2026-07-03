@@ -5,7 +5,7 @@ pubDate: "2025-11-10T16:27:56"
 updatedDate: "2025-11-13T14:00:51"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: []
+tags: ["واتساب", "يختبر", "الميزات", "للحماية"]
 image: "/uploads/wp/2025/11/2025-11-10_12-03-00.jpg"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%aa%d8%b3%d8%a7%d8%a8-whatsapp-%d9%8a%d8%ae%d8%aa%d8%a8%d8%b1-%d8%a3%d9%87%d9%85-%d8%a7%d9%84%d9%85%d9%8a%d8%b2%d8%a7%d8%aa-%d9%84%d9%84%d8%ad%d9%85%d8%a7%d9%8a%d8%a9-%d9%85%d9%86/"
