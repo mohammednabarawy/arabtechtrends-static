@@ -21,7 +21,8 @@ import { buildFullPost } from "./youtube-post-content.mjs";
 
 const ROOT = join(import.meta.dirname, "..");
 const POSTS_DIR = join(ROOT, "src/content/posts");
-const YT_JSON = join(ROOT, "tools/youtube-full.json");
+const YT_JSON = join(ROOT, "tools/youtube-all-channels.json");
+const YT_JSON_FALLBACK = join(ROOT, "tools/youtube-full.json");
 const THUMBS_DIR = join(ROOT, "public/uploads/youtube");
 
 const apply = process.argv.includes("--apply");
@@ -99,14 +100,16 @@ function downloadThumb(videoId) {
 }
 
 function main() {
-  if (!existsSync(YT_JSON)) {
-    console.error(`Missing ${YT_JSON}`);
+  if (!existsSync(YT_JSON) && !existsSync(YT_JSON_FALLBACK)) {
+    console.error("Missing tools/youtube-all-channels.json");
     console.error("Run: npm run fetch:youtube");
     process.exit(1);
   }
 
-  const data = JSON.parse(readFileSync(YT_JSON, "utf8"));
-  const videos = (data.entries || []).filter((e) => e.id && e._type !== "url");
+  const data = JSON.parse(
+    readFileSync(existsSync(YT_JSON) ? YT_JSON : YT_JSON_FALLBACK, "utf8")
+  );
+  const videos = (data.entries || []).filter((e) => e.id && /^[A-Za-z0-9_-]{11}$/.test(e.id));
   const { ids: existingIds, titles: existingTitles } = collectExistingVideoIds();
   const usedSlugs = new Set(
     readdirSync(POSTS_DIR)

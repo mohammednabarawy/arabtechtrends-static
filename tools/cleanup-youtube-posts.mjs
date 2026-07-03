@@ -15,7 +15,8 @@ import {
 
 const ROOT = join(import.meta.dirname, "..");
 const POSTS_DIR = join(ROOT, "src/content/posts");
-const YT_JSON = join(ROOT, "tools/youtube-full.json");
+const YT_JSON = join(ROOT, "tools/youtube-all-channels.json");
+const YT_JSON_FALLBACK = join(ROOT, "tools/youtube-full.json");
 const apply = process.argv.includes("--apply");
 
 function parseFrontmatter(content) {
@@ -49,12 +50,12 @@ function videoIdFromPost(fm, body) {
 }
 
 function main() {
-  if (!existsSync(YT_JSON)) {
+  if (!existsSync(YT_JSON) && !existsSync(YT_JSON_FALLBACK)) {
     console.error(`Missing ${YT_JSON}`);
     process.exit(1);
   }
 
-  const data = JSON.parse(readFileSync(YT_JSON, "utf8"));
+  const data = JSON.parse(readFileSync(existsSync(YT_JSON) ? YT_JSON : YT_JSON_FALLBACK, "utf8"));
   const byId = new Map(
     (data.entries || [])
       .filter((e) => e.id)

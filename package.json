@@ -24,7 +24,8 @@
     "refresh:meta": "node tools/refresh-meta-descriptions.mjs",
     "import:youtube": "node tools/import-youtube-posts.mjs",
     "cleanup:youtube": "node tools/cleanup-youtube-posts.mjs",
-    "fetch:youtube": "yt-dlp --skip-download -J \"https://www.youtube.com/@arabtechtrends/videos\" > tools/youtube-full.json",
+    "prune:foreign-youtube": "node tools/prune-foreign-youtube.mjs",
+    "fetch:youtube": "node tools/fetch-youtube-channels.mjs",
     "preview": "astro preview"
   },
   "dependencies": {

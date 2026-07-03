@@ -129,10 +129,6 @@ sourceUrl: "https://www.arabtechtrends.com/paymob-html/"
 
 <h2 id="%D8%A8%D8%AF%D9%8A%D9%84_%D8%AE%D8%AF%D9%85%D8%A9_Paymob">بديل خدمة Paymob</h2>
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="فتح حساب سترايب Stripe للعرب خطوة بخطوة حصريا | نتاوي" width="500" height="281" src="https://www.youtube.com/embed/lbmSYn28QyU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div></figure>
-
 <p>– إذا كان لديك متجر إلكتروني تقوم بالبيع عليه في دول مختلفة حول العالم وتريد استقبال مدفوعات بعملات أجنبية مثل الدولار واليورو وغيرهما، فيمكنك الاعتماد على أشهر بوابة دفع إلكتروني في العالم وهي بوابة Stripe.</p>
 
 <p>– ستوفر لك هذه البوابة كل ما تحتاج إليه من أجل استقبال المدفوعات من العملاء بعملات مختلفة من حول العالم، بالإضافة إلى سهولة التخصيص وإمكانية استخدامها على العديد من المتاجر عبر حساب واحد والكثير من المميزات.</p>

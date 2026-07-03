@@ -45,6 +45,6 @@ sourceUrl: "https://www.arabtechtrends.com/pst-virtual-card-html/"
 </ul>
 </div>
 <h2 id="%D8%A7%D8%B3%D8%AA%D8%AE%D8%B1%D8%A7%D8%AC_%D8%A8%D8%B7%D8%A7%D9%82%D8%A9_%D8%A7%D9%81%D8%AA%D8%B1%D8%A7%D8%B6%D9%8A%D8%A9_PST">استخراج بطاقة افتراضية PST</h2>
-<p><iframe loading="lazy" title="شراء فيزا افتراضية مشحونة | شرح منصة PST.NET" width="500" height="281" src="https://www.youtube.com/embed/aEV1V6s3AP8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p></p>
 <p>– يمكنك استخراج بطاقة فيزا افتراضية مشحونة برصيد 50 دولار أمريكي بسهولة من خلال متابعة الشرح في الفيديو بالأعلى، والذي سنوضح فيه كل ما يخص المنصة من أنواع البطاقات التي توفرها ومميزاتها وكيفية شحن رصيد على الموقع وكيفية استخراج فيزا افتراضية بسهولة بعد ذلك.</p></div>
 </div>

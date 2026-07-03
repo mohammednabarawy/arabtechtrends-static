@@ -47,10 +47,6 @@ sourceUrl: "https://www.arabtechtrends.com/metamask-html/"
 
 <h2 id="%D8%A5%D9%86%D8%B4%D8%A7%D8%A1_%D9%85%D8%AD%D9%81%D8%B8%D8%A9_%D9%85%D9%8A%D8%AA%D8%A7_%D9%85%D8%A7%D8%B3%D9%83">إنشاء محفظة ميتا ماسك</h2>
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="شرح محفظة ميتا ماسك MetaMask وكيفية استخدامها بالتفصيل 2024" width="500" height="281" src="https://www.youtube.com/embed/bHVj21_fFCI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div></figure>
-
 <p>– إنشاء محفظة ميتا ماسك مسألة بسيطة وغير معقدة. فقط يجب الانتباه جدًا عند إنشاء المحفظة بالكلمات السرية الخاصّة بها "Secret Recovery Phrase". هذه الكلمات يمكن استخدامها من أجل الوصول إلى أصول المحفظة في حالة تم حذف التطبيق أو إضافة المتصفح، أو نسيت كلمة المرور الخاصّة بالمحفظة.</p>
 
 <p>– سنشاهد في الفيديو بالأعلى كيفية إنشاء محفظة ميتا ماسك، أهم إعدادات المحفظة التي تحتاج إلى تعديلها، التحويل من بينانس إلى ميتا ماسك، عمل حسابات متعددة، إضافة شبكة بينانس إلى ميتاماسك وغيرها من الشبكات، طريقة استعادة محفظة ميتا ماسك عبر الكلمات السرية، كيفية استخدام المحفظة للشراء من منصات التداول اللا مركزية وغيرها من الأمور.</p>

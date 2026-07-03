@@ -26,10 +26,6 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-one-ui
 <li>لوحة الإعدادات السريعة</li>
 </ul>
 <p>لم تعد تغطي الشاشة بأكملها بتأثير التمويه المعتاد، ولكنها تظهر الآن كما هي <strong>النوافذ المنبثقة الصغيرة</strong> تحت المكان الذي يقوم فيه المستخدم بالتمرير، مما يجعل التفاعل أسهل، خاصة عند استخدام الجهاز بيد واحدة.</p>
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
-<p>
-<iframe loading="lazy" title="One UI 8.5 vs One UI 8 - EVERYTHING'S CHANGING AGAIN!" width="500" height="281" src="https://www.youtube.com/embed/ztjwsN5UmMU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
-</figure>
 <h3><span class="ez-toc-section" id="%D8%AA%D8%AD%D8%B3%D9%8A%D9%86_%D8%A7%D9%84%D8%AA%D8%AE%D8%B5%D9%8A%D8%B5_%D9%84%D9%84%D9%88%D8%AD%D8%A9_%D8%A7%D9%84%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF%D8%A7%D8%AA_%D8%A7%D9%84%D8%B3%D8%B1%D9%8A%D8%B9%D8%A9"></span><strong>تحسين التخصيص للوحة الإعدادات السريعة</strong><span class="ez-toc-section-end"></span></h3>
 <p>تتضمن One UI 8.5 أيضًا واجهة محسنة لتخصيص لوحة الإعدادات السريعة، مما يسمح للمستخدمين بإعادة ترتيب الخيارات وتعديلها بدقة وسهولة أكبر من ذي قبل.</p>
 <h3><span class="ez-toc-section" id="%D8%AA%D8%AD%D8%B3%D9%8A%D9%86%D8%A7%D8%AA_%D9%81%D9%8A_%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA_%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85_%D9%84%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9_%D8%A8%D9%8A%D8%AF_%D9%88%D8%A7%D8%AD%D8%AF%D8%A9"></span><strong>تحسينات في تطبيقات النظام لتجربة بيد واحدة</strong><span class="ez-toc-section-end"></span></h3>

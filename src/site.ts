@@ -81,6 +81,8 @@ export const socialLinks = [
   { label: "Tumblr", href: "https://www.tumblr.com/blog/arabtechtrends" },
   { label: "Instagram", href: "https://www.instagram.com/arabtechtrends_official/" },
   { label: "YouTube", href: "https://www.youtube.com/@arabtechtrends" },
+  { label: "قارئ الفواتير", href: "https://www.youtube.com/channel/UC_ZB9oGAXykxhe9ZzTKBkag" },
+  { label: "elnabarawi", href: "https://www.youtube.com/@elnabarawi" },
   { label: "RSS", href: "/feed.xml" }
 ];
 
