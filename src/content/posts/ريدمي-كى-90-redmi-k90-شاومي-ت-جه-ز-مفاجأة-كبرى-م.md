@@ -1,6 +1,6 @@
 ---
 title: "Redmi K90: Xiaomi يستعد مفاجأة كبيرة مع هذا الهاتف!"
-description: "تستعد الشركة الصينية Xiaomi لإطلاق سلسلة Redmi K90 Redmi K90 ، وقد ظهر الهاتف بالفعل في اختبار أداء Geekbench مع Xiaomi 2510DRK44C ، وهو يكشف عن أحد أهم العروض الترويجية التي ستحصل عليها السلسلة ، والتي تمثل سلسلة Snapdragon 8 Gen 5 ، وهي ع"
+description: "تستعد الشركة الصينية Xiaomi لإطلاق سلسلة Redmi K90 Redmi K90 ، وقد ظهر الهاتف بالفعل في اختبار أداء Geekbench مع Xiaomi 2510DRK44C ، وهو يكشف عن أحد أهم…"
 pubDate: "2025-09-30T13:35:26"
 updatedDate: "2025-10-01T07:10:38"
 author: "Arab Tech Trends"
@@ -22,4 +22,4 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b1%d9%8a%d8%af%d9%85%d9%8a-%d9%83
 <p>تم إطلاق سلسلة Redmi K80 في نهاية نوفمبر من العام الماضي ، لكن المؤشرات الحالية تؤكد أنه سيتم الكشف عن Redmi K90 في منتصف أكتوبر 2025 ، أي قبل شهر تقريبًا من التاريخ العادي.</p>
 <p>مع هذه المواصفات ، يبدو أن Xiaomi تستعد لمنافسة قوية في سوق الهواتف الذكية مع توفير تجربة أداء رائدة ، وبطارية ضخمة ، وشحن عالي السرعة في فئة Redmi K90.</p>
 <p>في رأيك ، ما هي أكثر الميزة التي يجب أن تأتي إليها هذه السلسلة من الهواتف؟ شارك رأيك …</p>
-<p><a href="https://www.fonearena.com/blog/465764/redmi-k90-benchmark-leak.html" data-type="link" data-id="https://www.fonearena.com/blog/465764/redmi-k90-benchmark-leak.html">مصدر</a></p></div>
+<p><a href="https://www.fonearena.com/blog/465764/redmi-k90-benchmark-leak.html">مصدر</a></p></div>

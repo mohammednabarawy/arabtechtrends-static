@@ -1,6 +1,6 @@
 ---
 title: "يتلقى تطبيق Gemini تحديثًا ضخمًا مع ميزات قوية لتحرير الصور!"
-description: "أعلنت Google عن مجموعة من التحسينات المهمة في تطبيق Gemini Photo Edit. يأتي هذا التحديث بعد أسابيع من التجارب الداخلية ، ويهدف إلى منح المستخدمين المزيد من التحكم والقدرات الأوسع لإنشاء الصورة المثالية. تحرير الصور مع الذكاء الاصطناعي في تط"
+description: "يتلقى تطبيق Gemini تحديثًا ضخمًا مع ميزات قوية لتحرير الصور! — أعلنت Google عن مجموعة من التحسينات المهمة في تطبيق Gemini Photo Edit."
 pubDate: "2025-08-27T20:39:05"
 updatedDate: "2025-08-31T20:07:56"
 author: "Arab Tech Trends"
@@ -24,4 +24,4 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-gemini
 <p>التحديث الجديد متاح الآن لجميع مستخدمي Gemini على Android و iOS ، مع إخطار Google بأن جميع الصور المعدلة أو التي تم إنشاؤها باستخدام هذه الأدوات تحتوي على علامة مائية مرئية وعلامة رقمية سينثيد لتوضيح أنها تم إنشاؤها بواسطة الذكاء الاصطناعي.</p>
 <p>يأتي هذا التحديث ضمن جهود Google لتعزيز قدرة الوسائط المتعددة لتطبيق Gemini ، مما يمنح المستخدمين مستوى متقدم من التحكم الشخصي والإبداع في تعديل الصور.</p>
 <p>في رأيك … ما هي الميزة الأبرز التي تفتقر إليها في تطبيق Gemini على Android و iPhone؟</p>
-<p><a href="https://www.tuttoandroid.net/news/2025/08/26/google-gemini-modifica-immagini-ia-novita-1113867/" data-type="link" data-id="https://www.tuttoandroid.net/news/2025/08/26/google-gemini-modifica-immagini-ia-novita-1113867/">مصدر</a></p></div>
+<p><a href="https://www.tuttoandroid.net/news/2025/08/26/google-gemini-modifica-immagini-ia-novita-1113867/">مصدر</a></p></div>

@@ -1,6 +1,6 @@
 ---
 title: "سيتوفر هاتف Galaxy TriFold ثلاثي الطي من سامسونج قريبًا: إليك كل ما يتعلق به"
-description: "تعمل شركة سامسونج الكورية على توسيع ريادتها في سوق الأجهزة القابلة للطي من خلال تطوير منتج جديد يسمى Galaxy TriFold، وهو أول هاتف ثلاثي الطي في تاريخ الشركة. تفاصيل هاتف Samsung Galaxy TriFold ثلاثي الطي وبحسب تقرير Sammy Fans، فإن المعلوما"
+description: "تعمل شركة سامسونج الكورية على توسيع ريادتها في سوق الأجهزة القابلة للطي من خلال تطوير منتج جديد يسمى Galaxy TriFold، وهو أول هاتف ثلاثي الطي في تاريخ الشركة."
 pubDate: "2025-10-12T17:25:11"
 updatedDate: "2025-10-14T18:18:50"
 author: "Arab Tech Trends"
@@ -16,8 +16,6 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d8%aa%d9%81-%d8%b3%d8%a7
 <div class="featured-area-inner">
 <figure class="single-featured-image"></figure>
 </div>
-</div>
-<div class="entry-content entry clearfix">
 <p>تعمل شركة سامسونج الكورية على توسيع ريادتها في سوق الأجهزة القابلة للطي من خلال تطوير منتج جديد يسمى Galaxy TriFold، وهو أول هاتف ثلاثي الطي في تاريخ الشركة.</p>
 <h2>تفاصيل هاتف Samsung Galaxy TriFold ثلاثي الطي</h2>
 <p>وبحسب تقرير Sammy Fans، فإن المعلومات تؤكد أن الجهاز في مرحلة متقدمة من التطوير، مما يشير إلى أن الإطلاق قد يكون قريبًا. ويمثل هذا الابتكار نقلة نوعية في تصاميم الهواتف الذكية، حيث سيوفر شاشة مكبرة تشبه الأجهزة اللوحية عند فتحها بالكامل، مع إمكانية طيها بحجم صغير يناسب الجيب.</p>
@@ -26,5 +24,5 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d8%aa%d9%81-%d8%b3%d8%a7
 <p>ورغم أنه لم يتم تحديد موعد إطلاق رسمي بعد، إلا أن التوقعات تشير إلى أن سامسونج قد تكشف النقاب عن هاتف Galaxy TriFold خلال النصف الأول من عام 2026 إلى جانب الجيل الجديد من سلسلة Galaxy Z.</p>
 <p>وتسعى سامسونج من خلال هذا الابتكار إلى توسيع حدود مفهوم الهواتف القابلة للطي، وإعادة تعريف تجربة الاستخدام المستقبلية بطريقة تجمع بين الهاتف والكمبيوتر اللوحي في جهاز واحد.</p>
 <p>ما رأيك في الهواتف ثلاثية الطي؟ هل حقا يستحق الشراء؟</p>
-<p><a href="https://www.sammyfans.com/2025/10/11/samsungs-first-tri-fold-phone-coming-to-more-countries-than-expected/" data-type="link" data-id="https://www.sammyfans.com/2025/10/11/samsungs-first-tri-fold-phone-coming-to-more-countries-than-expected/">مصدر</a></p>
+<p><a href="https://www.sammyfans.com/2025/10/11/samsungs-first-tri-fold-phone-coming-to-more-countries-than-expected/">مصدر</a></p>
 </div></div>

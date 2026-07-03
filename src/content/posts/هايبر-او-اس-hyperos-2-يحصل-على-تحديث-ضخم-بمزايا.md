@@ -1,6 +1,6 @@
 ---
 title: "يحصل Hyperos 2 على تحديث كبير مع فوائد ثورية قبل إطلاق Hyperos 3"
-description: "أعلنت Xiaomi عن إطلاق آخر تحديث رئيسي لواجهة Hyperos 2 ، قبل وصول الجيل الجديد \"Hyperos 3\" ، والذي من المتوقع أن يوسع قدرات التكامل الذكي بين أجهزة الشركة. يأتي هذا التحديث كمرحلة انتقالية مهمة ، خاصة بالنسبة للهواتف والأجهزة التي لن تحصل ع"
+description: "أعلنت Xiaomi عن إطلاق آخر تحديث رئيسي لواجهة Hyperos 2 ، قبل وصول الجيل الجديد \"Hyperos 3\" ، والذي من المتوقع أن يوسع قدرات التكامل الذكي بين أجهزة الشركة."
 pubDate: "2025-08-18T21:08:17"
 updatedDate: "2025-08-21T13:37:39"
 author: "Arab Tech Trends"
@@ -23,4 +23,4 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d9%8a%d8%a8%d8%b1-%d8%a7
 <p><strong>تحسين تجربة تحرير الصور</strong> من خلال واجهة أكثر سلاسة عند استخدام أدوات النص والرسومات ، لتسريع وتبسيط سير العمل الإبداعي.</p>
 <p>مع هذا التحديث ، يتم تعزيز Xiaomi بالقيمة <strong>Hyperos 2</strong> قبل فتح الباب أمام الجيل الجديد Hyperos 3 ، والذي من المتوقع أن يأتي مع تغييرات أعمق على مستوى التصميم والوظائف الذكية ، مع تكامل أكبر بين الأجهزة في نظام الشركة.</p>
 <p>ما هي الميزة الأكثر احتمالا؟</p>
-<p><a href="https://www.tudocelular.com/software/noticias/n238985/hyperos-2-recebe-ultima-grande-atualizacao.html" data-type="link" data-id="https://www.tudocelular.com/software/noticias/n238985/hyperos-2-recebe-ultima-grande-atualizacao.html">مصدر</a></p></div>
+<p><a href="https://www.tudocelular.com/software/noticias/n238985/hyperos-2-recebe-ultima-grande-atualizacao.html">مصدر</a></p></div>

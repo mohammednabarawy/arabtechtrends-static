@@ -1,6 +1,6 @@
 ---
 title: "يفاجئ واجهة UI 8.5 Samsung لمستخدميها بميزة خرافية لتوفير خصوصية غير مسبوقة!"
-description: "تواصل شركة Samsung الكورية تطوير واجهةها المخصصة ، واجهة المستخدم ، مع خطوات تسريع. بعد أن بدأت مؤخرًا في إطلاق النسخة المستقرة من واجهة One UI 8 ، بدا أن التسريبات الجديدة تكشف عن بعض المزايا التالية للتحديث من واجهة 8.5 ، وأبرزها ميزة جدي"
+description: "يفاجئ واجهة UI 8.5 Samsung لمستخدميها بميزة خرافية لتوفير خصوصية غير مسبوقة! — تواصل شركة Samsung الكورية تطوير واجهةها المخصصة ، واجهة المستخدم ، مع خطوات…"
 pubDate: "2025-09-20T21:42:37"
 updatedDate: "2025-09-21T01:03:44"
 author: "Arab Tech Trends"
@@ -29,4 +29,4 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-one-ui
 <p>عادةً ما تطلق Samsung تحديثات الواجهة باستخدام هواتف Series S Series الجديدة ، مما يعني أن واجهة One UI 8.5 ستظهر لأول مرة رسميًا مع عائلة Galaxy S26.</p>
 <p>من خلال هذه الخطوة ، يبدو أن Samsung تسعى إلى تعزيز تجربة الخصوصية على أجهزتها ، وتوفير ميزة قد تكون عملية للغاية لمستخدمي الهواتف في حياتهم اليومية.</p>
 <p>في رأيك ، ما هي ميزة أبرز أن هذا الإصدار يجب أن يأتي من واجهة Samsung؟</p>
-<p><a href="https://www.androidauthority.com/one-ui-8-5-private-display-apk-teardown-3599649/" data-type="link" data-id="https://www.androidauthority.com/one-ui-8-5-private-display-apk-teardown-3599649/">مصدر</a></p></div>
+<p><a href="https://www.androidauthority.com/one-ui-8-5-private-display-apk-teardown-3599649/">مصدر</a></p></div>

@@ -1,6 +1,6 @@
 ---
 title: "Guok الشامل تخيل: كيفية استخدام أداة XAI الجديدة لإنشاء الصور والفيديو مع الذكاء الاصطناعي"
-description: "XAI يدخل قوة عالم الإبداع البصري! في خطوة مفاجئة وقوية ، أعلنت شركة الذكاء الاصطناعي الطموح XAI ، بقيادة Elon Musk ، عن إطلاق أحدث إبداعها في عالم الذكاء التوليدي: تخيل جروك. لا تهدف هذه الأداة الجديدة ، التي تم إطلاقها في 4 أغسطس 2025 ، إل"
+description: "في خطوة مفاجئة وقوية ، أعلنت شركة الذكاء الاصطناعي الطموح XAI ، بقيادة Elon Musk ، عن إطلاق أحدث إبداعها في عالم الذكاء التوليدي: تخيل جروك ."
 pubDate: "2025-08-11T02:11:26"
 updatedDate: "2025-08-11T02:11:29"
 author: "Arab Tech Trends"
@@ -11,17 +11,13 @@ draft: false
 sourceUrl: "https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%25d8%25af%25d9%2584%25d9%258a%25d9%2584-%25d8%25b4%25d8%25a7%25d9%2585%25d9%2584-%25d9%2584%25d9%2580-grok-imagine-%25d9%2583%25d9%258a%25d9%2581-%25d8%25a/"
 ---
 
-<div class="entry-content clearfix single-post-content">
+
 <p><b>XAI يدخل قوة عالم الإبداع البصري! </b>في خطوة مفاجئة وقوية ، أعلنت شركة الذكاء الاصطناعي الطموح XAI ، بقيادة Elon Musk ، عن إطلاق أحدث إبداعها في عالم الذكاء التوليدي: <b>تخيل جروك</b>. لا تهدف هذه الأداة الجديدة ، التي تم إطلاقها في 4 أغسطس 2025 ، إلى التنافس مع العمالقة مثل Midjourney و Dall-E و Sora ، ومؤخراً VEO3 من Google ، ولكنها تسعى إلى تغيير قواعد اللعبة من خلال تقديم نهج أكثر جرأة وحرًا في إنشاء المحتوى.</p>
-<div class="duzxlygivn duzxlygivn-post-inline duzxlygivn-float-center duzxlygivn-align-center duzxlygivn-column-1 duzxlygivn-clearfix no-bg-box-model">
 
-</div>
-</div>
 <p>يأتي إطلاق Grok Imagine في وقت يشهد فيه عالم الذكاء التوليدي تسارعًا هائلاً ، لأن القدرة على تحويل الأوصاف النصية إلى صور ومقاطع فيديو واقعية أو خيالية هي المنافسة الأبرز. ما هي أداة تخيل Grok الدقيقة؟ كيف تختلف عن منافسيها؟ والأهم من ذلك ، كيف يمكنك البدء في استخدامه ، وهل هناك طريقة لتجربتها مجانًا؟ في هذا الدليل الشامل من "Crazy Computer" ، سنجيب على كل هذه الأسئلة وأكثر من ذلك.</p>
-<div class="lwptoc lwptoc-autoWidth lwptoc-baseItems lwptoc-inherit" data-smooth-scroll="1" data-smooth-scroll-offset="24"></div>
 
-<nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-1" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%25d8%25af%25d9%2584%25d9%258a%25d9%2584-%25d8%25b4%25d8%25a7%25d9%2585%25d9%2584-%25d9%2584%25d9%2580-grok-imagine-%25d9%2583%25d9%258a%25d9%2581-%25d8%25a/#%D9%85%D8%A7%D8%B0%D8%A7_%D9%8A%D8%AA%D8%AE%D9%8A%D9%84_%D8%AC%D8%B1%D9%88%D9%83%D8%9F" >ماذا يتخيل جروك؟</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-2" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%25d8%25af%25d9%2584%25d9%258a%25d9%2584-%25d8%25b4%25d8%25a7%25d9%2585%25d9%2584-%25d9%2584%25d9%2580-grok-imagine-%25d9%2583%25d9%258a%25d9%2581-%25d8%25a/#%D9%83%D9%8A%D9%81%D9%8A%D8%A9_%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85_Grok_%D8%AA%D8%AE%D9%8A%D9%84_%D9%84%D8%A5%D9%86%D8%B4%D8%A7%D8%A1_%D8%A7%D9%84%D8%B5%D9%88%D8%B1_%D9%88%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88_%D8%AE%D8%B7%D9%88%D8%A9_-%D8%AE%D8%B7%D9%88%D8%A9" >كيفية استخدام Grok تخيل لإنشاء الصور والفيديو (خطوة -خطوة)</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-3" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%25d8%25af%25d9%2584%25d9%258a%25d9%2584-%25d8%25b4%25d8%25a7%25d9%2585%25d9%2584-%25d9%2584%25d9%2580-grok-imagine-%25d9%2583%25d9%258a%25d9%2581-%25d8%25a/#%D9%83%D9%8A%D9%81%D9%8A%D8%A9_%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84_%D8%A5%D9%84%D9%89_Grok_%D8%AA%D8%AE%D9%8A%D9%84_%D9%88%D8%AE%D8%B7%D8%B7_%D8%A7%D9%84%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1_%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A%D8%A9" >كيفية الوصول إلى Grok تخيل وخطط الأسعار الرسمية</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-4" href="https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaign%25d8%25af%25d9%2584%25d9%258a%25d9%2584-%25d8%25b4%25d8%25a7%25d9%2585%25d9%2584-%25d9%2584%25d9%2580-grok-imagine-%25d9%2583%25d9%258a%25d9%2581-%25d8%25a/#%D8%A7%D9%84%D8%AE%D9%84%D8%A7%D8%B5%D8%A9_%D8%AC%D8%B1%D9%88%D9%83_%D8%AA%D8%AE%D9%8A%D9%84" >الخلاصة: جروك تخيل</a></li></ul></nav></div>
-<h3><span class="ez-toc-section" id="%D9%85%D8%A7%D8%B0%D8%A7_%D9%8A%D8%AA%D8%AE%D9%8A%D9%84_%D8%AC%D8%B1%D9%88%D9%83%D8%9F"></span><span id="ma_hy_khdmt_Grok_Imagine"><b>ماذا يتخيل جروك؟</b></span><span class="ez-toc-section-end"></span></h3>
+</div>
+<h3 id="%D9%85%D8%A7%D8%B0%D8%A7_%D9%8A%D8%AA%D8%AE%D9%8A%D9%84_%D8%AC%D8%B1%D9%88%D9%83%D8%9F">ماذا يتخيل جروك؟</h3>
 </p>
 <p>Grok Imagine هي خدمة ذكاء التوليد المتقدمة من XAI ، مصممة لتحويل النص النصي إلى المخرجات المرئية ، بما في ذلك كل من <b>صور عالية الجودة ومقاطع فيديو قصيرة</b>. إنه يمثل امتدادًا طبيعيًا لنظام Grok ، الذي بدأ روبوت المحادثة الشهير ، الذي يضيف إليه الآن إمكانات إبداعية ومرئية ضخمة.</p>
 <p><b>أبرز خاصية جروك تخيل:</b></p>
@@ -30,7 +26,7 @@ sourceUrl: "https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaig
 <li><b>سياسة محتوى أكثر تساهلاً:</b> هذه هي النقطة الأكثر إثارة للجدل وتميز. على عكس معظم المنافسين الذين وضعوا قيودًا صارمة على إنشاء محتوى حساس أو قد يعتبر غير آمن (NSFW – غير آمن للعمل) ، فإن Grok Imagine يأخذ موقعًا أكثر انفتاحًا. وفقًا للتقارير ، تتيح الأداة إنشاء محتوى للبالغين ، والذي يفتح الباب للاستخدامات الفنية والتعبيرية التي قد تكون مقيدة في منصات أخرى ، ولكنها تثير أيضًا مناقشات أخلاقية مهمة.</li>
 <li><b>جزء من نظام الحادي عشر:</b> تعد الأداة جزءًا لا يتجزأ من رؤية Xai لإنشاء ذكاء اصطناعي شامل. من المتوقع أن تتكامل بعمق مع Grok Entervey Robot ، والتي قد تسمح بتجارب الاستخدام الفريدة في المستقبل ، مثل محادثة مع Grok لتطوير فكرة ثم اطلب منه تحويلها إلى صورة أو مقطع فيديو مباشر.</li>
 </ol>
-<h3><span class="ez-toc-section" id="%D9%83%D9%8A%D9%81%D9%8A%D8%A9_%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85_Grok_%D8%AA%D8%AE%D9%8A%D9%84_%D9%84%D8%A5%D9%86%D8%B4%D8%A7%D8%A1_%D8%A7%D9%84%D8%B5%D9%88%D8%B1_%D9%88%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88_%D8%AE%D8%B7%D9%88%D8%A9_-%D8%AE%D8%B7%D9%88%D8%A9"></span><span id="kyf_tstkhdm_Grok_Imagine_lansha_alswr_walfydyw_khtwt_bkhtwt"><b>كيفية استخدام Grok تخيل لإنشاء الصور والفيديو (خطوة -خطوة)</b></span><span class="ez-toc-section-end"></span></h3>
+<h3 id="%D9%83%D9%8A%D9%81%D9%8A%D8%A9_%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85_Grok_%D8%AA%D8%AE%D9%8A%D9%84_%D9%84%D8%A5%D9%86%D8%B4%D8%A7%D8%A1_%D8%A7%D9%84%D8%B5%D9%88%D8%B1_%D9%88%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88_%D8%AE%D8%B7%D9%88%D8%A9_-%D8%AE%D8%B7%D9%88%D8%A9">كيفية استخدام Grok تخيل لإنشاء الصور والفيديو (خطوة -خطوة)</h3>
 <blockquote class="twitter-tweet" data-media-max-width="560">
 <p dir="ltr" lang="en">Grok Imagine أصبح الآن مجانيًا للجميع في تطبيق Grok</p>
 <p>جربه اليوم وشارك مخلوقاتك معنا في الردود. شيء سحري قد يكون سعيدا ✨ <a href="https://t.co/9YOIpIwgrb">pic.twitter.com/9yoipiwgrb</a></p>
@@ -62,7 +58,7 @@ sourceUrl: "https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaig
 <ul>
 <li>بمجرد أن تحصل على النتيجة التي تريدها ، يمكنك تنزيل الصورة أو الفيديو على جهازك ومشاركتها في المكان الذي تريده.</li>
 </ul>
-<h3><span class="ez-toc-section" id="%D9%83%D9%8A%D9%81%D9%8A%D8%A9_%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84_%D8%A5%D9%84%D9%89_Grok_%D8%AA%D8%AE%D9%8A%D9%84_%D9%88%D8%AE%D8%B7%D8%B7_%D8%A7%D9%84%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1_%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A%D8%A9"></span><span id="kyfyt_alwswl_aly_Grok_Imagine_wkhtt_alasar_alrsmyt"><b>كيفية الوصول إلى Grok تخيل وخطط الأسعار الرسمية</b></span><span class="ez-toc-section-end"></span></h3>
+<h3 id="%D9%83%D9%8A%D9%81%D9%8A%D8%A9_%D8%A7%D9%84%D9%88%D8%B5%D9%88%D9%84_%D8%A5%D9%84%D9%89_Grok_%D8%AA%D8%AE%D9%8A%D9%84_%D9%88%D8%AE%D8%B7%D8%B7_%D8%A7%D9%84%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1_%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A%D8%A9">كيفية الوصول إلى Grok تخيل وخطط الأسعار الرسمية</h3>
 </p>
 <p><b>تفاصيل الوصول عبر المنصات:</b> الأداة متوفرة حاليًا (لإنشاء الصور والفيديو) للمشتركين <b>Supergrok</b> و <b>X Premium Plus</b> عبر <b>تطبيق Grok على نظام iOS</b>. بدأ إطلاقه أيضًا بـ "وصول مبكر" لمستخدمي T.<a href="https://play.google.com/store/apps/details?id=ai.x.grok&hl=ar" target="_blank" rel="noopener">Grok Tabab على Android</a>لكنه يقتصر حاليا على <b>توليد الصور فقط</b> في هذا الإصدار ، من المتوقع أن تصل ميزة الفيديو لاحقًا.</p>
 <p><b>للوصول إلى هذه الميزة عبر اشتراك Grok ، إليك تفاصيل الحزم الرسمية:</b></p>
@@ -87,9 +83,8 @@ sourceUrl: "https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaig
 </li>
 </ul>
 <p><b>خاتمة:</b> إذا كنت تريد استخدام أداة <b>تخيل جروك</b> الجديد لإنشاء الصور والفيديو ، والطريقة الرسمية لذلك هو الاشتراك في حزمة <b>X Premium Plus</b>أو في حزمة <b>Supergrok</b> (مقابل 30 دولارًا شهريًا) أو أعلى حزمة.</p>
-<h3><span class="ez-toc-section" id="%D8%A7%D9%84%D8%AE%D9%84%D8%A7%D8%B5%D8%A9_%D8%AC%D8%B1%D9%88%D9%83_%D8%AA%D8%AE%D9%8A%D9%84"></span><span id="khatmt_Grok_Imagine_-_lab_jdyd_bjrat_wrwyt_mkhtlft"><b>الخلاصة: جروك تخيل</b></span><span class="ez-toc-section-end"></span></h3>
+<h3 id="%D8%A7%D9%84%D8%AE%D9%84%D8%A7%D8%B5%D8%A9_%D8%AC%D8%B1%D9%88%D9%83_%D8%AA%D8%AE%D9%8A%D9%84">الخلاصة: جروك تخيل</h3>
 </p>
 <p>يعد إطلاق Grok Imagine خطوة مهمة ليس فقط لـ XAI ، ولكن أيضًا لسوق الذكاء النسائي ككل. من خلال توفير أداة قوية مع سياسة محتوى أكثر ليبرالية ، وربطها بمنصة اجتماعية ضخمة مثل X ، فإن Xai تعرض نفسها كمنافس مهم.</p>
 <p>على الرغم من أن المخاوف الأخلاقية المتعلقة بإنشاء محتوى حساس تظل في مكانها وتتطلب مناقشة اجتماعية وتنظيمية واسعة ، إلا أنه لا يمكن إنكار أن Grok Imagine يوفر أداة قوية للمبدعين والفنانين لاستكشاف آفاق جديدة قد تكون مغلقة على منصات أخرى. نظرًا لأنه يتم توفيره كجزء من الاشتراك في X Premium ، فسوف يصل بالتأكيد إلى جمهور واسع ومتحمس لتجربة مستقبل الإبداع المرئي الذي يدعمه الذكاء الاصطناعي.</p>
-</div>
 <p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>

@@ -1,6 +1,6 @@
 ---
 title: "تطبيق الترجمة Google هو أوضاع جديدة مهمة للغاية للترجمة!"
-description: "تقوم Google بتطوير ميزة جديدة داخل تطبيق Google Translate ، تهدف إلى منح المستخدمين خيارات أكثر مرونة بين سرعة الترجمة والدقة. تمت مراقبة الميزة في الإصدار v9.15.114 من التطبيق على نظام Android ، حيث ظهرت واجهة جديدة تتضمن خيارًا يسمح بالاخ"
+description: "تقوم Google بتطوير ميزة جديدة داخل تطبيق Google Translate ، تهدف إلى منح المستخدمين خيارات أكثر مرونة بين سرعة الترجمة والدقة."
 pubDate: "2025-08-18T19:00:55"
 updatedDate: "2025-08-21T20:39:52"
 author: "Arab Tech Trends"
@@ -16,7 +16,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-google
 <p><strong>الوضع السريع:</strong> مصممة لتوفير ترجمات سريعة وفعالة ، مناسبة للاستخدام اليومي أو المواقف التي تتطلب استجابة فورية.</p>
 <p><strong>متقدم:</strong> وهو يركز على الدقة والعمق باستخدام تقنيات الذكاء الاصطناعي من Google <strong>تَوأَم</strong>لمزيد من نتائج الترجمة الطبيعية والمفصلة.</p>
 <p>وفقًا للاختبارات الأولية ، فإن الوضع المتقدم متاح حاليًا لعدد محدود من اللغات ، وأبرزها اللغة الإنجليزية – الإسبانية والإنجليزية – الفرنسية ، في كلا الاتجاهين.</p>
-<figure class="wp-block-image size-full"></figure>
+<figure></figure>
 <h3>التحسينات على واجهة تطبيق الترجمة Google</h3>
 <p>إلى جانب ميزة أوضاع الترجمة ، شهدت واجهة التطبيق بعض التغييرات الملحوظة:</p>
 <p>استعادة الأزرار السفلية لتضمينها <strong>الترجمة الصوتية ، قبول الكتابة اليدوية ، الترجمة من خلال الصور ، والمحادثة</strong>.</p>
@@ -26,4 +26,4 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-google
 <p>كل هذه التطورات تسير في اتجاه واحد: تعزيز قدرات الترجمة باستخدام الذكاء الاصطناعي ، مما يوفر للمستخدمين ترجمة أوثق للمعنى الحقيقي للنصوص ، مع استخدام واجهة أسهل وأكثر تنوعًا.</p>
 <p>حتى الآن ، لم يتم إطلاق هذه الميزات رسميًا في الإصدار المستقر من "ترجمة جوجل" ، لكن المؤشرات تؤكد أنها ستصبح جزءًا أساسيًا من التطبيق في الفترة المقبلة.</p>
 <p>في رأيك ، ما هو أكثر الميزة التي يفتقر إليها تطبيق Google Translate؟</p>
-<p><a href="https://www.tudocelular.com/google/noticias/n238992/google-tradutor-modos-traducao-velocidade-precisao.html" data-type="link" data-id="https://www.tudocelular.com/google/noticias/n238992/google-tradutor-modos-traducao-velocidade-precisao.html">مصدر</a></p></div>
+<p><a href="https://www.tudocelular.com/google/noticias/n238992/google-tradutor-modos-traducao-velocidade-precisao.html">مصدر</a></p></div>

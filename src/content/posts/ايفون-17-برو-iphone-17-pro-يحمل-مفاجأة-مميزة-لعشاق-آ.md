@@ -1,6 +1,6 @@
 ---
 title: "يحتوي iPhone 17 Pro على مفاجأة خاصة لمحبي Apple!"
-description: "تتزايد التسريبات حول سلسلة iPhone 17 Pro القادمة ، وتشير أحدث التقارير إلى أن الشركة تختبر ميزة الشحن اللاسلكية العكسية التي ستسمح باستخدام الهاتف بشحن بعض الملحقات الخاصة مثل Airpoods و Apple Watch ، وحتى بطارية خارجية جديدة محتملة. وفقًا"
+description: "تتزايد التسريبات حول سلسلة iPhone 17 Pro القادمة ، وتشير أحدث التقارير إلى أن الشركة تختبر ميزة الشحن اللاسلكية العكسية التي ستسمح باستخدام الهاتف بشحن بعض…"
 pubDate: "2025-08-25T18:21:17"
 updatedDate: "2025-08-26T20:22:49"
 author: "Arab Tech Trends"
@@ -16,8 +16,6 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a7%d9%8a%d9%81%d9%88%d9%86-17-%d8
 <div class="featured-area-inner">
 <figure class="single-featured-image"></figure>
 </div>
-</div>
-<div class="entry-content entry clearfix">
 <p>تتزايد التسريبات حول سلسلة iPhone 17 Pro القادمة ، وتشير أحدث التقارير إلى أن الشركة تختبر ميزة الشحن اللاسلكية العكسية التي ستسمح باستخدام الهاتف بشحن بعض الملحقات الخاصة مثل Airpoods و Apple Watch ، وحتى بطارية خارجية جديدة محتملة.</p>
 <p>وفقًا للتقارير التي تم توزيعها عبر منصة Weibo ، أجرت Apple تجارب على هذه التكنولوجيا وحققت قدرة شحن تبلغ 7.5 واط ، وهو ما يكفي من الطاقة لإعادة شحن سماعات الرأس والمراقبة الذكية وبعض الملحقات الأخرى. ومع ذلك ، لا تزال الشركة تقيّم إمكانية تنشيط هذه الميزة في الإطلاق الرسمي ، مما يعني أنه لم يتم تحديد الأمر بعد.</p>
 <p>ليست هذه هي المرة الأولى التي يتم فيها الحديث عن الشحن اللاسلكي العكسي في هواتف iPhone ، في 2021 Magsafe Pack ، وهي بطارية خارجية مغناطيسية كانت قادرة على تمرير الطاقة إلى الهاتف ، ولكن تم إيقافها في سبتمبر 2023 مع الانتقال إلى منفذ USB-C في سلسلة iPhone 15. توقفت الشركة أيضًا في نفس الفترة Magsafe Charger. الثنائي.</p>
@@ -27,5 +25,5 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a7%d9%8a%d9%81%d9%88%d9%86-17-%d8
 <p><strong>خاتمة: </strong></p>
 <p>تمثل ميزة الشحن اللاسلكية العكسية في iPhone 17 Pro أحد الابتكارات المتوقعة التي قد تغير تجربة الاستخدام وإضافة قيمة حقيقية لمستخدمي Apple.</p>
 <p>شارك رأيك في تعليقات على أهم ميزة يجب أن يأتي iPhone 17 Pro …</p>
-<p><a href="https://www.tudocelular.com/apple/noticias/n239333/apple-iphone-17-pro-recarga-sem-fio-reversa.html" data-type="link" data-id="https://www.tudocelular.com/apple/noticias/n239333/apple-iphone-17-pro-recarga-sem-fio-reversa.html">مصدر</a></p></div>
+<p><a href="https://www.tudocelular.com/apple/noticias/n239333/apple-iphone-17-pro-recarga-sem-fio-reversa.html">مصدر</a></p></div>
 </p></div>

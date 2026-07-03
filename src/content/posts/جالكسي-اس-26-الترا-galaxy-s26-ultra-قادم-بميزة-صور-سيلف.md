@@ -1,6 +1,6 @@
 ---
 title: "Galaxy S26 Ultra تأتي مع ميزة شخصية ثورية مهمة للغاية!"
-description: "تستعد شركة Samsung الكورية لإطلاق سلسلة Galaxy S26 العام المقبل ، ومع زيادة التسريبات حول Galaxy S26 Ultra ، ظهرت معلومات جديدة تشير إلى أن الهاتف قد يحصل على ميزة مستوحاة من Apple ، وتحديداً من سلسلة iPhone 17. ميزة صورة صورة شخصية في Gala"
+description: "تستعد شركة Samsung الكورية لإطلاق سلسلة Galaxy S26 العام المقبل ، ومع زيادة التسريبات حول Galaxy S26 Ultra ، ظهرت معلومات جديدة تشير إلى أن الهاتف قد يحصل…"
 pubDate: "2025-09-15T14:41:04"
 updatedDate: "2025-09-20T10:59:31"
 author: "Arab Tech Trends"
@@ -16,8 +16,6 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-
 <div class="featured-area-inner">
 <figure class="single-featured-image"></figure>
 </div>
-</div>
-<div class="entry-content entry clearfix">
 <p>تستعد شركة Samsung الكورية لإطلاق سلسلة Galaxy S26 العام المقبل ، ومع زيادة التسريبات حول Galaxy S26 Ultra ، ظهرت معلومات جديدة تشير إلى أن الهاتف قد يحصل على ميزة مستوحاة من Apple ، وتحديداً من سلسلة iPhone 17.</p>
 <h2>ميزة صورة صورة شخصية في Galaxy S26 Ultra</h2>
 <p>وفقًا للتقارير الحديثة ، تقوم Samsung بتطوير وظيفة تسمح بأخذ صور شخصية أفقية مع الاستمرار في الاحتفاظ بالهاتف مع الموقف الرأسي ، وهي ميزة مماثلة لبرنامج Apple الذي قدمته مؤخرًا. قد تكون هذه الإضافة مفيدة بشكل خاص للهواتف الكبيرة مثل Galaxy S26 Ultra ، والتي تأتي مع شاشة 6.9 بوصة ضخمة ، مما يجعل من الصعب التحكم فيها في أيدي صغيرة.</p>
@@ -46,5 +44,5 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-
 <h3>تغييرات التصميم</h3>
 <p>من ناحية أخرى ، أظهرت تسريبات جديدة أن Galaxy S26 Ultra ستأتي مع مظهر محدث مع تعديلات على وحدة الكاميرات الخلفية ، حيث ظهرت الصور المسرة تؤكد وجود عدسات جديدة ، مما يعكس استمرار Samsung في تحسين الشكل الخارجي لسلسلةها الرائدة.</p>
 <p>شارك رأيك في أبرز الميزة التي يجب أن تصل Galaxy S26 Ultra إلى …</p>
-<p><a href="https://www.tudocelular.com/mercado/noticias/n240172/galaxys26ultra-recurso-camera-inspirado-iphone.html" data-type="link" data-id="https://www.tudocelular.com/mercado/noticias/n240172/galaxys26ultra-recurso-camera-inspirado-iphone.html">مصدر</a></p></div>
+<p><a href="https://www.tudocelular.com/mercado/noticias/n240172/galaxys26ultra-recurso-camera-inspirado-iphone.html">مصدر</a></p></div>
 </p></div>

@@ -1,6 +1,6 @@
 ---
 title: "هذه هي الهواتف الأولى التي ستحصل عليها!"
-description: "كشفت شركة Qualcomm عن معالج Snapdragon 8 Gen 5 ، والذي يأتي مع تحسينات كبيرة في مستوى الأداء وكفاءة الطاقة ، لفتح الباب أمام جيل جديد من الهواتف الذكية ذات الطول العالي. يوفر المعالج الجديد قفزة بنسبة 20 ٪ في أداء وحدة المعالجة المركزية ، و"
+description: "كشفت شركة Qualcomm عن معالج Snapdragon 8 Gen 5 ، والذي يأتي مع تحسينات كبيرة في مستوى الأداء وكفاءة الطاقة ، لفتح الباب أمام جيل جديد من الهواتف الذكية ذات…"
 pubDate: "2025-09-25T23:14:37"
 updatedDate: "2025-09-29T12:59:18"
 author: "Arab Tech Trends"
@@ -32,4 +32,4 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%85%d8%b9%d8%a7%d9%84%d8%ac-snapdr
 <h3>خاتمة:</h3>
 <p>يمثل معالج Snapdragon 8 Gen 5 تحولًا نوعيًا في أداء الهواتف الرائدة ، خاصة مع تركيزه على الألعاب ذات الإطار العالي ، وتحسين الذكاء الاصطناعي ، وزيادة كفاءة الطاقة. بينما تؤكد الشركات الكبرى اعتمادها على أجهزتها القادمة ، يبدو أننا نواجه جيلًا جديدًا من الهواتف الذكية التي تعد المستخدمين بتجربة أكثر قوة وأسلحة من أي وقت مضى.</p>
 <p>في رأيك … ما هو أفضل معالج الهاتف بشكل عام؟</p>
-<p><a href="https://www.fonearena.com/blog/465319/snapdragon-8-elite-gen-5-smartphones.html" data-type="link" data-id="https://www.fonearena.com/blog/465319/snapdragon-8-elite-gen-5-smartphones.html">مصدر</a></p></div>
+<p><a href="https://www.fonearena.com/blog/465319/snapdragon-8-elite-gen-5-smartphones.html">مصدر</a></p></div>

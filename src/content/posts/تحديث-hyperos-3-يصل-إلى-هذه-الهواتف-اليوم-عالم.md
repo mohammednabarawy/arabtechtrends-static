@@ -1,6 +1,6 @@
 ---
 title: "يصل تحديث HyperOS 3 إلى هذه الهواتف اليوم على مستوى العالم"
-description: "بدأت شركة Xiaomi رسميًا بتوسيع نطاق تحديث واجهة HyperOS 3 ليشمل مجموعة جديدة من هواتفها، بعد أن وصلت سابقًا إلى هاتفي Xiaomi 15T وRedmi 14C. الهواتف الجديدة التي حصلت على تحديث واجهة HyperOS 3 وتشمل الدفعة الجديدة هواتف Xiaomi 15، و15 Ultra"
+description: "بدأت شركة Xiaomi رسميًا بتوسيع نطاق تحديث واجهة HyperOS 3 ليشمل مجموعة جديدة من هواتفها، بعد أن وصلت سابقًا إلى هاتفي Xiaomi 15T وRedmi 14C."
 pubDate: "2025-11-04T21:47:15"
 updatedDate: "2025-11-05T02:05:50"
 author: "Arab Tech Trends"
@@ -16,8 +16,6 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-hypero
 <div class="featured-area-inner">
 <figure class="single-featured-image"></figure>
 </div>
-</div>
-<div class="entry-content entry clearfix">
 <p>بدأت شركة Xiaomi رسميًا بتوسيع نطاق تحديث واجهة HyperOS 3 ليشمل مجموعة جديدة من هواتفها، بعد أن وصلت سابقًا إلى هاتفي Xiaomi 15T وRedmi 14C.</p>
 <h2>الهواتف الجديدة التي حصلت على تحديث واجهة HyperOS 3</h2>
 <p>وتشمل الدفعة الجديدة هواتف Xiaomi 15، و15 Ultra، و15T Pro، حيث بدأت الشركة بإرسال التحديث عالميًا خارج برنامج Mi Pilot التجريبي، ليكون متاحًا بنسخة مستقرة وعامة للمستخدمين في أوروبا.</p>
@@ -42,5 +40,5 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-hypero
 </ul>
 <p>ومن المتوقع أن يصل التحديث أيضًا إلى سلسلة هواتف Xiaomi 14 وPOCO F6 قبل نهاية العام، على أن ينتشر النظام على نطاق واسع بدءًا من عام 2026 ليشمل الفئات الاقتصادية والمتوسطة والعليا.</p>
 <p>هل هاتفك من بين هذه الهواتف؟ شاركنا رأيك…</p>
-<p><a href="https://www.xiaomiadictos.com/xiaomi-realiza-un-nuevo-despliegue-global-de-hyperos-3/" data-type="link" data-id="https://www.xiaomiadictos.com/xiaomi-realiza-un-nuevo-despliegue-global-de-hyperos-3/">مصدر</a></p>
+<p><a href="https://www.xiaomiadictos.com/xiaomi-realiza-un-nuevo-despliegue-global-de-hyperos-3/">مصدر</a></p>
 </div></div>

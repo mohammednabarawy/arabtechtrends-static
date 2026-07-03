@@ -1,6 +1,6 @@
 ---
 title: "Xiaomi تطلق أخيرًا الميزة الأفضل في التحديث للمزيد من الهواتف!"
-description: "بدأت شركة Xiaomi الصينية بتوسيع دعم ميزة Hyper Island ضمن واجهتها الجديدة HyperOS 3.0 لتشمل المزيد من هواتف Redmi وPoco، بعد أن كانت الميزة متاحة في البداية فقط لأجهزة Xiaomi الرائدة مثل Xiaomi 15T و15T Pro. ما هي ميزة هايبر آيلاند؟ وتعتبر"
+description: "بدأت شركة Xiaomi الصينية بتوسيع دعم ميزة Hyper Island ضمن واجهتها الجديدة HyperOS 3.0 لتشمل المزيد من هواتف Redmi وPoco، بعد أن كانت الميزة متاحة في البداية…"
 pubDate: "2025-10-29T14:19:24"
 updatedDate: "2025-10-29T23:28:37"
 author: "Arab Tech Trends"
@@ -16,14 +16,12 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-hypero
 <div class="featured-area-inner">
 <figure class="single-featured-image"></figure>
 </div>
-</div>
-<div class="entry-content entry clearfix">
 <p>بدأت شركة Xiaomi الصينية بتوسيع دعم ميزة Hyper Island ضمن واجهتها الجديدة HyperOS 3.0 لتشمل المزيد من هواتف Redmi وPoco، بعد أن كانت الميزة متاحة في البداية فقط لأجهزة Xiaomi الرائدة مثل Xiaomi 15T و15T Pro.</p>
 <h2>ما هي ميزة هايبر آيلاند؟</h2>
 <p>وتعتبر Hyper Island من أبرز مميزات HyperOS 3.0، حيث تستفيد من المساحة المحيطة بالكاميرا الأمامية لعرض إشعارات النظام والمعلومات التفاعلية مثل حالة الطلب والتحكم في الموسيقى والمؤقتات والتنبيهات دون الحاجة لفتح لوحة الإشعارات، مما يمنح المستخدم تجربة أكثر تفاعلية وأنيقة.</p>
 <p>وفي الإصدارات التجريبية الأولى من الواجهة، كانت الميزة غائبة عن بعض هواتف Redmi Note 14، الأمر الذي أثار استياء المستخدمين، واعتقد الكثيرون أن غيابها كان بسبب قيود الأجهزة. ولكن تبين لاحقًا أن الأمر كان مجرد تقييد برمجي، حيث قام الإصدار 3.0.23 من النظام بإزالة الكود الذي كان يمنع تفعيل Hyper Island على معظم الأجهزة.</p>
 <p>وهذا يعني أن معظم هواتف Xiaomi وRedmi وPoco المتوافقة مع HyperOS 3.0 ستحصل على Hyper Island، مع اختلافات طفيفة في الأداء حسب مواصفات الجهاز، وخاصة ذاكرة الوصول العشوائي (RAM)، حيث قد تعمل الميزة بسلاسة أقل على الهواتف ذات الأجهزة المتوسطة.</p>
-<h2><strong>الهواتف التي ستحصل على HyperOS 3.0 وميزة Hyper Island</strong></h2>
+<h2>الهواتف التي ستحصل على HyperOS 3.0 وميزة Hyper Island</h2>
 <p><strong>بدءًا من نوفمبر 2025:</strong></p>
 <ul class="wp-block-list">
 <li>ريدمي نوت 14 برو+ 5جي</li>
@@ -69,5 +67,5 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-hypero
 </ul>
 <p>وبهذا التوسع، تثبت شركة Xiaomi التزامها بتوفير تجربة واجهة موحدة ومتكاملة لمستخدميها بمختلف الفئات، مع حرصها على توفير أبرز مميزات أجهزتها الرائدة لهواتفها الاقتصادية والمتوسطة أيضًا.</p>
 <p>هل هاتفك من بين هذه الهواتف؟ شاركنا رأيك…</p>
-<p><a href="https://www.movilzona.es/noticias/actualizaciones/hyper-island-compatible-mas-moviles-xiaomi-redmi-poco/" data-type="link" data-id="https://www.movilzona.es/noticias/actualizaciones/hyper-island-compatible-mas-moviles-xiaomi-redmi-poco/">مصدر</a></p>
+<p><a href="https://www.movilzona.es/noticias/actualizaciones/hyper-island-compatible-mas-moviles-xiaomi-redmi-poco/">مصدر</a></p>
 </div></div>

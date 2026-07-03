@@ -1,6 +1,6 @@
 ---
 title: "Xiaomi 17: مفاجأة Xiaomi ليست لـ Xiaomi 16 والقفز مباشرة إلى Xiaomi 17 بقدرات خارقة للطبيعة!"
-description: "أعلنت الشركة الصينية ، Xiaomi ، رسميًا عن خططها لإطلاق هواتفها الرائدة الجديدة التي تحمل اسم Xiaomi 17 ″ ، والتي ستشمل ثلاثة إصدارات من Xia 17 Xiaomi 17 و Xiaomi 17 Pro و Xiaom 17 Pro Max 17 Pro Max. ومن المثير للاهتمام ، أن الشركة قررت الت"
+description: "أعلنت الشركة الصينية ، Xiaomi ، رسميًا عن خططها لإطلاق هواتفها الرائدة الجديدة التي تحمل اسم Xiaomi 17 ″ ، والتي ستشمل ثلاثة إصدارات من Xia 17 Xiaomi 17 و…"
 pubDate: "2025-09-16T15:16:06"
 updatedDate: "2025-09-19T06:46:24"
 author: "Arab Tech Trends"
@@ -22,6 +22,6 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-17-%d9
 <p>البطارية: ستشهد السلسلة بطاريات كبيرة ، حيث أشارت التسريبات إلى أن إصدار Xiaomi 17 Pro Max قد يأتي بسعة 7500 مللي أمبير في الساعة ، وهي خطوة قد تحدث فرقًا كبيرًا في عمر البطارية مقارنة بالمنافسين.</p>
 <p><strong>كاميرات</strong>تعاون Xiaomi المستمر مع شركة <strong>لايكا</strong> ستستمر في هذه السلسلة ، مع تحسينات كبيرة في العدسات ، بما في ذلك إضافة عدسة بيركوب لتجربة تصوير مميزة في التكبير وأخذ الماكرو.</p>
 <p><strong>تصميم</strong>سيتضمن إصدار Xiaomi 17 Pro Max ميزة مثيرة للاهتمام ، حيث أكدت الشركة أنها ستحتوي <strong>الشاشة الخلفية الثانوية بجوار الكاميرات</strong>يمكن استخدامه لعرض التنبيهات والوقت ، أو كإطار محدد عند تصوير كاميرات الظهر.</p>
-<h3>تاريخ الإطلاق هو الهواتف <strong>Xiaomi 17 </strong></h3>
+<h3>تاريخ الإطلاق هو الهواتف Xiaomi 17</h3>
 <p>حددت Xiaomi تاريخًا رسميًا للكشف عن سلسلة <strong>Xiaomi 17</strong> في <strong>26 سبتمبر 2025</strong>خلال مؤتمر ضخم في الصين ، تتوفر الأجهزة لاحقًا في الأسواق العالمية.</p>
-<p><a href="https://www.xiaomiadictos.com/xiaomi-va-a-por-el-iphone-17-se-salta-el-xiaomi-16-y-presentara-directamente-el-xiaomi-17/#google_vignette" data-type="link" data-id="https://www.xiaomiadictos.com/xiaomi-va-a-por-el-iphone-17-se-salta-el-xiaomi-16-y-presentara-directamente-el-xiaomi-17/#google_vignette">مصدر</a></p></div>
+<p><a href="https://www.xiaomiadictos.com/xiaomi-va-a-por-el-iphone-17-se-salta-el-xiaomi-16-y-presentara-directamente-el-xiaomi-17/#google_vignette">مصدر</a></p></div>

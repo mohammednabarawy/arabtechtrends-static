@@ -1,6 +1,6 @@
 ---
 title: "سعر ومواصفات Galaxy S25 Fe وميزات"
-description: "تستعد الشركة الكورية \"Samsung\" لإطلاق إصدار جديد من المعجبين ، وهو Samsung Galaxy S25 Fe \". كشف تسرب جديد عن المزيد من التفاصيل حول تصميم الهاتف والميزات والسعر المحتمل. سعر ومواصفات Galaxy S25 Fe وأهم الميزات وفقًا لأحدث التسريبات ، فإن Ga"
+description: "تستعد الشركة الكورية \"Samsung\" لإطلاق إصدار جديد من المعجبين ، وهو Samsung Galaxy S25 Fe \"."
 pubDate: "2025-08-11T18:07:16"
 updatedDate: "2025-08-15T17:05:26"
 author: "Arab Tech Trends"
@@ -16,8 +16,6 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%b9%d8%b1-%d9%88%d9%85%d9%88
 <div class="featured-area-inner">
 <figure class="single-featured-image"></figure>
 </div>
-</div>
-<div class="entry-content entry clearfix">
 <p>تستعد الشركة الكورية "Samsung" لإطلاق إصدار جديد من المعجبين ، وهو Samsung Galaxy S25 Fe ". كشف تسرب جديد عن المزيد من التفاصيل حول تصميم الهاتف والميزات والسعر المحتمل.</p>
 <h2>سعر ومواصفات Galaxy S25 Fe وأهم الميزات</h2>
 <p>وفقًا لأحدث التسريبات ، فإن Galaxy S25 Fe يشبه إلى حد كبير Galaxy S25+. إنه يتميز بتصميم أنيق ومسطح مع ثلاث كاميرات في الخلف وكاميرا أمامية مع فتحة في الكاميرا الأمامية.</p>
@@ -27,5 +25,5 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%b9%d8%b1-%d9%88%d9%85%d9%88
 <p>تتضمن إعدادات الكاميرا كاميرا رئيسية مكونة من 50 ميغابكسل ، وعدسة 12 -megapixel -angled ، وكاميرا 8 -Megapixel. سيقوم الهاتف بتشغيل واجهة Android 16 و One UI 8.</p>
 <p>من المتوقع أن يكون السعر في أوروبا 679 يورو ، وقد يتم تقديم الهاتف في سبتمبر. يبدو هاتف Galaxy S25 Fe خيارًا جيدًا للمستخدمين الذين يرغبون في الحصول على مزايا الهواتف الرائدة دون دفع سعر الهواتف الرائدة.</p>
 <p>في رأيك ، ما هي الميزة الأكثر أهمية التي يجب أن تأتي إليها هذا الهاتف …؟ شارك رأيك في التعليقات …</p>
-<p><a href="https://www.sammyfans.com/2025/08/11/samsung-galaxy-s25-fe-full-details-leak-ahead-of-launch/" data-type="link" data-id="https://www.sammyfans.com/2025/08/11/samsung-galaxy-s25-fe-full-details-leak-ahead-of-launch/">مصدر</a></p></div>
+<p><a href="https://www.sammyfans.com/2025/08/11/samsung-galaxy-s25-fe-full-details-leak-ahead-of-launch/">مصدر</a></p></div>
 </p></div>

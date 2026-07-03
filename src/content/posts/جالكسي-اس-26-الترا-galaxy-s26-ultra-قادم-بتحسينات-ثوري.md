@@ -1,6 +1,6 @@
 ---
 title: "هاتف Galaxy S26 Ultra يأتي بتحسينات ثورية رغم تأجيل موعد الإطلاق!"
-description: "بدأت مميزات هاتف Samsung Galaxy S26 Ultra تتضح شيئًا فشيئًا مع ظهور تسريبات جديدة تؤكد أن سامسونج تعمل على تطوير أحد هواتفها الأكثر تقدمًا حتى الآن، مع تحسينات كبيرة في الأداء والبطارية والكاميرات. مميزات هاتف Galaxy S26 Ultra بحسب التسريبا"
+description: "بدأت مميزات هاتف Samsung Galaxy S26 Ultra تتضح شيئًا فشيئًا مع ظهور تسريبات جديدة تؤكد أن سامسونج تعمل على تطوير أحد هواتفها الأكثر تقدمًا حتى الآن، مع…"
 pubDate: "2025-10-31T20:28:01"
 updatedDate: "2025-11-03T21:59:25"
 author: "Arab Tech Trends"
@@ -16,8 +16,6 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-
 <div class="featured-area-inner">
 <figure class="single-featured-image"></figure>
 </div>
-</div>
-<div class="entry-content entry clearfix">
 <p>بدأت مميزات هاتف Samsung Galaxy S26 Ultra تتضح شيئًا فشيئًا مع ظهور تسريبات جديدة تؤكد أن سامسونج تعمل على تطوير أحد هواتفها الأكثر تقدمًا حتى الآن، مع تحسينات كبيرة في الأداء والبطارية والكاميرات.</p>
 <h2>مميزات هاتف Galaxy S26 Ultra بحسب التسريبات</h2>
 <p>ووفقا لتقرير جديد من موقع SammyGuru، فإن سامسونج تجري حاليا اختبارات مزدوجة للمعالجات في سلسلة Galaxy S26، مما يشير إلى إمكانية إطلاق الهاتف بنسختين: واحدة مدعومة بمعالج Exynos 2600 المطور بتقنية 2 نانومتر، والأخرى بمعالج Snapdragon 8 Elite Gen 5 في بعض الأسواق.</p>
@@ -25,7 +23,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-
 <p>كما أكدت التسريبات على أن وحدة العدسات المقربة خضعت لاختبارات هندسية ناجحة (EVT)، حيث تم اعتماد مستشعر جديد بدقة 12 ميجا بيكسل لتقريب بصري 3x بدلاً من المستشعر المستخدم حالياً بدقة 10 ميجا بيكسل. وتعمل سامسونج أيضًا على تحسين أداء الكاميرا الأساسية بدقة 200 ميجابكسل باستخدام مستشعر جديد يوفر جودة أفضل في الإضاءة المنخفضة وتفاصيل أكثر دقة.</p>
 <p>وتشير المعلومات الحالية إلى أن سلسلة Galaxy S26 قد تشهد تأجيل موعد الإطلاق إلى فبراير أو مارس 2026، بعد أن كانت الشركة تخطط لإطلاقها مع بداية العام. وعلى الرغم من التأخير المحتمل، إلا أن التسريبات المستمرة تؤكد أن سامسونج دخلت بالفعل مرحلة الاختبار المتقدمة للهاتف.</p>
 <p>ومن المتوقع أن يقدم هاتف Galaxy S26 Ultra مزيجًا متكاملاً من الأداء القوي بفضل الذكاء الاصطناعي، مع تصميم أنحف، وبطارية أكبر، وكاميرات أكثر تقدمًا، مما يجعله أحد أكثر هواتف سامسونج المنتظرة لعام 2026.</p>
-<h2><strong>أبرز مميزات هاتف Galaxy S26 Ultra</strong> <strong>مُتوقع </strong></h2>
+<h2>أبرز مميزات هاتف Galaxy S26 Ultra مُتوقع</h2>
 <figure class="wp-block-table">
 <table class="has-fixed-layout">
 <thead>
@@ -67,5 +65,5 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-
 </table>
 </figure>
 <p>الآن شاركنا رأيك في التعليقات حول أهم ميزة يجب أن يأتي بها هاتف Galaxy S26 Ultra…</p>
-<p><a href="https://sammyguru.com/galaxy-s26-ultra-leak-teases-bigger-battery-camera-upgrade-and-exynos/" data-type="link" data-id="https://sammyguru.com/galaxy-s26-ultra-leak-teases-bigger-battery-camera-upgrade-and-exynos/">مصدر</a></p>
+<p><a href="https://sammyguru.com/galaxy-s26-ultra-leak-teases-bigger-battery-camera-upgrade-and-exynos/">مصدر</a></p>
 </div></div>

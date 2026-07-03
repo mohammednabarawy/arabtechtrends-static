@@ -1,6 +1,6 @@
 ---
 title: "سامسونج تستعد لإطلاقه بتغييرات مهمة!"
-description: "بدأت شركة سامسونج الكورية العمل على تحديث واجهة One UI 8.5 المبنية على نظام التشغيل Android 16 QPR2، والتي ستجلب تغييرات كبيرة في ميزات التصميم والتخصيص، مما يجعلها ترقية كبيرة بعد واجهة One UI 8، التي ركزت على تحسين الأداء أكثر من المظهر."
+description: "بدأت شركة سامسونج الكورية العمل على تحديث واجهة One UI 8.5 المبنية على نظام التشغيل Android 16 QPR2، والتي ستجلب تغييرات كبيرة في ميزات التصميم والتخصيص،…"
 pubDate: "2025-10-05T23:00:42"
 updatedDate: "2025-10-08T21:53:25"
 author: "Arab Tech Trends"
@@ -16,8 +16,6 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-one-ui
 <div class="featured-area-inner">
 <figure class="single-featured-image"></figure>
 </div>
-</div>
-<div class="entry-content entry clearfix">
 <p>بدأت شركة سامسونج الكورية العمل على تحديث واجهة One UI 8.5 المبنية على نظام التشغيل Android 16 QPR2، والتي ستجلب تغييرات كبيرة في ميزات التصميم والتخصيص، مما يجعلها ترقية كبيرة بعد واجهة One UI 8، التي ركزت على تحسين الأداء أكثر من المظهر.</p>
 <h2>أهم مميزات تحديث واجهة One UI 8.5</h2>
 <p><strong>تركيز سامسونج على One UI 8:</strong></p>
@@ -35,5 +33,5 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-one-ui
 <p><strong>الإطلاق التدريجي المتوقع في عام 2026:</strong></p>
 <p>ومن المتوقع أن تبدأ سامسونج في طرح One UI 8.5 خلال النصف الأول من عام 2026، حيث ستصل أولاً للهواتف Galaxy S25 Ultra وZ Fold 7، قبل التوسع إلى بقية الهواتف المؤهلة.</p>
 <p>شاركنا بأهم الميزة التي يجب أن يأتي بها تحديث واجهة One UI 8.5…</p>
-<p><a href="https://www.sammyfans.com/2025/10/04/samsung-one-ui-8-5-is-major-or-minor-upgrade/" data-type="link" data-id="https://www.sammyfans.com/2025/10/04/samsung-one-ui-8-5-is-major-or-minor-upgrade/">مصدر</a></p>
+<p><a href="https://www.sammyfans.com/2025/10/04/samsung-one-ui-8-5-is-major-or-minor-upgrade/">مصدر</a></p>
 </div></div>

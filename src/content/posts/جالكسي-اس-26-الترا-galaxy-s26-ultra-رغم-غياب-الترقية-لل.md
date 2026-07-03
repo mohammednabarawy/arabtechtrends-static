@@ -1,6 +1,6 @@
 ---
 title: "جالكسي اس 26 الترا Galaxy S26 Ultra رغم غياب الترقية للكاميرا قد يُعوّض بميزة جديدة مذهلة!"
-description: "تستعد سامسونج لإطلاق هاتفها الرائد Galaxy S26 Ultra في العام المقبل، لكن وفقًا لتقرير جديد نشره موقع GalaxyClub ونقلته Sammy Fans، يبدو أن الهاتف قد لا يقدم تحسينات كبيرة في جانب الكاميرا الذي ينتظره المستخدمون بشغف. التفاصيل الكاملة للتقري"
+description: "تستعد سامسونج لإطلاق هاتفها الرائد Galaxy S26 Ultra في العام المقبل، لكن وفقًا لتقرير جديد نشره موقع GalaxyClub ونقلته Sammy Fans، يبدو أن الهاتف قد لا يقدم…"
 pubDate: "2025-07-04T16:32:10"
 updatedDate: "2025-07-08T08:10:15"
 author: "Arab Tech Trends"
@@ -16,8 +16,6 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-
 <div class="featured-area-inner">
 <figure class="single-featured-image"></figure>
 </div>
-</div>
-<div class="entry-content entry clearfix">
 <p>تستعد سامسونج لإطلاق هاتفها الرائد Galaxy S26 Ultra في العام المقبل، لكن وفقًا لتقرير جديد نشره موقع GalaxyClub ونقلته Sammy Fans، يبدو أن الهاتف قد لا يقدم تحسينات كبيرة في جانب الكاميرا الذي ينتظره المستخدمون بشغف.</p>
 <h3>التفاصيل الكاملة للتقرير</h3>
 <p>بحسب المعلومات المسربة، ستحتفظ سامسونج بنفس عدسة المنظار (Periscope) بدقة 50 ميجابكسل، وهي العدسة التي تم تقديمها لأول مرة مع Galaxy S24 Ultra ثم استُخدمت مجددًا في Galaxy S25 Ultra. العدسة ستستمر بدعم تكبير بصري حتى 5x فقط، دون أي زيادة في مستوى التكبير البصري الذي كان يُميز الأجيال الأقدم مثل Galaxy S23 Ultra الذي جاء بعدسة تكبير بصري 10x (رغم دقة أقل 10 ميجابكسل).</p>
@@ -28,5 +26,5 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-
 <h3>ملاحظة هامة</h3>
 <p>هذه المعلومات لا تزال في إطار التسريبات والتقارير، ولم تؤكدها سامسونج رسميًا بعد. لكن من الواضح أن الشركة قد تُفضّل التركيز على تحسين المعالجة البرمجية والتقنيات الذكية بدلًا من تغيير العتاد بشكل كبير.</p>
 <p>برأيكم، ما هي أبرز ميزة يجب أن يأتي بها هذا الهاتف؟</p>
-<p><a href="https://www.sammyfans.com/2025/07/04/samsung-galaxy-s26-ultra-periscope-camera-leak/" data-type="link" data-id="https://www.sammyfans.com/2025/07/04/samsung-galaxy-s26-ultra-periscope-camera-leak/">المصدر</a></p></div>
+<p><a href="https://www.sammyfans.com/2025/07/04/samsung-galaxy-s26-ultra-periscope-camera-leak/">المصدر</a></p></div>
 </p></div>

@@ -1,6 +1,6 @@
 ---
 title: "تقوم Samsung بتسريع وتيرة العرض وتعلن عن خطة شاملة للتحديث"
-description: "أكدت Samsung التزامها بتوفير تجربة برمجية سريعة ومحسّنة ، حيث بدأت في إطلاق واجهة One UI 8 ، التي تم بناؤها على Android 16. تشير التوقعات إلى أن \"Samsung\" ستعمل على تسريع وتيرة العرض مقارنة بالإصدارات السابقة. النسخة التجريبية من واجهة المس"
+description: "أكدت Samsung التزامها بتوفير تجربة برمجية سريعة ومحسّنة ، حيث بدأت في إطلاق واجهة One UI 8 ، التي تم بناؤها على Android 16."
 pubDate: "2025-08-09T20:09:17"
 updatedDate: "2025-08-10T10:24:54"
 author: "Arab Tech Trends"
@@ -16,16 +16,14 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-one-ui
 <div class="featured-area-inner">
 <figure class="single-featured-image"></figure>
 </div>
-</div>
-<div class="entry-content entry clearfix">
 <p>أكدت Samsung التزامها بتوفير تجربة برمجية سريعة ومحسّنة ، حيث بدأت في إطلاق واجهة One UI 8 ، التي تم بناؤها على Android 16. تشير التوقعات إلى أن "Samsung" ستعمل على تسريع وتيرة العرض مقارنة بالإصدارات السابقة.</p>
-<h2><strong>النسخة التجريبية من واجهة المستخدم 8 وجدول الإطلاق</strong></h2>
+<h2>النسخة التجريبية من واجهة المستخدم 8 وجدول الإطلاق</h2>
 <p>بدأت Samsung بالفعل في فتح الباب للمشاركة في برنامج الإصدار التجريبي من تحديث واجهة UI 8 على العديد من الأجهزة. من المتوقع أن يكون جدول العرض على النحو التالي:</p>
 <p><strong>الأسبوع المقبل:</strong> سيكون مستخدمو السلسلة قادرين <strong>Galaxy S24</strong> والهواتف <strong>Galaxy Z Fold 6</strong> و <strong>Galaxy Z Flip 6</strong> من الانضمام إلى البرنامج التجريبي.</p>
 <p><strong>سبتمبر:</strong> سيتم توسيع البرنامج ليشمل سلسلة <strong>Galaxy S23</strong> والهواتف <strong>Galaxy Z Fold 5</strong> و <strong>Galaxy Z Flip 5</strong>بالإضافة إلى عدة نماذج من السلسلة <strong>المجرة أ</strong>.</p>
 <p><strong>إطلاق مستقر:</strong> بعد جمع الملاحظات من المشاركين ، ستطلق "Samsung" النسخة المستقرة من واجهة المستخدم 8 ، على الأرجح في <strong>أواخر سبتمبر</strong>وستكون سلسلة <strong>Galaxy S25</strong> أول من يستقبلها.</p>
 <p>تشير التوقعات إلى أن الشركة ستكمل تحديث جميع الأجهزة المؤهلة إلى UI8 الواحد قبل نهاية العام ، مما يدل على تغيير إيجابي في استراتيجية التحديث. ويعزى هذا التسارع إلى اعتماد Samsung على "تطوير Trunk" تطوير "نهج التطوير من" Google "، والذي ساهم في إطلاق نظام Android 16.</p>
-<h3><strong>ميزات واجهة المستخدم واحدة</strong></h3>
+<h3>ميزات واجهة المستخدم واحدة</h3>
 <p>لا يقوم واجهة المستخدم 8 بتغييرات جذرية في التصميم ، ولكنه يركز على تحسينات عملية ومفيدة تعزز الإنتاجية والتخصيص:</p>
 <ul class="wp-block-list">
 <li><strong>الإنتاجية والمهام المتعددة:</strong>
@@ -57,5 +55,5 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-one-ui
 </li>
 </ul>
 <p>يعد تحديث One UI 8 خطوة كبيرة بالنسبة لـ Samsung نحو توفير تجربة مستخدم أكثر سلاسة وذكية ، مما يعزز موقع الشركة في سوق الهواتف الذكية.</p>
-<p><a href="https://www.gizmochina.com/2025/08/08/heres-when-samsung-will-push-the-stable-one-ui-8-update/" data-type="link" data-id="https://www.gizmochina.com/2025/08/08/heres-when-samsung-will-push-the-stable-one-ui-8-update/">مصدر</a></p></div>
+<p><a href="https://www.gizmochina.com/2025/08/08/heres-when-samsung-will-push-the-stable-one-ui-8-update/">مصدر</a></p></div>
 </p></div>

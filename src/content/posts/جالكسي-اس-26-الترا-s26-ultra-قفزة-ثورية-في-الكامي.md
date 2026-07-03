@@ -1,6 +1,6 @@
 ---
 title: "قفزة ثورية في الكاميرا وتغييرات أساسية مهمة"
-description: "تشير أحدث التسريبات إلى أن Samsung Galaxy S26 Ultra قد يشهد قفزة نوعية في إمكانيات الكاميرا ، معتمدة على مستشعر Sony مع مستشعر Sony أكبر. في حالة أن هذه التسريبات صحيحة ، فإن هذه الخطوة ستقوم بتقسيم تقليد Samsung للاعتماد على مكوناتها الخاص"
+description: "تشير أحدث التسريبات إلى أن Samsung Galaxy S26 Ultra قد يشهد قفزة نوعية في إمكانيات الكاميرا ، معتمدة على مستشعر Sony مع مستشعر Sony أكبر."
 pubDate: "2025-07-11T19:09:30"
 updatedDate: "2025-07-12T17:37:00"
 author: "Arab Tech Trends"
@@ -27,4 +27,4 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-
 <p>بالإضافة إلى ذلك ، قد يشهد S26 Ultra تحسينات في سرعة الشحن السريع ، مع الحفاظ على سعة بطارية مماثلة ، وقد يكون الهاتف أرق قليلاً. يدخل الذكاء الاصطناعي في الصورة بقوة ، حيث تشير التكهنات إلى أن Samsung قد تتفاوض مع AI الحيرة لاستبدال الجوزاء في هواتف Galaxy S26. </p>
 <p>في حالة تأكيد ذلك ، قد تتحسن وظائف التصوير الفوتوغرافي الذكاء الاصطناعي بشكل كبير ، مع الاستفادة من الدقة العالية وأفضل مستشعر لالتقاط الضوء.</p>
 <p>في رأيك ، ما هو التغيير الأبرز الذي يجب على Samsung إجراءه في سلسلة Galaxy S26 التالية؟</p>
-<p><a href="https://andro4all.com/samsung-galaxy-s/el-futuro-galaxy-s26-ultra-llegaria-con-una-importante-mejora-en-la-camara-de-200-mp-segun-una-filtracion" data-type="link" data-id="https://andro4all.com/samsung-galaxy-s/el-futuro-galaxy-s26-ultra-llegaria-con-una-importante-mejora-en-la-camara-de-200-mp-segun-una-filtracion">مصدر</a></p></div>
+<p><a href="https://andro4all.com/samsung-galaxy-s/el-futuro-galaxy-s26-ultra-llegaria-con-una-importante-mejora-en-la-camara-de-200-mp-segun-una-filtracion">مصدر</a></p></div>

@@ -1,6 +1,6 @@
 ---
 title: "Huawei Mate XTS الجديد هو رسميا مع مزايا قوية!"
-description: "Huawei ماتي XTS كشفت Huawei عن أحدث تصميم لها في Huawei Mate XTS Ultimate ، ليكون الجيل الثاني من هذه الفئة الفريدة التي تجمع بين التصميم النحيف والابتكارات التقنية. يأتي الهاتف مع معالج Kirin 9020 الجديد ، حيث يتطور في نظام الكاميرا مع تحس"
+description: "Huawei ماتي XTS كشفت Huawei عن أحدث تصميم لها في Huawei Mate XTS Ultimate ، ليكون الجيل الثاني من هذه الفئة الفريدة التي تجمع بين التصميم النحيف والابتكارات…"
 pubDate: "2025-09-04T15:43:03"
 updatedDate: "2025-09-05T19:31:19"
 author: "Arab Tech Trends"
@@ -17,8 +17,6 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d9%88%d8%a7%d9%88%d9%8a-%d8%ab
 <figure class="single-featured-image"><figcaption class="single-caption-text">
 <span class="tie-icon-camera" aria-hidden="true"/>    Huawei ماتي XTS</figcaption></figure>
 </div>
-</div>
-<div class="entry-content entry clearfix">
 <p>كشفت Huawei عن أحدث تصميم لها في Huawei Mate XTS Ultimate ، ليكون الجيل الثاني من هذه الفئة الفريدة التي تجمع بين التصميم النحيف والابتكارات التقنية. يأتي الهاتف مع معالج Kirin 9020 الجديد ، حيث يتطور في نظام الكاميرا مع تحسينات طفيفة في الأداء والخبرة البصرية.</p>
 <h2>Huawei Mate XTS Design Ultimate</h2>
 <ul class="wp-block-list">
@@ -41,7 +39,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d9%88%d8%a7%d9%88%d9%8a-%d8%ab
 <li><strong>طلب</strong>: Harmonyos 5.1</li>
 <li><strong>الألوان</strong>أسود ، أحمر ، أرجواني ، أبيض.</li>
 </ul>
-<figure class="wp-block-image size-full"><img width="708" height="480" src="/uploads/wp/2025/09/1757089877_221_huawei-mate-xts.jpg" alt="Huawei ماتي XTS" class="wp-image-224393"></figure>
+<figure><img width="708" height="480" src="/uploads/wp/2025/09/1757089877_221_huawei-mate-xts.jpg" alt="Huawei ماتي XTS"></figure>
 <h2>ميزات Huawei Mate XTS Design Ultimate</h2>
 <ul class="wp-block-list">
 <li><strong>أداء أسرع</strong>يرفع معالج Kirin 9020 الأداء بنسبة تصل إلى 36 ٪ مقارنة بالإصدار السابق.</li>
@@ -58,5 +56,5 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d9%88%d8%a7%d9%88%d9%8a-%d8%ab
 </ul>
 <p>سيبدأ بيع الهاتف في الصين يوميًا <strong>12 سبتمبر</strong>في حين أن Huawei لم تعلن عن تاريخ الإطلاق العالمي بعد.</p>
 <p>ما رأيك عمومًا في الهواتف الفئة الثلاثة؟ هل يستحق الشراء حقًا؟</p>
-<p><a href="https://www.gsmarena.com/huawei_mate_xts_announced_with_kirin_9020_and_updated_40mp_ultrawide_cam-news-69347.php" data-type="link" data-id="https://www.gsmarena.com/huawei_mate_xts_announced_with_kirin_9020_and_updated_40mp_ultrawide_cam-news-69347.php">مصدر</a></p></div>
+<p><a href="https://www.gsmarena.com/huawei_mate_xts_announced_with_kirin_9020_and_updated_40mp_ultrawide_cam-news-69347.php">مصدر</a></p></div>
 </p></div>

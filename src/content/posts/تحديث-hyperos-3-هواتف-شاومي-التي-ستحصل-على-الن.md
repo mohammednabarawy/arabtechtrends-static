@@ -1,6 +1,6 @@
 ---
 title: "تحديث Hyperos 3: هواتف Xiaomi التي ستحصل على النسخة الرسمية رسميًا"
-description: "أعلنت Xiaomi رسميًا عن إطلاق تحديث Hyperos 3 في حدث خاص في الصين ، وكشفت ، بالتزامن مع خطتها لبرنامج الإصدار التجريبي للواجهة الجديدة. بدأت الشركة بالفعل في تلقي طلبات التسجيل من المستخدمين الذين يرغبون في تجربة التحديث مبكرًا. الأجهزة التي"
+description: "أعلنت Xiaomi رسميًا عن إطلاق تحديث Hyperos 3 في حدث خاص في الصين ، وكشفت ، بالتزامن مع خطتها لبرنامج الإصدار التجريبي للواجهة الجديدة."
 pubDate: "2025-08-28T13:40:28"
 updatedDate: "2025-08-30T23:04:16"
 author: "Arab Tech Trends"
@@ -16,12 +16,10 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-hypero
 <div class="featured-area-inner">
 <figure class="single-featured-image"></figure>
 </div>
-</div>
-<div class="entry-content entry clearfix">
 <p>أعلنت Xiaomi رسميًا عن إطلاق تحديث Hyperos 3 في حدث خاص في الصين ، وكشفت ، بالتزامن مع خطتها لبرنامج الإصدار التجريبي للواجهة الجديدة. بدأت الشركة بالفعل في تلقي طلبات التسجيل من المستخدمين الذين يرغبون في تجربة التحديث مبكرًا.</p>
 
-<nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-1" href="https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-hyperos-3-%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%a7%d9%84%d8%aa%d9%8a-%d8%b3%d8%aa%d8%ad%d8%b5%d9%84-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d9%86/#%D8%A7%D9%84%D8%A3%D8%AC%D9%87%D8%B2%D8%A9_%D8%A7%D9%84%D8%AA%D9%8A_%D8%B3%D8%AA%D8%AD%D8%B5%D9%84_%D8%B9%D9%84%D9%89_%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB_HyperOS_3_%D8%A7%D9%84%D8%AA%D8%AC%D8%B1%D9%8A%D8%A8%D9%8A_%D8%A3%D9%88%D9%84%D8%A7%D9%8B" >الأجهزة التي ستحصل على تحديث HyperOS 3 التجريبي أولاً</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-2" href="https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-hyperos-3-%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%a7%d9%84%d8%aa%d9%8a-%d8%b3%d8%aa%d8%ad%d8%b5%d9%84-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d9%86/#%D8%AE%D8%B7%D8%A9_%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9_Hyperos_3_%D9%85%D9%85%D8%AA%D9%84%D9%89%D8%A1" >خطة تجربة Hyperos 3 ممتلىء</a></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-3" href="https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-hyperos-3-%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%a7%d9%84%d8%aa%d9%8a-%d8%b3%d8%aa%d8%ad%d8%b5%d9%84-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d9%86/#%D9%83%D9%8A%D9%81_%D9%8A%D9%85%D9%83%D9%86%D9%83_%D8%A7%D9%84%D8%AA%D8%B3%D8%AC%D9%8A%D9%84_%D9%81%D9%8A_%D8%A7%D9%84%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC_%D8%A7%D9%84%D8%AA%D8%AC%D8%B1%D9%8A%D8%A8%D9%8A_%D9%84%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB_Hyperos_3%D8%9F" >كيف يمكنك التسجيل في البرنامج التجريبي لتحديث Hyperos 3؟</a></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-4" href="https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-hyperos-3-%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%a7%d9%84%d8%aa%d9%8a-%d8%b3%d8%aa%d8%ad%d8%b5%d9%84-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d9%86/#%D9%85%D9%84%D8%A7%D8%AD%D8%B8%D8%A7%D8%AA_%D9%85%D9%87%D9%85%D8%A9_%D9%82%D8%A8%D9%84_%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9_%D8%A7%D9%84%D9%86%D8%B3%D8%AE%D8%A9_%D8%A7%D9%84%D8%AA%D8%AC%D8%B1%D9%8A%D8%A8%D9%8A%D8%A9" >ملاحظات مهمة قبل تجربة النسخة التجريبية</a></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-5" href="https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-hyperos-3-%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d8%b4%d8%a7%d9%88%d9%85%d9%8a-%d8%a7%d9%84%d8%aa%d9%8a-%d8%b3%d8%aa%d8%ad%d8%b5%d9%84-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d9%86/#%D8%AA%D9%88%D8%B3%D8%B9_%D9%84%D8%A7%D8%AD%D9%82%D9%8B%D8%A7" >توسع لاحقًا</a></li></ul></nav></div>
-<h2><span class="ez-toc-section" id="%D8%A7%D9%84%D8%A3%D8%AC%D9%87%D8%B2%D8%A9_%D8%A7%D9%84%D8%AA%D9%8A_%D8%B3%D8%AA%D8%AD%D8%B5%D9%84_%D8%B9%D9%84%D9%89_%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB_HyperOS_3_%D8%A7%D9%84%D8%AA%D8%AC%D8%B1%D9%8A%D8%A8%D9%8A_%D8%A3%D9%88%D9%84%D8%A7%D9%8B"></span>الأجهزة التي ستحصل على تحديث HyperOS 3 التجريبي أولاً<span class="ez-toc-section-end"></span></h2>
+</div>
+<h2 id="%D8%A7%D9%84%D8%A3%D8%AC%D9%87%D8%B2%D8%A9_%D8%A7%D9%84%D8%AA%D9%8A_%D8%B3%D8%AA%D8%AD%D8%B5%D9%84_%D8%B9%D9%84%D9%89_%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB_HyperOS_3_%D8%A7%D9%84%D8%AA%D8%AC%D8%B1%D9%8A%D8%A8%D9%8A_%D8%A3%D9%88%D9%84%D8%A7%D9%8B">الأجهزة التي ستحصل على تحديث HyperOS 3 التجريبي أولاً</h2>
 <p>أكدت Xiaomi أن الدفعة الأولى من الإصدار التجريبي ستصل فورًا بعد انتهاء الحدث إلى مجموعة من هواتفها والأجهزة اللوحية المميزة ، وتشمل القائمة:</p>
 <ul class="wp-block-list">
 <li><strong>Xiaomi 15</strong></li>
@@ -34,8 +32,8 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-hypero
 <li><strong>Xiaomi Pad 7S Pro</strong></li>
 </ul>
 <p>إذا كان جهازك مدرجًا في هذه القائمة ويعيش في الصين ، فيمكنك التسجيل فورًا للإصدار التجريبي واستلام التحديث بعد انتهاء الحدث.</p>
-<h3><span class="ez-toc-section" id="%D8%AE%D8%B7%D8%A9_%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9_Hyperos_3_%D9%85%D9%85%D8%AA%D9%84%D9%89%D8%A1"></span><strong><strong>خطة تجربة Hyperos 3 </strong></strong>ممتلىء<span class="ez-toc-section-end"></span></h3>
-<figure class="wp-block-image size-large"><img width="708" height="398" src="/uploads/wp/2025/08/تحديث-Hyperos-3-هواتف-Xiaomi-التي-ستحصل-على-النسخة-الرسمية.jpg" alt="Hyperos 3" class="wp-image-224199"></figure>
+<h3 id="%D8%AE%D8%B7%D8%A9_%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9_Hyperos_3_%D9%85%D9%85%D8%AA%D9%84%D9%89%D8%A1">خطة تجربة Hyperos 3 ممتلىء</h3>
+<figure><img width="708" height="398" src="/uploads/wp/2025/08/تحديث-Hyperos-3-هواتف-Xiaomi-التي-ستحصل-على-النسخة-الرسمية.jpg" alt="Hyperos 3"></figure>
 <p><strong>29 أغسطس: بداية الدفعة الأولى من التحديثات</strong></p>
 <ul class="wp-block-list">
 <li><strong>الهواتف:</strong>
@@ -96,7 +94,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-hypero
 <li><strong>أجهزة الكمبيوتر اللوحي:</strong></li>
 </ul>
 <p><strong>ملحوظة:</strong> قد تختلف التحديثات أوقات إطلاقها للطرز والميزات المختلفة بسبب البرامج والأجهزة. بالنسبة لخطة التحديث المحددة لكل نموذج وميزة ، يرجى الرجوع إلى الإعلانات المحلية.</p>
-<h2><span class="ez-toc-section" id="%D9%83%D9%8A%D9%81_%D9%8A%D9%85%D9%83%D9%86%D9%83_%D8%A7%D9%84%D8%AA%D8%B3%D8%AC%D9%8A%D9%84_%D9%81%D9%8A_%D8%A7%D9%84%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC_%D8%A7%D9%84%D8%AA%D8%AC%D8%B1%D9%8A%D8%A8%D9%8A_%D9%84%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB_Hyperos_3%D8%9F"></span>كيف يمكنك التسجيل في البرنامج التجريبي لتحديث Hyperos 3؟<span class="ez-toc-section-end"></span></h2>
+<h2 id="%D9%83%D9%8A%D9%81_%D9%8A%D9%85%D9%83%D9%86%D9%83_%D8%A7%D9%84%D8%AA%D8%B3%D8%AC%D9%8A%D9%84_%D9%81%D9%8A_%D8%A7%D9%84%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC_%D8%A7%D9%84%D8%AA%D8%AC%D8%B1%D9%8A%D8%A8%D9%8A_%D9%84%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB_Hyperos_3%D8%9F">كيف يمكنك التسجيل في البرنامج التجريبي لتحديث Hyperos 3؟</h2>
 <p>للانضمام إلى البرنامج ، يجب على المستخدمين اتباع الخطوات التالية:</p>
 <ol class="wp-block-list">
 <li>مدخل <strong>مركز الاختبار الداخلي في مجتمع Xiaomi</strong>.</li>
@@ -105,15 +103,15 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-hypero
 <li>أكمل الخطوات المطلوبة على الشاشة لتأكيد التسجيل.</li>
 </ol>
 <p>بعد التسجيل ، ستتلقى إشعارات على جهازك بمجرد توفر الإصدار التجريبي ، ويمكنك أيضًا التحقق من: الإعدادات> حول الهاتف> انقر فوق شعار Hyperos.</p>
-<h2><span class="ez-toc-section" id="%D9%85%D9%84%D8%A7%D8%AD%D8%B8%D8%A7%D8%AA_%D9%85%D9%87%D9%85%D8%A9_%D9%82%D8%A8%D9%84_%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9_%D8%A7%D9%84%D9%86%D8%B3%D8%AE%D8%A9_%D8%A7%D9%84%D8%AA%D8%AC%D8%B1%D9%8A%D8%A8%D9%8A%D8%A9"></span>ملاحظات مهمة قبل تجربة النسخة التجريبية<span class="ez-toc-section-end"></span></h2>
+<h2 id="%D9%85%D9%84%D8%A7%D8%AD%D8%B8%D8%A7%D8%AA_%D9%85%D9%87%D9%85%D8%A9_%D9%82%D8%A8%D9%84_%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9_%D8%A7%D9%84%D9%86%D8%B3%D8%AE%D8%A9_%D8%A7%D9%84%D8%AA%D8%AC%D8%B1%D9%8A%D8%A8%D9%8A%D8%A9">ملاحظات مهمة قبل تجربة النسخة التجريبية</h2>
 <ul class="wp-block-list">
 <li>غالبًا ما تحتوي النسخ التجريبية <strong>أخطاء ومشاكل لا حصر لها</strong>.</li>
 <li>قد لا تعمل بعض الميزات بسلاسة أو قد تكون متاحة.</li>
 <li>من الأفضل تثبيت الإصدار على جهاز ثانوي لتجنب أي تعطيل للتجربة اليومية.</li>
 <li>العودة إلى النسخة المستقرة ليست سهلة ، وغالبًا ما تكون مطلوبة <strong>مسح بيانات الهاتف تماما</strong>لذلك يجب عليك أخذ نسخة احتياطية من الملفات المهمة.</li>
 </ul>
-<h2><span class="ez-toc-section" id="%D8%AA%D9%88%D8%B3%D8%B9_%D9%84%D8%A7%D8%AD%D9%82%D9%8B%D8%A7"></span>توسع لاحقًا<span class="ez-toc-section-end"></span></h2>
+<h2 id="%D8%AA%D9%88%D8%B3%D8%B9_%D9%84%D8%A7%D8%AD%D9%82%D9%8B%D8%A7">توسع لاحقًا</h2>
 <p>البرنامج التجريبي متاح حاليًا في الصين فقط ، لكن Xiaomi أكدت أنه سيقوم بتوسيعه ليشمله <strong>مناطق وأجهزة أخرى خلال الأسابيع المقبلة</strong>.</p>
 <p>هل هاتفك بين هذه الهواتف المؤهلة للحصول على الإصدار التجريبي؟</p>
-<p><a href="https://www.gizmochina.com/2025/08/28/xiaomi-announces-hyperos-3-beta-rollout-plan/" data-type="link" data-id="https://www.gizmochina.com/2025/08/28/xiaomi-announces-hyperos-3-beta-rollout-plan/">مصدر</a></p></div>
+<p><a href="https://www.gizmochina.com/2025/08/28/xiaomi-announces-hyperos-3-beta-rollout-plan/">مصدر</a></p></div>
 </p></div>

@@ -1,6 +1,6 @@
 ---
 title: "كشفت Redmi Note 15 عن تاريخ الإطلاق الرسمي بمفاجآت قوية"
-description: "بعد سلسلة من التسريبات والشائعات ، أعلنت Redmi ، العلامة التجارية الفرعية لـ Xiaomi ، عن التاريخ الرسمي لإطلاق سلسلة Redmi Note 15 Pro الجديدة في الصين ، بالإضافة إلى الكشف عن التصميم النهائي للهاتف. تاريخ الإطلاق وتصميم الهاتف سيتم الكشف ع"
+description: "بعد سلسلة من التسريبات والشائعات ، أعلنت Redmi ، العلامة التجارية الفرعية لـ Xiaomi ، عن التاريخ الرسمي لإطلاق سلسلة Redmi Note 15 Pro الجديدة في الصين ،…"
 pubDate: "2025-08-18T14:12:38"
 updatedDate: "2025-08-22T10:42:41"
 author: "Arab Tech Trends"
@@ -16,7 +16,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b1%d9%8a%d8%af%d9%85%d9%8a-%d9%86
 <h3>تاريخ الإطلاق وتصميم الهاتف</h3>
 <p>سيتم الكشف عن الهواتف Redmi Note 15 في 21 أغسطس ، في حدث خاص. أكدت الشركة تصميم Redmi Note 15 Pro Plus ، والتي ستأتي باللون الأخضر والحفاظ على التصميم الأساسي لسلفها ، مع وحدة كاميرا مركزية تتضمن ثلاث عدسات وفلاش LED.</p>
 <h3>المواصفات الرئيسية</h3>
-<figure class="wp-block-image size-full"></figure>
+<figure></figure>
 <p>كشف Redmi عن عدد من المواصفات المهمة التي ستكون متوفرة في السلسلة الجديدة ، وأبرزها:</p>
 <p><strong>مقاومة سوبر:</strong> ستحصل هواتف السلسلة على مجموعة واسعة من شهادات المقاومة ، بما في ذلك IP66 و IP68 و IP69 و IP69K ، مما يضمن حماية شاملة ضد الغبار والمياه وحتى السقوط والصدمات. عرضت الشركة مقاطع فيديو توضح قدرة الهواتف على تحمل السقوط والخدوش.</p>
 <p><strong>OS:</strong> من المتوقع أن تعمل هواتف Android 15 وواجهة Hyperos 2.0 ، مع ميزات متقدمة تعتمد على الذكاء الاصطناعي.</p>
@@ -25,4 +25,4 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b1%d9%8a%d8%af%d9%85%d9%8a-%d9%86
 <h3>ميزات إضافية</h3>
 <p>تأتي سلسلة Redmi Note 15 مع ميزات أخرى متوقعة ، مثل شاشة OLED المنحنية 1.5 كيلو ، وكاميرا رئيسية 50 ميجابكسل ، بالإضافة إلى كاميرا تقريبية 50 -megapixel. أشارت بعض التسريبات أيضًا إلى أن هاتف Redmi Note 15 Pro Plus قد يكون أول هاتف من Redmi لدعم الاتصالات عبر الأقمار الصناعية من خلال نظام Beidou.</p>
 <p>لم تكشف الشركة عن الأسعار بعد ، لكن من المتوقع أن يتم الكشف عن جميع التفاصيل في حدث الإطلاق الرسمي الأسبوع المقبل.</p>
-<p><a href="https://www.tudocelular.com/mercado/noticias/n238671/redmi-note-15-pro-linha-teaser-previsao-lancamento.html" data-type="link" data-id="https://www.tudocelular.com/mercado/noticias/n238671/redmi-note-15-pro-linha-teaser-previsao-lancamento.html">مصدر</a></p></div>
+<p><a href="https://www.tudocelular.com/mercado/noticias/n238671/redmi-note-15-pro-linha-teaser-previsao-lancamento.html">مصدر</a></p></div>

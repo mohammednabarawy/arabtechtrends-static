@@ -1,6 +1,6 @@
 ---
 title: "يختبر Samsung ميزة عرض خصوصية الذكاء الاصطناعى لهاتف Galaxy S26 Ultra"
-description: "تواصل شركة Samsung الكورية العمل على تطوير هواتفها الرائدة من سلسلة Galaxy S26 استعدادًا لإفصاحها في بداية عام 2026 ، حيث كشفت أحدث التسريبات المرتبطة بتحديث ONI 8.5 عن ميزة جديدة تسمى عرض خصوصية AI ، الموجهة بشكل خاص لتعزيز خصوصية المستخدم"
+description: "تواصل شركة Samsung الكورية العمل على تطوير هواتفها الرائدة من سلسلة Galaxy S26 استعدادًا لإفصاحها في بداية عام 2026 ، حيث كشفت أحدث التسريبات المرتبطة…"
 pubDate: "2025-10-02T22:13:51"
 updatedDate: "2025-10-05T16:42:03"
 author: "Arab Tech Trends"
@@ -16,8 +16,6 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-
 <div class="featured-area-inner">
 <figure class="single-featured-image"></figure>
 </div>
-</div>
-<div class="entry-content entry clearfix">
 <p>تواصل شركة Samsung الكورية العمل على تطوير هواتفها الرائدة من سلسلة Galaxy S26 استعدادًا لإفصاحها في بداية عام 2026 ، حيث كشفت أحدث التسريبات المرتبطة بتحديث ONI 8.5 عن ميزة جديدة تسمى عرض خصوصية AI ، الموجهة بشكل خاص لتعزيز خصوصية المستخدمين في الأماكن العامة.</p>
 <h3>ماذا تقدم هذه الميزة؟</h3>
 <p>باختصار ، تعتمد الميزة الجديدة على تقنيات الذكاء الاصطناعي لتحديد بيئة المستخدم. عند تنشيطه ، يمكن للهاتف <strong>راقب وجود المستخدم في الأماكن المزدحمة أو العامة</strong> مثل النقل أو المصاعد ، للقيام تلقائيًا:</p>
@@ -37,5 +35,5 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-
 <p>ميزة <strong>Galaxy S26 Ultra</strong> عند الإطلاق في العام المقبل ، قبل أن تصل لاحقًا إلى أجهزة أخرى داخل الفريق.</p>
 <p>مع هذا ، يبدو أن Samsung تستعد لتوفير تجربة خاصة ذكية تتجاوز الحلول التقليدية ، والتي يتم منحها <strong>Galaxy S26 Ultra</strong> نقطة تفوق إضافية في المنافسة مع الهواتف الرائدة الأخرى.</p>
 <p>ما رأيك في هذه الميزة؟ ما هي أكثر الميزة التي يجب أن تأتي بها هواتف السلسلة؟</p>
-<p><a href="https://www.sammyfans.com/2025/10/02/galaxy-s26-ultra-ai-privacy-display/" data-type="link" data-id="https://www.sammyfans.com/2025/10/02/galaxy-s26-ultra-ai-privacy-display/">مصدر</a></p>
+<p><a href="https://www.sammyfans.com/2025/10/02/galaxy-s26-ultra-ai-privacy-display/">مصدر</a></p>
 </div></div>

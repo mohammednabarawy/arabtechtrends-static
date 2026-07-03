@@ -1,6 +1,6 @@
 ---
 title: "Redmi K90 Pro Max يأتي بمواصفات قوية وسعر معقول!"
-description: "أكدت شركة Xiaomi رسميًا عزمها إنهاء شهر أكتوبر بإطلاق جهازها الرائد الجديد Redmi K90 Pro Max. وجاء هذا التأكيد من رئيس الشركة لو وي بينغ خلال بث مباشر قصير، مما يؤكد الشائعات التي كانت متداولة منذ أسابيع. سعر ومواصفات ومميزات هاتف Redmi K90"
+description: "أكدت شركة Xiaomi رسميًا عزمها إنهاء شهر أكتوبر بإطلاق جهازها الرائد الجديد Redmi K90 Pro Max."
 pubDate: "2025-10-15T18:26:52"
 updatedDate: "2025-10-19T03:41:52"
 author: "Arab Tech Trends"
@@ -16,7 +16,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b1%d9%8a%d8%af%d9%85%d9%8a-%d9%83
 <h2>سعر ومواصفات ومميزات هاتف Redmi K90 Pro Max</h2>
 <p>ويأتي هاتف Redmi K90 Pro Max الجديد ليحتل موقعًا استراتيجيًا في محفظة الشركة، حيث سيتم إطلاقه في السوق الصينية بسعر حوالي 4000 يوان (أي ما يعادل 550 دولارًا أمريكيًا تقريبًا). يضع هذا السعر الجهاز في المنطقة الوسطى بين هواتف Xiaomi الرائدة المطلقة وهواتفها متوسطة المدى ذات القيمة.</p>
 <p>لطالما عُرفت سلسلة REDMI K بتقديم أداء قوي ومواصفات أجهزة فائقة دون الدخول إلى منطقة الأسعار المرتفعة. ومن المتوقع أن يحافظ طراز Redmi K90 Pro Max على هذا النهج، إذ تشير التسريبات المتداولة إلى مواصفات تقنية قوية:</p>
-<figure class="wp-block-image size-full"></figure>
+<figure></figure>
 <p><strong>المعالج:</strong> من المحتمل أن يتم تشغيل الهاتف بواسطة بطاقة SIM <strong>سناب دراجون 8 النخبة</strong> مصممة للهواتف الرائدة.</p>
 <p><strong>الشاشة والبطارية:</strong> سيأتي الجهاز مع شاشة من نوع ما <strong>أموليد</strong> بدقة <strong>2 ك</strong>إلى جانب تقنية الشحن فائقة السرعة التي تتجاوز <strong>120 واط (+120 واط)</strong>.</p>
 <p><strong>التصوير الفوتوغرافي:</strong> سوف يستعير الهاتف أدوات التصوير المتقدمة التي تعمل بتقنية الذكاء الاصطناعي من سلسلة Xiaomi 15 الرائدة.</p>
@@ -26,5 +26,5 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b1%d9%8a%d8%af%d9%85%d9%8a-%d9%83
 <p>ومن المتوقع أن يسير هذا الهاتف على خطى أسلافه مثل الطراز <strong>K70 برو</strong>والتي وصلت فيما بعد إلى الأسواق العالمية تحت العلامة التجارية <strong>بوكو</strong>. ويشير مراقبو الصناعة إلى أنه قد تتم إعادة تسمية الهاتف ليتم إطلاقه عالميًا <strong>بوكو F7 الترا</strong> في المستقبل القريب.</p>
 <p>وتهدف هذه الإستراتيجية إلى سد الثغرات في تشكيلة منتجات Xiaomi، وتقديم قوة الأجهزة الرائدة بسعر معقول، مما قد يجعل Redmi K90 Pro Max معيارًا جديدًا يتم من خلاله قياس الأجهزة الأخرى في هذه الفئة السعرية التنافسية.</p>
 <p>شاركنا رأيك في التعليقات حول أبرز ميزة يجب أن يأتي بها هاتف Redmi K90 Pro Max…</p>
-<p><a href="https://www.gizchina.com/xiaomi-phones/xiaomi-to-unveil-redmi-k90-pro-max-flagship-power-meets-smart-pricing?twit=197" data-type="link" data-id="https://www.gizchina.com/xiaomi-phones/xiaomi-to-unveil-redmi-k90-pro-max-flagship-power-meets-smart-pricing?twit=197">مصدر</a></p>
+<p><a href="https://www.gizchina.com/xiaomi-phones/xiaomi-to-unveil-redmi-k90-pro-max-flagship-power-meets-smart-pricing?twit=197">مصدر</a></p>
 </div>

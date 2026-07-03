@@ -1,6 +1,6 @@
 ---
 title: "تستعد Samsung للتحديث بتغييرات رائعة وهامة جدًا!"
-description: "بعد أيام قليلة من بدء التحديث المستقر من واجهة One UI 8 ، بدأت الشركة الكورية Samsung في العمل على الإصدار التالي من تحديث واجهة UI 8.5 One ، والتي ستجلب تحسينات ملحوظة للتصميم والوظائف ، وأبرزها إعادة تصميم واجهة تطبيق الكاميرا واعتماد تأث"
+description: "بعد أيام قليلة من بدء التحديث المستقر من واجهة One UI 8 ، بدأت الشركة الكورية Samsung في العمل على الإصدار التالي من تحديث واجهة UI 8.5 One ، والتي ستجلب…"
 pubDate: "2025-09-20T14:30:58"
 updatedDate: "2025-09-22T12:09:26"
 author: "Arab Tech Trends"
@@ -28,4 +28,4 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-one-ui
 <p>أما بالنسبة لتحديث UI 9 الأكبر ، فسيعتمد على Android 16 ، ومن المحتمل أن يتم إطلاقه باستخدام Galaxy Z Fold 8 و Z Flip 8 في النصف الثاني من 2026.</p>
 <p>الخلاصة: تعمل Samsung على تحديث واجهة المستخدم واحدة 8.5 ، والتي ستجعل تغييرات جمالية كبيرة مع تجربة أكثر سلاسة ، مع الحفاظ على البساطة والتكامل مع Android 16.</p>
 <p>شاركنا مع التعليقات أفضل ميزة بشكل عام في واجهة Samsung …</p>
-<p><a href="https://www.sammyfans.com/2025/09/20/one-ui-8-5-camera-ui-leak/" data-type="link" data-id="https://www.sammyfans.com/2025/09/20/one-ui-8-5-camera-ui-leak/">مصدر</a></p></div>
+<p><a href="https://www.sammyfans.com/2025/09/20/one-ui-8-5-camera-ui-leak/">مصدر</a></p></div>

@@ -1,6 +1,6 @@
 ---
 title: "لقد كشف عن أبرز الميزات والهواتف التي لن تحصل عليها!"
-description: "عادت الشركة الصينية Xiaomi إلى دائرة الضوء بعد تسرب كبير على نطاق واسع كشف عن تفاصيل مهمة حول Hyperos 3. لم تقتصر التسريبات فقط على شاشة الشاشة الجديدة لتصميم سطح المكتب ، ولكن أيضًا بعض تطبيقاتها الجديدة شملت أيضًا جزءًا من الرسوم المتحركة"
+description: "عادت الشركة الصينية Xiaomi إلى دائرة الضوء بعد تسرب كبير على نطاق واسع كشف عن تفاصيل مهمة حول Hyperos 3."
 pubDate: "2025-07-24T13:04:15"
 updatedDate: "2025-07-26T12:00:32"
 author: "Arab Tech Trends"
@@ -16,8 +16,6 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-hypero
 <div class="featured-area-inner">
 <figure class="single-featured-image"></figure>
 </div>
-</div>
-<div class="entry-content entry clearfix">
 <p>عادت الشركة الصينية Xiaomi إلى دائرة الضوء بعد تسرب كبير على نطاق واسع كشف عن تفاصيل مهمة حول Hyperos 3. لم تقتصر التسريبات فقط على شاشة الشاشة الجديدة لتصميم سطح المكتب ، ولكن أيضًا بعض تطبيقاتها الجديدة شملت أيضًا جزءًا من الرسوم المتحركة الخاصة به ، والأهم من ذلك ، القائمة الرسمية لـ Xiaomi ، Redmi ، و Boku التي لن تحصل على هذا التحديث.</p>
 <h2>أهم ميزات Hyperos 3</h2>
 <h3>قفزة جمالية ووظيفية رائعة</h3>
@@ -42,5 +40,5 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-hypero
 </ul>
 <p>إذا كان لديك أحد هذه الهواتف الذكية ، مثل Xiaomi Mi 11 أو Poco X5 Pro ، فلن تتلقى للأسف تحديث Hyperos 3.</p>
 <p>باختصار ، تؤكد هذه التسريبات أن Xiaomi تستعد لتحديث مهم لنظامه ، مع تحسينات بصرية وتطبيقات جديدة وتجربة أكثر سلاسة بشكل عام. من المتوقع أن يصل هذا التحديث في سبتمبر المقبل ، أو في أكتوبر على أبعد تقدير.</p>
-<p><a href="https://www.xiaomiadictos.com/filtracion-masiva-de-hyperos-3-nuevas-apps-animaciones-mejoradas-y-listado-oficial-de-modelos-que-no-se-actualizaran/" data-type="link" data-id="https://www.xiaomiadictos.com/filtracion-masiva-de-hyperos-3-nuevas-apps-animaciones-mejoradas-y-listado-oficial-de-modelos-que-no-se-actualizaran/">مصدر</a></p></div>
+<p><a href="https://www.xiaomiadictos.com/filtracion-masiva-de-hyperos-3-nuevas-apps-animaciones-mejoradas-y-listado-oficial-de-modelos-que-no-se-actualizaran/">مصدر</a></p></div>
 </p></div>

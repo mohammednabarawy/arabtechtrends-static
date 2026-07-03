@@ -50,3 +50,18 @@ https://www.arabtechtrends.com/sitemap-index.xml
 ## 4. Legacy URL redirects
 
 ~1,960 redirect rules map old WordPress URLs (`/old-slug/`) to `/posts/new-slug/`. Test a few old links from Search Console’s “Not found” report after deploy.
+
+## 5. Homepage «الأكثر قراءة» block
+
+1. GSC → **Performance** → **Pages** (last 28 days)
+2. Click **Export** → download CSV
+3. From repo root:
+
+```bash
+npm run import:gsc -- path/to/Pages.csv
+git add src/data/top-posts.json
+git commit -m "Update homepage top posts from GSC"
+git push
+```
+
+The homepage reads `src/data/top-posts.json`. Until you import, it uses seeded evergreen guide slugs.

@@ -1,6 +1,6 @@
 ---
 title: "Xiaomi 17 &#8211; Xiaomi 17 يكشف التسرب الصادم عن مفاجأة غير متوقعة في الإصدار العالمي!"
-description: "كشفت التسريبات الحديثة من داخل تحديث واجهة Hyperos 3.0 عن تفاصيل جديدة فيما يتعلق بهاتف Xiaomi 17 القادم ، حيث أشارت البيانات إلى أن الإصدار العالمي من الهاتف قد يأتي مع سعة بطارية أقل من نظيره المعين للسوق الصينية. وفقًا للمعلومات التي تم"
+description: "كشفت التسريبات الحديثة من داخل تحديث واجهة Hyperos 3.0 عن تفاصيل جديدة فيما يتعلق بهاتف Xiaomi 17 القادم ، حيث أشارت البيانات إلى أن الإصدار العالمي من…"
 pubDate: "2025-10-06T13:51:14"
 updatedDate: "2025-10-08T07:52:00"
 author: "Arab Tech Trends"
@@ -16,8 +16,6 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-17-xia
 <div class="featured-area-inner">
 <figure class="single-featured-image"></figure>
 </div>
-</div>
-<div class="entry-content entry clearfix">
 <p>كشفت التسريبات الحديثة من داخل تحديث واجهة Hyperos 3.0 عن تفاصيل جديدة فيما يتعلق بهاتف Xiaomi 17 القادم ، حيث أشارت البيانات إلى أن الإصدار العالمي من الهاتف قد يأتي مع سعة بطارية أقل من نظيره المعين للسوق الصينية.</p>
 <p>وفقًا للمعلومات التي تم تسريبها ، فإن الإصدار الصيني من Xiaomi 17 يحمل بطارية بسعة 5000 مللي أمبير في الساعة ، بينما تشير سجلات Hyperos إلى أن الإصدار العالمي من الهاتف ستعمل مع بطارية تبلغ 4700 مللي أمبير في الساعة فقط. على الرغم من هذا الانخفاض الطفيف في السعة ، تتوقع التقارير أن تحافظ Xiaomi على … <strong>أداء ممتاز وعمر بطارية جيد</strong> بفضل تحسينات النظام وكفاءة المعالج الجديد.</p>
 <h2>Xiaomi 17 مواصفات الإصدار العالمي وفقًا للتسريبات</h2>
@@ -26,5 +24,5 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d9%88%d9%85%d9%8a-17-xia
 <p>سيحتوي الهاتف على نظام تصوير متقدم يتضمن كاميرا رئيسية بقيمة 50 ميجابكسل بدعم من OIS ، وعدسة على نطاق واسع ، وعدسة تليفوتوغرافي مع تكبير بصري تصل إلى 3x.</p>
 <p>سيتم تشغيل الجهاز على واجهة Hyperos 3.0 استنادًا إلى Android 16 ، مع واجهة محسّنة تركز على الأداء والتنقل السلس. بالنسبة لتاريخ الإطلاق العالمي ، تشير المصادر إلى أن سلسلة Xiaomi 17 ستظهر أولاً في الصين خلال الربع الرابع من عام 2025 ، مع الإعلان عن الإصدار العالمي بعد بضعة أسابيع فقط.</p>
 <p>في رأيك ، هل تستحق سلسلة Xiaomi 17 الجديدة الشراء؟ ما هي أبرز ميزة؟ شارك رأيك معنا …</p>
-<p><a href="https://www.tudocelular.com/mercado/noticias/n241038/xiaomi17-pode-ter-bateria-menor-mercado-global.html" data-type="link" data-id="https://www.tudocelular.com/mercado/noticias/n241038/xiaomi17-pode-ter-bateria-menor-mercado-global.html" target="_blank" rel="noreferrer noopener">مصدر</a></p>
+<p><a href="https://www.tudocelular.com/mercado/noticias/n241038/xiaomi17-pode-ter-bateria-menor-mercado-global.html" target="_blank" rel="noreferrer noopener">مصدر</a></p>
 </div></div>

@@ -1,6 +1,6 @@
 ---
 title: "تم تحديث واجهة MagicOS 10 رسميًا بميزات ثورية: إليك هواتف Honor المؤهلة!"
-description: "كشفت شركة Honor رسميًا عن الإصدار الجديد من تحديث واجهة MagicOS 10، والذي يأتي بتحسينات كبيرة مدعومة بالذكاء الاصطناعي من خلال المساعد الذكي YOYO، والذي يشكل محور النظام الجديد ويهدف إلى جعل تجربة المستخدم أكثر سلاسة وذكاءً في جميع المهام ا"
+description: "كشفت شركة Honor رسميًا عن الإصدار الجديد من تحديث واجهة MagicOS 10، والذي يأتي بتحسينات كبيرة مدعومة بالذكاء الاصطناعي من خلال المساعد الذكي YOYO، والذي…"
 pubDate: "2025-10-19T12:10:47"
 updatedDate: "2025-10-21T11:50:48"
 author: "Arab Tech Trends"
@@ -24,7 +24,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d9%88
 <p>يدعم مساعد يويو الذكي أكثر من 3000 سيناريو مختلف، ويساعد المستخدم في العديد من المجالات مثل:</p>
 <div id="inline-related-post" class="mag-box mini-posts-box content-only">
 <div class="container-wrapper">
-<div class="mag-box-container clearfix">
+
 <ul class="posts-items posts-list-container">
 <li class="widget-single-post-item widget-post-list tie-standard">
 <div class="post-widget-thumbnail">
@@ -40,7 +40,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d9%88
 <li><strong>التعرف على الأشياء والنصوص</strong> من خلال الكاميرا في الوقت الحقيقي.</li>
 </ul>
 <p>ويمكن أيضًا تفعيل YOYO Vision عبر زر الذكاء الاصطناعي، لتوفير استجابة صوتية فورية، والتعرف على الوجه، وقراءة المستندات والإشعارات، وحتى التفاعل مع التطبيقات.</p>
-<figure class="wp-block-image size-full"><img width="700" height="308" src="/uploads/wp/2025/10/1761036646_174_magicos-10.jpg" alt="تحديث واجهة MagicOS 10" class="wp-image-225542"></figure>
+<figure><img width="700" height="308" src="/uploads/wp/2025/10/1761036646_174_magicos-10.jpg" alt="تحديث واجهة MagicOS 10"></figure>
 <p><strong>نظام ماجيك بيج موديل 3.0</strong></p>
 <p>تقوم شركة Honor بدمج الجيل الثالث من Magic Big Model 3.0 في MagicOS 10، وهو نظام سحابي متعدد الوسائط قادر على معالجة الأوامر عالية السرعة مع تشفير كامل للبيانات. ويتيح هذا النظام التفاعل بين أجهزة Honor وأجهزة الشركات الأخرى مثل Apple، مع إمكانية مشاركة البيانات عبر Tap-to-Transfer بسهولة وأمان.</p>
 <p><strong>الحماية المتقدمة ضد الاحتيال</strong></p>
@@ -107,5 +107,5 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d9%88
 <li/></ul>
 <p>وبهذا التحديث تضع شركة Honor نفسها في موقع متقدم في سباق أنظمة الذكاء الاصطناعي في الهواتف الذكية، حيث يسعى تحديث واجهة MagicOS 10 إلى تقديم تجربة متكاملة تجمع بين التخصيص والذكاء والأمان، لتكون خطوة مهمة نحو نظام أكثر تفاعلية ووعياً بالمستخدم.</p>
 <p>في رأيك ما هي أبرز نقاط هذا التحديث؟ شاركنا رأيك…</p>
-<p><a href="https://www.tudocelular.com/software/noticias/n241492/honor-magicos-10-lancamento-atualizacao-celulares.html" data-type="link" data-id="https://www.tudocelular.com/software/noticias/n241492/honor-magicos-10-lancamento-atualizacao-celulares.html">مصدر</a></p>
+<p><a href="https://www.tudocelular.com/software/noticias/n241492/honor-magicos-10-lancamento-atualizacao-celulares.html">مصدر</a></p>
 </div>

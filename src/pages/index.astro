@@ -5,15 +5,23 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 import { pillarGuides } from "../guides";
 import { categories, telegramChannelUrl } from "../site";
 import { getPostImage, sortPosts, withBase } from "../utils/posts";
+import { getTopPostsMeta, resolveTopPosts } from "../utils/topPosts";
 
 const allPosts = sortPosts(await getCollection("posts", ({ data }) => !data.draft));
+const topPosts = resolveTopPosts(allPosts, 6);
+const topMeta = getTopPostsMeta();
 const posts = allPosts.slice(0, 120);
 const guidePosts = allPosts.filter((p) => /شرح|دليل|كيفية|أفضل/i.test(p.data.title)).slice(0, 4);
 
 const [featured, ...rest] = posts;
 const sidePosts = rest.slice(0, 4);
 const latest = rest.slice(4, 10);
-const usedPostIds = new Set([featured?.id, ...sidePosts.map((p) => p.id), ...latest.map((p) => p.id)].filter(Boolean));
+const usedPostIds = new Set([
+  featured?.id,
+  ...sidePosts.map((p) => p.id),
+  ...latest.map((p) => p.id),
+  ...topPosts.map((p) => p.id)
+].filter(Boolean));
 
 const pickSectionPosts = (categorySlug: string) => {
   const category = categories.find((c) => c.slug === categorySlug);
@@ -109,6 +117,18 @@ const featuredImage = featured ? getPostImage(featured) : undefined;
       })}
     </div>
   </section>
+
+  {topPosts.length > 0 && (
+    <section class="section-block">
+      <div class="section-head">
+        <h2>الأكثر قراءة</h2>
+        <small class="page-meta">آخر تحديث: {topMeta.updated}</small>
+      </div>
+      <div class="post-grid compact-grid">
+        {topPosts.map((post) => <PostCard post={post} compact />)}
+      </div>
+    </section>
+  )}
 
   <section class="section-block">
     <div class="section-head">

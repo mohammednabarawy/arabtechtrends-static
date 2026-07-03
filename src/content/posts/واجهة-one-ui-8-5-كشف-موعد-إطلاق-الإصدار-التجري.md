@@ -1,6 +1,6 @@
 ---
 title: "واجهة One UI 8.5 تكشف عن موعد إطلاق النسخة التجريبية والهواتف المؤهلة!"
-description: "كشفت مصادر خاصة لموقع SamMobile أن سامسونج تعتزم إطلاق برنامج تجريبي لتحديث واجهة One UI 8.5 لاحقاً هذا العام، في خطوة غير معتادة من الشركة لهذا النوع من التحديثات الفرعية. موعد إطلاق تحديث One UI 8.5 من المتوقع أن يكون شهر نوفمبر المقبل شه"
+description: "كشفت مصادر خاصة لموقع SamMobile أن سامسونج تعتزم إطلاق برنامج تجريبي لتحديث واجهة One UI 8.5 لاحقاً هذا العام، في خطوة غير معتادة من الشركة لهذا النوع من…"
 pubDate: "2025-10-08T20:11:35"
 updatedDate: "2025-10-12T10:10:39"
 author: "Arab Tech Trends"
@@ -135,5 +135,5 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-one-ui
 </ul>
 <p>تشير التسريبات المستمدة من النسخة المسربة من تحديث One UI 8.5 لهاتف Galaxy S25 Ultra إلى أن هذا الإصدار سيكون تحديثًا يركز بشكل أكبر على التحسينات المرئية وتجربة المستخدم، بالإضافة إلى تضمين ميزات جديدة في واجهة المستخدم وتحسينات مرتقبة لأدوات Galaxy AI.</p>
 <p>هل هاتفك من بين هذه الهواتف؟</p>
-<p><a href="https://www.sammobile.com/news/samsung-one-ui-8-5-beta-program-release-timeline/" data-type="link" data-id="https://www.sammobile.com/news/samsung-one-ui-8-5-beta-program-release-timeline/">مصدر</a></p>
+<p><a href="https://www.sammobile.com/news/samsung-one-ui-8-5-beta-program-release-timeline/">مصدر</a></p>
 </div>

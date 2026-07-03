@@ -1,6 +1,6 @@
 ---
 title: "Gemini يحصل على تحديث جديد مع ميزات وتحسينات مهمة!"
-description: "تواصل Google تطوير منصة Smart Platform Gemini ، حيث كشفت التسريبات الحديثة – التي تمت مراقبتها بواسطة Android Authory – عن اختبار الشركة لتصميم جديد يهدف إلى جعل تجربة الاستخدام أسهل ووضوح ، مع إضافة العناصر التي تساعد في تسليط"
+description: "تواصل Google تطوير منصة Smart Platform Gemini ، حيث كشفت التسريبات الحديثة – التي تمت مراقبتها بواسطة Android Authory – عن اختبار الشركة لتصميم جديد يهدف…"
 pubDate: "2025-10-02T18:47:17"
 updatedDate: "2025-10-06T06:44:22"
 author: "Arab Tech Trends"
@@ -22,5 +22,5 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d9%8a%d9%85%d9%8a%d9%86%d8%a7%
 <p>أوضحت التسريبات أيضًا أن بعض البطاقات التفاعلية تطلب من المستخدم تحميل صورة لإكمال المهمة ، مما يؤكد أن ميل Google إلى دمج قدرات أكثر تباينًا بين النصوص والصور.</p>
 <p>حتى الآن ، لا يزال هذا التصميم في مرحلة اختبار داخلية ، وقد لا يرى الضوء رسميًا. ومع ذلك ، فإنه يمنحنا لمحة عن توجه Google المستقبلي في تطوير الجوزاء ، حيث يبدو أنه يراهن على واجهة تفاعلية أكثر ثراء ، تشبه إلى حد كبير "اكتشاف" الذكاء الاصطناعي بدلاً من تجربة المحادثة التقليدية.</p>
 <p>هل تعتمد على Gimenai أكثر من GPT أو العكس؟ شارك رأيك …</p>
-<p><a href="https://www.tudocelular.com/google/noticias/n240907/gemini-google-trabalha-design-interface-ia.html" data-type="link" data-id="https://www.tudocelular.com/google/noticias/n240907/gemini-google-trabalha-design-interface-ia.html">مصدر</a></p>
+<p><a href="https://www.tudocelular.com/google/noticias/n240907/gemini-google-trabalha-design-interface-ia.html">مصدر</a></p>
 </div>

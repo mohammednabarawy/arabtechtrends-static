@@ -1,6 +1,6 @@
 ---
 title: "iPhone 18 Pro iPhone 18 Pro يأتي بتقنية تصوير غير مسبوقة!"
-description: "وتشير التسريبات من سلسلة التوريد الكورية إلى أن طرازي iPhone 18 Pro وiPhone 18 Pro Max القادمين في عام 2026 سيحصلان على ترقية كبيرة عبر ميزة الفتحة المتغيرة لتعزيز أداء الكاميرا في الإضاءة المنخفضة والتحكم في عمق المجال. مميزات سلسلة iPhone"
+description: "وتشير التسريبات من سلسلة التوريد الكورية إلى أن طرازي iPhone 18 Pro وiPhone 18 Pro Max القادمين في عام 2026 سيحصلان على ترقية كبيرة عبر ميزة الفتحة المتغيرة…"
 pubDate: "2025-10-18T20:47:55"
 updatedDate: "2025-10-21T18:51:25"
 author: "Arab Tech Trends"
@@ -29,5 +29,5 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a7%d9%8a%d9%81%d9%88%d9%86-18-%d8
 <p>ومن المتوقع أن يمثل إدراج هذه الميزة سببًا إضافيًا لرفع شركة آبل سعر الهاتف الجديد، حيث يبدأ سعر iPhone 17 Pro حاليًا عند 1099 دولارًا، وقد يشهد iPhone 18 Pro زيادة طفيفة في سعره عند الإطلاق.</p>
 <p>ومن المتوقع أن يظهر نظام الكاميرا الجديد هذا لأول مرة في خريف عام 2026، بالتزامن مع إطلاق أجهزة أخرى ضمن استراتيجية أبل الجديدة، مثل iPhone Air 2 وأول هاتف iPhone قابل للطي. كما تشير الشائعات إلى أن طرازات iPhone 18 Pro ستستغني عن ميزة Dynamic Island لصالح نظام Face ID الموجود أسفل الشاشة، مما يعزز تجربة الشاشة الكاملة.</p>
 <p>شاركنا رأيك في التعليقات حول أهم ميزة يجب أن تأتي بها هواتف iPhone 18 Pro…</p>
-<p><a href="https://www.gizmochina.com/2025/10/17/iphone-18-pro-models-could-feature-a-variable-aperture-camera-for-better-low-light-shots/" data-type="link" data-id="https://www.gizmochina.com/2025/10/17/iphone-18-pro-models-could-feature-a-variable-aperture-camera-for-better-low-light-shots/">مصدر</a></p>
+<p><a href="https://www.gizmochina.com/2025/10/17/iphone-18-pro-models-could-feature-a-variable-aperture-camera-for-better-low-light-shots/">مصدر</a></p>
 </div>

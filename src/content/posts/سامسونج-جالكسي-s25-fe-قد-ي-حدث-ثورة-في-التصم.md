@@ -1,6 +1,6 @@
 ---
 title: "قد يحدث ثورة في التصميم ليصبح أرق ورائعًا!"
-description: "كشفت مصادر مستنيرة من سلسلة التوريد من Samsung عن تفاصيل جديدة ومثيرة حول Samsung Galaxy Galaxy S25 Fe ، حيث تشير أحدث التسريبات إلى أن الهاتف سيأتي مع شاشة مرنة مرنة ، مما يجعله أرق بكثير من سلفه ، وهو قريب من الهواتف الفئة الرائدة في سلسل"
+description: "كشفت مصادر مستنيرة من سلسلة التوريد من Samsung عن تفاصيل جديدة ومثيرة حول Samsung Galaxy Galaxy S25 Fe ، حيث تشير أحدث التسريبات إلى أن الهاتف سيأتي مع شاشة…"
 pubDate: "2025-07-07T20:58:49"
 updatedDate: "2025-07-10T16:22:46"
 author: "Arab Tech Trends"
@@ -22,4 +22,4 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86%
 <p>فيما يتعلق بالكاميرات ، سيتضمن الهاتف كاميرا أمامية 12 ميجابيكسل ، وثلاث كاميرات خلفية تتضمن عدسة رئيسية مكونة من 50 ميجابكسل مع تركيب بصري للصورة (OIS) ، وعدسة 12 -megapixel واسعة للغاية ، وحوادث 8 -mapixel مع 3 × حوالي أوس.</p>
 <p>كما سيوفر للهاتف بطارية قوية تبلغ 5000 مللي أمبير في الساعة تدعم شحن 45 واط سريعًا ، وسيعمل على تشغيل Android 16 مع واجهة One UI 8.0. سيحتفظ الجهاز بشهادة IP68 لمقاومة الماء والغبار ، ويدعم تقنيات الاتصال الحديثة مثل 5G و Wi-Fi 6E و Bluetooth 5.4.</p>
 <p>هل أنت متحمس لرؤية هاتف Samsung S25 Fe الجديد مع هذه المواصفات المحسنة؟</p>
-<p><a href="https://www.tudocelular.com/mercado/noticias/n237130/galaxys25fe-mais-fino-tela-lancamento-rumor-.html" data-type="link" data-id="https://www.tudocelular.com/mercado/noticias/n237130/galaxys25fe-mais-fino-tela-lancamento-rumor-.html">مصدر</a></p></div>
+<p><a href="https://www.tudocelular.com/mercado/noticias/n237130/galaxys25fe-mais-fino-tela-lancamento-rumor-.html">مصدر</a></p></div>

@@ -1,6 +1,6 @@
 ---
 title: "Xiaomi تبدأ بطرح التحديث لأحد هواتفها مع مجموعة من التحسينات!"
-description: "بدأت شركة Xiaomi بطرح تحديث جديد لهاتفها الرائد Xiaomi 15 في السوق الصيني، يحمل رقم الإصدار HyperOS 3.0.5.0، ويأتي مع مجموعة من التحسينات والإصلاحات التي تركز بشكل أساسي على تجربة الكاميرا واستقرار النظام، دون إضافة ميزات جديدة رئيسية. تحسي"
+description: "بدأت شركة Xiaomi بطرح تحديث جديد لهاتفها الرائد Xiaomi 15 في السوق الصيني، يحمل رقم الإصدار HyperOS 3.0.5.0، ويأتي مع مجموعة من التحسينات والإصلاحات التي…"
 pubDate: "2025-12-15T18:56:37"
 updatedDate: "2025-12-19T14:12:39"
 author: "Arab Tech Trends"
@@ -16,8 +16,6 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-hypero
 <div class="featured-area-inner">
 <figure class="single-featured-image"></figure>
 </div>
-</div>
-<div class="entry-content entry clearfix">
 <p>بدأت شركة Xiaomi بطرح تحديث جديد لهاتفها الرائد Xiaomi 15 في السوق الصيني، يحمل رقم الإصدار HyperOS 3.0.5.0، ويأتي مع مجموعة من التحسينات والإصلاحات التي تركز بشكل أساسي على تجربة الكاميرا واستقرار النظام، دون إضافة ميزات جديدة رئيسية.</p>
 <h3>تحسينات على تجربة الكاميرا</h3>
 <p>ويركز التحديث الجديد على معالجة عدد من المشاكل التي اشتكى منها مستخدمو الهاتف، خاصة فيما يتعلق بتطبيق الكاميرا. ومن أبرز الإصلاحات:</p>
@@ -25,7 +23,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-hypero
 <li>حل مشكلة واجهة المستخدم داخل تطبيق الكاميرا وتحديداً الأسهم الموجودة داخل القوائم والتي لم يتم إعادة ضبط اتجاهها حسب وضع الهاتف بعد الخروج من الإعدادات.</li>
 <li>تحسين ثبات تجربة التصوير بشكل عام، وهو ما ينعكس على سهولة الاستخدام أثناء التنقل بين أوضاع التصوير المختلفة.</li>
 </ul>
-<figure class="wp-block-image size-full"><img width="708" height="369" src="/uploads/wp/2025/12/1766146358_838_xiaomi.jpg" alt="هايبر أو إس 3.0.5.0" class="wp-image-227046"></figure>
+<figure><img width="708" height="369" src="/uploads/wp/2025/12/1766146358_838_xiaomi.jpg" alt="هايبر أو إس 3.0.5.0"></figure>
 <h3>إصلاحات النظام والتطبيق</h3>
 <p>وإلى جانب الكاميرا، يتضمن تحديث HyperOS 3.0.5.0 عددًا من الإصلاحات البرمجية الأخرى أبرزها:</p>
 <ul class="wp-block-list">
@@ -38,5 +36,5 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-hypero
 <p>يُشار إلى أن شركة Xiaomi بدأت مؤخرًا في طرح تحديث HyperOS 3 للهواتف Xiaomi 15 و Xiaomi 15 Ultra في السوق الهندي، مع وعود بتحسين سرعة النظام بشكل عام. ومع ذلك، أشارت التقارير السابقة إلى تراجع الأداء لدى بعض المستخدمين، خاصة في سيناريوهات Emulation Gaming.</p>
 <p>تعمل شركة Xiaomi أيضًا على توسيع نطاق تحديث HyperOS 3 (Android 16) ليشمل الأجهزة الأخرى، مثل POCO F6 Pro وRedmi Pad 2 4G.</p>
 <p>هل تلقيت التحديث؟</p>
-<p><a href="https://www.gizmochina.com/2025/12/15/xiaomi-15-gets-camera-fixes-optimizations-with-hyperos-3-0-5-0-update/" data-type="link" data-id="https://www.gizmochina.com/2025/12/15/xiaomi-15-gets-camera-fixes-optimizations-with-hyperos-3-0-5-0-update/">مصدر</a></p>
+<p><a href="https://www.gizmochina.com/2025/12/15/xiaomi-15-gets-camera-fixes-optimizations-with-hyperos-3-0-5-0-update/">مصدر</a></p>
 </div></div>

@@ -1,6 +1,6 @@
 ---
 title: "تبدأ Samsung اختبار التحديث لأحد هواتف Galaxy في الفئة A."
-description: "بدأت شركة Samsung رسميًا الاختبارات الداخلية لواجهة UI 8 التي تم بناؤها على Android 16 لـ Galaxy A73 ، وفقًا لـ \"Akhilesh Kumar\" ، التي كشفت عن المعلومات عبر منصة X في 7 أغسطس. حاليًا ، يعمل Galaxy A73 على واجهة One UI 7 مع Android 15 ، ولك"
+description: "بدأت شركة Samsung رسميًا الاختبارات الداخلية لواجهة UI 8 التي تم بناؤها على Android 16 لـ Galaxy A73 ، وفقًا لـ \"Akhilesh Kumar\" ، التي كشفت عن المعلومات…"
 pubDate: "2025-08-09T22:25:58"
 updatedDate: "2025-08-10T03:23:51"
 author: "Arab Tech Trends"
@@ -16,8 +16,6 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-one-ui
 <div class="featured-area-inner">
 <figure class="single-featured-image"></figure>
 </div>
-</div>
-<div class="entry-content entry clearfix">
 <p>بدأت شركة Samsung رسميًا الاختبارات الداخلية لواجهة UI 8 التي تم بناؤها على Android 16 لـ Galaxy A73 ، وفقًا لـ "Akhilesh Kumar" ، التي كشفت عن المعلومات عبر منصة X في 7 أغسطس.</p>
 <p>حاليًا ، يعمل Galaxy A73 على واجهة One UI 7 مع Android 15 ، ولكن تمت مراقبة إصدار جديد من النظام على خوادم Samsung الداخلية مع إصدار A736BXXUAGYH3 للسوق الآسيوية.</p>
 <p>جاءت الواجهة الجديدة لأول مرة مع أحدث هواتف Samsung القابلة للطي ، في حين أنها متوفرة حاليًا بسلسلة من السلسلة <strong>Galaxy S25</strong>يتم إصدار النسخة المستقرة في سبتمبر قبل أن تصل إلى بقية الهواتف.</p>
@@ -35,5 +33,5 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-one-ui
 </ul>
 <p>مع هذا التطوير ، يقترب مستخدمو Galaxy A73 من تجربة ميزة One UI 8 قريبًا ، بمجرد اكتمال الاختبارات ويتم إصدار التحديث رسميًا.</p>
 <p>هل لديك هواتف مجرة من الفئة أ؟</p>
-<p><a href="https://www.tudocelular.com/samsung/noticias/n238526/one-ui-8-samsung-inicia-testes-internos-galaxy-a73.html" data-type="link" data-id="https://www.tudocelular.com/samsung/noticias/n238526/one-ui-8-samsung-inicia-testes-internos-galaxy-a73.html">مصدر</a></p></div>
+<p><a href="https://www.tudocelular.com/samsung/noticias/n238526/one-ui-8-samsung-inicia-testes-internos-galaxy-a73.html">مصدر</a></p></div>
 </p></div>

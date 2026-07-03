@@ -1,6 +1,6 @@
 ---
 title: "تكشف Samsung رسميًا عن تاريخ إطلاق النسخة النهائية"
-description: "أعلنت شركة Samsung رسميًا عن تاريخ إطلاق النسخة المستقرة من الواجهة الجديدة على UI8 ، حيث أكدت أن التحديث سيبدأ في الوصول إلى المستخدمين في سبتمبر 2025 ، شريطة أن تكون سلسلة Galaxy S25 هي الأولى التي تتلقى التحديث الجديد. تأتي هذه الخطوة بع"
+description: "أعلنت شركة Samsung رسميًا عن تاريخ إطلاق النسخة المستقرة من الواجهة الجديدة على UI8 ، حيث أكدت أن التحديث سيبدأ في الوصول إلى المستخدمين في سبتمبر 2025 ،…"
 pubDate: "2025-08-05T16:05:01"
 updatedDate: "2025-08-09T06:16:50"
 author: "Arab Tech Trends"
@@ -16,8 +16,6 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-one-ui
 <div class="featured-area-inner">
 <figure class="single-featured-image"></figure>
 </div>
-</div>
-<div class="entry-content entry clearfix">
 <p>أعلنت شركة Samsung رسميًا عن تاريخ إطلاق النسخة المستقرة من الواجهة الجديدة على UI8 ، حيث أكدت أن التحديث سيبدأ في الوصول إلى المستخدمين في سبتمبر 2025 ، شريطة أن تكون سلسلة Galaxy S25 هي الأولى التي تتلقى التحديث الجديد.</p>
 <p>تأتي هذه الخطوة بعد فترة من اختبار الإصدار التجريبي للواجهة على أجهزة Galaxy S25 ، حيث أشارت Samsung إلى أن الإصدار النهائي سيعتمد على التحسينات والمقترحات التي يقدمها المستخدمون المشاركون في البرنامج التجريبي.</p>
 <h3>خارطة الطريق الرسمية لتحديث UI 8:</h3>
@@ -59,5 +57,5 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-one-ui
 </ul>
 <p>تؤكد Samsung أن واجهة One UI 8 ستحمل تحولًا نوعيًا في تجربة الاستخدام ، استنادًا إلى ملاحظات الآلاف من المستخدمين في جميع أنحاء العالم ، كجزء من رؤيتها لتعزيز التكامل بين الأجهزة والبرامج من خلال قدرات الذكاء الاصطناعي.</p>
 <p>في رأيك ، ما هي الميزة الأبرز التي يجب أن يجلبها هذا الإصدار من التحديث؟</p>
-<p><a href="https://www.sammyfans.com/2025/08/05/its-official-samsung-will-release-stable-one-ui-8-update-in-september-2025/" data-type="link" data-id="https://www.sammyfans.com/2025/08/05/its-official-samsung-will-release-stable-one-ui-8-update-in-september-2025/">مصدر</a></p></div>
+<p><a href="https://www.sammyfans.com/2025/08/05/its-official-samsung-will-release-stable-one-ui-8-update-in-september-2025/">مصدر</a></p></div>
 </p></div>

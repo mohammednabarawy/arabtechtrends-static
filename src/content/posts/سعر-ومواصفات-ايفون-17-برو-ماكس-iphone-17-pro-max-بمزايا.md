@@ -1,6 +1,6 @@
 ---
 title: "سعر ومواصفات iPhone 17 Pro Max 17 Pro Max مع فوائد ثورية"
-description: "كشفت Apple عن عملاق الرائد \"iPhone 17 Pro Max\" ، والذي يمثل قمة هواتفها الرائدة لهذا العام. جاء iPhone 17 Pro Max مع تغييرات جذرية في التصميم ، وتحسينات كبيرة على الكاميرات ، ومعالج أقوى ، وبطارية غير مسبوقة هي الأطول في تاريخ سلسلة iPhone."
+description: "كشفت Apple عن عملاق الرائد \"iPhone 17 Pro Max\" ، والذي يمثل قمة هواتفها الرائدة لهذا العام."
 pubDate: "2025-09-09T21:41:12"
 updatedDate: "2025-09-13T17:12:31"
 author: "Arab Tech Trends"
@@ -14,14 +14,14 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%b9%d8%b1-%d9%88%d9%85%d9%88
 <div>
 <p>كشفت Apple عن عملاق الرائد "iPhone 17 Pro Max" ، والذي يمثل قمة هواتفها الرائدة لهذا العام. جاء iPhone 17 Pro Max مع تغييرات جذرية في التصميم ، وتحسينات كبيرة على الكاميرات ، ومعالج أقوى ، وبطارية غير مسبوقة هي الأطول في تاريخ سلسلة iPhone. </p>
 <p>إلى جانب هذا الإصدار ، أعلنت Apple أيضًا عن iPhone 17 Pro و iPhone 17 و iPhone 17 Air ، بالإضافة إلى مجموعة من المنتجات الأخرى مثل Apple Watch Series 11 و AirPods Pro 3.</p>
-<h2>مواصفات iPhone 17 Pro Max وأهم الميزات </h2>
+<h2>مواصفات iPhone 17 Pro Max وأهم الميزات</h2>
 <p>قدمت Apple مع iPhone 17 Pro Max تصميمًا مختلفًا عما اعتدنا عليه قبل سنوات. لأول مرة منذ إطلاق iPhone 11 Pro ، غيرت الشركة شكل وحدة الكاميرات ، حيث يأتي الهاتف الآن مع مستطيل ضخم يمتد من اليسار إلى اليمين الذي يتضمن العدسات الثلاثة ، فلاش ، ومستشعر Lidar.</p>
 <p>يتميز الهاتف أيضًا بخلفية هجينة تجمع بين الألومنيوم والزجاج ، حيث يتم تمييز المعدن بوضوح لإعطاء الجهاز قدرة أكبر على الإهدار إلى الحرارة بفضل اعتماد غرفة بخار للتبريد. أضافت Apple أيضًا تحسينات على الهيكل لمقاومة الصدمات بالاعتماد على زجاج Ceramic Shield 2 المقاوم للزجاج.</p>
 <p>يعمل iPhone 17 Pro Max مع معالج A19 Pro الجديد ، الذي وصفته شركة Apple بأنه أقوى معالج الهواتف الذكية في العالم. أنه يحتوي على 6 نوى عالية الأداء و 4 نوى عالية الكفاءة ، إلى جانب وحدة معالجة الرسوم السداسية (GPU) هي قفزة ملحوظة في الرسومات والألعاب.</p>
 <p>يدعم iPhone 17 Pro Max نظام التشغيل <strong>iOS 26</strong> الذي يجلب العديد من المزايا الجديدة ، بما في ذلك تحسين التكامل مع الذكاء الاصطناعي وخدمات Apple.</p>
 <p>يأتي iPhone 17 Pro Max مع شاشة OLED Super Retina XDR Super Super ، بدقة 2900 × 1440 بكسل وكثافة ~ 460 بكسل في البوصة.</p>
 <p>تدعم الشاشة تقنيات الترويج بمعدل تحديث متغير من 1 إلى 120 هرتز ، وتكنولوجيا الترويتون ، وتصل الحد الأقصى لإضاءةها إلى 3000 شمعة ، وهي أعلى سطوع من Apple حتى الآن ، مع القدرة على الحفاظ على هذا المستوى لفترة أطول دون انخفاض الأداء.</p>
-<figure class="wp-block-image size-full"></figure>
+<figure></figure>
 <p>شهد نظام iPhone 17 Pro Max Imaging تحديثًا كبيرًا ، حيث أصبحت الكاميرات الخلفية الثلاث 48 ميجابكسل:</p>
 <ul class="wp-block-list">
 <li>الكاميرا الرئيسية هي 48 ميجابكسل.</li>
@@ -114,5 +114,5 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%b9%d8%b1-%d9%88%d9%85%d9%88
 </table>
 </figure>
 <p>في رأيك ، ما هي الميزة الأبرز والأكثر أهمية التي جلبها iPhone 17 Pro Max؟ شارك رأيك في التعليقات …</p>
-<p><a href="https://ipadizate.com/iphone/iphone-17-pro-max-el-supergama-alta-de-apple-especificaciones-novedades-precio-y-fecha-de-lanzamiento" data-type="link" data-id="https://ipadizate.com/iphone/iphone-17-pro-max-el-supergama-alta-de-apple-especificaciones-novedades-precio-y-fecha-de-lanzamiento">مصدر</a></p>
+<p><a href="https://ipadizate.com/iphone/iphone-17-pro-max-el-supergama-alta-de-apple-especificaciones-novedades-precio-y-fecha-de-lanzamiento">مصدر</a></p>
 <p><!-- July_singl_down --></p></div>

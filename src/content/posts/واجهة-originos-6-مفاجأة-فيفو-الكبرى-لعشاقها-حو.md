@@ -1,6 +1,6 @@
 ---
 title: "مفاجأة فيفو الكبيرة لعشاقها في جميع أنحاء العالم"
-description: "أعلنت Vivo عن خطوة استراتيجية رئيسية ممثلة في إنهاء واجهة Funtosos في الأسواق العالمية ، وبدلاً من ذلك يعتمد على واجهة OriginOS التي تبدأ هذا العام ، لتصبح الواجهة الموحدة لجميع هواتفها في جميع أنحاء العالم. يتضمن القرار أيضًا ترجمات IQOO."
+description: "أعلنت Vivo عن خطوة استراتيجية رئيسية ممثلة في إنهاء واجهة Funtosos في الأسواق العالمية ، وبدلاً من ذلك يعتمد على واجهة OriginOS التي تبدأ هذا العام ، لتصبح…"
 pubDate: "2025-09-26T21:26:09"
 updatedDate: "2025-09-27T18:46:48"
 author: "Arab Tech Trends"
@@ -16,8 +16,6 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-origin
 <div class="featured-area-inner">
 <figure class="single-featured-image"></figure>
 </div>
-</div>
-<div class="entry-content entry clearfix">
 <p>أعلنت Vivo عن خطوة استراتيجية رئيسية ممثلة في إنهاء واجهة Funtosos في الأسواق العالمية ، وبدلاً من ذلك يعتمد على واجهة OriginOS التي تبدأ هذا العام ، لتصبح الواجهة الموحدة لجميع هواتفها في جميع أنحاء العالم. يتضمن القرار أيضًا ترجمات IQOO.</p>
 <h2>تاريخ إطلاق واجهة OriginOS</h2>
 <p>وفقًا للتقارير ، سيتم إطلاق واجهة OriginOS 6 على مستوى العالم في 15 أكتوبر ، بعد خمسة أيام فقط من إطلاقها الرسمي في الصين. ستكون سلسلة Vivo X300 أول هواتف تصل إلى الواجهة الجديدة خارج السوق الصينية.</p>
@@ -34,5 +32,5 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-origin
 <p>بالإضافة إلى ذلك ، تعتقد Vivo أن توحيد الواجهة سيساعدها على تسريع التحديثات وتقليل تكاليف تطوير نسختين مختلفتين من النظام.</p>
 <p>مع هذا القرار ، ينضم Vivo إلى الشركات الصينية الأخرى مثل Xiaomi و Oppo ، والتي تحولت أيضًا إلى توحيد واجهاتها على مستوى العالم ، مما يعكس اتجاهًا متزايدًا نحو توفير تجربة متسقة للمستخدمين في جميع أنحاء العالم.</p>
 <p>في رأيك: هل تفضل واجهة OriginOS أو funtouchos؟ شارك رأيك …</p>
-<p><a href="https://andro4all.com/vivo/adios-a-funtouchos-los-moviles-de-vivo-llegaran-al-mercado-global-con-originos-a-partir-de-este-ano" data-type="link" data-id="https://andro4all.com/vivo/adios-a-funtouchos-los-moviles-de-vivo-llegaran-al-mercado-global-con-originos-a-partir-de-este-ano">مصدر</a></p></div>
+<p><a href="https://andro4all.com/vivo/adios-a-funtouchos-los-moviles-de-vivo-llegaran-al-mercado-global-con-originos-a-partir-de-este-ano">مصدر</a></p></div>
 </p></div>

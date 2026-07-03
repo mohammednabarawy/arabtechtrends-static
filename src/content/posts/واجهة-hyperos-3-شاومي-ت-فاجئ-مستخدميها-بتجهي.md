@@ -1,6 +1,6 @@
 ---
 title: "واجهة Hyperos 3: Xiaomi تفاجئ مستخدميها من خلال إعداد التحديث لإطلاقها على مستوى العالم لهذه الهواتف"
-description: "Hyperos 3 تواصل الشركة الصينية ، Xiaomi ، تسريع وتيرة إطلاق واجهة \"Hyperos 3\" الجديدة. بعد ظهورها الرسمي على السوق الصينية ، بدأت الشركة في اختبار الإصدار العالمي ، مع التركيز الواضح على هواتف الطبقة الوسطى إلى جانب هواتفها الرائدة. أبرز مي"
+description: "واجهة Hyperos 3: Xiaomi تفاجئ مستخدميها من خلال إعداد التحديث لإطلاقها على مستوى العالم لهذه الهواتف — Hyperos 3 تواصل الشركة الصينية ، Xiaomi ، تسريع وتيرة…"
 pubDate: "2025-09-06T18:42:01"
 updatedDate: "2025-09-10T11:53:54"
 author: "Arab Tech Trends"
@@ -17,8 +17,6 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-hypero
 <figure class="single-featured-image"><figcaption class="single-caption-text">
 <span class="tie-icon-camera" aria-hidden="true"/>    Hyperos 3</figcaption></figure>
 </div>
-</div>
-<div class="entry-content entry clearfix">
 <p>تواصل الشركة الصينية ، Xiaomi ، تسريع وتيرة إطلاق واجهة "Hyperos 3" الجديدة. بعد ظهورها الرسمي على السوق الصينية ، بدأت الشركة في اختبار الإصدار العالمي ، مع التركيز الواضح على هواتف الطبقة الوسطى إلى جانب هواتفها الرائدة.</p>
 <h2>أبرز ميزات تحديث Hyperos 3</h2>
 <p>يحمل النظام الجديد مجموعة من التحسينات التي تتضمن:</p>
@@ -42,5 +40,5 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-hypero
 <li>بوكو F7</li>
 </ul>
 <p>هل هاتفك بين هذه الهواتف؟ شارك رأيك في التعليقات …</p>
-<p><a href="https://www.xiaomiadictos.com/xiaomi-ya-tiene-lista-la-actualizacion-global-de-hyperos-3-para-tres-de-sus-moviles-de-gama-media/" data-type="link" data-id="https://www.xiaomiadictos.com/xiaomi-ya-tiene-lista-la-actualizacion-global-de-hyperos-3-para-tres-de-sus-moviles-de-gama-media/">مصدر</a></p></div>
+<p><a href="https://www.xiaomiadictos.com/xiaomi-ya-tiene-lista-la-actualizacion-global-de-hyperos-3-para-tres-de-sus-moviles-de-gama-media/">مصدر</a></p></div>
 </p></div>

@@ -1,6 +1,6 @@
 ---
 title: "ستعمل Galaxy S26 مع معالج بسرعة فائقة!"
-description: "على الرغم من أن إطلاق سلسلة Samsung Galaxy S26 لا يزال بعيدًا ، إلا أن التسريبات لا تتوقف. بعد الكشف عن تفاصيل البطارية في وقت سابق اليوم ، ظهرت معلومات جديدة تسليط الضوء على المعالج الذي سيدير هواتف Samsung القادمة. معالج مخصص لسلسلة هاتف"
+description: "على الرغم من أن إطلاق سلسلة Samsung Galaxy S26 لا يزال بعيدًا ، إلا أن التسريبات لا تتوقف."
 pubDate: "2025-07-27T23:06:50"
 updatedDate: "2025-07-28T06:07:53"
 author: "Arab Tech Trends"
@@ -24,4 +24,4 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-
 <p><strong>باختصار جدا:</strong></p>
 <p>مع هذه التسريبات ، فإن ميزات الأداء القوي الذي سيتم تقديم سلسلة Galaxy S26 ، خاصة مع إصدار حصري من معالج Snapdragon 8 Elite 2 على التردد هو الأعلى حتى الآن. يبدو أن Samsung تراهن على الجمع بين الأداء والكفاءة لاكتساب التفضيل في سوق الهاتف الرائد.</p>
 <p>والسؤال الآن هو ، هل تعتقد أن سامسونج ستتمكن من التفوق على منافسيها مع هذا المعالج؟ شارك رأيك في التعليقات …</p>
-<p><a href="https://www.gizmochina.com/2025/07/24/snapdragon-8-elite-2-inside-galaxy-s26-to-run-at-4-74ghz-says-leak/" data-type="link" data-id="https://www.gizmochina.com/2025/07/24/snapdragon-8-elite-2-inside-galaxy-s26-to-run-at-4-74ghz-says-leak/">مصدر</a></p></div>
+<p><a href="https://www.gizmochina.com/2025/07/24/snapdragon-8-elite-2-inside-galaxy-s26-to-run-at-4-74ghz-says-leak/">مصدر</a></p></div>

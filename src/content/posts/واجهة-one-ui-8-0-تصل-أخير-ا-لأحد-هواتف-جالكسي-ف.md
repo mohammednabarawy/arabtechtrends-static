@@ -1,6 +1,6 @@
 ---
 title: "وصول واجهة المستخدم 8.0 أخيرًا إلى Galaxy A56 مع هذه الميزات!"
-description: "بدأت الشركة الكورية Samsung رسميًا في تقديم تحديث مستقر من واجهة One 8.0 استنادًا إلى نظام التشغيل Android 16 لـ Galaxy E56 ، بعد فترة وجيزة من فتح برنامج التجربة التجريبية في وقت سابق من هذا الشهر. Galaxy A Update 56 to One UI 8.0 Interfac"
+description: "بدأت الشركة الكورية Samsung رسميًا في تقديم تحديث مستقر من واجهة One 8.0 استنادًا إلى نظام التشغيل Android 16 لـ Galaxy E56 ، بعد فترة وجيزة من فتح برنامج…"
 pubDate: "2025-09-22T21:36:49"
 updatedDate: "2025-09-26T07:33:08"
 author: "Arab Tech Trends"
@@ -16,8 +16,6 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-one-ui
 <div class="featured-area-inner">
 <figure class="single-featured-image"></figure>
 </div>
-</div>
-<div class="entry-content entry clearfix">
 <p>بدأت الشركة الكورية Samsung رسميًا في تقديم تحديث مستقر من واجهة One 8.0 استنادًا إلى نظام التشغيل Android 16 لـ Galaxy E56 ، بعد فترة وجيزة من فتح برنامج التجربة التجريبية في وقت سابق من هذا الشهر.</p>
 <h2>Galaxy A Update 56 to One UI 8.0 Interface</h2>
 <p>في البداية ، وعد تحديث مستخدمي هاتف كوريا الجنوبية برقم هاتف A566SKSU2BYI5 ، والذي يتماشى تمامًا مع الجدول الزمني الذي أعلنته Samsung سابقًا ، بإطلاق الإصدار المستقر في 22 سبتمبر 2025 ونجح في الالتزام بتاريخها.</p>

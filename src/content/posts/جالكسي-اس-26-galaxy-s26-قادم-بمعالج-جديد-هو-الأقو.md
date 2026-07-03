@@ -1,6 +1,6 @@
 ---
 title: "Galaxy S26 القادمة مع معالج جديد هو الأقوى في تاريخ السلسلة!"
-description: "وفقًا لأحدث التسريبات ، تتجه Samsung للتخلي عن عملياتها الخاصة من فئة Exynos في هواتف Galaxy S26 القادمة ، وفقًا لأحدث التسريبات من المصدر الموثوق Ice Univeerse. بدلاً من ذلك ، ستعتمد الشركة الكورية تمامًا على معالج Qualcomm Snapdragon 8 ،"
+description: "وفقًا لأحدث التسريبات ، تتجه Samsung للتخلي عن عملياتها الخاصة من فئة Exynos في هواتف Galaxy S26 القادمة ، وفقًا لأحدث التسريبات من المصدر الموثوق Ice…"
 pubDate: "2025-07-26T18:32:33"
 updatedDate: "2025-07-30T14:19:32"
 author: "Arab Tech Trends"
@@ -26,4 +26,4 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-
 <p><strong>الشكوك حول الاستعداد exynos 2600</strong></p>
 <p>على الرغم من عمل Samsung لتطوير معالج Exynos 2600 ، تشير المصادر الداخلية إلى أن الشركة لم تكن متأكدة من استعداد الشريحة في الوقت المناسب لإطلاق سلسلة Galaxy S26. هذا يعزز فرضية اعتمادها الكامل على Snapdragon هذا العام.</p>
 <p>هل تفضل وصول سلسلة هواتف Samsung مع معالج <strong>exynos </strong>أو Snapdragon؟ ولماذا؟ شارك رأيك في التعليقات …</p>
-<p><a href="https://www.thetechoutlook.com/tech-whispers/samsung-galaxy-s26-series-tipped-to-use-overclocked-qualcomm-snapdragon-8-elite-2-chip/" data-type="link" data-id="https://www.thetechoutlook.com/tech-whispers/samsung-galaxy-s26-series-tipped-to-use-overclocked-qualcomm-snapdragon-8-elite-2-chip/">مصدر</a></p></div>
+<p><a href="https://www.thetechoutlook.com/tech-whispers/samsung-galaxy-s26-series-tipped-to-use-overclocked-qualcomm-snapdragon-8-elite-2-chip/">مصدر</a></p></div>

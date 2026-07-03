@@ -1,6 +1,6 @@
 ---
 title: "هاتف Find X9s يأتي بأكبر بطارية في تاريخ السلسلة!"
-description: "بعد أيام قليلة من إطلاق هاتفي Find X9 وFind X9 Pro، بدأت شركة أوبو بالفعل في الاستعداد لإضافة نماذج جديدة إلى السلسلة، مع ظهور التفاصيل الأولى حول هاتف أوبو Find القادم تسريبات جديدة تكشف التفاصيل الأولى لهاتف أوبو Find X9S وفقًا لما ذكره م"
+description: "بعد أيام قليلة من إطلاق هاتفي Find X9 وFind X9 Pro، بدأت شركة أوبو بالفعل في الاستعداد لإضافة نماذج جديدة إلى السلسلة، مع ظهور التفاصيل الأولى حول هاتف أوبو…"
 pubDate: "2025-10-18T19:27:18"
 updatedDate: "2025-10-22T01:52:23"
 author: "Arab Tech Trends"
@@ -25,5 +25,5 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a3%d9%88%d8%a8%d9%88-%d9%81%d8%a7
 <p>وحتى الآن لا توجد تفاصيل مؤكدة حول الإصدار <strong>ابحث عن X9s+</strong>ولكن من المحتمل أن يكون نسخة محسنة من Find X9 الأساسي.</p>
 <p>ومن المتوقع أن تعلن شركة أوبو رسميًا عن هاتف أوبو Find</p>
 <p>ما رأيك في سلسلة هواتف أوبو فايند بشكل عام؟ هل يستحق الشراء؟ شاركنا رأيك…</p>
-<p><a href="https://www.gizmochina.com/2025/10/17/oppo-find-x9s-battery-size-leak/" data-type="link" data-id="https://www.gizmochina.com/2025/10/17/oppo-find-x9s-battery-size-leak/">مصدر</a></p>
+<p><a href="https://www.gizmochina.com/2025/10/17/oppo-find-x9s-battery-size-leak/">مصدر</a></p>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: "واجهة Hyperos 3 المبنية على Android 15 تتصل بمزيد من هواتف Xiaomi!"
-description: "بدأت الشركة الصينية Xiaomi أخيرًا في توسيع نطاق اختبارات تحديث واجهة Hyperos 3 بناءً على نظام تشغيل Android 15 ، حيث أكدت الشركة التحديث لمجموعة أكبر من هواتفها داخل برنامج الاختبارات الداخلية. تفاصيل اختبار Hyperos 3 استنادًا إلى Android 1"
+description: "بدأت الشركة الصينية Xiaomi أخيرًا في توسيع نطاق اختبارات تحديث واجهة Hyperos 3 بناءً على نظام تشغيل Android 15 ، حيث أكدت الشركة التحديث لمجموعة أكبر من…"
 pubDate: "2025-09-23T16:08:05"
 updatedDate: "2025-09-25T03:25:53"
 author: "Arab Tech Trends"
@@ -16,8 +16,6 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-hypero
 <div class="featured-area-inner">
 <figure class="single-featured-image"></figure>
 </div>
-</div>
-<div class="entry-content entry clearfix">
 <p>بدأت الشركة الصينية Xiaomi أخيرًا في توسيع نطاق اختبارات تحديث واجهة Hyperos 3 بناءً على نظام تشغيل Android 15 ، حيث أكدت الشركة التحديث لمجموعة أكبر من هواتفها داخل برنامج الاختبارات الداخلية.</p>
 <h2>تفاصيل اختبار Hyperos 3 استنادًا إلى Android 15</h2>
 <p>يحمل الإصدار ، الذي بدأ يظهر على بعض الأجهزة ، رقم البناء OS3.0.250923 في 23 سبتمبر 2025. يأتي هذا ضمن استراتيجية Xiaomi لتمهيد الطريق نحو إطلاق النسخة التجريبية العامة في الأسابيع المقبلة ، تليها النسخة المستقرة قبل نهاية العام.</p>
@@ -41,5 +39,5 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-hypero
 <h3>أهمية الخطوة</h3>
 <p>من خلال هذا التوسع ، تؤكد Xiaomi التزامها بزيادة عمر أجهزتها ودعمها بأحدث ميزات Android 15 ، والتي تمنح مستخدمي هواتفها ، حتى من الأجيال السابقة مثل سلسلة Xiaomi 13 ، وهي فرصة للاستفادة من تجربة أكثر سلاسة وتحديثات تتماشى مع أحدث الاتجاهات الفنية.</p>
 <p>هل هاتفك بين الهواتف أعلاه؟ شارك رأيك …</p>
-<p><a href="https://www.tudocelular.com/software/noticias/n240506/xiaomi-testes-internos-do-hyperos-3-com-android-15.html" data-type="link" data-id="https://www.tudocelular.com/software/noticias/n240506/xiaomi-testes-internos-do-hyperos-3-com-android-15.html">مصدر</a></p></div>
+<p><a href="https://www.tudocelular.com/software/noticias/n240506/xiaomi-testes-internos-do-hyperos-3-com-android-15.html">مصدر</a></p></div>
 </p></div>

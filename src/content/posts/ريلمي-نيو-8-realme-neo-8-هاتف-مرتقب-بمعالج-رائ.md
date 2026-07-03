@@ -1,6 +1,6 @@
 ---
 title: "Realme Neo 8 هو هاتف قادم بمعالج رائد وبطارية ضخمة!"
-description: "عاد هاتف Realme Neo 8 إلى الواجهة من جديد من خلال التسريبات الأخيرة التي كشفت عن موعد إطلاقه المتوقع وبعض مواصفاته الرئيسية. ووفقا لما نشره موقع Gizmochina نقلا عن المسرب الموثوق Digital Chat Station، تستعد شركة Realme للكشف عن هاتفها الجدي"
+description: "عاد هاتف Realme Neo 8 إلى الواجهة من جديد من خلال التسريبات الأخيرة التي كشفت عن موعد إطلاقه المتوقع وبعض مواصفاته الرئيسية."
 pubDate: "2025-12-26T20:01:28"
 updatedDate: "2025-12-26T21:48:30"
 author: "Arab Tech Trends"
@@ -16,8 +16,6 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b1%d9%8a%d9%84%d9%85%d9%8a-%d9%86
 <div class="featured-area-inner">
 <figure class="single-featured-image"></figure>
 </div>
-</div>
-<div class="entry-content entry clearfix">
 <p>عاد هاتف Realme Neo 8 إلى الواجهة من جديد من خلال التسريبات الأخيرة التي كشفت عن موعد إطلاقه المتوقع وبعض مواصفاته الرئيسية. ووفقا لما نشره موقع Gizmochina نقلا عن المسرب الموثوق Digital Chat Station، تستعد شركة Realme للكشف عن هاتفها الجديد في سلسلة Neo خلال الربع الأول من عام 2026، في خطوة تعكس تركيز الشركة على فئة الهواتف عالية الأداء.</p>
 <h2>تاريخ الإطلاق المتوقع</h2>
 <p>وبحسب المعلومات المتداولة، فمن المتوقع أن يتم الإعلان الرسمي عن هاتف Realme Neo 8 في يناير 2026 في الصين، دون أن يتم الكشف عن موعد محدد حتى الآن. يبدو أن شركة Realme تخطط لبدء العام الجديد بهاتف يستهدف عشاق الأداء، وهو النهج الذي اعتادت عليه الشركة في السنوات الأخيرة.</p>
@@ -57,7 +55,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b1%d9%8a%d9%84%d9%85%d9%8a-%d9%86
 <p><a href="https://www.gizmochina.com/2025/12/25/realme-neo-8-january-2026-launch-timeline/" target="_blank" rel="noopener" title="المصدر">مصدر</a></p>
 <div id="inline-related-post" class="mag-box mini-posts-box content-only">
 <div class="container-wrapper">
-<div class="mag-box-container clearfix">
+
 <ul class="posts-items posts-list-container">
 <li class="widget-single-post-item widget-post-list tie-standard">
 <div class="post-widget-thumbnail">

@@ -1,6 +1,6 @@
 ---
 title: "معالج Snapdragon 6s Gen 4 يأتي رسميًا بمميزات قوية للهواتف المتوسطة!"
-description: "كشفت شركة كوالكوم عن أحدث معالجاتها المتوسطة Snapdragon 6s Gen 4، والذي يأتي بتحسينات ملحوظة مقارنة بالإصدار السابق Snapdragon 6s Gen 3، من حيث أداء وحدة المعالجة المركزية ووحدة معالجة الرسومات، مع دعم شاشات FHD+ مع معدل تحديث 144 هرتز، وتق"
+description: "كشفت شركة كوالكوم عن أحدث معالجاتها المتوسطة Snapdragon 6s Gen 4، والذي يأتي بتحسينات ملحوظة مقارنة بالإصدار السابق Snapdragon 6s Gen 3، من حيث أداء وحدة…"
 pubDate: "2025-10-24T18:59:30"
 updatedDate: "2025-10-29T02:26:19"
 author: "Arab Tech Trends"
@@ -16,13 +16,11 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%85%d8%b9%d8%a7%d9%84%d8%ac-snapdr
 <div class="featured-area-inner">
 <figure class="single-featured-image"></figure>
 </div>
-</div>
-<div class="entry-content entry clearfix">
 <p>كشفت شركة كوالكوم عن أحدث معالجاتها المتوسطة Snapdragon 6s Gen 4، والذي يأتي بتحسينات ملحوظة مقارنة بالإصدار السابق Snapdragon 6s Gen 3، من حيث أداء وحدة المعالجة المركزية ووحدة معالجة الرسومات، مع دعم شاشات FHD+ مع معدل تحديث 144 هرتز، وتقنيات الاتصال 5G mmWave وsub-6 جيجا هرتز. بالإضافة إلى واي فاي 6E.</p>
 <p>ويتم تصنيع المعالج الجديد (SM6435-AA) باستخدام تقنية سامسونج 4 نانومتر، ويعد بتحسين أداء المعالج بنسبة 36% وأداء الرسوميات بنسبة 59% مقارنة بالجيل السابق. يتضمن ثمانية أنوية Kryo مقسمة إلى 4 نوى أداء بسرعة تصل إلى 2.4 جيجا هرتز و4 نوى كفاءة بسرعة 1.8 جيجا هرتز.</p>
 <p>ويدعم معالج الرسوميات تقنيات الألعاب المتقدمة مثل واجهات HDR Gaming وOpenGL ES 3.2 وVulkan 1.1، بالإضافة إلى ميزات من Snapdragon Elite Gaming مثل Variable Rate Shading (VRS) وGame Quick Touch لتحسين الاستجابة في الألعاب.</p>
 <h2>مواصفات ومميزات معالج Snapdragon 6s Gen 4</h2>
-<figure class="wp-block-image size-full"><img width="708" height="392" src="/uploads/wp/2025/10/1761693978_480_snapdragon-6s-gen-4.jpg" alt="سناب دراجون 6s الجيل الرابع" class="wp-image-225747"></figure>
+<figure><img width="708" height="392" src="/uploads/wp/2025/10/1761693978_480_snapdragon-6s-gen-4.jpg" alt="سناب دراجون 6s الجيل الرابع"></figure>
 <figure class="wp-block-table">
 <table class="has-fixed-layout">
 <thead>
@@ -85,5 +83,5 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%85%d8%b9%d8%a7%d9%84%d8%ac-snapdr
 </figure>
 <p>وبهذه المواصفات، من المتوقع أن يظهر معالج Snapdragon 6s Gen 4 في الهواتف المتوسطة القادمة خلال الأشهر المقبلة، مع التركيز على الأداء القوي وتحسين تجربة الألعاب.</p>
 <p>من وجهة نظرك ما هو أفضل معالج للفئة المتوسطة؟</p>
-<p><a href="https://www.fonearena.com/blog/467366/qualcomm-snapdragon-6s-gen-4-features.html" data-type="link" data-id="https://www.fonearena.com/blog/467366/qualcomm-snapdragon-6s-gen-4-features.html">مصدر</a></p>
+<p><a href="https://www.fonearena.com/blog/467366/qualcomm-snapdragon-6s-gen-4-features.html">مصدر</a></p>
 </div></div>

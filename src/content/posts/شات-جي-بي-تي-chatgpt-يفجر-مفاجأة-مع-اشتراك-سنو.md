@@ -1,6 +1,6 @@
 ---
 title: "Chatgpt يفجر مفاجأة مع اشتراك سنوي بسعر أقل!"
-description: "يبدو أن Openai يعمل على إعادة هيكلة خطط الاشتراك في ChatGPT ، لتضمين خيار سنوي بسعر أقل ، وربما أيضًا أسبوعيًا أو حتى \"مدى الحياة\" ، وفقًا لما تم الكشف عنه من خلال المعلومات التي تم تسريبها من الإصدار التجريبي من تطبيق ChatGPT على Android. "
+description: "يبدو أن Openai يعمل على إعادة هيكلة خطط الاشتراك في ChatGPT ، لتضمين خيار سنوي بسعر أقل ، وربما أيضًا أسبوعيًا أو حتى \"مدى الحياة\" ، وفقًا لما تم الكشف عنه…"
 pubDate: "2025-07-23T18:35:43"
 updatedDate: "2025-07-27T09:04:29"
 author: "Arab Tech Trends"
@@ -16,8 +16,6 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d8%aa-%d8%ac%d9%8a-%d8%a
 <div class="featured-area-inner">
 <figure class="single-featured-image"></figure>
 </div>
-</div>
-<div class="entry-content entry clearfix">
 <p>يبدو أن Openai يعمل على إعادة هيكلة خطط الاشتراك في ChatGPT ، لتضمين خيار سنوي بسعر أقل ، وربما أيضًا أسبوعيًا أو حتى "مدى الحياة" ، وفقًا لما تم الكشف عنه من خلال المعلومات التي تم تسريبها من الإصدار التجريبي من تطبيق ChatGPT على Android.</p>
 <h3>اشتراك ChatGPT السنوي</h3>
 <p>حاليًا ، تبلغ تكلفة اشتراك ChatGPT Plus حوالي 20 دولارًا شهريًا ، أي ما يعادل 240 دولارًا سنويًا. ومع ذلك ، يشير رمز البرنامج الذي تم مراقبه في الإصدار التجريبي إلى خطة سنوية جديدة بقيمة 200 دولار ، والتي توفر المستخدمين حوالي 40 دولارًا سنويًا ، وهو نموذج تسعير مشابه لما يتبعه الخدمات المتنافسة مثل Google AI Pro.</p>
@@ -27,5 +25,5 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b4%d8%a7%d8%aa-%d8%ac%d9%8a-%d8%a
 <p>إذا تم اعتماد هذه الخطط الجديدة ، فقد يؤثر ذلك بشكل كبير على سلوك المستخدمين ، خاصة مع زيادة الاعتماد اليومي على أدوات الذكاء الاصطناعي مثل ChatGPT. أرخص اشتراك سنوي قد يحفز المستخدمين الجدد على الترقية ، وزيادة ولاء المشتركين الحاليين.</p>
 <p>لا توجد معلومات مؤكدة حتى الآن حول تاريخ إطلاق هذه الخطط ، ولكن التغييرات التي تمت مراقبتها في إصدار Android قد تمهد الطريق لإعلان وشيك من Openai في الأسابيع المقبلة.</p>
 <p>هل تخطط للحصول على نسخة مدفوعة المدفوعة؟</p>
-<p><a href="https://ipadizate.com/tecnologia/chatgpt-tendra-una-version-mucho-mas-barata" data-type="link" data-id="https://ipadizate.com/tecnologia/chatgpt-tendra-una-version-mucho-mas-barata">مصدر</a></p></div>
+<p><a href="https://ipadizate.com/tecnologia/chatgpt-tendra-una-version-mucho-mas-barata">مصدر</a></p></div>
 </p></div>

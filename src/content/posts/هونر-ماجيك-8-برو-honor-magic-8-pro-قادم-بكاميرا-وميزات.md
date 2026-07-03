@@ -1,6 +1,6 @@
 ---
 title: "يأتي Honor Magic 8 Pro مع كاميرا خيالية رائعة وميزة!"
-description: "تستعد Honor Magic 8 لإطلاق سلسلة \"Honor Magic 8\" الجديدة هذا العام ، وتشير أحدث التسريبات والشائعات إلى أن إصدار Honor Magic 8 Pro من الهاتف سيحمل مفاجآت رائعة ، خاصة في قسم الكاميرا. بعد أن نفى الرئيس التنفيذي لشركة Honor الشائعات حول وجود"
+description: "تستعد Honor Magic 8 لإطلاق سلسلة \"Honor Magic 8\" الجديدة هذا العام ، وتشير أحدث التسريبات والشائعات إلى أن إصدار Honor Magic 8 Pro من الهاتف سيحمل مفاجآت…"
 pubDate: "2025-07-26T16:52:54"
 updatedDate: "2025-07-30T21:20:21"
 author: "Arab Tech Trends"
@@ -30,4 +30,4 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d9%88%d9%86%d8%b1-%d9%85%d8%a7
 <p>أشار "لوو وي" ، مدير قسم الصور تكريما ، في وقت سابق من هذا الشهر ، إلى أن الشركة لا تؤمن بـ "التجميع الأعمى". بدلاً من ذلك ، يركز Honor على ثلاثة محاور رئيسية: الاستثمار في الأجهزة الحالية التي تعمل دون ذكاء اصطناعي ، والعمل على تسخير القدرات الكاملة للمكونات باستخدام الذكاء الاصطناعي ، واستخدام الذكاء الاصطناعي لتحسين وظائف الأجهزة مئات المرات. تشير عبارات "Luo Wei" إلى أن Honor يهدف إلى أن يصبح علامة تجارية "بعيدًا عن المنافسين" في السنوات الثلاث المقبلة بفضل ابتكاراتها.</p>
 <p>مع هذه المواصفات المثيرة والميزات المبتكرة ، يبدو أن Honor Magic 8 Pro تهدف إلى ترك بصمة قوية في سوق الهاتف الرائد.</p>
 <p>السؤال الآن ، هل تعتقد أن هذه المواصفات ستجعل Honor Magic 8 Pro منافسًا قويًا في فصله؟</p>
-<p><a href="https://www.tudocelular.com/mercado/noticias/n234354/honor-magic-8-pro-especificacoes-camera-vazadas.html" data-type="link" data-id="https://www.tudocelular.com/mercado/noticias/n234354/honor-magic-8-pro-especificacoes-camera-vazadas.html">مصدر</a></p></div>
+<p><a href="https://www.tudocelular.com/mercado/noticias/n234354/honor-magic-8-pro-especificacoes-camera-vazadas.html">مصدر</a></p></div>

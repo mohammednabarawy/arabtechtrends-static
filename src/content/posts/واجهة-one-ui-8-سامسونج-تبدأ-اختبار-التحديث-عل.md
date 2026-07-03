@@ -1,6 +1,6 @@
 ---
 title: "تبدأ واجهة UI 8 Samsung في اختبار التحديث على أحد هواتف Galaxy من الفئة A!"
-description: "تشير الإصدار التجريبي الأول من واجهة One UI 8 لـ Samsung Galaxy A55 على Samsung A55 على خوادم Samsung ، وفقًا لتسرب جديد ، إلى أن مرحلة الاختبار على الجهاز سيتم إطلاقها قريبًا. يأتي ذلك بعد أن أعلنت الشركة في وقت سابق من أغسطس أن الهاتف انض"
+description: "تشير الإصدار التجريبي الأول من واجهة One UI 8 لـ Samsung Galaxy A55 على Samsung A55 على خوادم Samsung ، وفقًا لتسرب جديد ، إلى أن مرحلة الاختبار على الجهاز…"
 pubDate: "2025-08-21T19:46:15"
 updatedDate: "2025-08-25T02:05:14"
 author: "Arab Tech Trends"
@@ -16,8 +16,6 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-one-ui
 <div class="featured-area-inner">
 <figure class="single-featured-image"></figure>
 </div>
-</div>
-<div class="entry-content entry clearfix">
 <p>تشير الإصدار التجريبي الأول من واجهة One UI 8 لـ Samsung Galaxy A55 على Samsung A55 على خوادم Samsung ، وفقًا لتسرب جديد ، إلى أن مرحلة الاختبار على الجهاز سيتم إطلاقها قريبًا. يأتي ذلك بعد أن أعلنت الشركة في وقت سابق من أغسطس أن الهاتف انضم إلى برنامج BETA لبعض أجهزة Series Galaxy A.</p>
 <p>تمر واحد من UI 8 BETA من خلال خطوات التدرج ، على غرار الإصدار السابق من One UI 7. بدأت سلسلة Galaxy S25 الرائدة في شهر مايو الماضي مع تحديث تجريبي ، تتبعها هواتف Galaxy S24 وأجهزة قابلة للطي مثل Z Fold 6 و Z Flip 6 هذا الشهر.</p>
 <p>أما بالنسبة للهواتف الأخرى مثل Galaxy S23 و Z Fold 5 و Z Flip 5 والإصدارات المتوسطة ، فمن المتوقع أن ينضم إلى سبتمبر.</p>
@@ -31,5 +29,5 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-one-ui
 <li>تحسين الأداء العام مع تحسين تجربة الاستخدام.</li>
 </ul>
 <p>في رأيك ، ما هي أبرز ميزة للتحديث؟</p>
-<p><a href="https://www.tudocelular.com/samsung/noticias/n239169/one-ui-8-beta-galaxy-a55-servidores-samsung.html" data-type="link" data-id="https://www.tudocelular.com/samsung/noticias/n239169/one-ui-8-beta-galaxy-a55-servidores-samsung.html">مصدر</a></p></div>
+<p><a href="https://www.tudocelular.com/samsung/noticias/n239169/one-ui-8-beta-galaxy-a55-servidores-samsung.html">مصدر</a></p></div>
 </p></div>

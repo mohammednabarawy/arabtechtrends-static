@@ -1,6 +1,6 @@
 ---
 title: "تحديث واجهة One UI 8 يصل إلى هاتفين من هواتف سامسونج ذات الميزانية المحدودة!"
-description: "بدأت شركة سامسونج الكورية بتوسيع نطاق واجهة One UI 8.0 المبنية على نظام Android 16، لتصل الآن إلى المزيد من الهواتف المتوسطة والاقتصادية، وتحديدًا Galaxy A06 5G وGalaxy F17 5G، وذلك بعد شهر كامل من بدء طرح التحديث رسميًا. واجهة One UI 8.0 ت"
+description: "بدأت شركة سامسونج الكورية بتوسيع نطاق واجهة One UI 8.0 المبنية على نظام Android 16، لتصل الآن إلى المزيد من الهواتف المتوسطة والاقتصادية، وتحديدًا Galaxy…"
 pubDate: "2025-10-16T17:30:42"
 updatedDate: "2025-10-16T19:26:50"
 author: "Arab Tech Trends"
@@ -31,5 +31,5 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d9%88
 <p>على الرغم من أن سامسونج لم تكمل بعد طرح تحديث واجهة One UI 8.0 لجميع الأجهزة المؤهلة، فقد بدأت بالفعل في تطوير One UI 8.5 استنادًا إلى Android 16 QPR2، والذي سيجلب تغييرات مرئية جديدة وميزات إضافية، ومن الجيد أن يكون هاتف Galaxy A06 5G وGalaxy F17 5G مؤهلين أيضًا لتلقي هذا التحديث القادم.</p>
 <p>ومع هذا التوسع، تؤكد سامسونج التزامها القوي بتوفير آخر التحديثات البرمجية حتى لأجهزتها ذات الميزانية المحدودة، مما يعزز تجربة المستخدم ويوفر دعمًا طويل الأمد لمختلف فئات هواتفها.</p>
 <p>هل تلقيت التحديث؟</p>
-<p><a href="https://www.sammobile.com/news/one-ui-8-reaches-two-more-affordable-galaxy-phones/" data-type="link" data-id="https://www.sammobile.com/news/one-ui-8-reaches-two-more-affordable-galaxy-phones/">مصدر</a></p>
+<p><a href="https://www.sammobile.com/news/one-ui-8-reaches-two-more-affordable-galaxy-phones/">مصدر</a></p>
 </div>

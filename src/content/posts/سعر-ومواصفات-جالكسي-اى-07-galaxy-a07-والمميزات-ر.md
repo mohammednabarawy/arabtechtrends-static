@@ -1,6 +1,6 @@
 ---
 title: "سعر ومواصفات Galaxy A07 والميزات الرسمية"
-description: "كشفت الشركة الكورية ، Samsung ، عن هاتفها الجديد ، الذي يدعى Samsung Galaxy ، 07 \"Galaxy A07\" في السلسلة A ، ليكون خليفة Galaxy A06 الذي تم طرحه العام الماضي. يأتي الهاتف الجديد بمجموعة من تحسينات وتحديثات الأداء المهمة ، مما يجعله أحد أبرز"
+description: "كشفت الشركة الكورية ، Samsung ، عن هاتفها الجديد ، الذي يدعى Samsung Galaxy ، 07 \"Galaxy A07\" في السلسلة A ، ليكون خليفة Galaxy A06 الذي تم طرحه العام الماضي."
 pubDate: "2025-08-25T14:24:08"
 updatedDate: "2025-08-27T17:27:13"
 author: "Arab Tech Trends"
@@ -22,7 +22,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%b9%d8%b1-%d9%88%d9%85%d9%88
 <p>دعم بطاقة microSD حتى 2 تيرابايت.</p>
 <p><strong>طلب:</strong> تعمل عملية Android 15 مع واجهة واجهة المستخدم 7.</p>
 <p><strong>التحديثات:</strong> لأول مرة في فئة السعر هذه ، تؤكد Samsung 6 أجيال من تحديثات النظام و 6 سنوات من تحديثات الأمان.</p>
-<figure class="wp-block-image size-full"></figure>
+<figure></figure>
 <p><strong>الكاميرات:</strong></p>
 <p>خلفية مزدوجة: 50 ميجابكسل (F/1.8) + 2MP عمق (F/2.4) مع فلاش LED.</p>
 <p>الجبهة: 8MP (F/2.0).</p>
@@ -42,4 +42,4 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%b9%d8%b1-%d9%88%d9%85%d9%88
 <li><strong>8 جيجابايت + 256 جيجابايت:</strong> بسعر (حوالي 141 دولار).</li>
 </ul>
 <p>في رأيك ، هل يستحق Galaxy A07 الشراء؟</p>
-<p><a href="https://www.fonearena.com/blog/462531/samsung-galaxy-a07-price-specifications.html" data-type="link" data-id="https://www.fonearena.com/blog/462531/samsung-galaxy-a07-price-specifications.html">مصدر</a></p></div>
+<p><a href="https://www.fonearena.com/blog/462531/samsung-galaxy-a07-price-specifications.html">مصدر</a></p></div>

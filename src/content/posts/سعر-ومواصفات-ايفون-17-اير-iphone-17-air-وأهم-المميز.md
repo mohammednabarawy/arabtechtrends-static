@@ -1,6 +1,6 @@
 ---
 title: "سعر ومواصفات iPhone 17 Air 17 Air وأهم الميزات رسميًا"
-description: "كشفت شركة Apple رسميًا عن iPhone 17 Air كإضافة جديدة إلى سلسلة iPhone 17 ، وجاءت لإعادة التركيز على هواتف رقيقة وخفيفة ، بعد سنوات من التصميمات السميكة نسبيًا. يأتي الهاتف بتصميم ثوري بسمك لا يتجاوز 5.6 مم ، ليصبح أنحف iPhone على الإطلاق ،"
+description: "كشفت شركة Apple رسميًا عن iPhone 17 Air كإضافة جديدة إلى سلسلة iPhone 17 ، وجاءت لإعادة التركيز على هواتف رقيقة وخفيفة ، بعد سنوات من التصميمات السميكة…"
 pubDate: "2025-09-09T21:15:12"
 updatedDate: "2025-09-14T00:14:10"
 author: "Arab Tech Trends"
@@ -22,7 +22,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%b9%d8%b1-%d9%88%d9%85%d9%88
 <li>يكسر ما يصل إلى 3000 شمعة.</li>
 <li>درع السيراميك المحسّن 2.</li>
 </ul>
-<figure class="wp-block-image size-full"></figure>
+<figure></figure>
 <p><strong>ثانياً: الأداء</strong></p>
 <p>على الرغم من التركيز على التصميم النحيف ، لم تتخلى Apple عن الأداء:</p>
 <ul class="wp-block-list">
@@ -34,7 +34,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%b9%d8%b1-%d9%88%d9%85%d9%88
 <li>48 -Megapixel الكاميرا الخلفية.</li>
 <li>كاميرا أمامية 18 -megapixel مع مرحلة المركز التي تتبع حركة المستخدم أثناء المكالمات.</li>
 </ul>
-<figure class="wp-block-image size-full"><img loading="lazy" width="708" height="400" src="/uploads/wp/2025/09/1757798048_585_iphone-17-air-17-air.jpg" alt="iPhone 17 Air" class="wp-image-224544"  /></figure>
+<figure><img loading="lazy" width="708" height="400" src="/uploads/wp/2025/09/1757798048_585_iphone-17-air-17-air.jpg" alt="iPhone 17 Air"  /></figure>
 <p><strong>الرابع: تقنيات الاتصال المتقدمة</strong></p>
 <ul class="wp-block-list">
 <li>لأول مرة ، رقاقة Apple N1 التي تدعم Wi-Fi 7 و Bluetooth 6.0.</li>
@@ -45,7 +45,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%b9%d8%b1-%d9%88%d9%85%d9%88
 <ul class="wp-block-list">
 <li>كما وفرت خيارًا جديدًا ، وهو حزمة Magsafe ذات الأسماك المنخفضة ، والتي تمنح المستخدم ما يصل إلى 40 ساعة إضافية من الاستخدام.</li>
 </ul>
-<figure class="wp-block-image size-full"><img loading="lazy" width="708" height="542" src="/uploads/wp/2025/09/1757798048_777_iphone-17-air-17-air.jpg" alt="iPhone 17 Air" class="wp-image-224550"  /></figure>
+<figure><img loading="lazy" width="708" height="542" src="/uploads/wp/2025/09/1757798048_777_iphone-17-air-17-air.jpg" alt="iPhone 17 Air"  /></figure>
 <p><strong>السادس: الألوان المتاحة</strong></p>
 <p>سيكون الهاتف متاحًا بأربعة خيارات للألوان:</p>
 <ul class="wp-block-list">
@@ -59,5 +59,5 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%b3%d8%b9%d8%b1-%d9%88%d9%85%d9%88
 <p><strong>قصير: </strong></p>
 <p>يمثل iPhone 17 Air عودة Apple إلى فلسفة الهواتف النحيفة والأنيقة ، مع الحفاظ على قوة الأداء من خلال معالج A19 Pro ودعم أحدث تقنيات الاتصالات. على الرغم من أنه أنحف iPhone على الإطلاق ، إلا أنه يوازن بين التصميم الحديث والأداء المتفوق ، على الرغم من على حساب كاميرا واحدة فقط.</p>
 <p>في رأيك ، ما هي أبرز ميزة الهاتف؟ </p>
-<p><a href="https://www.gsmarena.com/apple_iphone_air_is_here_56mm_thick_a19_pro_chip_and_65_promotion_display-news-69420.php" data-type="link" data-id="https://www.gsmarena.com/apple_iphone_air_is_here_56mm_thick_a19_pro_chip_and_65_promotion_display-news-69420.php">مصدر</a></p>
+<p><a href="https://www.gsmarena.com/apple_iphone_air_is_here_56mm_thick_a19_pro_chip_and_65_promotion_display-news-69420.php">مصدر</a></p>
 <p><!-- July_singl_down --></p></div>

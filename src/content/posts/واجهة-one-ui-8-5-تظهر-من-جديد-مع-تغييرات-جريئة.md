@@ -1,6 +1,6 @@
 ---
 title: "تظهر واجهة واجهة مستخدم واحدة مرة أخرى مع تغييرات جريئة!"
-description: "كشفت الصور Fedged عن أول نظرة على واجهة Samsung One UI 8.5 القادمة ، والتي من المتوقع أن تظهر لأول مرة مع سلسلة من هواتف Galaxy S 26 العام المقبل. يبدو أن الشركة تتجه لإعادة صياغة أسلوبها البصري مع بعض التغييرات في iOS. جاء التسرب من إصدار"
+description: "كشفت الصور Fedged عن أول نظرة على واجهة Samsung One UI 8.5 القادمة ، والتي من المتوقع أن تظهر لأول مرة مع سلسلة من هواتف Galaxy S 26 العام المقبل."
 pubDate: "2025-09-19T20:59:30"
 updatedDate: "2025-09-23T09:14:49"
 author: "Arab Tech Trends"
@@ -16,8 +16,6 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-one-ui
 <div class="featured-area-inner">
 <figure class="single-featured-image"></figure>
 </div>
-</div>
-<div class="entry-content entry clearfix">
 <p>كشفت الصور Fedged عن أول نظرة على واجهة Samsung One UI 8.5 القادمة ، والتي من المتوقع أن تظهر لأول مرة مع سلسلة من هواتف Galaxy S 26 العام المقبل. يبدو أن الشركة تتجه لإعادة صياغة أسلوبها البصري مع بعض التغييرات في iOS.</p>
 <p>جاء التسرب من إصدار داخلي مبكر يتم تشغيله على Galaxy S21+، وأظهر مجموعة من التحسينات المرئية ، خاصة في تطبيق الإعدادات. وشملت أبرز التغييرات:</p>
 <ul class="wp-block-list">
@@ -81,5 +79,5 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-one-ui
 </ul>
 <p>ومع ذلك ، تجدر الإشارة إلى أن هذا الإصدار لا يزال مبكرًا وغير محدود ، مما يعني أن بعض هذه التغييرات قد لا تصل إلى الإصدار الرسمي عند إطلاق التحديث على هواتف Galaxy S26 العام المقبل.</p>
 <p>هل هاتفك مؤهل للحصول على هذا التحديث؟</p>
-<p><a href="https://www.androidheadlines.com/2025/09/samsung-one-ui-8-5-leaked-images-new-design-ios-26.html" data-type="link" data-id="https://www.androidheadlines.com/2025/09/samsung-one-ui-8-5-leaked-images-new-design-ios-26.html">مصدر</a></p></div>
+<p><a href="https://www.androidheadlines.com/2025/09/samsung-one-ui-8-5-leaked-images-new-design-ios-26.html">مصدر</a></p></div>
 </p></div>

@@ -32,33 +32,59 @@ function decodeEntities(text) {
   return out.replace(/&#(\d+);/g, (_, code) => String.fromCharCode(Number(code)));
 }
 
+function cleanHeading(match, level, inner) {
+  const idMatch = inner.match(/\bid="([^"]+)"/i) ?? inner.match(/id='([^']+)'/i);
+  const spanId = inner.match(/<span[^>]*\bid=["']([^"']+)["']/i);
+  const id = idMatch?.[1] ?? spanId?.[1];
+  const text = inner
+    .replace(/<span class="ez-toc-section"[^>]*>[\s\S]*?<\/span>/gi, "")
+    .replace(/<span class="ez-toc-section-end"><\/span>/gi, "")
+    .replace(/<[^>]+>/g, "")
+    .trim();
+  if (!text) return match;
+  return id ? `<h${level} id="${id}">${text}</h${level}>` : `<h${level}>${text}</h${level}>`;
+}
+
 function cleanBody(body) {
   let out = body;
 
-  // Remove ad blocks and ez-toc containers
   out = out.replace(/<div[^>]*itemtype="https:\/\/schema\.org\/WPAdBlock"[^>]*>[\s\S]*?<\/div>/gi, "");
   out = out.replace(/<div[^>]*id="ez-toc-container"[^>]*>[\s\S]*?<\/div>/gi, "");
+  out = out.replace(/<nav>[\s\S]*?ez-toc-list[\s\S]*?<\/nav>/gi, "");
+  out = out.replace(/<div[^>]*class="[^"]*lwptoc[^"]*"[^>]*>[\s\S]*?<\/div>/gi, "");
+  out = out.replace(/<div[^>]*class="[^"]*duzxlygivn[^"]*"[^>]*>[\s\S]*?<\/div>/gi, "");
 
-  // Strip outer wrapper div if it's the only wrapper
-  out = out.replace(/^<div>\s*([\s\S]*?)\s*<\/div>\s*$/i, "$1");
+  out = out.replace(/<div[^>]*class="[^"]*entry-content[^"]*"[^>]*>/gi, "");
+  out = out.replace(/<div[^>]*class="[^"]*single-post-content[^"]*"[^>]*>/gi, "");
+  out = out.replace(/<div[^>]*class="[^"]*clearfix[^"]*"[^>]*>/gi, "");
 
-  // Normalize wp-block headings
-  out = out.replace(/<h([1-6])[^>]*class="[^"]*wp-block-heading[^"]*"[^>]*>/gi, "<h$1>");
-
-  // Remove broken data attributes on images
+  out = out.replace(/\s+data-path-to-node="[^"]*"/gi, "");
+  out = out.replace(/\s+data-type="[^"]*"/gi, "");
+  out = out.replace(/\s+data-id="[^"]*"/gi, "");
   out = out.replace(/\s+data-lazyloaded="[^"]*"/gi, "");
   out = out.replace(/\s+data-recalc-dims="[^"]*"/gi, "");
   out = out.replace(/\s+data-\/?>/gi, ">");
   out = out.replace(/\s+border="0"/gi, "");
   out = out.replace(/\s+decoding="async"/gi, "");
 
-  // Fix double-closed paragraphs
+  out = out.replace(/<h([1-6])[^>]*>([\s\S]*?)<\/h\1>/gi, cleanHeading);
+
+  out = out.replace(/<h([1-6])[^>]*class="[^"]*wp-block-heading[^"]*"[^>]*>/gi, "<h$1>");
+  out = out.replace(/<figure[^>]*class="[^"]*wp-block-image[^"]*"[^>]*>/gi, "<figure>");
+  out = out.replace(/\s+class="wp-image-\d+"/gi, "");
+  out = out.replace(/<p([^>]*)\s+class="[^"]*"([^>]*)>/gi, "<p$1$2>");
+
   out = out.replace(/<\/p>\s*<\/p>/gi, "</p>");
+  out = out.replace(/<\/div>\s*<p>/gi, "<p>");
+  out = out.replace(/<p>\s*<\/div>/gi, "<p>");
 
-  // Decode HTML entities in text
+  for (let i = 0; i < 6; i++) {
+    out = out.replace(/<div>\s*<\/div>/gi, "");
+  }
+
+  out = out.replace(/^<div>\s*([\s\S]*?)\s*<\/div>\s*$/i, "$1");
+
   out = decodeEntities(out);
-
-  // Collapse excessive blank lines
   out = out.replace(/\n{3,}/g, "\n\n").trimEnd() + "\n";
 
   return out;

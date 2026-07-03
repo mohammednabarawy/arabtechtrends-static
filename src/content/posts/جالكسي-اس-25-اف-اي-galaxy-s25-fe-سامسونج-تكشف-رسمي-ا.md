@@ -1,6 +1,6 @@
 ---
 title: "Galaxy S25 FE: تكشف Samsung رسميًا تاريخ الإطلاق!"
-description: "أعلنت شركة Samsung الكورية رسميًا عن عقد حدث Galaxy في الرابع من سبتمبر المقبل ، والذي سيعقد افتراضيًا وبثًا مباشرة من خلال موقع الشركة الرسمي وقناة YouTube في الساعة 9:30 صباحًا بتوقيت المحيط الهادئ. ماذا ستكشف Samsung خلال حدث حدث Galaxy؟"
+description: "أعلنت شركة Samsung الكورية رسميًا عن عقد حدث Galaxy في الرابع من سبتمبر المقبل ، والذي سيعقد افتراضيًا وبثًا مباشرة من خلال موقع الشركة الرسمي وقناة YouTube…"
 pubDate: "2025-08-28T14:04:05"
 updatedDate: "2025-08-30T15:58:19"
 author: "Arab Tech Trends"
@@ -16,8 +16,6 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-
 <div class="featured-area-inner">
 <figure class="single-featured-image"></figure>
 </div>
-</div>
-<div class="entry-content entry clearfix">
 <p>أعلنت شركة Samsung الكورية رسميًا عن عقد حدث Galaxy في الرابع من سبتمبر المقبل ، والذي سيعقد افتراضيًا وبثًا مباشرة من خلال موقع الشركة الرسمي وقناة YouTube في الساعة 9:30 صباحًا بتوقيت المحيط الهادئ.</p>
 <h2>ماذا ستكشف Samsung خلال حدث حدث Galaxy؟</h2>
 <p>في إعلانها ، أشارت الشركة إلى أن الحدث سيشهد الكشف عن:</p>
@@ -45,5 +43,5 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-
 <p>ولكن تجدر الإشارة إلى أنه لا يمكن استخدام التوازن لشراء الجهاز المضبوط نفسه.</p>
 <p>مع هذا الحدث ، تستعد Samsung لتعزيز مجموعتها من هواتف Galaxy S25 ، بالإضافة إلى دفع المزيد من الابتكارات في فئة أقراص الذكاء الاصطناعي ، مما يجعل سبتمبر شهريًا مزدحمًا بإعلانات مهمة للعشاق الفنيين.</p>
 <p>في رأيك ، ما هي أبرز الميزة التي تأمل في رؤيتها في أجهزة Samsung القادمة؟</p>
-<p><a href="https://www.gsmarena.com/samsung_galaxy_s25_fe_tab_s11_series_launch_event-news-69238.php" data-type="link" data-id="https://www.gsmarena.com/samsung_galaxy_s25_fe_tab_s11_series_launch_event-news-69238.php">مصدر</a></p></div>
+<p><a href="https://www.gsmarena.com/samsung_galaxy_s25_fe_tab_s11_series_launch_event-news-69238.php">مصدر</a></p></div>
 </p></div>

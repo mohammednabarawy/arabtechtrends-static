@@ -1,6 +1,6 @@
 ---
 title: "Galaxy A57 تبدأ Samsung في التحضير لهذا الهاتف مع تغييرات مثيرة!"
-description: "بعد بضعة أشهر من إطلاق Samsung Galaxy A56 ، بدأت الشركة الكورية بالفعل العمل على خلفها ، Samsung Galaxy A57 ، حيث ظهر الهاتف الجديد في قاعدة بيانات IMEI بموجب SM-A576B/DS ، مما يؤكد وجود نسخة من سفينتين. سلسلة A5X .. رهان Samsung ناجح إنها"
+description: "بعد بضعة أشهر من إطلاق Samsung Galaxy A56 ، بدأت الشركة الكورية بالفعل العمل على خلفها ، Samsung Galaxy A57 ، حيث ظهر الهاتف الجديد في قاعدة بيانات IMEI…"
 pubDate: "2025-09-26T15:04:56"
 updatedDate: "2025-09-28T22:53:21"
 author: "Arab Tech Trends"
@@ -16,8 +16,6 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-
 <div class="featured-area-inner">
 <figure class="single-featured-image"></figure>
 </div>
-</div>
-<div class="entry-content entry clearfix">
 <p>بعد بضعة أشهر من إطلاق Samsung Galaxy A56 ، بدأت الشركة الكورية بالفعل العمل على خلفها ، Samsung Galaxy A57 ، حيث ظهر الهاتف الجديد في قاعدة بيانات IMEI بموجب SM-A576B/DS ، مما يؤكد وجود نسخة من سفينتين.</p>
 <h2>سلسلة A5X .. رهان Samsung ناجح</h2>
 <p>إنها سلسلة <strong>Galaxy A5x</strong> واحدة من أنجح هواتف Samsung في الفئة الوسطى ، حيث تجمع بين المواصفات الجيدة والسعر المتنافس ، مما يجعلها خيارًا شائعًا للمستخدمين في جميع أنحاء العالم. يبدو أن الشركة تسعى إلى الحفاظ على هذا النجاح من خلال تحسينات جديدة في الجيل القادم.</p>
@@ -25,7 +23,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-
 <p>وفقًا للتسربات ، من المتوقع أن يأتي Galaxy A57 بمعالج Exynos 1380 بهيكل وحدة المعالجة المركزية الجديدة ، بالإضافة إلى وحدة معالجة رسومية اثنين -مقارنة بمعالج Exynos 1580 المستخدم في Galaxy A56.</p>
 <p>من المتوقع أيضًا أن تقوم شركة Samsung بإجراء تحسينات على الكاميرات لمنح الهاتف سعة تصوير أفضل ، على الرغم من أن التفاصيل لا تزال محدودة في هذه المرحلة المبكرة.</p>
 <p>إذا تلتزم Samsung بجدولها المعتاد ، فمن المتوقع أن تكشف عن Galaxy A57 خلال الأشهر الأولى من عام 2026 ، شريطة أن تستمر التسريبات بمزيد من التفاصيل حول المواصفات والميزات خلال الفترة المقبلة.</p>
-<figure class="wp-block-image size-full"><img width="700" height="429" src="/uploads/wp/2025/09/1759089199_682_galaxy-a57---samsung.jpg" alt="Galaxy A57" class="wp-image-224940"></figure>
+<figure><img width="700" height="429" src="/uploads/wp/2025/09/1759089199_682_galaxy-a57---samsung.jpg" alt="Galaxy A57"></figure>
 <h2>للتذكير: مواصفات Galaxy A56</h2>
 <ul class="wp-block-list">
 <li><strong>شاشة</strong>: 6.7 -inch Super Amoled +FHD +FHD و 120 Hz تحديثات.</li>
@@ -36,5 +34,5 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d8%a7%d9%84%d9%83%d8%b3%d9%8a-
 <li><strong>طلب</strong>Android 16 مع واجهة واجهة المستخدم واحدة.</li>
 </ul>
 <p>في رأيك ، ما هي الميزة الأبرز التي يجب أن تجلبها Galaxy A57 التالية؟ شارك رأيك …</p>
-<p><a href="https://www.tudocelular.com/mercado/noticias/n240654/samsung-galaxy-a57-listado-banco-dados-imei.html" data-type="link" data-id="https://www.tudocelular.com/mercado/noticias/n240654/samsung-galaxy-a57-listado-banco-dados-imei.html">مصدر</a></p></div>
+<p><a href="https://www.tudocelular.com/mercado/noticias/n240654/samsung-galaxy-a57-listado-banco-dados-imei.html">مصدر</a></p></div>
 </p></div>

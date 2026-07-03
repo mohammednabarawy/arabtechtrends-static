@@ -1,6 +1,6 @@
 ---
 title: "يتلقى تطبيق Camera Assistant تحديثًا مهمًا يعيد ميزة ثورية لهواتف Samsung هذه!"
-description: "أطلقت شركة سامسونج تحديثًا جديدًا لتطبيق Camera Assistant يعيد ميزة الالتقاط ثلاثي الأبعاد، وهي إحدى الميزات التي تم إزالتها مؤقتًا من التطبيق في الإصدارات السابقة. عادت ميزة التصوير ثلاثي الأبعاد إلى تطبيق Camera Assistant ويعيد التحديث ال"
+description: "أطلقت شركة سامسونج تحديثًا جديدًا لتطبيق Camera Assistant يعيد ميزة الالتقاط ثلاثي الأبعاد، وهي إحدى الميزات التي تم إزالتها مؤقتًا من التطبيق في الإصدارات…"
 pubDate: "2025-10-25T22:07:25"
 updatedDate: "2025-10-26T18:19:18"
 author: "Arab Tech Trends"
@@ -28,5 +28,5 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-camera
 <p>تعد نظارات Galaxy XR التي أطلقتها سامسونج حديثًا أول جهاز يعتمد على نظام Android، وتباع النظارات في الأسواق الأمريكية مقابل ثمن <strong>1,799 دولارًا أمريكيًا</strong>تعتبر المنصة المثالية لمراجعة الصور ومقاطع الفيديو المكانية الملتقطة عبر تطبيق Camera Assistant.</p>
 <p>وتواصل سامسونج من خلال هذا التحديث تطوير نظامها المتكامل من الأجهزة والتطبيقات، مما يؤكد رؤيتها المستقبلية التي تمزج بين الذكاء الاصطناعي والواقع الممتد (XR) لتقدم تجربة أكثر تفاعلية وواقعية لمستخدميها.</p>
 <p>برأيك، ما هي الميزة الأبرز التي يفتقدها تطبيق Camera Assistant؟</p>
-<p><a href="https://www.tudocelular.com/curiosidade/noticias/n241767/samsung-atualiza-camera-assistant-recurso-3d.html" data-type="link" data-id="https://www.tudocelular.com/curiosidade/noticias/n241767/samsung-atualiza-camera-assistant-recurso-3d.html">مصدر</a></p>
+<p><a href="https://www.tudocelular.com/curiosidade/noticias/n241767/samsung-atualiza-camera-assistant-recurso-3d.html">مصدر</a></p>
 </div>

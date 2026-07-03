@@ -1,6 +1,6 @@
 ---
 title: "Windows 11 &#8211; يحصل Windows 11 على ميزات ثورية لشاشة القفل!"
-description: "أطلقت شركة مايكروسوفت تحديثًا رئيسيًا جديدًا لنظام التشغيل Windows 11 (الإصدار 25H2) يجلب مجموعة من الميزات الثورية التي تغير تجربة المستخدم بشكل واضح، أبرزها إضافة عناصر واجهة المستخدم إلى شاشة القفل لأول مرة على الإطلاق. أهم مميزات شاشة ا"
+description: "أطلقت شركة مايكروسوفت تحديثًا رئيسيًا جديدًا لنظام التشغيل Windows 11 (الإصدار 25H2) يجلب مجموعة من الميزات الثورية التي تغير تجربة المستخدم بشكل واضح،…"
 pubDate: "2025-10-19T15:16:06"
 updatedDate: "2025-10-21T04:50:07"
 author: "Arab Tech Trends"
@@ -42,5 +42,5 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d9%8a%d9%86%d8%af%d9%88%d8%b2-
 </blockquote>
 <p>التحديث 25H2 يجعل Windows 11 أكثر ذكاءً وأكثر تخصيصًا، ويمهد الطريق لعصر جديد يدمج الذكاء الاصطناعي مع التجربة اليومية للمستخدم.</p>
 <p>ما رأيك في هذه التحسينات والميزات الجديدة لشاشة القفل في نظام التشغيل Windows 11؟ ما هي أبرز ميزة تفتقدها هذه النسخة من الويندوز؟</p>
-<p><a href="https://www.howtogeek.com/windows-11-is-getting-real-lock-screen-widgets/" data-type="link" data-id="https://www.howtogeek.com/windows-11-is-getting-real-lock-screen-widgets/">مصدر</a></p>
+<p><a href="https://www.howtogeek.com/windows-11-is-getting-real-lock-screen-widgets/">مصدر</a></p>
 </div>

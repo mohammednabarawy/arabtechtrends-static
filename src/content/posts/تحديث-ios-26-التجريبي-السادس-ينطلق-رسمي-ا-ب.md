@@ -1,6 +1,6 @@
 ---
 title: "يتم إطلاق تحديث IOS 26 التجريبي رسميًا بمزايا رهيبة لجهاز iPhone!"
-description: "أطلقت Apple اليوم الإصدار التجريبي السادس من iOS 26 للمطورين ، بالإضافة إلى تحديثات مماثلة لأنظمة iPad و Apple Watch و Mac. مع اقتراب تاريخ الإطلاق الرسمي من سبتمبر ، يركز هذا الإصدار على التعديلات والتحسينات الدقيقة ، ومجموعة من المفاجآت ا"
+description: "أطلقت Apple اليوم الإصدار التجريبي السادس من iOS 26 للمطورين ، بالإضافة إلى تحديثات مماثلة لأنظمة iPad و Apple Watch و Mac."
 pubDate: "2025-08-12T17:29:39"
 updatedDate: "2025-08-13T22:55:21"
 author: "Arab Tech Trends"
@@ -16,8 +16,6 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-ios-26
 <div class="featured-area-inner">
 <figure class="single-featured-image"></figure>
 </div>
-</div>
-<div class="entry-content entry clearfix">
 <p>أطلقت Apple اليوم الإصدار التجريبي السادس من iOS 26 للمطورين ، بالإضافة إلى تحديثات مماثلة لأنظمة iPad و Apple Watch و Mac. مع اقتراب تاريخ الإطلاق الرسمي من سبتمبر ، يركز هذا الإصدار على التعديلات والتحسينات الدقيقة ، ومجموعة من المفاجآت التي يقدمها المستخدمون للمستخدمين.</p>
 <h2>أهم ميزات iOS 26 "طبعة الاختبار السادس"</h2>
 <p><strong>نغمات رنين جديدة:</strong> يضيف التحديث ستة نغمات جديدة ، كل نغمة "الانعكاس". تلقت نغمة "Dreamer" موافقة كبيرة من المستخدمين الأوائل ، الذين وصفوها بأنها "مذهلة" و "رائعة" ، والتي قد تشجع البعض على التخلي عن الوضع الصامت.</p>
@@ -28,5 +26,5 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-ios-26
 <h3>تاريخ إطلاق iOS 26</h3>
 <p>بشكل عام ، تشير تقارير المستخدم إلى أن هذه النسخة التجريبية أكثر استقرارًا وسرعة من أسلافها ، مما يشير إلى أن Apple تقترب من الإطلاق العام. من المتوقع أن يتلقى مختبر الإصدار التجريبي العام التحديث بعد فترة وجيزة من إصدار المطورين.</p>
 <p>في رأيك ، ما هي الميزة الأبرز التي يجب على iOS 26 إحضارها؟</p>
-<p><a href="https://techcrunch.com/2025/08/11/ios-26-beta-6-adds-new-ringtones-snappy-app-launches-and-more/" data-type="link" data-id="https://techcrunch.com/2025/08/11/ios-26-beta-6-adds-new-ringtones-snappy-app-launches-and-more/">مصدر</a></p></div>
+<p><a href="https://techcrunch.com/2025/08/11/ios-26-beta-6-adds-new-ringtones-snappy-app-launches-and-more/">مصدر</a></p></div>
 </p></div>

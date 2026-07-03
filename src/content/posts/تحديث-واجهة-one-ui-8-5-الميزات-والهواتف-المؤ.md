@@ -1,6 +1,6 @@
 ---
 title: "الميزات والهواتف المؤهلة وتاريخ الإطلاق المتوقع!"
-description: "تستعد شركة سامسونج الكورية لتحديث واجهة One UI 8.5، والتي من المتوقع أن تعتمد على نظام التشغيل Android 16. سيكون هذا الإصدار بمثابة تحديث كبير في منتصف الدورة، ومن المرجح أن يتجاوز الإصدارات التقليدية x.1 وx.1.1، حيث سيتم إطلاقه لأول مرة با"
+description: "تستعد شركة سامسونج الكورية لتحديث واجهة One UI 8.5، والتي من المتوقع أن تعتمد على نظام التشغيل Android 16."
 pubDate: "2025-10-12T11:22:14"
 updatedDate: "2025-10-15T15:22:47"
 author: "Arab Tech Trends"
@@ -14,8 +14,8 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d9%88
 <div>
 <p>تستعد شركة سامسونج الكورية لتحديث واجهة One UI 8.5، والتي من المتوقع أن تعتمد على نظام التشغيل Android 16. سيكون هذا الإصدار بمثابة تحديث كبير في منتصف الدورة، ومن المرجح أن يتجاوز الإصدارات التقليدية x.1 وx.1.1، حيث سيتم إطلاقه لأول مرة بالتزامن مع سلسلة Galaxy S26 الرائدة القادمة في أوائل عام 2026.</p>
 
-<nav><ul class='ez-toc-list ez-toc-list-level-1 ' ><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-1" href="https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d9%88%d8%a7%d8%ac%d9%87%d8%a9-one-ui-8-5-%d8%a7%d9%84%d9%85%d9%8a%d8%b2%d8%a7%d8%aa%d8%8c-%d9%88%d8%a7%d9%84%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d8%a7%d9%84%d9%85%d8%a4/#%D9%85%D9%88%D8%B9%D8%AF_%D8%A5%D8%B7%D9%84%D8%A7%D9%82_%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB_One_UI_85" >موعد إطلاق تحديث One UI 8.5</a><ul class='ez-toc-list-level-3' ><li class='ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-2" href="https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d9%88%d8%a7%d8%ac%d9%87%d8%a9-one-ui-8-5-%d8%a7%d9%84%d9%85%d9%8a%d8%b2%d8%a7%d8%aa%d8%8c-%d9%88%d8%a7%d9%84%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d8%a7%d9%84%d9%85%d8%a4/#%D9%87%D9%88%D8%A7%D8%AA%D9%81_%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%D8%AC_%D8%A7%D9%84%D9%85%D8%A4%D9%87%D9%84%D8%A9_%D9%84%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB_%D9%88%D8%A7%D8%AC%D9%87%D8%A9_One_UI_85" >هواتف سامسونج المؤهلة لتحديث واجهة One UI 8.5</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-3" href="https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d9%88%d8%a7%d8%ac%d9%87%d8%a9-one-ui-8-5-%d8%a7%d9%84%d9%85%d9%8a%d8%b2%d8%a7%d8%aa%d8%8c-%d9%88%d8%a7%d9%84%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d8%a7%d9%84%d9%85%d8%a4/#%D8%B3%D9%84%D8%B3%D9%84%D8%A9_%D8%AC%D8%A7%D9%84%D8%A7%D9%83%D8%B3%D9%8A_%D8%A7%D8%B3" >سلسلة جالاكسي اس</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-4" href="https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d9%88%d8%a7%d8%ac%d9%87%d8%a9-one-ui-8-5-%d8%a7%d9%84%d9%85%d9%8a%d8%b2%d8%a7%d8%aa%d8%8c-%d9%88%d8%a7%d9%84%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d8%a7%d9%84%d9%85%d8%a4/#%D8%B3%D9%84%D8%B3%D9%84%D8%A9_%D8%AC%D8%A7%D9%84%D8%A7%D9%83%D8%B3%D9%8A_Z_%D9%82%D8%A7%D8%A8%D9%84%D8%A9_%D9%84%D9%84%D8%B7%D9%8A" >سلسلة جالاكسي Z (قابلة للطي)</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-5" href="https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d9%88%d8%a7%d8%ac%d9%87%d8%a9-one-ui-8-5-%d8%a7%d9%84%d9%85%d9%8a%d8%b2%d8%a7%d8%aa%d8%8c-%d9%88%d8%a7%d9%84%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d8%a7%d9%84%d9%85%d8%a4/#%D9%87%D9%88%D8%A7%D8%AA%D9%81_%D8%B3%D9%84%D8%B3%D9%84%D8%A9_%D8%AC%D8%A7%D9%84%D8%A7%D9%83%D8%B3%D9%8A_A" >هواتف سلسلة جالاكسي A</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-6" href="https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d9%88%d8%a7%d8%ac%d9%87%d8%a9-one-ui-8-5-%d8%a7%d9%84%d9%85%d9%8a%d8%b2%d8%a7%d8%aa%d8%8c-%d9%88%d8%a7%d9%84%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d8%a7%d9%84%d9%85%d8%a4/#%D8%B3%D9%84%D8%B3%D9%84%D8%A9_%D8%AC%D8%A7%D9%84%D8%A7%D9%83%D8%B3%D9%8A_MF" >سلسلة جالاكسي M/F</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-7" href="https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d9%88%d8%a7%d8%ac%d9%87%d8%a9-one-ui-8-5-%d8%a7%d9%84%d9%85%d9%8a%d8%b2%d8%a7%d8%aa%d8%8c-%d9%88%d8%a7%d9%84%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d8%a7%d9%84%d9%85%d8%a4/#%D8%B3%D9%84%D8%B3%D9%84%D8%A9_%D8%AA%D8%A7%D8%A8%D9%84%D8%AA_%D8%AC%D8%A7%D9%84%D8%A7%D9%83%D8%B3%D9%8A_%D8%AA%D8%A7%D8%A8" >سلسلة تابلت جالاكسي تاب</a></li><li class='ez-toc-page-1 ez-toc-heading-level-3'><a class="ez-toc-link ez-toc-heading-8" href="https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d9%88%d8%a7%d8%ac%d9%87%d8%a9-one-ui-8-5-%d8%a7%d9%84%d9%85%d9%8a%d8%b2%d8%a7%d8%aa%d8%8c-%d9%88%d8%a7%d9%84%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d8%a7%d9%84%d9%85%d8%a4/#%D8%B3%D9%84%D8%B3%D9%84%D8%A9_%D8%AC%D8%A7%D9%84%D9%83%D8%B3%D9%8A_%D8%A7%D9%83%D8%B3_%D9%83%D9%88%D9%81%D8%B1" >سلسلة جالكسي اكس كوفر</a></li></ul></li><li class='ez-toc-page-1 ez-toc-heading-level-2'><a class="ez-toc-link ez-toc-heading-9" href="https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d9%88%d8%a7%d8%ac%d9%87%d8%a9-one-ui-8-5-%d8%a7%d9%84%d9%85%d9%8a%d8%b2%d8%a7%d8%aa%d8%8c-%d9%88%d8%a7%d9%84%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d8%a7%d9%84%d9%85%d8%a4/#%D9%85%D9%85%D9%8A%D8%B2%D8%A7%D8%AA_%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB_%D9%88%D8%A7%D8%AC%D9%87%D8%A9_One_UI_85" >مميزات تحديث واجهة One UI 8.5</a></li></ul></nav></div>
-<h2><span class="ez-toc-section" id="%D9%85%D9%88%D8%B9%D8%AF_%D8%A5%D8%B7%D9%84%D8%A7%D9%82_%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB_One_UI_85"></span>موعد إطلاق تحديث One UI 8.5<span class="ez-toc-section-end"></span></h2>
+</div>
+<h2 id="%D9%85%D9%88%D8%B9%D8%AF_%D8%A5%D8%B7%D9%84%D8%A7%D9%82_%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB_One_UI_85">موعد إطلاق تحديث One UI 8.5</h2>
 <p>على الرغم من عدم وجود بيان رسمي نهائي، فإن دورة إصدار سامسونج تتبع نمطًا يمكن التنبؤ به، مما يسمح بتقديرات موثوقة لمراحل الإطلاق الرئيسية:</p>
 <p><strong>1. الإطلاق الأولي </strong></p>
 <ul class="wp-block-list">
@@ -32,8 +32,8 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d9%88
 <li><strong>البدء:</strong> مارس 2026 فصاعدًا.</li>
 <li><strong>تصنيف:</strong> تبدأ التحديثات بالوصول إلى الأجهزة الرئيسية السابقة (أحدث سلسلة S وZ)، تليها الأجهزة اللوحية (Tab S)، ثم السلسلة A متوسطة المدى.</li>
 </ul>
-<h3><span class="ez-toc-section" id="%D9%87%D9%88%D8%A7%D8%AA%D9%81_%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%D8%AC_%D8%A7%D9%84%D9%85%D8%A4%D9%87%D9%84%D8%A9_%D9%84%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB_%D9%88%D8%A7%D8%AC%D9%87%D8%A9_One_UI_85"></span>هواتف سامسونج المؤهلة لتحديث واجهة One UI 8.5<span class="ez-toc-section-end"></span></h3>
-<h3><span class="ez-toc-section" id="%D8%B3%D9%84%D8%B3%D9%84%D8%A9_%D8%AC%D8%A7%D9%84%D8%A7%D9%83%D8%B3%D9%8A_%D8%A7%D8%B3"></span>سلسلة جالاكسي اس<span class="ez-toc-section-end"></span></h3>
+<h3 id="%D9%87%D9%88%D8%A7%D8%AA%D9%81_%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%D8%AC_%D8%A7%D9%84%D9%85%D8%A4%D9%87%D9%84%D8%A9_%D9%84%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB_%D9%88%D8%A7%D8%AC%D9%87%D8%A9_One_UI_85">هواتف سامسونج المؤهلة لتحديث واجهة One UI 8.5</h3>
+<h3 id="%D8%B3%D9%84%D8%B3%D9%84%D8%A9_%D8%AC%D8%A7%D9%84%D8%A7%D9%83%D8%B3%D9%8A_%D8%A7%D8%B3">سلسلة جالاكسي اس</h3>
 <ul class="wp-block-list">
 <li>هاتف جلاكسي S25</li>
 <li>هاتف جلاكسي S25+</li>
@@ -53,7 +53,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d9%88
 <li>هاتف جالكسي S22 الترا</li>
 <li>هاتف جالكسي S21 FE</li>
 </ul>
-<h3><span class="ez-toc-section" id="%D8%B3%D9%84%D8%B3%D9%84%D8%A9_%D8%AC%D8%A7%D9%84%D8%A7%D9%83%D8%B3%D9%8A_Z_%D9%82%D8%A7%D8%A8%D9%84%D8%A9_%D9%84%D9%84%D8%B7%D9%8A"></span>سلسلة جالاكسي Z (قابلة للطي)<span class="ez-toc-section-end"></span></h3>
+<h3 id="%D8%B3%D9%84%D8%B3%D9%84%D8%A9_%D8%AC%D8%A7%D9%84%D8%A7%D9%83%D8%B3%D9%8A_Z_%D9%82%D8%A7%D8%A8%D9%84%D8%A9_%D9%84%D9%84%D8%B7%D9%8A">سلسلة جالاكسي Z (قابلة للطي)</h3>
 <ul class="wp-block-list">
 <li>هاتف جالاكسي زد فولد 7</li>
 <li>هاتف جالاكسي زد فليب 7</li>
@@ -65,7 +65,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d9%88
 <li>هاتف جالاكسي زد فولد 4</li>
 <li>هاتف جالكسي زد فليب 4</li>
 </ul>
-<h3><span class="ez-toc-section" id="%D9%87%D9%88%D8%A7%D8%AA%D9%81_%D8%B3%D9%84%D8%B3%D9%84%D8%A9_%D8%AC%D8%A7%D9%84%D8%A7%D9%83%D8%B3%D9%8A_A"></span>هواتف سلسلة جالاكسي A<span class="ez-toc-section-end"></span></h3>
+<h3 id="%D9%87%D9%88%D8%A7%D8%AA%D9%81_%D8%B3%D9%84%D8%B3%D9%84%D8%A9_%D8%AC%D8%A7%D9%84%D8%A7%D9%83%D8%B3%D9%8A_A">هواتف سلسلة جالاكسي A</h3>
 <ul class="wp-block-list">
 <li>هاتف جلاكسي A56</li>
 <li>هاتف جلاكسي A55</li>
@@ -79,13 +79,13 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d9%88
 <li>هاتف جالاكسي A54 5G</li>
 <li>هاتف جالاكسي A34 5G</li>
 </ul>
-<h3><span class="ez-toc-section" id="%D8%B3%D9%84%D8%B3%D9%84%D8%A9_%D8%AC%D8%A7%D9%84%D8%A7%D9%83%D8%B3%D9%8A_MF"></span>سلسلة جالاكسي M/F<span class="ez-toc-section-end"></span></h3>
+<h3 id="%D8%B3%D9%84%D8%B3%D9%84%D8%A9_%D8%AC%D8%A7%D9%84%D8%A7%D9%83%D8%B3%D9%8A_MF">سلسلة جالاكسي M/F</h3>
 <ul class="wp-block-list">
 <li>هاتف جلاكسي ام 54</li>
 <li>جالاكسي إم36/إف36</li>
 <li>هاتف جلاكسي ام 16</li>
 </ul>
-<h3><span class="ez-toc-section" id="%D8%B3%D9%84%D8%B3%D9%84%D8%A9_%D8%AA%D8%A7%D8%A8%D9%84%D8%AA_%D8%AC%D8%A7%D9%84%D8%A7%D9%83%D8%B3%D9%8A_%D8%AA%D8%A7%D8%A8"></span>سلسلة تابلت جالاكسي تاب<span class="ez-toc-section-end"></span></h3>
+<h3 id="%D8%B3%D9%84%D8%B3%D9%84%D8%A9_%D8%AA%D8%A7%D8%A8%D9%84%D8%AA_%D8%AC%D8%A7%D9%84%D8%A7%D9%83%D8%B3%D9%8A_%D8%AA%D8%A7%D8%A8">سلسلة تابلت جالاكسي تاب</h3>
 <ul class="wp-block-list">
 <li>جهاز جالكسي تاب S11</li>
 <li>جالكسي تاب S11 الترا</li>
@@ -99,8 +99,8 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d9%88
 <li>جالاكسي تاب S8+</li>
 <li>جالكسي تاب S8 الترا</li>
 </ul>
-<h3><span class="ez-toc-section" id="%D8%B3%D9%84%D8%B3%D9%84%D8%A9_%D8%AC%D8%A7%D9%84%D9%83%D8%B3%D9%8A_%D8%A7%D9%83%D8%B3_%D9%83%D9%88%D9%81%D8%B1"></span>سلسلة جالكسي اكس كوفر<span class="ez-toc-section-end"></span></h3>
-<h2><span class="ez-toc-section" id="%D9%85%D9%85%D9%8A%D8%B2%D8%A7%D8%AA_%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB_%D9%88%D8%A7%D8%AC%D9%87%D8%A9_One_UI_85"></span>مميزات تحديث واجهة One UI 8.5<span class="ez-toc-section-end"></span></h2>
+<h3 id="%D8%B3%D9%84%D8%B3%D9%84%D8%A9_%D8%AC%D8%A7%D9%84%D9%83%D8%B3%D9%8A_%D8%A7%D9%83%D8%B3_%D9%83%D9%88%D9%81%D8%B1">سلسلة جالكسي اكس كوفر</h3>
+<h2 id="%D9%85%D9%85%D9%8A%D8%B2%D8%A7%D8%AA_%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB_%D9%88%D8%A7%D8%AC%D9%87%D8%A9_One_UI_85">مميزات تحديث واجهة One UI 8.5</h2>
 <p>ومن المتوقع أن يكون تحديث واجهة One UI 8.5 بمثابة منصة لتوسيع نطاق تطبيق تقنيات الذكاء الاصطناعي ودمجها بشكل أعمق في الواجهة.</p>
 <p><strong>1. تعميق تكامل Galaxy AI:</strong></p>
 <p><strong>الذكاء الاصطناعي المحسن لمعالجة الصور:</strong> ومن المتوقع تقديم أدوات أكثر تعقيدًا لتحرير الصور والفيديو تعتمد على الذكاء الاصطناعي، الأمر الذي يتطلب معالجات <strong>إكسينوس</strong> و Snapdragon هو الأحدث.</p>
@@ -119,5 +119,5 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d9%88
 <p><strong>تسهيل نقل eSIM من iPhone:</strong> ستشكل هذه الميزة نقلة نوعية في سهولة الانتقال من نظام iOS، حيث ستسمح بنقل الشريحة <strong>شريحة الاتصال الإلكترونية</strong> من هاتف iPhone إلى هاتف Galaxy مباشرةً من شاشة الإعداد، دون الحاجة إلى الرجوع إلى مشغل شبكة الجوال الخاص بك.</p>
 <p><strong>تعزيز الأمان بتقنية Knox:</strong> ميزات الأمان المتقدمة ل <strong>أندرويد 16</strong> (مثل قفل ما بعد السرقة) مع نظام أمان <strong>نوكس</strong> سامسونج لتوفير طبقة إضافية من حماية البيانات.</p>
 <p>برأيك ما هي أهم الميزة التي يجب على سامسونج تضمينها في هذا التحديث؟</p>
-<p><a href="https://www.sammyfans.com/2025/10/12/samsung-one-ui-8-5/" data-type="link" data-id="https://www.sammyfans.com/2025/10/12/samsung-one-ui-8-5/">مصدر</a></p>
+<p><a href="https://www.sammyfans.com/2025/10/12/samsung-one-ui-8-5/">مصدر</a></p>
 </div>

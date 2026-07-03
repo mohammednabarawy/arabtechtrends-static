@@ -1,6 +1,6 @@
 ---
 title: "أطلقت شركة Xiaomi الإصدار الثابت من ستة هواتف جديدة"
-description: "بدأت شركة Xiaomi الصينية رسميًا في طرح الإصدار المستقر من تحديث واجهة HyperOS 3 على عدد من هواتفها في الصين، وذلك بعد أسابيع من الاختبار التجريبي. وتأتي هذه الخطوة ضمن خطة الشركة لتوسيع نطاق النظام الأحدث قبل إطلاقه عالمياً خلال الفترة المق"
+description: "بدأت شركة Xiaomi الصينية رسميًا في طرح الإصدار المستقر من تحديث واجهة HyperOS 3 على عدد من هواتفها في الصين، وذلك بعد أسابيع من الاختبار التجريبي."
 pubDate: "2025-10-15T13:16:59"
 updatedDate: "2025-10-19T10:43:13"
 author: "Arab Tech Trends"
@@ -25,7 +25,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-hypero
 </ul>
 <p>تقوم شركة Xiaomi حاليًا باختبار الإصدارات التجريبية الدولية للعديد من الطرازات الأخرى، استعدادًا لطرح التحديث عالميًا قريبًا.</p>
 <h2>أبرز مميزات واجهة HyperOS 3</h2>
-<figure class="wp-block-image size-full"></figure>
+<figure></figure>
 <p>تحديث الواجهة قادم <strong>هايبر أو إس 3</strong> مع مجموعة من التحسينات البصرية والوظيفية، أبرزها:</p>
 <p> <strong>تصميم جديد بألوان أكثر تناغماً</strong> والتغييرات في واجهة المستخدم تعتمد على الفلسفة <strong>مادة أنت</strong> من جوجل.</p>
 <p><strong>انتقالات أكثر سلاسة</strong> التنقل بين القوائم والتطبيقات.</p>
@@ -34,5 +34,5 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-hypero
 <p><strong>نظام مشاركة سريع</strong> على غرار AirDrop من Apple، فهو يسمح بنقل الملفات ببساطة عن طريق تقريب الأجهزة من بعضها البعض.</p>
 <p><strong>تحسين الأداء والاستقرار</strong> بنسبة تصل إلى <strong>30%</strong> بفضل التحسينات في إدارة الموارد واستهلاك الطاقة.</p>
 <p>من وجهة نظرك ما هي أهم مميزات التحديث؟ هل وصلت إلى هاتفك؟ شاركونا بتعليقاتكم…</p>
-<p><a href="https://xiaomitime.com/xiaomi-finally-releases-stable-hyperos-3-update-for-6-devices-70330/" data-type="link" data-id="https://xiaomitime.com/xiaomi-finally-releases-stable-hyperos-3-update-for-6-devices-70330/">مصدر</a></p>
+<p><a href="https://xiaomitime.com/xiaomi-finally-releases-stable-hyperos-3-update-for-6-devices-70330/">مصدر</a></p>
 </div>

@@ -1,6 +1,6 @@
 ---
 title: "سوف تمنح واجهة Coloros 16 الهواتف OPPO قائمة ميزات ثورية مهمة!"
-description: "يستعد Oppo و One Plus لإطلاق جيل جديد من واجهات التشغيل الخاصة بهم ، حيث تشير التسريبات الحديثة إلى أن ColorOS 16 و Oxygenos 16 – المبني على Android 16 – سيحصلان على واحدة من أكبر القفزات البصرية منذ سنوات. وفقًا للمعلومات التي"
+description: "يستعد Oppo و One Plus لإطلاق جيل جديد من واجهات التشغيل الخاصة بهم ، حيث تشير التسريبات الحديثة إلى أن ColorOS 16 و Oxygenos 16 – المبني على Android 16 –…"
 pubDate: "2025-08-24T15:35:54"
 updatedDate: "2025-08-28T21:37:55"
 author: "Arab Tech Trends"
@@ -35,4 +35,4 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-coloro
 <p>من جانب OPPO ، يختبر Coloros 16 على سلسلة Find X8 ، استنادًا إلى إصدارات Android 16 التجريبية. على الرغم من أن Find X9 Pro سيكون أول هاتف يحصل على الواجهة الجديدة افتراضيًا عند وضعه في السوق.</p>
 <p>كلمة أخيرة:</p>
 <p>وفقًا لهذه التسريبات ، سيأتي Coloros 16 و Oxygenos 16 مع تحسينات بصرية رهيبة مع تصميم أنيق مستوحى من أسلوب الزجاج السائل وأكثر من ذلك.</p>
-<p><a href="https://www.tudocelular.com/rumores/noticias/n239293/coloros-16-pode-ganhar-visual-liquid-glass-e-mais.html" data-type="link" data-id="https://www.tudocelular.com/rumores/noticias/n239293/coloros-16-pode-ganhar-visual-liquid-glass-e-mais.html">مصدر</a></p></div>
+<p><a href="https://www.tudocelular.com/rumores/noticias/n239293/coloros-16-pode-ganhar-visual-liquid-glass-e-mais.html">مصدر</a></p></div>

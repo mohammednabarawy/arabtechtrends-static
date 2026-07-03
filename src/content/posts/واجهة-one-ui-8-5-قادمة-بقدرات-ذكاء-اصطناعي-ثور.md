@@ -1,6 +1,6 @@
 ---
 title: "أهم ميزات الذكاء الاصطناعي في تحديث واجهة UI 8.5"
-description: "على الرغم من أن إطلاق هواتف Samsung Galaxy S26 لا يزال بعيدًا ، إلا أن التسريبات المتزايدة بدأت في الكشف عن الميزات القادمة مع تحديث واجهة One UI 8.5 ، والتي من المتوقع الإعلان عنها رسميًا بالتزامن مع إطلاق هواتف Galaxy S25. أهم ميزات الذكا"
+description: "على الرغم من أن إطلاق هواتف Samsung Galaxy S26 لا يزال بعيدًا ، إلا أن التسريبات المتزايدة بدأت في الكشف عن الميزات القادمة مع تحديث واجهة One UI 8.5 ،…"
 pubDate: "2025-09-23T14:31:23"
 updatedDate: "2025-09-25T10:28:16"
 author: "Arab Tech Trends"
@@ -24,4 +24,4 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%ac%d9%87%d8%a9-one-ui
 <p>ومن المثير للاهتمام ، أن بعض الصور التي تم تسريبها أظهرت عناصر التصميم في واجهة المستخدم 8.5 التي تحمل واجهة تشبه iOS 26 من Apple ، والتي أثارت تفاعلًا كبيرًا بين المستخدمين.</p>
 <p>حتى الآن ، لم تعلق Samsung على هذه التسريبات ، لكن الشركة ستستمر بالتأكيد في تعزيز التكامل بين <strong>Galaxy AI</strong> وتجربة الاستخدام اليومي ، استعدادًا للانتقال إلى جيل جديد من هواتفها الرائدة مع <strong>Galaxy S26</strong>.</p>
 <p>شارك رأيك في أبرز الميزة التي يجب تحديث واجهة UI 8.5 One لتحديث …</p>
-<p><a href="https://www.tudocelular.com/seguranca/noticias/n240498/oneui85-galaxys26-novos-recursos-ia-.html" data-type="link" data-id="https://www.tudocelular.com/seguranca/noticias/n240498/oneui85-galaxys26-novos-recursos-ia-.html">مصدر</a></p></div>
+<p><a href="https://www.tudocelular.com/seguranca/noticias/n240498/oneui85-galaxys26-novos-recursos-ia-.html">مصدر</a></p></div>

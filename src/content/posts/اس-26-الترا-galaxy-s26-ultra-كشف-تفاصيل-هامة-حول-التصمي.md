@@ -1,6 +1,6 @@
 ---
 title: "S26 Ultra Ultra I 26 كشفت Ultra تفاصيل مهمة حول التصميم!"
-description: "بعد تسريب حلقات الكاميرا ، عاد Galaxy S26 Ultra إلى الواجهة مرة أخرى بعد ظهور أغطية الحماية التي تؤكد ميزات التصميم النهائي لوحدة الكاميرات الخلفية. Galaxy S26 تفاصيل التصميم الفائق ، وفقا للتسربات وفقًا لـ The Well -Leak Ice Universe ، سيأ"
+description: "بعد تسريب حلقات الكاميرا ، عاد Galaxy S26 Ultra إلى الواجهة مرة أخرى بعد ظهور أغطية الحماية التي تؤكد ميزات التصميم النهائي لوحدة الكاميرات الخلفية."
 pubDate: "2025-09-16T15:44:53"
 updatedDate: "2025-09-18T23:44:24"
 author: "Arab Tech Trends"
@@ -17,7 +17,7 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a7%d8%b3-26-%d8%a7%d9%84%d8%aa%d8
 <p>وفقًا لـ The Well -Leak Ice Universe ، سيأتي الهاتف مع وحدة جديدة تضم ثلاث كاميرات داخل تصميم بيضاوي بارز قليلاً ، في حين سيتم توزيع الكاميرا الرابعة باستخدام الفلاش والليزر خارج هذا الإطار.</p>
 <p>علاوة على ذلك ، تكشف الأغطية عن وجود أزرار للتحكم في الصوت والطاقة على الجانب الأيمن ، مع ثقوب لتعليق الحبل الجانبي.</p>
 <h2>Galaxy S26 المواصفات الفائقة وفقًا للتسريبات</h2>
-<figure class="wp-block-image size-full"></figure>
+<figure></figure>
 <p><strong>شاشة</strong>: 6.9 بوصة النوع <strong>ديناميكية AMOLED 2x</strong>يدعم معدل تحديث متغير من 1 إلى 120 هرتز.</p>
 <p><strong>المعالج</strong>: <strong>Snapdragon 8 Elite Gen 5 for Galaxy</strong>.</p>
 <p><strong>ذاكرة</strong>: 16 جيجابايت ذاكرة الوصول العشوائي.</p>
@@ -36,4 +36,4 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a7%d8%b3-26-%d8%a7%d9%84%d8%aa%d8
 <p>تشير التقارير أيضًا إلى أن كاميرات الهاتف قد لا تحقق القفزة الكبيرة التي تنتظرها البعض ، في حين أن Galaxy S26 Pro و S26 Edge ستدعم معالجات Exynos 2600 في أسواق محددة.</p>
 <p>وبالتالي ، يبدو أن Samsung تراهن على التصميم والتكامل الجديد مع معالج Snapdragon لتعزيز تجربة المستخدم ، بينما يظل الاهتمام يعتمد على الأداء الفعلي للكاميرات في الإطلاق الرسمي.</p>
 <p>في رأيك … ما هي أبرز التغييرات التي يجب أن تكون على تصميم الهاتف؟</p>
-<p><a href="https://www.xiaomiadictos.com/xiaomi-va-a-por-el-iphone-17-se-salta-el-xiaomi-16-y-presentara-directamente-el-xiaomi-17/" data-type="link" data-id="https://www.xiaomiadictos.com/xiaomi-va-a-por-el-iphone-17-se-salta-el-xiaomi-16-y-presentara-directamente-el-xiaomi-17/">مصدر</a></p></div>
+<p><a href="https://www.xiaomiadictos.com/xiaomi-va-a-por-el-iphone-17-se-salta-el-xiaomi-16-y-presentara-directamente-el-xiaomi-17/">مصدر</a></p></div>

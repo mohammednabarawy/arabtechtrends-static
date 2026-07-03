@@ -1,6 +1,6 @@
 ---
 title: "تبدأ أسعار iPhone 17 في المملكة العربية السعودية من رقم غير متوقع!"
-description: "وفقًا لما أعلنته الشركة من خلال متجرها السعودي ، سيبدأ الحجز المسبق لجهاز iPhone 17 في 12 سبتمبر ، في حين أن الإطلاق الرسمي سيكون في 19 سبتمبر. ما يميز هذا العام هو أن المواعيد في المملكة العربية السعودية جاءت وفقًا لما حددته شركة Apple في"
+description: "وفقًا لما أعلنته الشركة من خلال متجرها السعودي ، سيبدأ الحجز المسبق لجهاز iPhone 17 في 12 سبتمبر ، في حين أن الإطلاق الرسمي سيكون في 19 سبتمبر."
 pubDate: "2025-09-12T20:04:25"
 updatedDate: "2025-09-16T22:30:01"
 author: "Arab Tech Trends"
@@ -18,8 +18,6 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-iphone
 <div class="featured-area-inner">
 <figure class="single-featured-image"></figure>
 </div>
-</div>
-<div class="entry-content entry clearfix">
 <p>وفقًا لما أعلنته الشركة من خلال متجرها السعودي ، سيبدأ الحجز المسبق لجهاز iPhone 17 في 12 سبتمبر ، في حين أن الإطلاق الرسمي سيكون في 19 سبتمبر. ما يميز هذا العام هو أن المواعيد في المملكة العربية السعودية جاءت وفقًا لما حددته شركة Apple في السوق الأمريكية.</p>
 <h2>iPhone 17 أسعار في المملكة العربية السعودية</h2>
 <figure class="wp-block-table">
@@ -96,5 +94,4 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a3%d8%b3%d8%b9%d8%a7%d8%b1-iphone
 </table>
 </figure>
 <p>في رأيك ، ما هو أكثر إصدار في iPhone 17 يستحق الشراء؟ شارك رأيك …</p>
-<p><!-- July_singl_down --></p></div>
-<p><!-- .entry-content /--></p></div>
+<p><!-- July_singl_down --></p><p><!-- .entry-content /--></p></div>

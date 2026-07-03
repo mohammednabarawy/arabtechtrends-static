@@ -1,6 +1,6 @@
 ---
 title: "يكشف Hyperos 3 Xiaomi عن الهواتف غير المؤهلة للحصول على التحديث!"
-description: "تستعد الشركة الصينية Xiaomi لإطلاق تحديث Hyperos 3 خلال الربع الأخير من هذا العام ، حيث ستحمل تحسينات كبيرة في مستوى الأداء وتجربة الاستخدام ، إلى جانب واجهة متجددة مع أيقونات جديدة ، وآثار شفافة مع تقنية الزجاج السائل ، والرسوم المتحركة ال"
+description: "تستعد الشركة الصينية Xiaomi لإطلاق تحديث Hyperos 3 خلال الربع الأخير من هذا العام ، حيث ستحمل تحسينات كبيرة في مستوى الأداء وتجربة الاستخدام ، إلى جانب…"
 pubDate: "2025-08-22T16:09:42"
 updatedDate: "2025-08-23T21:54:51"
 author: "Arab Tech Trends"
@@ -16,8 +16,6 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d9%8a%d8%a8%d8%b1-%d8%a7
 <div class="featured-area-inner">
 <figure class="single-featured-image"></figure>
 </div>
-</div>
-<div class="entry-content entry clearfix">
 <p>تستعد الشركة الصينية Xiaomi لإطلاق تحديث Hyperos 3 خلال الربع الأخير من هذا العام ، حيث ستحمل تحسينات كبيرة في مستوى الأداء وتجربة الاستخدام ، إلى جانب واجهة متجددة مع أيقونات جديدة ، وآثار شفافة مع تقنية الزجاج السائل ، والرسوم المتحركة الأكثر سلاسة ، بالإضافة إلى التكامل الأوسع مع تقنيات الذكاء الفاتح الجديد مماثلة لتوليد جزيرة ديناميكية على iPhone.</p>
 <p>على الرغم من كل هذه الإضافات ، كشفت أحدث التسريبات أن 18 هاتفًا من Xiaomi و Redmi و Boko لن يحصلوا على الترقية إلى Hyperos 3 ، حيث ستتوقف تحديثاتهم عند إصدار Hyperos 2 الحالي ، بناءً على سياسات تحديث الشركة.</p>
 <h2>Xiaomi Redmi و Boko Unchasator هواتف للحصول على تحديث Hyperos 3</h2>
@@ -56,5 +54,5 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d8%a7%d9%8a%d8%a8%d8%b1-%d8%a7
 <p>تجدر الإشارة إلى أن Xiaomi ستطلق تحديث HyperOS 2.3 استنادًا إلى Android 16 قبل وصول Hyperos 3 ، مما يعني أن بعض الميزات الجديدة ستصل فعليًا إلى الأجهزة المؤهلة قبل نهاية العام.</p>
 </blockquote>
 <p>والسؤال الآن هو ، هل هاتفك بين هذه الهواتف غير المؤهلة للحصول على تحديث Hyper OS3؟ شارك رأيك في التعليقات …</p>
-<p><a href="https://www.xiaomiadictos.com/si-tienes-uno-de-estos-xiaomi-vete-olvidandote-de-hyperos-3/" data-type="link" data-id="https://www.xiaomiadictos.com/si-tienes-uno-de-estos-xiaomi-vete-olvidandote-de-hyperos-3/">مصدر</a></p></div>
+<p><a href="https://www.xiaomiadictos.com/si-tienes-uno-de-estos-xiaomi-vete-olvidandote-de-hyperos-3/">مصدر</a></p></div>
 </p></div>
