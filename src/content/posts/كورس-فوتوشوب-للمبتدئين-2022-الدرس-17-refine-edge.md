@@ -1,0 +1,49 @@
+---
+title: "كورس فوتوشوب للمبتدئين 2022 الدرس 17 Refine Edge"
+description: "كورس فوتوشوب للمبتدئين 2022 - تعلم الأساسيات والمهارات اللازمة للتصميم الإبداعي"
+pubDate: "2022-07-02T12:00:00.000Z"
+author: "Arab Tech Trends"
+category: "دروس تقنية ومقالات"
+tags: ["Photoshop","فوتوشوب","abuomar","ابوعمر","photoshop","يوتيوب","عرب تك","شرح فيديو"]
+image: "/uploads/youtube/hrkQMhsH15s.jpg"
+draft: false
+sourceUrl: "https://www.youtube.com/watch?v=hrkQMhsH15s"
+---
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="كورس فوتوشوب للمبتدئين 2022 الدرس 17 Refine Edge" width="500" height="281" src="https://www.youtube.com/embed/hrkQMhsH15s?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div></figure>
+
+<p>كورس فوتوشوب للمبتدئين 2022 - تعلم الأساسيات والمهارات اللازمة للتصميم الإبداعي</p>
+
+<h2>ملخص الفيديو</h2>
+
+<p>كورس فوتوشوب للمبتدئين 2022 - تعلم الأساسيات والمهارات اللازمة للتصميم الإبداعي</p>
+
+<p>إذا كنت ترغب في تعلم فوتوشوب للمبتدئين في عام 2022، فهذا الفيديو على يوتيوب هو المكان المناسب للبدء. سنقدم لكم كورس فوتوشوب يشمل الأساسيات والمهارات اللازمة للتصميم الإبداعي.</p>
+
+<p>سنشرح لكم كيفية استخدام الأدوات المختلفة في فوتوشوب، وسنعرض لكم أمثلة على كيفية إنشاء تصاميم مختلفة، مثل تصميم الشعارات والبطاقات الشخصية والملصقات والمواد الإعلانية.</p>
+
+<p>سنقدم لكم نصائح حول كيفية تحسين جودة الصور وتحسين الإضاءة والتعديل على الألوان والتصميم بشكل عام. سنشرح لكم أيضًا كيفية إنشاء تأثيرات مميزة وتحسين النصوص والخطوط.</p>
+
+<p>سنتحدث عن كيفية تحميل فوتوشوب للمبتدئين والتعرف على واجهة البرنامج والأدوات الأساسية. كما سنقدم لكم أفضل الكورسات المتاحة على الإنترنت لتعلم فوتوشوب للمبتدئين.</p>
+
+<p>بعد مشاهدة هذا الفيديو على يوتيوب، ستكون قادرًا على تحسين مهاراتك في فوتوشوب وتعلم الأساسيات اللازمة للتصميم الإبداعي. فلا تفوت فرصة مشاهدة هذا الكورس الشامل لتحسين مهاراتك في فوتوشوب للمبتدئين.</p>
+
+<h2>عن عرب تك</h2>
+
+<p>مدونة <strong>عرب تك</strong> (Arab Tech Trends) — التقنية بين يديك. أخبار تقنية عربية وشروحات للأندرويد والآيفون والكمبيوتر منذ 2012. زُر <a href="https://www.arabtechtrends.com">arabtechtrends.com</a> لمزيد من المقالات.</p>
+
+<h2>تابعنا</h2>
+
+<ul>
+<li><a href="https://www.youtube.com/@arabtechtrends" target="_blank" rel="noopener noreferrer">يوتيوب</a></li>
+<li><a href="https://www.instagram.com/arabtechtrends_official/" target="_blank" rel="noopener noreferrer">إنستجرام</a></li>
+<li><a href="https://www.facebook.com/profile.php?id=61560338201303" target="_blank" rel="noopener noreferrer">فيسبوك</a></li>
+<li><a href="https://www.linkedin.com/company/arabtechtrends" target="_blank" rel="noopener noreferrer">لينكدإن</a></li>
+<li><a href="https://www.pinterest.com/arabtechtrends" target="_blank" rel="noopener noreferrer">بينتريست</a></li>
+</ul>
+
+<h2>شاهد على يوتيوب</h2>
+
+<p><a href="https://www.youtube.com/watch?v=hrkQMhsH15s" target="_blank" rel="noopener noreferrer">مشاهدة الفيديو على قناة عرب تك</a></p>

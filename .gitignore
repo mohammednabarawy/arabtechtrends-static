@@ -8,3 +8,6 @@ dist
 TRAFFIC-PLAN.md
 tools/prune-candidates.json
 tools/prune-deleted-log.json
+tools/youtube-channel.json
+tools/youtube-full.json
+tools/youtube-*.log

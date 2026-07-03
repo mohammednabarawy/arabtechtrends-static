@@ -22,6 +22,9 @@
     "fix:webp": "node tools/fix-double-webp.mjs",
     "import:gsc": "node tools/import-gsc-pages.mjs",
     "refresh:meta": "node tools/refresh-meta-descriptions.mjs",
+    "import:youtube": "node tools/import-youtube-posts.mjs",
+    "cleanup:youtube": "node tools/cleanup-youtube-posts.mjs",
+    "fetch:youtube": "yt-dlp --skip-download -J \"https://www.youtube.com/@arabtechtrends/videos\" > tools/youtube-full.json",
     "preview": "astro preview"
   },
   "dependencies": {
