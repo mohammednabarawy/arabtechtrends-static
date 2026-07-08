@@ -15,6 +15,33 @@ export type TagEntry = {
   count: number;
 };
 
+const HIDDEN_TAGS = new Set([
+  "يوتيوب",
+  "عرب تك",
+  "شرح فيديو",
+  "2022",
+  "2023",
+  "2024",
+  "2025",
+  "2025:",
+  "برنامج",
+  "طريقة",
+  "كيفية",
+  "أفضل",
+  "دليلك",
+  "موقع",
+  "تطبيق",
+  "فيديو",
+  "علامة",
+  "&#8211;"
+]);
+
+function isPublicTag(label: string) {
+  if (!label || label.length > 60) return false;
+  if (HIDDEN_TAGS.has(label)) return false;
+  if (/^\d{4}:?$/.test(label)) return false;
+  return true;
+}
 export type ArticleHeading = {
   level: number;
   text: string;
@@ -111,7 +138,7 @@ export function buildTagIndex(posts: Post[]): TagEntry[] {
   for (const post of posts) {
     for (const raw of post.data.tags) {
       const label = raw.trim();
-      if (!label || label.length > 60) continue;
+      if (!isPublicTag(label)) continue;
       const slug = tagToSlug(label);
       const existing = map.get(slug);
       if (existing) {
@@ -123,11 +150,19 @@ export function buildTagIndex(posts: Post[]): TagEntry[] {
   }
   return [...map.entries()]
     .map(([slug, { label, count }]) => ({ slug, label, count }))
+    .filter((tag) => tag.count >= 2)
     .sort((a, b) => b.count - a.count || a.label.localeCompare(b.label, "ar"));
 }
 
 export function filterPostsByTag(posts: Post[], tagSlug: string) {
-  return sortPosts(posts.filter((post) => post.data.tags.some((tag) => tagToSlug(tag.trim()) === tagSlug)));
+  return sortPosts(
+    posts.filter((post) =>
+      post.data.tags.some((tag) => {
+        const label = tag.trim();
+        return isPublicTag(label) && tagToSlug(label) === tagSlug;
+      })
+    )
+  );
 }
 
 export function getPlainText(body: string) {
@@ -195,3 +230,4 @@ export function getPillarForPost(
   const text = `${post.data.title} ${post.data.category} ${post.body.slice(0, 400)}`.toLowerCase();
   return pillars.find((pillar) => pillar.keywords.some((k) => text.includes(k.toLowerCase())));
 }
+

@@ -15,7 +15,7 @@ const topMeta = getTopPostsMeta();
 const youtubePosts = filterYouTubePosts(allPosts).slice(0, 6);
 const youtubeChannelUrl = socialLinks.find((l) => l.label === "YouTube")?.href;
 const posts = allPosts.slice(0, 120);
-const guidePosts = allPosts.filter((p) => /شرح|دليل|كيفية|أفضل/i.test(p.data.title)).slice(0, 4);
+const guidePosts = allPosts.filter((p) => /شرح|دليل|كيفية|أفضل|كورس|تعلم|طريقة/i.test(p.data.title)).slice(0, 4);
 
 const [featured, ...rest] = posts;
 const sidePosts = rest.slice(0, 4);
@@ -34,7 +34,7 @@ const pickSectionPosts = (categorySlug: string) => {
   const picked = [];
   for (const post of posts) {
     if (usedPostIds.has(post.id)) continue;
-    const text = `${post.data.title} ${post.data.category}`.toLowerCase();
+    const text = `${post.data.title} ${post.data.category} ${post.body.slice(0, 400)}`.toLowerCase();
     if (!category.keywords.some((k) => text.includes(k.toLowerCase()))) continue;
     picked.push(post);
     usedPostIds.add(post.id);
@@ -44,9 +44,14 @@ const pickSectionPosts = (categorySlug: string) => {
 };
 
 const sectionGroups = [
-  { title: "هواتف وأندرويد", slug: "phones", posts: pickSectionPosts("phones") },
-  { title: "آيفون وآبل", slug: "iphone", posts: pickSectionPosts("iphone") },
-  { title: "تطبيقات وشروحات", slug: "apps", posts: pickSectionPosts("apps") }
+  { title: "فوتوشوب وتصميم", slug: "photoshop", posts: pickSectionPosts("photoshop") },
+  { title: "محاسبة وبرامج", slug: "accounting-software", posts: pickSectionPosts("accounting-software") },
+  { title: "يوتيوب وصناعة المحتوى", slug: "youtube-content", posts: pickSectionPosts("youtube-content") },
+  { title: "ذكاء اصطناعي وأدوات", slug: "ai-tools", posts: pickSectionPosts("ai-tools") },
+  { title: "ويندوز وكمبيوتر", slug: "windows-pc", posts: pickSectionPosts("windows-pc") },
+  { title: "تطبيقات وموبايل", slug: "apps-mobile", posts: pickSectionPosts("apps-mobile") },
+  { title: "ألعاب وهاردوير", slug: "gaming-hardware", posts: pickSectionPosts("gaming-hardware") },
+  { title: "ربح وأعمال أونلاين", slug: "business-online", posts: pickSectionPosts("business-online") }
 ].filter((g) => g.posts.length);
 
 const tickerPosts = posts.slice(0, 8);
@@ -57,7 +62,7 @@ const featuredImage = featured ? getPostImage(featured) : undefined;
 
 <BaseLayout title="عرب تك | التقنية بين يديك" image={featuredImage}>
   <section class="ticker" aria-label="عناوين سريعة">
-    <strong>عاجل</strong>
+    <strong>مختارات</strong>
     <div class="ticker__track">
       {tickerPosts.map((post) => (
         <a class="ticker__link" href={withBase(`/posts/${post.slug}/`, base)}>
@@ -69,8 +74,8 @@ const featuredImage = featured ? getPostImage(featured) : undefined;
 
   <section class="subscribe-strip" aria-label="اشترك في التحديثات">
     <div>
-      <strong>لا تفوّت أخبار التقنية</strong>
-      <p>اشترك عبر RSS أو تابعنا على الشبكات الاجتماعية</p>
+      <strong>مكتبة شروحات عرب تك</strong>
+      <p>تابع أحدث الأدلة العملية والدورات المختارة</p>
     </div>
     <div class="subscribe-strip__actions">
       <a class="btn-primary" href={withBase("/feed.xml", base)}>RSS</a>
@@ -170,8 +175,8 @@ const featuredImage = featured ? getPostImage(featured) : undefined;
   {guidePosts.length > 0 && (
     <section class="section-block">
       <div class="section-head">
-        <h2>شروحات مميزة</h2>
-        <a href={withBase("/category/guides/", base)}>المزيد</a>
+        <h2>شروحات عملية مختارة</h2>
+        <a href={withBase("/category/guides/", base)}>كل الشروحات</a>
       </div>
       <div class="post-grid compact-grid">
         {guidePosts.map((post) => <PostCard post={post} compact />)}
@@ -180,7 +185,7 @@ const featuredImage = featured ? getPostImage(featured) : undefined;
   )}
 
   <section class="section-head">
-    <h2>مقالات حديثة</h2>
+    <h2>أحدث المقالات المفيدة</h2>
     <a href={withBase("/posts/", base)}>كل المقالات</a>
   </section>
 
@@ -200,3 +205,4 @@ const featuredImage = featured ? getPostImage(featured) : undefined;
     </section>
   ))}
 </BaseLayout>
+

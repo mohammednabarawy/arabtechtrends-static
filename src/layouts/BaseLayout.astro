@@ -2,7 +2,7 @@
 import "../styles/global.css";
 import CategoryBar from "../components/CategoryBar.astro";
 import SeoHead from "../components/SeoHead.astro";
-import { categories, footerAbout, siteName, siteTagline, siteUrl, socialLinks } from "../site";
+import { footerAbout, navCategories, siteName, siteTagline, socialLinks } from "../site";
 import { withBase } from "../utils/posts";
 
 const {
@@ -55,7 +55,7 @@ const today = new Intl.DateTimeFormat("ar-EG", { dateStyle: "full" }).format(new
       </button>
       <nav id="site-nav" class="site-nav" aria-label="التنقل الرئيسي">
         <a href={withBase("/", base)}>الرئيسية</a>
-        {categories.map((category) => (
+        {navCategories.map((category) => (
           <a href={withBase(`/category/${category.slug}/`, base)}>{category.label}</a>
         ))}
         <a href={withBase("/guides/", base)}>أدلة</a>
@@ -81,7 +81,7 @@ const today = new Intl.DateTimeFormat("ar-EG", { dateStyle: "full" }).format(new
         <section class="footer-sections" aria-labelledby="footer-sections-title">
           <h2 id="footer-sections-title">الأقسام</h2>
           <div>
-            {categories.map((category) => (
+            {navCategories.map((category) => (
               <a href={withBase(`/category/${category.slug}/`, base)}>{category.label}</a>
             ))}
             <a href={withBase("/guides/", base)}>أدلة شاملة</a>
@@ -126,3 +126,4 @@ const today = new Intl.DateTimeFormat("ar-EG", { dateStyle: "full" }).format(new
     </script>
   </body>
 </html>
+
