@@ -1020,6 +1020,17 @@ body.nav-open .nav-backdrop {
   margin: 24px 0;
 }
 
+.article-body a {
+  color: var(--accent);
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  transition: color var(--transition);
+}
+
+.article-body a:hover {
+  color: var(--accent-dark);
+}
+
 .footer-since {
   margin-top: 12px !important;
   color: #94a3b8;
