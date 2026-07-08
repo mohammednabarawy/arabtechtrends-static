@@ -6,10 +6,12 @@ updatedDate: "2026-07-08T13:30:00"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: ["ماك", "Apple Silicon", "محاكي أندرويد", "تشغيل تطبيقات", "M1 M2 M3"]
-image: "/uploads/wp/2025/12/1766799813_920_windows-11-iso-25h224h2---------2025.jpg"
+image: "/uploads/wp/2026/07/android_on_mac.png"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/run-android-apps-on-mac/"
 ---
+
+![تشغيل تطبيقات الأندرويد على الماك](/uploads/wp/2026/07/android_on_mac.png)
 
 لطالما كان نظام ماك معزولاً إلى حد ما عن بيئة وتطبيقات أندرويد، ولكن مع التحول الكامل نحو معالجات **Apple Silicon (M1, M2, M3, M4)** المعتمدة على معمارية ARM، أصبح تشغيل نظام أندرويد وتطبيقاته على الماك أكثر سلاسة واستقراراً من أي وقت مضى في عام 2026.
 

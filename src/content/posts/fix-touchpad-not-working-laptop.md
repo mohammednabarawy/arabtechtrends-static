@@ -6,10 +6,12 @@ updatedDate: "2026-07-08T13:30:00"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: ["مشاكل اللابتوب", "Touchpad", "تاتش باد", "حل مشاكل ويندوز"]
-image: "/uploads/wp/2025/12/1766799813_920_windows-11-iso-25h224h2---------2025.jpg"
+image: "/uploads/wp/2026/07/laptop_touchpad.png"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/fix-touchpad-not-working-laptop/"
 ---
+
+![حل مشكلة الماوس لا يعمل](/uploads/wp/2026/07/laptop_touchpad.png)
 
 من أكثر المواقف إحباطاً أثناء العمل على اللابتوب هو التوقف المفاجئ للوحة اللمس (Touchpad) عن الاستجابة، خاصة إذا حدث ذلك بعد تثبيت تحديث جديد لنظام التشغيل ويندوز 10 أو ويندوز 11. قد تظن أن العطل من المكونات الصلبة (Hardware) وأنك بحاجة إلى فني صيانة، ولكن في 90% من الحالات تكون المشكلة برمجية بحتة.
 

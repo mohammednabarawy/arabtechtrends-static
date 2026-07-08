@@ -6,10 +6,12 @@ updatedDate: "2026-07-08T13:30:00"
 author: "Arab Tech Trends"
 category: "ألعاب"
 tags: ["أجهزة ألعاب محمولة", "Steam Deck", "Legion Go", "Xbox Ally", "أدلة الشراء"]
-image: "/uploads/wp/2025/12/1766799813_920_windows-11-iso-25h224h2---------2025.jpg"
+image: "/uploads/wp/2026/07/handheld_gaming_2026.png"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/best-handheld-gaming-devices-2026/"
 ---
+
+![أفضل أجهزة الألعاب المحمولة 2026](/uploads/wp/2026/07/handheld_gaming_2026.png)
 
 شهدت أسواق الألعاب ثورة حقيقية في السنوات القليلة الماضية مع انتشار أجهزة الكمبيوتر المخصصة للألعاب بحجم اليد (Handheld Gaming PCs). وفي عام 2026، وصلت هذه الأجهزة إلى مرحلة النضج التام مع إطلاق أجيال جديدة تقدم أداءً مذهلاً وبطاريات تدوم أطول وشاشات عالية الدقة. 
 

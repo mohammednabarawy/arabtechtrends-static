@@ -6,10 +6,12 @@ updatedDate: "2026-07-08T13:30:00"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: ["مشاكل ويندوز", "Disk Usage", "تسريع ويندوز", "حل مشاكل الكمبيوتر"]
-image: "/uploads/wp/2025/12/1766799813_920_windows-11-iso-25h224h2---------2025.jpg"
+image: "/uploads/wp/2026/07/disk_usage_100.png"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/fix-disk-usage-100-percent-windows/"
 ---
+
+![حل مشكلة Disk Usage 100](/uploads/wp/2026/07/disk_usage_100.png)
 
 هل لاحظت بطئاً شديداً في جهاز الكمبيوتر الخاص بك؟ هل يستغرق فتح البرامج وقتاً طويلاً جداً؟ عند فتح **مدير المهام (Task Manager)**، قد تجد أن مؤشر "القرص" (Disk) باللون الأحمر ويشير إلى استهلاك **100%** رغم أنك لا تقوم بأي عمليات نسخ أو نقل للملفات!
 

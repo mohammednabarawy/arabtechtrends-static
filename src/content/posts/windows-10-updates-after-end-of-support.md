@@ -6,10 +6,12 @@ updatedDate: "2026-07-08T13:30:00"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: ["ويندوز 10", "نهاية الدعم", "ESU", "تحديثات أمنية", "ترقية ويندوز"]
-image: "/uploads/wp/2025/12/1766799813_920_windows-11-iso-25h224h2---------2025.jpg"
+image: "/uploads/wp/2026/07/win10_end_support.png"
 draft: false
 sourceUrl: "https://www.arabtechtrends.com/windows-10-updates-after-end-of-support/"
 ---
+
+![تحديثات ويندوز 10 بعد نهاية الدعم](/uploads/wp/2026/07/win10_end_support.png)
 
 لقد انتهى الدعم الرسمي لنظام التشغيل ويندوز 10 في **أكتوبر 2025**. هذا يعني أن مايكروسوفت توقفت عن إصدار تحديثات الأمان المجانية، وتصحيحات الأخطاء، والدعم الفني للملايين من المستخدمين حول العالم.
 
