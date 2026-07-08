@@ -29,5 +29,5 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%88%d8%a7%d8%aa%d8%b3%d8%a7%d8%a8-
 <h3 id="%D9%87%D9%84_%D8%B3%D9%8A%D9%83%D9%88%D9%86_%D9%85%D8%AA%D8%A7%D8%AD%D9%8B%D8%A7_%D8%B9%D9%84%D9%89_%D9%85%D8%B3%D8%AA%D9%88%D9%89_%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D8%9F">هل سيكون متاحًا على مستوى العالم؟</h3>
 <p>حتى الآن ، لم تصدر Meta أي إعلان رسمي بشأن تاريخ الإطلاق العالمي أو التفاصيل الدقيقة حول آلية العمل ، خاصة فيما يتعلق بتكاليف الرسائل النصية أو دعم شركات الاتصالات المختلفة.</p>
 <p>ما رأيك في هذه الميزة؟</p>
-<p><a href="https://www.tudocelular.com/software/noticias/n238350/whatsapp-testa-conversa-quem-nao-tem-conta.html">مصدر</a></p></div>
+</div>
 </p></div>

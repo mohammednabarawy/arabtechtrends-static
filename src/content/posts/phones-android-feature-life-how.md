@@ -36,5 +36,4 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d8%a3
 <h3>التوفر</h3>
 <p>وبدأت جوجل في طرح الميزة اعتبارًا من 10 ديسمبر 2025 في الولايات المتحدة، وفي أجزاء مختارة من ألمانيا والمكسيك. وهو متوافق مع هواتف Android التي تعمل بنظام Android 8 أو أعلى مع خدمات Google Play.</p>
 <p>تعمل Google مع منظمات السلامة العامة في جميع أنحاء العالم لتوسيع نطاق توفر ميزة Emergency Live Video إلى مناطق إضافية، مع توفير الوثائق للشركاء المهتمين بالمشاركة.</p>
-<p><a href="https://www.fonearena.com/blog/470936/google-android-safety-tools-emergency-live-video.html">مصدر</a></p>
 </div></div>

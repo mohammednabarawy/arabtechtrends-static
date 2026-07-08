@@ -31,4 +31,4 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%85%d8%aa%d8%b5%d9%81%d8%ad-%d8%ac
 <p>ومع ذلك ، تشير Google إلى أن هناك حالات يتم فيها تنشيط هذه الميزة دون حماية متقدمة. على سبيل المثال ، إذا حاول المستخدمون تسجيل الدخول إلى الموقع أو إرسال نموذج.</p>
 <h4 id="%D9%83%D9%84%D9%85%D8%A9_%D8%A3%D8%AE%D9%8A%D8%B1%D8%A9">كلمة أخيرة:</h4>
 <p>نظرًا للعدد الكبير من التهديدات التي نواجهها يوميًا ، يُنصح بتحديث التطبيقات على أجهزتك ، مع الحاجة إلى التأكد من تنشيط ميزات الحماية المتقدمة التي توفرها العديد من تطبيقات تصفح الإنترنت.</p>
-<p><a href="https://www.androidheadlines.com/2025/07/chrome-on-android-now-warns-you-about-risky-websites.html?utm_content=buffer11879&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer">مصدر</a></p><p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>

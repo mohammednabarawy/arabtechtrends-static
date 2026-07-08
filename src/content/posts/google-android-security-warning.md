@@ -27,4 +27,4 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%ac%d9%88%d8%ac%d9%84-%d8%aa%d9%8f
 <p>الحفاظ على ميزة <strong>Google Play Protect</strong> إجراء للكشف عن التطبيقات الضارة.</p>
 <h4 id="%D9%83%D9%84%D9%85%D8%A9_%D8%A3%D8%AE%D9%8A%D8%B1%D8%A9">كلمة أخيرة:</h4>
 <p>يؤكد هذا الحادث مرة أخرى على أهمية تثبيت التحديثات الأمنية الشهرية وعدم تجاهلها ، حيث إنه خط الدفاع الأول ضد التهديدات الإلكترونية التي قد تعرض بيانات المستخدم والخصوصية للخطر.</p>
-<p><a href="https://www.phonearena.com/news/android-users-warned-by-google-two-dangerous-software-flaws_id173819">مصدر</a></p></div>
+</div>

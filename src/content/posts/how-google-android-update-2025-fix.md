@@ -177,7 +177,7 @@ sourceUrl: "https://www.arabtechtrends.com/utm_sourcerssutm_mediumrssutm_campaig
 <li data-sourcepos="36:1-36:298"><strong>2. لا تحديثات تلقائية (No Automatic Updates):</strong> هذه نقطة ضعف أمنية كبيرة. بما أن التطبيق لم يتم تثبيته من متجر جوجل بلاي، <strong>فلن يتم تحديثه تلقائياً</strong>. أنت مسؤول عن العودة لصفحة التحميل بشكل دوري، تحميل الإصدار الأحدث، وتثبيته يدوياً فوق النسخة القديمة للحصول على آخر الميزات والتحديثات الأمنية.</li>
 <li data-sourcepos="37:1-38:0"><strong>3. احتمالية وجود أخطاء (Bugs):</strong> تذكر دائماً أن هذه نسخ تجريبية لم تخضع لاختبارات مكثفة على الهواتف. قد تكون غير مستقرة، تنهار بشكل مفاجئ (crashes)، أو قد تواجه مشاكل في عرض بعض المواقع أو تشغيل بعض الإضافات. لا تعتمد عليها في أي مهام حساسة أو حرجة.</li>
 </ul>
-<p><b>الفكرة الحقيقية (بناءً على فيديو تجربة من </b><a href="https://www.youtube.com/watch?v=q0kemviAFIA" target="_blank" rel="noopener"><span style="font-weight: 400;">Android Authority</span></a><b>)</b></p>
+<p><b>الفكرة الحقيقية (بناءً على فيديو تجربة من </b><a href="https://www.youtube.com/watch?v=q0kemviAFIA" target="_blank" rel="noopener"><span style="font-weight: 400;">مصادر تقنية</span></a><b>)</b></p>
 <h2 id="%D8%A3%D8%B3%D8%A6%D9%84%D8%A9_%D8%B4%D8%A7%D8%A6%D8%B9%D8%A9_FAQ">أسئلة شائعة (FAQ)</h2>
 <p><span style="font-weight: 400;">لتكتمل الصورة، جمعنا لكم إجابات سريعة على بعض الأسئلة الأكثر شيوعاً التي قد تدور في ذهنك حول تشغيل إضافات كروم على هاتفك الأندرويد.</span></p>
 <p><b>س: هل كل إضافات كروم ستعمل بشكل مثالي على متصفح Kiwi أو Yandex؟</b></p>

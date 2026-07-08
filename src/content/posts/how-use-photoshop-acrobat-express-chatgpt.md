@@ -36,5 +36,4 @@ sourceUrl: "https://www.arabtechtrends.com/%d9%83%d9%8a%d9%81%d9%8a%d8%a9-%d8%a7
 <h4 id="%D8%AE%D8%A7%D8%AA%D9%85%D8%A9">خاتمة</h4>
 <p>يمثل دمج تطبيقات Adobe في ChatGPT خطوة كبيرة نحو جعل الإبداع الرقمي والإنتاجية أسهل وأكثر سهولة للجميع، حيث يمكن للمستخدمين العمل بكفاءة أكبر دون الحاجة إلى مغادرة النظام الأساسي، والاستفادة من قوة أدوات Adobe الاحترافية بطريقة مبسطة ومباشرة.</p>
 <p>ما رأيك في هذه الخطوة؟</p>
-<p><a href="https://news.adobe.com/news/2025/12/adobe-photoshop-express-acrobat-chatgpt" target="_blank" rel="noopener" title="المصدر">مصدر</a></p>
 </div></div>

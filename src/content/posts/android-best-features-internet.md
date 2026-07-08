@@ -39,5 +39,4 @@ sourceUrl: "https://www.arabtechtrends.com/%d8%a3%d9%86%d8%af%d8%b1%d9%88%d9%8a%
 </ul>
 <p>ومن المتوقع أن يتم الإصدار العام للنظام في عام 2026، استنادًا إلى Android 17، مما يجعل Android منافسًا حقيقيًا لنظامي التشغيل Windows وmacOS.</p>
 <p>ما رأيك في هذه الميزة؟</p>
-<p><a href="https://www.sammyfans.com/2025/11/27/androids-new-wi-fi-hotspot-feature-boosts-speed-and-compatibility/" data-type="link" data-id="https://www.sammyfans.com/2025/11/27/androids-new-wi-fi-hotspot-feature-boosts-speed-and-compatibility/">مصدر</a></p>
 </div></div>
