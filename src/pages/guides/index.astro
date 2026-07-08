@@ -18,10 +18,64 @@ const base = import.meta.env.BASE_URL.endsWith("/") ? import.meta.env.BASE_URL :
   <div class="pillar-grid">
     {pillarGuides.map((guide) => (
       <a class="pillar-card" href={withBase(`/guides/${guide.slug}/`, base)}>
+        <div class="pillar-card-icon" set:html={guide.icon} />
         <h2>{guide.title}</h2>
         <p>{guide.description}</p>
-        <span>استكشف الدليل ←</span>
+        <span class="pillar-card-link">استكشف الدليل ←</span>
       </a>
     ))}
   </div>
+
+  <style>
+    .pillar-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 1.5rem;
+      margin-top: 2rem;
+    }
+    .pillar-card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 2rem;
+      text-decoration: none;
+      color: inherit;
+      transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+    }
+    .pillar-card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+      border-color: var(--primary);
+    }
+    .pillar-card-icon {
+      width: 48px;
+      height: 48px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: var(--surface-2);
+      border-radius: 12px;
+      color: var(--primary);
+      margin-bottom: 0.5rem;
+    }
+    .pillar-card h2 {
+      margin: 0;
+      font-size: 1.5rem;
+    }
+    .pillar-card p {
+      margin: 0;
+      color: var(--text-muted);
+      line-height: 1.6;
+      flex-grow: 1;
+    }
+    .pillar-card-link {
+      font-weight: 600;
+      color: var(--primary);
+      margin-top: 1rem;
+      display: inline-block;
+    }
+  </style>
 </BaseLayout>

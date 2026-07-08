@@ -5,7 +5,7 @@ pubDate: "2017-06-10T12:00:00.000Z"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
 tags: ["تطبيق","Google","Photo","Scan","يوتيوب","عرب تك","شرح فيديو"]
-image: "/uploads/youtube/jcuP3iCFCyY.jpg"
+image: "/uploads/wp/2026/07/google_photo_scan.png"
 draft: false
 sourceUrl: "https://www.youtube.com/watch?v=jcuP3iCFCyY"
 ---
@@ -18,7 +18,14 @@ sourceUrl: "https://www.youtube.com/watch?v=jcuP3iCFCyY"
 
 <h2>ملخص الفيديو</h2>
 
-<p>يقدم هذا الفيديو من عرب تك نظرة عملية حول شرح تطبيق Google Photo Scan | كيفية سكان الصور بجودة عالية وسهولة، مع توضيح الفكرة الأساسية وما يمكن أن يستفيد منه المشاهد قبل تطبيق الخطوات أو متابعة التفاصيل.</p>
+<p>يقدم هذا الفيديو من عرب تك نظرة عملية حول <strong>شرح تطبيق Google Photo Scan</strong> | كيفية عمل مسح ضوئي (سكان) للصور بجودة عالية وسهولة. في تحديثات التطبيق حتى <strong>عام 2026</strong>، أضافت جوجل المزيد من التحسينات باستخدام الذكاء الاصطناعي لإزالة اللمعان تلقائياً وزيادة دقة الألوان بشكل مذهل، مع توضيح الفكرة الأساسية وما يمكن أن يستفيد منه المشاهد قبل تطبيق الخطوات أو متابعة التفاصيل.</p>
+
+<h3>روابط مفيدة لعام 2026</h3>
+<ul>
+<li><a href="https://play.google.com/store/apps/details?id=com.google.android.apps.photos.scanner" target="_blank" rel="noopener noreferrer">تحميل Google PhotoScan للأندرويد</a></li>
+<li><a href="https://apps.apple.com/us/app/photoscan-by-google-photos/id1165525994" target="_blank" rel="noopener noreferrer">تحميل Google PhotoScan للآيفون (iOS)</a></li>
+<li><a href="https://photos.google.com/" target="_blank" rel="noopener noreferrer">الموقع الرسمي لخدمة Google Photos</a></li>
+</ul>
 
 <h2>عن عرب تك</h2>
 
