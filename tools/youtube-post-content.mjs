@@ -134,6 +134,10 @@ export function extractTags(title, description) {
   return [...tags].filter((t) => t && !BLOCKED_TAG_RE.test(t)).slice(0, 8);
 }
 
+function fallbackVideoContext(title) {
+  const cleanTitle = String(title || "الفيديو").replace(/\s+/g, " ").trim();
+  return `<p>يقدم هذا الفيديو من ${escapeHtml(SITE.name)} نظرة عملية حول ${escapeHtml(cleanTitle)}، مع توضيح الفكرة الأساسية وما يمكن أن يستفيد منه المشاهد قبل تطبيق الخطوات أو متابعة التفاصيل.</p>`;
+}
 export function embedIframe(title, videoId) {
   const safeTitle = escapeHtml(title);
   return `<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
@@ -174,7 +178,7 @@ export function buildPostBody(video) {
     bodyDesc ||
     (summaryParagraphs.length
       ? summaryParagraphs.map((p) => `<p>${escapeHtml(p)}</p>`).join("\n\n")
-      : `<p>شاهد الفيديو أعلاه للحصول على الشرح الكامل من قناة ${escapeHtml(SITE.name)}.</p>`);
+      : fallbackVideoContext(title));
 
   return `${embedIframe(title, id)}
 
@@ -229,3 +233,4 @@ export function buildFullPost(video, imagePath) {
 
 ${buildPostBody(video)}`;
 }
+

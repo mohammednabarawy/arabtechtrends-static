@@ -1,24 +1,24 @@
 ---
-title: "Invoice Reader Interface Tutorial"
-description: "شرح فيديو من قناة عرب تك: Invoice Reader Interface Tutorial"
-pubDate: "2026-07-03T15:54:03.867Z"
+title: "top 7 technology trends in 2024"
+description: "شرح فيديو من قناة عرب تك: top 7 technology trends in 2024"
+pubDate: "2024-01-28T12:00:00.000Z"
 author: "Arab Tech Trends"
 category: "دروس تقنية ومقالات"
-tags: ["Invoice","Reader","Interface","Tutorial","يوتيوب","عرب تك","شرح فيديو"]
-image: "/uploads/youtube/21qEnO-l-oQ.jpg"
+tags: ["technology","trends","2024","يوتيوب","عرب تك","شرح فيديو"]
+image: "/uploads/youtube/XFREb4IFCyg.jpg"
 draft: false
-sourceUrl: "https://www.youtube.com/watch?v=21qEnO-l-oQ"
+sourceUrl: "https://www.youtube.com/watch?v=XFREb4IFCyg"
 ---
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<iframe loading="lazy" title="Invoice Reader Interface Tutorial" width="500" height="281" src="https://www.youtube.com/embed/21qEnO-l-oQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe loading="lazy" title="top 7 technology trends in 2024" width="500" height="281" src="https://www.youtube.com/embed/XFREb4IFCyg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div></figure>
 
-<p>شرح فيديو من قناة عرب تك: Invoice Reader Interface Tutorial</p>
+<p>شرح فيديو من قناة عرب تك: top 7 technology trends in 2024</p>
 
 <h2>ملخص الفيديو</h2>
 
-<p>يقدم هذا الفيديو من عرب تك نظرة عملية حول Invoice Reader Interface Tutorial، مع توضيح الفكرة الأساسية وما يمكن أن يستفيد منه المشاهد قبل تطبيق الخطوات أو متابعة التفاصيل.</p>
+<p>يقدم هذا الفيديو من عرب تك نظرة عملية حول top 7 technology trends in 2024، مع توضيح الفكرة الأساسية وما يمكن أن يستفيد منه المشاهد قبل تطبيق الخطوات أو متابعة التفاصيل.</p>
 
 <h2>عن عرب تك</h2>
 
@@ -36,4 +36,4 @@ sourceUrl: "https://www.youtube.com/watch?v=21qEnO-l-oQ"
 
 <h2>شاهد على يوتيوب</h2>
 
-<p><a href="https://www.youtube.com/watch?v=21qEnO-l-oQ" target="_blank" rel="noopener noreferrer">مشاهدة الفيديو على قناة عرب تك</a></p>
+<p><a href="https://www.youtube.com/watch?v=XFREb4IFCyg" target="_blank" rel="noopener noreferrer">مشاهدة الفيديو على قناة عرب تك</a></p>
