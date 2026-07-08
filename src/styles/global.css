@@ -922,14 +922,28 @@ body.nav-open .nav-backdrop {
 }
 
 .pillar-card {
-  display: grid;
-  gap: 8px;
-  padding: 20px;
+  display: flex;
+  flex-direction: column;
   background: var(--surface);
   border: 1px solid var(--line);
   border-radius: var(--radius);
   box-shadow: var(--shadow-sm);
   transition: transform var(--transition), border-color var(--transition);
+  overflow: hidden;
+}
+
+.pillar-card-image {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  border-bottom: 1px solid var(--line);
+}
+
+.pillar-card-content {
+  display: grid;
+  gap: 8px;
+  padding: 20px;
+  flex: 1;
 }
 
 .pillar-card:hover {

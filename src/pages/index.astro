@@ -165,8 +165,13 @@ const featuredImage = featured ? getPostImage(featured) : undefined;
     <div class="pillar-grid pillar-grid--compact">
       {pillarGuides.map((guide) => (
         <a class="pillar-card" href={withBase(`/guides/${guide.slug}/`, base)}>
-          <h3>{guide.title}</h3>
-          <p>{guide.description}</p>
+          {guide.image && (
+            <img class="pillar-card-image" src={withBase(guide.image, base)} alt={guide.title} loading="lazy" decoding="async" />
+          )}
+          <div class="pillar-card-content">
+            <h3>{guide.title}</h3>
+            <p>{guide.description}</p>
+          </div>
         </a>
       ))}
     </div>
