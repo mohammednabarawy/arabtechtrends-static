@@ -55,16 +55,21 @@ const breadcrumbJsonLd = {
 
   <article class="article guide-panel">
     <div class="guide-hero">
-      <div class="guide-hero-icon" set:html={guide.icon} />
+      <img src={guide.image} alt={guide.title} class="guide-hero-image" />
       <div class="guide-hero-content">
-        <p class="eyebrow">دليل شامل</p>
+        <div class="guide-hero-header">
+          <div class="guide-hero-icon" set:html={guide.icon} />
+          <p class="eyebrow">دليل شامل</p>
+        </div>
         <h1>{guide.title}</h1>
         <p class="guide-desc">{guide.description}</p>
         {category && (
-          <a class="guide-category-link" href={withBase(`/category/${category.slug}/`, base)}>تصفّح قسم {category.label} ←</a>
+          <a class="guide-category-link" href={withBase(`/category/${category.slug}/`, base)}>تصفّح جميع مقالات قسم {category.label} ←</a>
         )}
       </div>
     </div>
+
+    <div class="guide-introductory-content" set:html={guide.content} />
 
     <div class="guide-faq-section">
       <h2>أسئلة شائعة</h2>
@@ -88,35 +93,49 @@ const breadcrumbJsonLd = {
     .guide-hero {
       display: flex;
       flex-direction: column;
-      gap: 1.5rem;
-      padding: 3rem;
-      background: linear-gradient(145deg, var(--surface-1), var(--surface-2));
+      background: var(--surface-1);
       border-radius: 16px;
-      margin-bottom: 3rem;
+      margin-bottom: 2rem;
       border: 1px solid var(--border);
+      overflow: hidden;
+    }
+    .guide-hero-image {
+      width: 100%;
+      height: 300px;
+      object-fit: cover;
+      border-bottom: 1px solid var(--border);
+    }
+    .guide-hero-content {
+      padding: 2.5rem;
+    }
+    .guide-hero-header {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      margin-bottom: 1rem;
     }
     @media (min-width: 768px) {
-      .guide-hero {
-        flex-direction: row;
-        align-items: center;
-        gap: 2.5rem;
+      .guide-hero-image {
+        height: 400px;
+      }
+      .guide-hero-content {
+        padding: 3.5rem;
       }
     }
     .guide-hero-icon {
-      width: 80px;
-      height: 80px;
+      width: 56px;
+      height: 56px;
       flex-shrink: 0;
       background: var(--surface-2);
-      border-radius: 20px;
+      border-radius: 14px;
       display: flex;
       align-items: center;
       justify-content: center;
       color: var(--primary);
-      box-shadow: 0 10px 20px rgba(0,0,0,0.05);
     }
     .guide-hero-icon :global(svg) {
-      width: 40px;
-      height: 40px;
+      width: 28px;
+      height: 28px;
     }
     .guide-hero h1 {
       margin: 0.5rem 0 1rem;
@@ -141,7 +160,20 @@ const breadcrumbJsonLd = {
     .guide-category-link:hover {
       opacity: 0.9;
     }
+
+    .guide-introductory-content {
+      font-size: 1.15rem;
+      line-height: 1.8;
+      color: var(--text);
+      margin-bottom: 3rem;
+    }
+    .guide-introductory-content :global(p) {
+      margin-bottom: 1.5rem;
+    }
     
+    .guide-faq-section {
+      margin-bottom: 4rem;
+    }
     .faq-accordion {
       display: flex;
       flex-direction: column;
