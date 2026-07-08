@@ -1,0 +1,29 @@
+{
+  "total": 801,
+  "categories": {
+    "دروس تقنية ومقالات": 769,
+    "الربح من الأنترنت": 1,
+    "ألعاب": 15,
+    "تطبيقات android": 5,
+    "أخبار": 8,
+    "مراجعات": 2,
+    "برامج windows": 1
+  },
+  "news_category_count": 8,
+  "youtube_imports": 206,
+  "evergreen_guides_non_yt": 87,
+  "news_clusters": {
+    "one-ui": 1,
+    "ai-news": 1,
+    "other-news": 2,
+    "galaxy": 1,
+    "leaks": 1,
+    "hyperos": 1,
+    "iphone": 1
+  },
+  "news_by_year": {
+    "2025": 8
+  },
+  "aggressive_prune_estimate": 0,
+  "sample_remove_titles": []
+}
